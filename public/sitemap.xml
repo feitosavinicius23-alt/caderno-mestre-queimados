@@ -180,11 +180,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://caderno-mestre-queimados.pages.dev/aulas/direito-tributario/portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca</loc>
-    <lastmod>2026-09-27</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://caderno-mestre-queimados.pages.dev/aulas/legislacao-tributaria-de-queimados/codigo-tributario-de-queimados-estrutura-local-legalidade-e-conexao-com-a-fiscal</loc>
     <lastmod>2026-09-27</lastmod>
     <priority>0.8</priority>
@@ -211,6 +206,11 @@
   </url>
   <url>
     <loc>https://caderno-mestre-queimados.pages.dev/aulas/legislacao-tributaria-de-queimados/codigo-tributario-de-queimados-taxas-municipais-poder-de-policia-e-servicos-publ</loc>
+    <lastmod>2026-09-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://caderno-mestre-queimados.pages.dev/aulas/lingua-portuguesa/portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca</loc>
     <lastmod>2026-09-27</lastmod>
     <priority>0.8</priority>
   </url>
@@ -245,6 +245,10 @@
   </url>
   <url>
     <loc>https://caderno-mestre-queimados.pages.dev/disciplinas/legislacao-tributaria-de-queimados</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://caderno-mestre-queimados.pages.dev/disciplinas/lingua-portuguesa</loc>
     <priority>0.7</priority>
   </url>
   <url>

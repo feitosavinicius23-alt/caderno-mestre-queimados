@@ -1,6 +1,20 @@
 {
   "registros": [
     {
+      "data": "2026-09-27T13:52:43.801Z",
+      "contentVersion": 7,
+      "novasAulas": [
+        "lingua-portuguesa-aula-035"
+      ],
+      "aulasModificadas": [],
+      "aulasRemovidas": [
+        "direito-tributario-aula-035"
+      ],
+      "questoesAdicionadas": 8,
+      "arquivosAlterados": 4,
+      "status": "success"
+    },
+    {
       "data": "2026-09-27T13:13:57.040Z",
       "contentVersion": 6,
       "novasAulas": [],

@@ -16,5 +16,7 @@
     { "contemNoTitulo": "RECEITAS PÚBLICAS", "disciplina": "Receitas Públicas" },
     { "contemNoTitulo": "RESPONSABILIDADE FISCAL NA RECEITA", "disciplina": "Receitas Públicas" }
   ],
-  "porNumero": {}
+  "porNumero": {
+    "35": "Língua Portuguesa"
+  }
 }

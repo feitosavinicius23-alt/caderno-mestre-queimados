@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 24,
-    "totalQuestoes": 129,
-    "tempoEstimadoMin": 101,
+    "totalAulas": 23,
+    "totalQuestoes": 121,
+    "tempoEstimadoMin": 96,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -28,8 +28,7 @@
       "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
       "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
       "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
-      "Decadência e prescrição tributárias: os dois relógios de 5 anos",
-      "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+      "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     ],
     "aulas": [
       {
@@ -169,12 +168,6 @@
         "numero": 34,
         "titulo": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
         "slug": "decadencia-e-prescricao-tributarias-os-dois-relogios-de-5-anos"
-      },
-      {
-        "id": "direito-tributario-aula-035",
-        "numero": 35,
-        "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-        "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca"
       }
     ]
   },
@@ -229,6 +222,25 @@
         "numero": 30,
         "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
         "slug": "codigo-tributario-de-queimados-taxas-municipais-poder-de-policia-e-servicos-publ"
+      }
+    ]
+  },
+  {
+    "id": "lingua-portuguesa",
+    "slug": "lingua-portuguesa",
+    "nome": "Língua Portuguesa",
+    "totalAulas": 1,
+    "totalQuestoes": 8,
+    "tempoEstimadoMin": 5,
+    "assuntos": [
+      "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    ],
+    "aulas": [
+      {
+        "id": "lingua-portuguesa-aula-035",
+        "numero": 35,
+        "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+        "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca"
       }
     ]
   },

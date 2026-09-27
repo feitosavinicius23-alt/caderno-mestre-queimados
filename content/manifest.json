@@ -1,12 +1,12 @@
 {
   "versao": 1,
-  "contentVersion": 6,
+  "contentVersion": 7,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-27T13:13:57.009Z",
-  "contentHashGlobal": "6b7ed97918a2fbea",
+  "ultimaSincronizacao": "2026-09-27T13:52:43.756Z",
+  "contentHashGlobal": "e535a08c89a92bf9",
   "totalAulas": 35,
   "totalQuestoes": 137,
-  "totalDisciplinas": 3,
+  "totalDisciplinas": 4,
   "aulas": [
     {
       "id": "direito-tributario-aula-001",
@@ -285,18 +285,6 @@
       "ultimaAtualizacao": "2026-09-27"
     },
     {
-      "id": "direito-tributario-aula-035",
-      "numero": 35,
-      "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca",
-      "disciplina": "Direito Tributário",
-      "assunto": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "arquivo": "aulas/direito-tributario-aula-035.json",
-      "hash": "77a22dafb27799d3",
-      "totalQuestoes": 8,
-      "ultimaAtualizacao": "2026-09-27"
-    },
-    {
       "id": "legislacao-tributaria-de-queimados-aula-025",
       "numero": 25,
       "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
@@ -366,6 +354,18 @@
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-030.json",
       "hash": "3c0a91bf347d065e",
       "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-09-27"
+    },
+    {
+      "id": "lingua-portuguesa-aula-035",
+      "numero": 35,
+      "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+      "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca",
+      "disciplina": "Língua Portuguesa",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+      "arquivo": "aulas/lingua-portuguesa-aula-035.json",
+      "hash": "1d04e7f04a6568d3",
+      "totalQuestoes": 8,
       "ultimaAtualizacao": "2026-09-27"
     },
     {
