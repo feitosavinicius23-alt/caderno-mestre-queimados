@@ -288,7 +288,7 @@
         },
         {
           "id": "D",
-          "text": "correta se houver autorização do governador. GABARITO: 1-A | 2-C | 3-C | 4-B | 5-C | 6-B."
+          "text": "correta se houver autorização do governador."
         }
       ],
       "correctAnswer": "B",
@@ -364,5 +364,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "658eade12b3e2e48"
+  "contentHash": "855144cc484d3075"
 }

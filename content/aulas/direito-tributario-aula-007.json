@@ -264,7 +264,7 @@
         },
         {
           "id": "D",
-          "text": "a multa permanece necessariamente obrigação acessória. GABARITO: 1-C | 2-B | 3-B | 4-C | 5-B | 6-C."
+          "text": "a multa permanece necessariamente obrigação acessória."
         }
       ],
       "correctAnswer": "C",
@@ -350,5 +350,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "5198d481f2ac3d58"
+  "contentHash": "a0d2f5d32497a4ba"
 }

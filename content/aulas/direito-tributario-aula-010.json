@@ -294,7 +294,7 @@
         },
         {
           "id": "D",
-          "text": "correta para qualquer tributo municipal. GABARITO: 1-B | 2-A | 3-C | 4-B | 5-B | 6-B."
+          "text": "correta para qualquer tributo municipal."
         }
       ],
       "correctAnswer": "B",
@@ -376,5 +376,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "71d2bf9c0b428866"
+  "contentHash": "e57c5684e80e6300"
 }

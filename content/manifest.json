@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 3,
+  "contentVersion": 5,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-27T12:12:29.900Z",
-  "contentHashGlobal": "fdaa68d604fd939a",
+  "ultimaSincronizacao": "2026-09-27T13:02:06.508Z",
+  "contentHashGlobal": "76dc696774d18382",
   "totalAulas": 35,
   "totalQuestoes": 137,
   "totalDisciplinas": 3,
@@ -16,7 +16,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "arquivo": "aulas/direito-tributario-aula-001.json",
-      "hash": "b1db89aa6041a2f0",
+      "hash": "8b396caeabc71e31",
       "totalQuestoes": 11,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -28,7 +28,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito Tributário e Lançamento",
       "arquivo": "aulas/direito-tributario-aula-002.json",
-      "hash": "75147ef88e9e4b3d",
+      "hash": "1b26204d3f8ebbc0",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -40,7 +40,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-003.json",
-      "hash": "31bef747263970a5",
+      "hash": "f47623ad405a398d",
       "totalQuestoes": 5,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -52,7 +52,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-004.json",
-      "hash": "27417bc7a6002988",
+      "hash": "87781c9b3e27538b",
       "totalQuestoes": 5,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -76,7 +76,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-006.json",
-      "hash": "1465dc99abd05cd5",
+      "hash": "7a62a11af8a7810b",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -88,7 +88,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
       "arquivo": "aulas/direito-tributario-aula-007.json",
-      "hash": "5198d481f2ac3d58",
+      "hash": "a0d2f5d32497a4ba",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -100,7 +100,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
       "arquivo": "aulas/direito-tributario-aula-008.json",
-      "hash": "3fcbace11a7f5c16",
+      "hash": "a865c4c5106d90de",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -112,7 +112,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
       "arquivo": "aulas/direito-tributario-aula-009.json",
-      "hash": "ff34119745b56cf6",
+      "hash": "54c9313142749ce5",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -124,7 +124,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
       "arquivo": "aulas/direito-tributario-aula-010.json",
-      "hash": "71d2bf9c0b428866",
+      "hash": "e57c5684e80e6300",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -136,7 +136,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
       "arquivo": "aulas/direito-tributario-aula-011.json",
-      "hash": "658eade12b3e2e48",
+      "hash": "855144cc484d3075",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -148,7 +148,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
       "arquivo": "aulas/direito-tributario-aula-012.json",
-      "hash": "c7d49f8b63575a06",
+      "hash": "231fb61fdb342089",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },

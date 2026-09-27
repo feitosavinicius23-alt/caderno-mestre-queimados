@@ -87,7 +87,7 @@
       "id": "direito-tributario-aula-004-b13",
       "tipo": "questao",
       "titulo": "TREINO — NÃO CONSULTE A AULA E NÃO PROCURE GABARITO ANTES DE RESPONDER",
-      "texto": "Questão 1",
+      "texto": "",
       "questionIds": [
         "direito-tributario-aula-004-q-001",
         "direito-tributario-aula-004-q-002",
@@ -130,12 +130,12 @@
         },
         {
           "id": "D",
-          "text": "depósito integral, decadência e anistia. Questão 2 — comando INCORRETA É INCORRETO afirmar que:"
+          "text": "depósito integral, decadência e anistia."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "B",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
     },
@@ -159,12 +159,12 @@
         },
         {
           "id": "D",
-          "text": "prescrição e decadência constam entre as hipóteses de extinção previstas no CTN. Questão 3 Um contribuinte efetua depósito do montante integral para discutir determinado crédito. Posteriormente, o depósito é convertido em renda do ente tributante. Considerando apenas a classificação dos institutos no CTN, é correto afirmar que:"
+          "text": "prescrição e decadência constam entre as hipóteses de extinção previstas no CTN."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
     },
@@ -188,12 +188,12 @@
         },
         {
           "id": "D",
-          "text": "ambos são hipóteses de exclusão. Questão 4 Assinale a associação CORRETA:"
+          "text": "ambos são hipóteses de exclusão."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "B",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
     },
@@ -217,12 +217,12 @@
         },
         {
           "id": "D",
-          "text": "prescrição e decadência são modalidades de suspensão da exigibilidade. Questão 5 — assertivas I. Remissão é causa de extinção do crédito tributário. II. Anistia e remissão pertencem necessariamente à mesma categoria de extinção. III. Parcelamento suspende a exigibilidade; pagamento extingue o crédito. Está correto o que se afirma em:"
+          "text": "prescrição e decadência são modalidades de suspensão da exigibilidade."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
     },
@@ -230,7 +230,7 @@
       "id": "direito-tributario-aula-004-q-005",
       "lessonId": "direito-tributario-aula-004",
       "numero": 5,
-      "question": "Está correto o que se afirma em:",
+      "question": "I. Remissão é causa de extinção do crédito tributário. II. Anistia e remissão pertencem necessariamente à mesma categoria de extinção. III. Parcelamento suspende a exigibilidade; pagamento extingue o crédito. Está correto o que se afirma em:",
       "options": [
         {
           "id": "A",
@@ -246,17 +246,43 @@
         },
         {
           "id": "D",
-          "text": "I, II e III. Responda depois no chat: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-C | 3-B | 4-C | 5-C."
+          "text": "I, II e III."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
     }
   ],
-  "gabaritos": [],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-004-q-001",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-004-q-002",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-004-q-003",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-004-q-004",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-004-q-005",
+      "resposta": "C",
+      "comentario": ""
+    }
+  ],
   "revisao": [
     {
       "id": "direito-tributario-aula-004-b14",
@@ -285,5 +311,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "27417bc7a6002988"
+  "contentHash": "87781c9b3e27538b"
 }

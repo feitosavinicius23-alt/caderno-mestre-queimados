@@ -152,7 +152,7 @@
       "id": "direito-tributario-aula-002-b24",
       "tipo": "questao",
       "titulo": "8. TREINO — NÃO CONSULTE O MAPA",
-      "texto": "Questão 1",
+      "texto": "",
       "questionIds": [
         "direito-tributario-aula-002-q-001",
         "direito-tributario-aula-002-q-002",
@@ -196,7 +196,7 @@
         },
         {
           "id": "D",
-          "text": "Fato gerador, obrigação tributária, lançamento e crédito tributário são expressões equivalentes. Questão 2 A respeito do lançamento tributário, assinale a alternativa INCORRETA:"
+          "text": "Fato gerador, obrigação tributária, lançamento e crédito tributário são expressões equivalentes."
         }
       ],
       "correctAnswer": "C",
@@ -225,7 +225,7 @@
         },
         {
           "id": "D",
-          "text": "Constitui atividade discricionária, permitindo à autoridad8e decidir segundo critérios de conveniência e oportunidade se constituirá o crédito. Questão 3 Quando o sujeito presta à autoridade informações indispensáveis à realização do lançamento, que posteriormente é efetuado pela Administração, estamos diante, em princípio, de lançamento:"
+          "text": "Constitui atividade discricionária, permitindo à autoridad8e decidir segundo critérios de conveniência e oportunidade se constituirá o crédito."
         }
       ],
       "correctAnswer": "D",
@@ -254,7 +254,7 @@
         },
         {
           "id": "D",
-          "text": "judicial. Questão 4 No lançamento por homologação:"
+          "text": "judicial."
         }
       ],
       "correctAnswer": "B",
@@ -283,7 +283,7 @@
         },
         {
           "id": "D",
-          "text": "o contribuinte substitui definitivamente a autoridade administrativa e realiza juridicamente o lançamento. Questão 5 — assertivas I. A ocorrência do fato gerador relaciona-se ao nascimento da obrigação tributária. II. O lançamento constitui o crédito tributário. III. Todo lançamento depende necessariamente de declaração prévia do contribuinte. Está correto o que se afirma em:"
+          "text": "o contribuinte substitui definitivamente a autoridade administrativa e realiza juridicamente o lançamento."
         }
       ],
       "correctAnswer": "C",
@@ -296,7 +296,7 @@
       "id": "direito-tributario-aula-002-q-005",
       "lessonId": "direito-tributario-aula-002",
       "numero": 5,
-      "question": "Está correto o que se afirma em:",
+      "question": "I. A ocorrência do fato gerador relaciona-se ao nascimento da obrigação tributária. II. O lançamento constitui o crédito tributário. III. Todo lançamento depende necessariamente de declaração prévia do contribuinte. Está correto o que se afirma em:",
       "options": [
         {
           "id": "A",
@@ -312,7 +312,7 @@
         },
         {
           "id": "D",
-          "text": "I, II e III. Questão 6 Um examinador afirma: “No lançamento de ofício, a constituição do crédito depende necessariamente de declaração prévia apresentada pelo sujeito passivo.” A afirmação está:"
+          "text": "I, II e III."
         }
       ],
       "correctAnswer": "C",
@@ -325,7 +325,7 @@
       "id": "direito-tributario-aula-002-q-006",
       "lessonId": "direito-tributario-aula-002",
       "numero": 6,
-      "question": "A afirmação está:",
+      "question": "Um examinador afirma: “No lançamento de ofício, a constituição do crédito depende necessariamente de declaração prévia apresentada pelo sujeito passivo.” A afirmação está:",
       "options": [
         {
           "id": "A",
@@ -398,5 +398,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "75147ef88e9e4b3d"
+  "contentHash": "1b26204d3f8ebbc0"
 }

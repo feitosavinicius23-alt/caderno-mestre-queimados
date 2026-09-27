@@ -276,7 +276,7 @@
         },
         {
           "id": "D",
-          "text": "incorreta porque diretores e gerentes nunca podem responder. GABARITO: 1-C | 2-B | 3-B | 4-A | 5-C | 6-B."
+          "text": "incorreta porque diretores e gerentes nunca podem responder."
         }
       ],
       "correctAnswer": "B",
@@ -384,5 +384,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "3fcbace11a7f5c16"
+  "contentHash": "a865c4c5106d90de"
 }

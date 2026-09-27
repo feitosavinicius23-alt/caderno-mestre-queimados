@@ -104,7 +104,7 @@
       "id": "direito-tributario-aula-001-b16",
       "tipo": "questao",
       "titulo": "MUNICÍPIO",
-      "texto": "→ IPTU + ISS + ITBI.\nIsso é sua primeira camada de conhecimento.\nAgora vamos fazer o que combinamos: aprender do jeito que a IAN cobra.\n🎯 Rodada 1 — sem consultar a aula\nQuestão 1\nDeterminado contribuinte recebeu cobrança municipal exclusivamente porque é proprietário de imóvel urbano localizado em área abrangida pela legislação municipal.",
+      "texto": "→ IPTU + ISS + ITBI.\nIsso é sua primeira camada de conhecimento.\nAgora vamos fazer o que combinamos: aprender do jeito que a IAN cobra.\n🎯 Rodada 1 — sem consultar a aula",
       "questionIds": [
         "direito-tributario-aula-001-q-001",
         "direito-tributario-aula-001-q-002",
@@ -238,7 +238,7 @@
       "id": "direito-tributario-aula-001-b37",
       "tipo": "questao",
       "titulo": "11. RODADA DE TREINO — NÃO CONSULTE O MAPA MENTAL",
-      "texto": "Questão 1",
+      "texto": "",
       "questionIds": [
         "direito-tributario-aula-001-q-006",
         "direito-tributario-aula-001-q-007",
@@ -303,7 +303,7 @@
       "id": "direito-tributario-aula-001-q-001",
       "lessonId": "direito-tributario-aula-001",
       "numero": 1,
-      "question": "Considerando as espécies tributárias, a cobrança descrita possui natureza, em princípio, de:",
+      "question": "Determinado contribuinte recebeu cobrança municipal exclusivamente porque é proprietário de imóvel urbano localizado em área abrangida pela legislação municipal. Considerando as espécies tributárias, a cobrança descrita possui natureza, em princípio, de:",
       "options": [
         {
           "id": "A",
@@ -319,12 +319,12 @@
         },
         {
           "id": "D",
-          "text": "tarifa, em razão da disponibilidade dos serviços municipais. Questão 2 A respeito das taxas, assinale a alternativa CORRETA:"
+          "text": "tarifa, em razão da disponibilidade dos serviços municipais."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "B",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -348,12 +348,12 @@
         },
         {
           "id": "D",
-          "text": "Possuem natureza contratual e facultativa. Questão 3 Um Município realiza obra pública que resulta em valorização dos imóveis localizados na região beneficiada. A espécie tributária diretamente relacionada à situação é:"
+          "text": "Possuem natureza contratual e facultativa."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "A",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -361,7 +361,7 @@
       "id": "direito-tributario-aula-001-q-003",
       "lessonId": "direito-tributario-aula-001",
       "numero": 3,
-      "question": "A espécie tributária diretamente relacionada à situação é:",
+      "question": "Um Município realiza obra pública que resulta em valorização dos imóveis localizados na região beneficiada. A espécie tributária diretamente relacionada à situação é:",
       "options": [
         {
           "id": "A",
@@ -377,12 +377,12 @@
         },
         {
           "id": "D",
-          "text": "tarifa pública. Questão 4 — atenção à palavra perigosa É INCORRETO afirmar que:"
+          "text": "tarifa pública."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -406,12 +406,12 @@
         },
         {
           "id": "D",
-          "text": "toda atividade fiscalizatória municipal gera automaticamente a obrigação de pagar uma taxa. Questão 5 — quero testar conceito, não memória Um Município estabelece determinada cobrança como punição pela prática de uma infração administrativa. Considerando apenas essa característica, a cobrança:"
+          "text": "toda atividade fiscalizatória municipal gera automaticamente a obrigação de pagar uma taxa."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "D",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -419,7 +419,7 @@
       "id": "direito-tributario-aula-001-q-005",
       "lessonId": "direito-tributario-aula-001",
       "numero": 5,
-      "question": "Considerando apenas essa característica, a cobrança:",
+      "question": "Um Município estabelece determinada cobrança como punição pela prática de uma infração administrativa. Considerando apenas essa característica, a cobrança:",
       "options": [
         {
           "id": "A",
@@ -435,12 +435,12 @@
         },
         {
           "id": "D",
-          "text": "será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública. Responda sem voltar na matéria: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-A | 3-C | 4-D | 5-C. Não vou apenas fornecer o gabarito depois. Vou analisar cada erro/acerto, o distrator que poderia enganar você e a regra de prova, e então avançaremos para obrigação tributária + fato gerador + sujeito ativo/passivo, que é onde Direito Tributário começa a ficar muito interessante para a função de Agente Fiscal."
+          "text": "será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -464,7 +464,7 @@
         },
         {
           "id": "D",
-          "text": "é facultativa quando o contribuinte não praticou pessoalmente o lançamento. Questão 2 Uma empresa é obrigada pela legislação a transmitir determinada declaração fiscal. A transmissão da declaração constitui:"
+          "text": "é facultativa quando o contribuinte não praticou pessoalmente o lançamento."
         }
       ],
       "correctAnswer": "",
@@ -493,7 +493,7 @@
         },
         {
           "id": "D",
-          "text": "penalidade pecuniária. Questão 3 O contribuinte deixa de cumprir obrigação acessória e, em razão disso, a legislação prevê multa. Assinale a alternativa CORRETA:"
+          "text": "penalidade pecuniária."
         }
       ],
       "correctAnswer": "",
@@ -522,7 +522,7 @@
         },
         {
           "id": "D",
-          "text": "A multa conserva natureza de obrigação acessória porque decorreu de dever instrumental. Questão 4 É INCORRETO afirmar que:"
+          "text": "A multa conserva natureza de obrigação acessória porque decorreu de dever instrumental."
         }
       ],
       "correctAnswer": "",
@@ -551,7 +551,7 @@
         },
         {
           "id": "D",
-          "text": "o sujeito passivo da obrigação principal pode ser contribuinte ou responsável. Questão 5 Considere as assertivas: I. Multa tributária não é tributo. II. O pagamento de penalidade pecuniária pode integrar a obrigação tributária principal. III. Obrigação acessória é necessariamente facultativa quando não existe tributo a pagar. Está correto o que se afirma em:"
+          "text": "o sujeito passivo da obrigação principal pode ser contribuinte ou responsável."
         }
       ],
       "correctAnswer": "",
@@ -564,7 +564,7 @@
       "id": "direito-tributario-aula-001-q-010",
       "lessonId": "direito-tributario-aula-001",
       "numero": 5,
-      "question": "Está correto o que se afirma em:",
+      "question": "Considere as assertivas: I. Multa tributária não é tributo. II. O pagamento de penalidade pecuniária pode integrar a obrigação tributária principal. III. Obrigação acessória é necessariamente facultativa quando não existe tributo a pagar. Está correto o que se afirma em:",
       "options": [
         {
           "id": "A",
@@ -580,7 +580,7 @@
         },
         {
           "id": "D",
-          "text": "I, II e III. Questão 6 Quando uma alternativa afirma que “o lançamento faz nascer a obrigação tributária”, a afirmação deve ser tratada, em regra, como:"
+          "text": "I, II e III."
         }
       ],
       "correctAnswer": "",
@@ -619,7 +619,33 @@
       "topic": "Direito Tributário"
     }
   ],
-  "gabaritos": [],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-001-q-001",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-002",
+      "resposta": "A",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-003",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-004",
+      "resposta": "D",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-005",
+      "resposta": "C",
+      "comentario": ""
+    }
+  ],
   "revisao": [
     {
       "id": "direito-tributario-aula-001-b36",
@@ -646,5 +672,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "b1db89aa6041a2f0"
+  "contentHash": "8b396caeabc71e31"
 }

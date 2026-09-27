@@ -281,7 +281,7 @@
         },
         {
           "id": "D",
-          "text": "necessariamente precisam possuir todos os cinco melhoramentos do §1º. GABARITO: 1-B | 2-C | 3-C | 4-D | 5-D | 6-B."
+          "text": "necessariamente precisam possuir todos os cinco melhoramentos do §1º."
         }
       ],
       "correctAnswer": "B",
@@ -338,5 +338,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "c7d49f8b63575a06"
+  "contentHash": "231fb61fdb342089"
 }

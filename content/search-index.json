@@ -1,6 +1,6 @@
 {
-  "contentVersion": 3,
-  "geradoEm": "2026-09-27T12:12:29.900Z",
+  "contentVersion": 5,
+  "geradoEm": "2026-09-27T13:02:06.508Z",
   "total": 617,
   "documentos": [
     {
@@ -187,7 +187,7 @@
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
       "blocoTipo": "questao",
-      "texto": "MUNICÍPIO → IPTU + ISS + ITBI.\nIsso é sua primeira camada de conhecimento.\nAgora vamos fazer o que combinamos: aprender do jeito que a IAN cobra.\n🎯 Rodada 1 — sem consultar a aula\nQuestão 1\nDeterminado contribuinte recebeu cobrança municipal exclusivamente porque é proprietário de imóvel urbano localizado em área abrangida pela legislação municipal."
+      "texto": "MUNICÍPIO → IPTU + ISS + ITBI.\nIsso é sua primeira camada de conhecimento.\nAgora vamos fazer o que combinamos: aprender do jeito que a IAN cobra.\n🎯 Rodada 1 — sem consultar a aula"
     },
     {
       "tipo": "trecho",
@@ -418,7 +418,7 @@
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
       "blocoTipo": "questao",
-      "texto": "11. RODADA DE TREINO — NÃO CONSULTE O MAPA MENTAL Questão 1"
+      "texto": "11. RODADA DE TREINO — NÃO CONSULTE O MAPA MENTAL"
     },
     {
       "tipo": "trecho",
@@ -516,7 +516,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
-      "texto": "Considerando as espécies tributárias, a cobrança descrita possui natureza, em princípio, de:"
+      "texto": "Determinado contribuinte recebeu cobrança municipal exclusivamente porque é proprietário de imóvel urbano localizado em área abrangida pela legislação municipal. Considerando as espécies tributárias, a cobrança descrita possui natureza, em princípio, de:"
     },
     {
       "tipo": "questao",
@@ -536,7 +536,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
-      "texto": "A espécie tributária diretamente relacionada à situação é:"
+      "texto": "Um Município realiza obra pública que resulta em valorização dos imóveis localizados na região beneficiada. A espécie tributária diretamente relacionada à situação é:"
     },
     {
       "tipo": "questao",
@@ -556,7 +556,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
-      "texto": "Considerando apenas essa característica, a cobrança:"
+      "texto": "Um Município estabelece determinada cobrança como punição pela prática de uma infração administrativa. Considerando apenas essa característica, a cobrança:"
     },
     {
       "tipo": "questao",
@@ -606,7 +606,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "slug": "direito-tributario",
-      "texto": "Está correto o que se afirma em:"
+      "texto": "Considere as assertivas: I. Multa tributária não é tributo. II. O pagamento de penalidade pecuniária pode integrar a obrigação tributária principal. III. Obrigação acessória é necessariamente facultativa quando não existe tributo a pagar. Está correto o que se afirma em:"
     },
     {
       "tipo": "questao",
@@ -910,7 +910,7 @@
       "assunto": "Crédito Tributário e Lançamento",
       "slug": "credito-tributario-e-lancamento",
       "blocoTipo": "questao",
-      "texto": "8. TREINO — NÃO CONSULTE O MAPA Questão 1"
+      "texto": "8. TREINO — NÃO CONSULTE O MAPA"
     },
     {
       "tipo": "trecho",
@@ -982,7 +982,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito Tributário e Lançamento",
       "slug": "credito-tributario-e-lancamento",
-      "texto": "Está correto o que se afirma em:"
+      "texto": "I. A ocorrência do fato gerador relaciona-se ao nascimento da obrigação tributária. II. O lançamento constitui o crédito tributário. III. Todo lançamento depende necessariamente de declaração prévia do contribuinte. Está correto o que se afirma em:"
     },
     {
       "tipo": "questao",
@@ -992,7 +992,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito Tributário e Lançamento",
       "slug": "credito-tributario-e-lancamento",
-      "texto": "A afirmação está:"
+      "texto": "Um examinador afirma: “No lançamento de ofício, a constituição do crédito depende necessariamente de declaração prévia apresentada pelo sujeito passivo.” A afirmação está:"
     },
     {
       "tipo": "revisao",
@@ -1199,7 +1199,7 @@
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "slug": "suspensao-da-exigibilidade-do-credito-tributario",
       "blocoTipo": "questao",
-      "texto": "TREINO — SEM GABARITO AGORA Questão 1"
+      "texto": "TREINO — SEM GABARITO AGORA"
     },
     {
       "tipo": "trecho",
@@ -1260,7 +1260,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "slug": "suspensao-da-exigibilidade-do-credito-tributario",
-      "texto": "III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias."
+      "texto": "I. Parcelamento é hipótese de suspensão da exigibilidade. II. Pagamento é hipótese de extinção, e não de suspensão. III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias."
     },
     {
       "tipo": "revisao",
@@ -1423,7 +1423,7 @@
       "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "slug": "extincao-do-credito-tributario",
       "blocoTipo": "questao",
-      "texto": "TREINO — NÃO CONSULTE A AULA E NÃO PROCURE GABARITO ANTES DE RESPONDER Questão 1"
+      "texto": "TREINO — NÃO CONSULTE A AULA E NÃO PROCURE GABARITO ANTES DE RESPONDER"
     },
     {
       "tipo": "trecho",
@@ -1495,7 +1495,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "slug": "extincao-do-credito-tributario",
-      "texto": "Está correto o que se afirma em:"
+      "texto": "I. Remissão é causa de extinção do crédito tributário. II. Anistia e remissão pertencem necessariamente à mesma categoria de extinção. III. Parcelamento suspende a exigibilidade; pagamento extingue o crédito. Está correto o que se afirma em:"
     },
     {
       "tipo": "mapa",

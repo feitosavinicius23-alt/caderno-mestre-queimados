@@ -263,7 +263,7 @@
         },
         {
           "id": "D",
-          "text": "I, II e III. GABARITO: 1-C | 2-B | 3-C | 4-A | 5-C | 6-C."
+          "text": "I, II e III."
         }
       ],
       "correctAnswer": "C",
@@ -326,5 +326,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "ff34119745b56cf6"
+  "contentHash": "54c9313142749ce5"
 }

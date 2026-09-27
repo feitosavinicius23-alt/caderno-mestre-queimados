@@ -261,6 +261,30 @@ describe('parser do Caderno Mestre', () => {
     expect(q[0].question).toBe('Assinale a alternativa CORRETA:');
   });
 
+  it('separa cabeçalho de questão e instruções da alternativa anterior', () => {
+    const q = parseQuestoes([
+      'Questão 5 — quero testar conceito, não memória',
+      'Um Município estabelece determinada cobrança como punição pela prática de uma infração administrativa.',
+      'Considerando apenas essa característica, a cobrança:',
+      'A) constitui necessariamente imposto.',
+      'B) constitui necessariamente taxa de polícia.',
+      'C) não se caracteriza como tributo se sua natureza for de sanção por ato ilícito.',
+      'D) será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública.',
+      'Responda sem voltar na matéria: 1?, 2?, 3?, 4?, 5?',
+    ]);
+    expect(q).toHaveLength(1);
+    expect(q[0].numero).toBe(5);
+    expect(q[0].question).toContain('Um Município estabelece');
+    expect(q[0].options[3].text).toBe('será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública.');
+  });
+
+  it('classifica gabarito compacto com pipes como bloco de gabarito', () => {
+    expect(classificarCabecalho('GABARITO: 1-B | 2-A | 3-C | 4-D | 5-C.')).toEqual({
+      tipo: 'gabarito',
+      titulo: 'GABARITO: 1-B | 2-A | 3-C | 4-D | 5-C.',
+    });
+  });
+
   it('converte uma aula completa preservando os blocos', () => {
     const bruta = {
       numero: 12,

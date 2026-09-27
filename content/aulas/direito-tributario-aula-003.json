@@ -111,7 +111,7 @@
       "id": "direito-tributario-aula-003-b17",
       "tipo": "questao",
       "titulo": "TREINO — SEM GABARITO AGORA",
-      "texto": "Questão 1",
+      "texto": "",
       "questionIds": [
         "direito-tributario-aula-003-q-001",
         "direito-tributario-aula-003-q-002",
@@ -148,12 +148,12 @@
         },
         {
           "id": "D",
-          "text": "prescrição. Questão 2 Um contribuinte efetua depósito apenas parcial do crédito tributário e sustenta que, por esse fato isolado, ocorreu a hipótese prevista no CTN de suspensão pelo depósito. Considerando a literalidade do CTN, a afirmação está:"
+          "text": "prescrição."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "B",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
     },
@@ -177,12 +177,12 @@
         },
         {
           "id": "D",
-          "text": "incorreta, porque depósito é hipótese de extinção do crédito. Questão 3 — atenção ao comando É INCORRETO afirmar que:"
+          "text": "incorreta, porque depósito é hipótese de extinção do crédito."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
     },
@@ -206,12 +206,12 @@
         },
         {
           "id": "D",
-          "text": "reclamações e recursos administrativos podem suspender a exigibilidade nos termos das leis reguladoras do processo tributário administrativo. Questão 4 A suspensão da exigibilidade do crédito tributário, por si só:"
+          "text": "reclamações e recursos administrativos podem suspender a exigibilidade nos termos das leis reguladoras do processo tributário administrativo."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
     },
@@ -235,12 +235,12 @@
         },
         {
           "id": "D",
-          "text": "elimina automaticamente todas as obrigações acessórias relacionadas. Questão 5 — assertivas I. Parcelamento é hipótese de suspensão da exigibilidade. II. Pagamento é hipótese de extinção, e não de suspensão. III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias."
+          "text": "elimina automaticamente todas as obrigações acessórias relacionadas."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
     },
@@ -248,7 +248,7 @@
       "id": "direito-tributario-aula-003-q-005",
       "lessonId": "direito-tributario-aula-003",
       "numero": 5,
-      "question": "III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias.",
+      "question": "I. Parcelamento é hipótese de suspensão da exigibilidade. II. Pagamento é hipótese de extinção, e não de suspensão. III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias.",
       "options": [
         {
           "id": "A",
@@ -264,17 +264,43 @@
         },
         {
           "id": "D",
-          "text": "I, II e III. Responda: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-C | 3-C | 4-C | 5-C. Na correção, cada alternativa será analisada e qualquer erro entrará no caderno de erros."
+          "text": "I, II e III."
         }
       ],
-      "correctAnswer": "",
+      "correctAnswer": "C",
       "explanation": "",
-      "gabaritoOculto": true,
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
     }
   ],
-  "gabaritos": [],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-003-q-001",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-003-q-002",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-003-q-003",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-003-q-004",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-003-q-005",
+      "resposta": "C",
+      "comentario": ""
+    }
+  ],
   "revisao": [
     {
       "id": "direito-tributario-aula-003-b18",
@@ -296,5 +322,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "31bef747263970a5"
+  "contentHash": "f47623ad405a398d"
 }
