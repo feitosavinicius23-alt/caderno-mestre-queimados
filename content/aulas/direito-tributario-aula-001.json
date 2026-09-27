@@ -467,9 +467,9 @@
           "text": "é facultativa quando o contribuinte não praticou pessoalmente o lançamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -496,9 +496,9 @@
           "text": "penalidade pecuniária."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "Transmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -525,9 +525,9 @@
           "text": "A multa conserva natureza de obrigação acessória porque decorreu de dever instrumental."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -554,9 +554,9 @@
           "text": "o sujeito passivo da obrigação principal pode ser contribuinte ou responsável."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "O responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -583,9 +583,9 @@
           "text": "I, II e III."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "I e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     },
@@ -609,12 +609,12 @@
         },
         {
           "id": "D",
-          "text": "incorreta apenas nos casos de taxas. Pare antes do gabarito. Resolva primeiro: 1?, 2?, 3?, 4?, 5?, 6?."
+          "text": "incorreta apenas nos casos de taxas. Pare antes do"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "Essa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário"
     }
@@ -644,6 +644,36 @@
       "questionId": "direito-tributario-aula-001-q-005",
       "resposta": "C",
       "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-006",
+      "resposta": "B",
+      "comentario": "A está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente."
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-007",
+      "resposta": "B",
+      "comentario": "Transmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade."
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-008",
+      "resposta": "B",
+      "comentario": "A multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória."
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-009",
+      "resposta": "C",
+      "comentario": "O responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal."
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-010",
+      "resposta": "C",
+      "comentario": "I e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar."
+    },
+    {
+      "questionId": "direito-tributario-aula-001-q-011",
+      "resposta": "C",
+      "comentario": "Essa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário."
     }
   ],
   "revisao": [
@@ -672,5 +702,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "8b396caeabc71e31"
+  "contentHash": "5fadd22ae476f6c6"
 }

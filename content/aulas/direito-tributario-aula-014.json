@@ -318,7 +318,7 @@
         },
         {
           "id": "D",
-          "text": "correta se a alíquota for inferior a 5%. Registre mentalmente ou no estudo suas respostas 1 a 6. O gabarito não é revelado nesta etapa para preservar recuperação ativa. Na próxima execução, se houver respostas registradas, a correção deve ser alternativa por alternativa; sem respostas registradas, o tema permanece pendente de aferição e não será considerado dominado."
+          "text": "correta se a alíquota for inferior a 5%. Registre mentalmente ou no estudo suas respostas 1 a 6. O"
         }
       ],
       "correctAnswer": "",
@@ -371,5 +371,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "006c33f5c3a6fc8e"
+  "contentHash": "6ce20992b3ec0fb8"
 }

@@ -24,7 +24,7 @@ export function QuestionCard({ question, lessonId, disciplina, assunto, mostrarO
 
   const respondida = Boolean(registro);
   const mostrarGabarito = respondida || revelado;
-  const acertou = registro?.acertou ?? false;
+  const acertou = registro?.acertou ?? null;
   const favoritoId = `questao:${question.id}`;
   const favoritado = Boolean(state.favoritos[favoritoId]);
   const entry = mostrarOrigem ? findEntryById(lessonId) : undefined;
@@ -48,8 +48,9 @@ export function QuestionCard({ question, lessonId, disciplina, assunto, mostrarO
 
   function classeAlternativa(optionId: string) {
     if (!mostrarGabarito) return escolhida === optionId ? 'alternativa alternativa--selecionada' : 'alternativa';
+    if (!question.correctAnswer) return escolhida === optionId ? 'alternativa alternativa--selecionada' : 'alternativa';
     if (optionId === question.correctAnswer) return 'alternativa alternativa--correta';
-    if (respondida && optionId === registro?.escolhida) return 'alternativa alternativa--errada';
+    if (respondida && acertou === false && optionId === registro?.escolhida) return 'alternativa alternativa--errada';
     return 'alternativa';
   }
 
@@ -113,19 +114,21 @@ export function QuestionCard({ question, lessonId, disciplina, assunto, mostrarO
       ) : (
         <>
           {respondida ? (
-            <p className={`resultado ${acertou ? 'resultado--ok' : 'resultado--erro'}`}>
-              <span aria-hidden="true">{acertou ? '✓' : '✕'}</span>
-              {acertou ? 'CORRETO' : 'INCORRETO'}
+            <p className={`resultado ${acertou === true ? 'resultado--ok' : acertou === false ? 'resultado--erro' : ''}`}>
+              <span aria-hidden="true">{acertou === true ? '✓' : acertou === false ? '✕' : '•'}</span>
+              {acertou === true ? 'CORRETO' : acertou === false ? 'INCORRETO' : 'RESPOSTA REGISTRADA'}
             </p>
           ) : null}
 
           <div className="gabarito">
             <div className="gabarito__rotulo">Gabarito</div>
             <p style={{ marginBottom: question.explanation ? '0.7em' : 0 }}>
-              <strong>Alternativa correta: {question.correctAnswer}</strong>
-              {respondida && !acertou ? ` — sua resposta: ${registro?.escolhida}` : ''}
+              <strong>{question.correctAnswer ? `Alternativa correta: ${question.correctAnswer}` : 'Gabarito ainda não disponível'}</strong>
+              {respondida && acertou === false ? ` — sua resposta: ${registro?.escolhida}` : ''}
             </p>
-            {question.explanation ? <p style={{ margin: 0 }}>{question.explanation}</p> : null}
+            {question.explanation ? <p style={{ margin: 0 }}>{question.explanation}</p> : (
+              !question.correctAnswer ? <p style={{ margin: 0 }}>Esta questão foi registrada, mas o documento ainda não fornece o gabarito comentado.</p> : null
+            )}
             {question.topic ? (
               <p className="fraco" style={{ margin: '0.7em 0 0' }}>
                 Assunto: {question.topic}
@@ -138,7 +141,7 @@ export function QuestionCard({ question, lessonId, disciplina, assunto, mostrarO
             ) : null}
           </div>
 
-          {respondida && !acertou ? (
+          {respondida && acertou === false ? (
             <p className="fraco mt" style={{ marginBottom: 0 }}>
               📕 Adicionada ao <Link to="/erros">Caderno de Erros</Link>.
             </p>

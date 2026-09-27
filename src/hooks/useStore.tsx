@@ -137,7 +137,7 @@ function reducer(state: UserState, action: Action): UserState {
 
     case 'answer': {
       const { question, escolhida, lesson } = action;
-      const acertou = escolhida === question.correctAnswer;
+      const acertou = question.correctAnswer ? escolhida === question.correctAnswer : null;
       const previous = state.respostas[question.id];
       const record: AnswerRecord = {
         questionId: question.id,
@@ -151,7 +151,7 @@ function reducer(state: UserState, action: Action): UserState {
       };
 
       const erros = { ...state.erros };
-      if (!acertou) {
+      if (acertou === false) {
         // Requisito 27: erro alimenta o caderno de erros automaticamente.
         const existing = erros[question.id];
         erros[question.id] = {
@@ -167,7 +167,7 @@ function reducer(state: UserState, action: Action): UserState {
           revisoesFeitas: existing?.revisoesFeitas ?? 0,
           resolvido: false,
         };
-      } else if (erros[question.id]) {
+      } else if (acertou === true && erros[question.id]) {
         erros[question.id] = {
           ...erros[question.id],
           revisoesFeitas: erros[question.id].revisoesFeitas + 1,
@@ -305,7 +305,8 @@ export function useProgressStats() {
     const concluidas = values.filter((p) => p.status === 'concluida' || p.status === 'revisada').length;
     const emAndamento = values.filter((p) => p.status === 'em-andamento').length;
     const respostas = Object.values(state.respostas);
-    const acertos = respostas.filter((r) => r.acertou).length;
+      const avaliadas = respostas.filter((r) => r.acertou !== null);
+      const acertos = avaliadas.filter((r) => r.acertou === true).length;
     const tempoSeg = values.reduce((sum, p) => sum + p.tempoEstudoSeg, 0);
     return {
       total,
@@ -314,8 +315,8 @@ export function useProgressStats() {
       percentual: total ? Math.round((concluidas / total) * 100) : 0,
       questoesResolvidas: respostas.length,
       acertos,
-      erros: respostas.length - acertos,
-      taxaAcerto: respostas.length ? Math.round((acertos / respostas.length) * 100) : 0,
+      erros: avaliadas.length - acertos,
+      taxaAcerto: avaliadas.length ? Math.round((acertos / avaliadas.length) * 100) : 0,
       tempoSeg,
       sequencia: state.sequencia.dias,
     };

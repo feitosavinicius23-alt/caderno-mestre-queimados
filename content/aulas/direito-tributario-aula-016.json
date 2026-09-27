@@ -276,7 +276,7 @@
         },
         {
           "id": "D",
-          "text": "ITBI. Não há gabarito nesta etapa. As respostas deverão ser aferidas antes de considerar o tema dominado. Como não há respostas registradas do aluno para as baterias pendentes de ITBI, ISS e taxas, esses três temas também permanecem NÃO DOMINADOS e voltarão em testes misturados."
+          "text": "ITBI. Não há"
         }
       ],
       "correctAnswer": "",
@@ -323,5 +323,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "1545937320f94354"
+  "contentHash": "10e28d68954a9210"
 }

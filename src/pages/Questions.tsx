@@ -26,7 +26,7 @@ export default function Questions() {
       const registro = state.respostas[question.id];
       switch (filtro) {
         case 'nao-respondidas': return !registro;
-        case 'erradas': return registro && !registro.acertou;
+        case 'erradas': return registro?.acertou === false;
         case 'acertadas': return registro?.acertou === true;
         default: return true;
       }
@@ -34,7 +34,8 @@ export default function Questions() {
   }, [questoes, disciplina, filtro, state.respostas]);
 
   const respondidas = Object.values(state.respostas);
-  const acertos = respondidas.filter((r) => r.acertou).length;
+  const acertos = respondidas.filter((r) => r.acertou === true).length;
+  const avaliadas = respondidas.filter((r) => r.acertou !== null).length;
 
   return (
     <>
@@ -47,7 +48,7 @@ export default function Questions() {
         <div className="cartao"><Stat valor={respondidas.length} rotulo="Resolvidas" /></div>
         <div className="cartao"><Stat valor={acertos} rotulo="Acertos" /></div>
         <div className="cartao">
-          <Stat valor={respondidas.length ? `${Math.round((acertos / respondidas.length) * 100)}%` : '—'} rotulo="Taxa" />
+          <Stat valor={avaliadas ? `${Math.round((acertos / avaliadas) * 100)}%` : '—'} rotulo="Taxa" />
         </div>
       </div>
 

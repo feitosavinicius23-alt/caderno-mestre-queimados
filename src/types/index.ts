@@ -208,7 +208,8 @@ export interface AnswerRecord {
   subject: string;
   escolhida: string;
   correta: string;
-  acertou: boolean;
+  /** null = resposta registrada, mas a questão ainda não tem gabarito. */
+  acertou: boolean | null;
   respondidaEm: string;
   tentativas: number;
 }

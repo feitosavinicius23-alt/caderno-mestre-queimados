@@ -300,7 +300,7 @@
         },
         {
           "id": "D",
-          "text": "a imunidade depende exclusivamente do domicílio dos sócios. NÃO HÁ GABARITO NESTA ETAPA. Registre suas respostas 1 a 6. Na próxima execução, a primeira atividade será corrigir alternativa por alternativa, identificar o mecanismo da IAN e alimentar o caderno de erros antes de avançar."
+          "text": "a imunidade depende exclusivamente do domicílio dos sócios. NÃO HÁ"
         }
       ],
       "correctAnswer": "",
@@ -355,5 +355,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "47b3284efa9ec2f7"
+  "contentHash": "a46e032fe0dfd081"
 }

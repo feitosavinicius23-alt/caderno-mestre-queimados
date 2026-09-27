@@ -312,7 +312,7 @@
         },
         {
           "id": "D",
-          "text": "ITBI → transmissão causa mortis gratuita. Não há gabarito nesta etapa. Como não existem respostas do aluno registradas para as baterias pendentes de ITBI, ISS, taxas e contribuição de melhoria, esses temas permanecem NÃO DOMINADOS e continuarão intercalados. Esta aula também só será considerada dominada após retenção posterior em questões misturadas."
+          "text": "ITBI → transmissão causa mortis gratuita. Não há"
         }
       ],
       "correctAnswer": "",
@@ -363,5 +363,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-09-27",
-  "contentHash": "e47cdc515af7bc3f"
+  "contentHash": "57bd47387d4223ca"
 }

@@ -1,6 +1,24 @@
 {
   "registros": [
     {
+      "data": "2026-09-27T13:13:57.040Z",
+      "contentVersion": 6,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-001",
+        "direito-tributario-aula-013",
+        "direito-tributario-aula-014",
+        "direito-tributario-aula-015",
+        "direito-tributario-aula-016",
+        "direito-tributario-aula-017",
+        "direito-tributario-aula-018"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 3,
+      "status": "success"
+    },
+    {
       "data": "2026-09-27T13:02:06.538Z",
       "contentVersion": 5,
       "novasAulas": [],

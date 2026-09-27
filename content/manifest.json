@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-27T13:02:06.508Z",
-  "contentHashGlobal": "76dc696774d18382",
+  "ultimaSincronizacao": "2026-09-27T13:13:57.009Z",
+  "contentHashGlobal": "6b7ed97918a2fbea",
   "totalAulas": 35,
   "totalQuestoes": 137,
   "totalDisciplinas": 3,
@@ -16,7 +16,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "arquivo": "aulas/direito-tributario-aula-001.json",
-      "hash": "8b396caeabc71e31",
+      "hash": "5fadd22ae476f6c6",
       "totalQuestoes": 11,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -160,7 +160,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
       "arquivo": "aulas/direito-tributario-aula-013.json",
-      "hash": "47b3284efa9ec2f7",
+      "hash": "a46e032fe0dfd081",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -172,7 +172,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
       "arquivo": "aulas/direito-tributario-aula-014.json",
-      "hash": "006c33f5c3a6fc8e",
+      "hash": "6ce20992b3ec0fb8",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -184,7 +184,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
       "arquivo": "aulas/direito-tributario-aula-015.json",
-      "hash": "70bd6338ea7bc83e",
+      "hash": "f88e110885c740d7",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -196,7 +196,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
       "arquivo": "aulas/direito-tributario-aula-016.json",
-      "hash": "1545937320f94354",
+      "hash": "10e28d68954a9210",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -208,7 +208,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
       "arquivo": "aulas/direito-tributario-aula-017.json",
-      "hash": "e47cdc515af7bc3f",
+      "hash": "57bd47387d4223ca",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -220,7 +220,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
       "arquivo": "aulas/direito-tributario-aula-018.json",
-      "hash": "af3c2e7ec8304245",
+      "hash": "381849fede3aeb52",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-09-27"
     },

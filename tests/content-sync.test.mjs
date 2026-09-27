@@ -237,6 +237,15 @@ describe('parser do Caderno Mestre', () => {
     expect(c.get(1)).toEqual({ resposta: 'B', comentario: 'porque sim.' });
   });
 
+  it('lê correção numerada em linhas separadas', () => {
+    const c = parseCorrecoes('1 — B.\nA alternativa A está errada.\nA obrigação principal também pode envolver multa.\n\n2 — C.\nComentário da segunda.');
+    expect(c.get(1)).toEqual({
+      resposta: 'B',
+      comentario: 'A alternativa A está errada. A obrigação principal também pode envolver multa.',
+    });
+    expect(c.get(2)).toEqual({ resposta: 'C', comentario: 'Comentário da segunda.' });
+  });
+
   it('expande alternativas escritas em uma única linha', () => {
     const out = expandirAlternativasInline(['A) I apenas. B) II apenas. C) I e III. D) todas.']);
     expect(out).toHaveLength(4);
