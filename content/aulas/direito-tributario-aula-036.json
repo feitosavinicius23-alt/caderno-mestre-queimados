@@ -1,0 +1,286 @@
+{
+  "id": "direito-tributario-aula-036",
+  "numero": 36,
+  "titulo": "Crédito tributário: suspensão, extinção e exclusão",
+  "slug": "credito-tributario-suspensao-extincao-e-exclusao",
+  "disciplina": "Direito Tributário",
+  "assunto": "Crédito tributário: suspensão, extinção e exclusão",
+  "ordem": 36,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 10,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-036-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Na Aula 35 fizemos a primeira intercalação formal com Português. Agora voltamos aos Conhecimentos Específicos e fechamos uma sequência indispensável do Direito Tributário:\nFato gerador → obrigação → lançamento → crédito → suspensão/extinção/exclusão.\nEsta aula é especialmente importante porque a banca pode montar uma questão inteira apenas trocando uma hipótese de uma dessas três categorias.\nA primeira distinção deve ficar automática:\nSUSPENDER ≠ EXTINGUIR ≠ EXCLUIR.\nImagine três situações.\nNa primeira, existe crédito, mas temporariamente ele não pode ser exigido.\nNa segunda, o crédito deixa de existir.\nNa terceira, a própria legislação impede a constituição do crédito em determinadas situações.\nÉ daí que surgem as três categorias.\n1. Suspensão da exigibilidade\nO art. 151 do CTN estabelece hipóteses de suspensão da exigibilidade do crédito tributário.\nUse o mnemônico:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b2",
+      "tipo": "teoria",
+      "titulo": "MOR — DEP — REC — LIM — PAR",
+      "texto": "MORatória\nDEPósito do montante integral\nREClamações e recursos administrativos, nos termos legais\nLIMinar/tutela nas hipóteses previstas\nPARcelamento\nA ideia central é:\nO crédito existe, mas sua exigibilidade está temporariamente suspensa.\nPortanto, se o contribuinte obtém parcelamento, não diga:\n“A dívida foi extinta.”\nEstá errado.\nO parcelamento, em regra:\nSUSPENDE A EXIGIBILIDADE.\nMoratória\nMoratória representa dilação legal do prazo para pagamento, nas condições estabelecidas pelo ordenamento.\nNão confunda:\nMORATÓRIA → suspensão.\nREMISSÃO → extinção.\nA diferença de apenas algumas letras é uma excelente fonte de erro.\nDepósito integral\nOutro ponto importante:\nDEPÓSITO DO MONTANTE INTEGRAL → suspensão.\nA palavra integral merece atenção.\nNão transforme qualquer pagamento ou depósito parcial automaticamente na hipótese do art. 151.\nReclamações e recursos administrativos\nQuando apresentados nas condições previstas pelas leis reguladoras do processo tributário administrativo, também podem suspender a exigibilidade.\nIsso é importante para o trabalho fiscal.\nO contribuinte recebeu determinado lançamento e apresentou impugnação cabível.\nA existência da impugnação não significa automaticamente:\n“O lançamento deixou de existir.”\nNão.\nPrecisamos distinguir:\nexistência do crédito de exigibilidade do crédito.\nEssa distinção será recorrente.\n2. Extinção do crédito tributário\nAgora o crédito não está apenas “congelado”.\nEle é extinto.\nEntre as hipóteses do art. 156 estão:\npagamento; compensação; transação; remissão; prescrição e decadência; conversão de depósito em renda; pagamento antecipado e homologação nos termos legais; consignação em pagamento julgada procedente; decisão administrativa irreformável; decisão judicial passada em julgado; dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.\nNão quero que você apenas decore uma lista. Vamos criar associações.\nPagamento\nÉ a forma mais intuitiva.\nCrédito devido → pagamento → extinção.\nMas cuidado:\npagamento não transforma o tributo em inexistente retroativamente.\nHouve obrigação, houve crédito e ele foi extinto pelo pagamento.\nCompensação\nEm termos simplificados:\ncréditos e débitos podem ser compensados nas condições autorizadas pelo ordenamento.\nNão existe um poder unilateral ilimitado do contribuinte de declarar:\n“Tenho um crédito contra o Município, então descontei meu imposto.”\nA compensação depende de fundamento legal.\nTransação\nTambém depende de disciplina legal.\nNão pense em “negociação livre” como numa compra entre particulares.\nEm Direito Tributário, a Administração continua vinculada à lei.\nRemissão\nEsta palavra precisa ficar gravada:\nREMISSÃO → PERDÃO DO CRÉDITO → EXTINÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-036-b3",
+      "tipo": "comparacao",
+      "titulo": "Compare:",
+      "texto": "MORATÓRIA → prazo/suspensão.\nREMISSÃO → extinção."
+    },
+    {
+      "id": "direito-tributario-aula-036-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha pronta para a IAN.",
+      "texto": "Prescrição e decadência"
+    },
+    {
+      "id": "direito-tributario-aula-036-b5",
+      "tipo": "revisao",
+      "titulo": "Recuperação da Aula 34:",
+      "texto": "DECADÊNCIA → prazo para constituir.\n\nPRESCRIÇÃO → prazo para cobrar judicialmente crédito definitivamente constituído.\n\nApesar de diferentes, ambas aparecem no CTN entre as hipóteses de extinção do crédito tributário.\n\n3. Exclusão do crédito tributário\n\nAgora entramos em outra categoria.\n\nO art. 175 trabalha essencialmente com:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b6",
+      "tipo": "teoria",
+      "titulo": "ISENÇÃO",
+      "texto": "e"
+    },
+    {
+      "id": "direito-tributario-aula-036-b7",
+      "tipo": "teoria",
+      "titulo": "ANISTIA",
+      "texto": "Memória:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b8",
+      "tipo": "teoria",
+      "titulo": "EXCLUSÃO = I + A",
+      "texto": "Isenção\nAnistia\nIsso precisa sair instantaneamente na prova.\nIsenção\nEm termos gerais, a isenção atua sobre o tributo, nos termos estabelecidos em lei.\nNão confunda isenção com imunidade.\nIMUNIDADE → limitação constitucional ao poder de tributar.\nISENÇÃO → decorre da legislação infraconstitucional competente.\nEssa distinção é muito importante.\nA Constituição pode impedir a incidência tributária em determinada situação constitucionalmente protegida.\nIsso é diferente de o ente competente instituir determinada hipótese legal de isenção.\nAnistia\nA anistia está relacionada às infrações/penalidades, nos limites legais.\nMemória:\nANISTIA → PENALIDADE."
+    },
+    {
+      "id": "direito-tributario-aula-036-b9",
+      "tipo": "exemplo",
+      "titulo": "Exemplo mental:",
+      "texto": "Uma legislação concede anistia relativamente a determinadas multas tributárias abrangidas por suas condições.\nNão significa necessariamente:\n“O tributo principal também desapareceu.”\nA banca pode tentar exatamente essa troca.\nNa Aula 35 fizemos a primeira intercalação formal com Português. Agora voltamos aos Conhecimentos Específicos e fechamos uma sequência indispensável do Direito Tributário:\nFato gerador → obrigação → lançamento → crédito → suspensão/extinção/exclusão.\nEsta aula é especialmente importante porque a banca pode montar uma questão inteira apenas trocando uma hipótese de uma dessas três categorias.\nA primeira distinção deve ficar automática:\nSUSPENDER ≠ EXTINGUIR ≠ EXCLUIR.\nImagine três situações.\nNa primeira, existe crédito, mas temporariamente ele não pode ser exigido.\nNa segunda, o crédito deixa de existir.\nNa terceira, a própria legislação impede a constituição do crédito em determinadas situações.\nÉ daí que surgem as três categorias.\n1. Suspensão da exigibilidade\nO art. 151 do CTN estabelece hipóteses de suspensão da exigibilidade do crédito tributário.\nUse o mnemônico:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b10",
+      "tipo": "teoria",
+      "titulo": "MOR — DEP — REC — LIM — PAR",
+      "texto": "MORatória\nDEPósito do montante integral\nREClamações e recursos administrativos, nos termos legais\nLIMinar/tutela nas hipóteses previstas\nPARcelamento\nA ideia central é:\nO crédito existe, mas sua exigibilidade está temporariamente suspensa.\nPortanto, se o contribuinte obtém parcelamento, não diga:\n“A dívida foi extinta.”\nEstá errado.\nO parcelamento, em regra:\nSUSPENDE A EXIGIBILIDADE.\nMoratória\nMoratória representa dilação legal do prazo para pagamento, nas condições estabelecidas pelo ordenamento.\nNão confunda:\nMORATÓRIA → suspensão.\nREMISSÃO → extinção.\nA diferença de apenas algumas letras é uma excelente fonte de erro.\nDepósito integral\nOutro ponto importante:\nDEPÓSITO DO MONTANTE INTEGRAL → suspensão.\nA palavra integral merece atenção.\nNão transforme qualquer pagamento ou depósito parcial automaticamente na hipótese do art. 151.\nReclamações e recursos administrativos\nQuando apresentados nas condições previstas pelas leis reguladoras do processo tributário administrativo, também podem suspender a exigibilidade.\nIsso é importante para o trabalho fiscal.\nO contribuinte recebeu determinado lançamento e apresentou impugnação cabível.\nA existência da impugnação não significa automaticamente:\n“O lançamento deixou de existir.”\nNão.\nPrecisamos distinguir:\nexistência do crédito de exigibilidade do crédito.\nEssa distinção será recorrente.\n2. Extinção do crédito tributário\nAgora o crédito não está apenas “congelado”.\nEle é extinto.\nEntre as hipóteses do art. 156 estão:\npagamento; compensação; transação; remissão; prescrição e decadência; conversão de depósito em renda; pagamento antecipado e homologação nos termos legais; consignação em pagamento julgada procedente; decisão administrativa irreformável; decisão judicial passada em julgado; dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.\nNão quero que você apenas decore uma lista. Vamos criar associações.\nPagamento\nÉ a forma mais intuitiva.\nCrédito devido → pagamento → extinção.\nMas cuidado:\npagamento não transforma o tributo em inexistente retroativamente.\nHouve obrigação, houve crédito e ele foi extinto pelo pagamento.\nCompensação\nEm termos simplificados:\ncréditos e débitos podem ser compensados nas condições autorizadas pelo ordenamento.\nNão existe um poder unilateral ilimitado do contribuinte de declarar:\n“Tenho um crédito contra o Município, então descontei meu imposto.”\nA compensação depende de fundamento legal.\nTransação\nTambém depende de disciplina legal.\nNão pense em “negociação livre” como numa compra entre particulares.\nEm Direito Tributário, a Administração continua vinculada à lei.\nRemissão\nEsta palavra precisa ficar gravada:\nREMISSÃO → PERDÃO DO CRÉDITO → EXTINÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-036-b11",
+      "tipo": "comparacao",
+      "titulo": "Compare:",
+      "texto": "MORATÓRIA → prazo/suspensão.\nREMISSÃO → extinção."
+    },
+    {
+      "id": "direito-tributario-aula-036-b12",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha pronta para a IAN.",
+      "texto": "Prescrição e decadência"
+    },
+    {
+      "id": "direito-tributario-aula-036-b13",
+      "tipo": "revisao",
+      "titulo": "Recuperação da Aula 34:",
+      "texto": "DECADÊNCIA → prazo para constituir.\n\nPRESCRIÇÃO → prazo para cobrar judicialmente crédito definitivamente constituído.\n\nApesar de diferentes, ambas aparecem no CTN entre as hipóteses de extinção do crédito tributário.\n\n3. Exclusão do crédito tributário\n\nAgora entramos em outra categoria.\n\nO art. 175 trabalha essencialmente com:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b14",
+      "tipo": "teoria",
+      "titulo": "ISENÇÃO",
+      "texto": "e"
+    },
+    {
+      "id": "direito-tributario-aula-036-b15",
+      "tipo": "teoria",
+      "titulo": "ANISTIA",
+      "texto": "Memória:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b16",
+      "tipo": "teoria",
+      "titulo": "EXCLUSÃO = I + A",
+      "texto": "Isenção\nAnistia\nIsso precisa sair instantaneamente na prova.\nIsenção\nEm termos gerais, a isenção atua sobre o tributo, nos termos estabelecidos em lei.\nNão confunda isenção com imunidade.\nIMUNIDADE → limitação constitucional ao poder de tributar.\nISENÇÃO → decorre da legislação infraconstitucional competente.\nEssa distinção é muito importante.\nA Constituição pode impedir a incidência tributária em determinada situação constitucionalmente protegida.\nIsso é diferente de o ente competente instituir determinada hipótese legal de isenção.\nAnistia\nA anistia está relacionada às infrações/penalidades, nos limites legais.\nMemória:\nANISTIA → PENALIDADE."
+    },
+    {
+      "id": "direito-tributario-aula-036-b17",
+      "tipo": "exemplo",
+      "titulo": "Exemplo mental:",
+      "texto": "Uma legislação concede anistia relativamente a determinadas multas tributárias abrangidas por suas condições.\nNão significa necessariamente:\n“O tributo principal também desapareceu.”\nA banca pode tentar exatamente essa troca.\n4. Exclusão não elimina obrigações acessórias\nEste é um detalhe excelente para prova.\nA exclusão do crédito tributário não dispensa automaticamente o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja excluído ou dela consequentes.\nLembra da Aula 32?\nOBRIGAÇÃO ACESSÓRIA ≠ DEPENDER SEMPRE DE TRIBUTO A PAGAR.\nAs duas matérias se conectam.\nUma empresa pode estar em situação de isenção e ainda possuir deveres de declaração, documentação ou escrituração previstos na legislação.\nPortanto:\nISENTO ≠ LIVRE DE TODA OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA.\n5. Quadro mental definitivo\nQuando aparecer uma situação na prova, faça três perguntas.\nO crédito existe, mas não pode ser exigido agora?\nPense:\nSUSPENSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-036-b18",
+      "tipo": "exemplo",
+      "titulo": "Exemplo-chave:",
+      "texto": "PARCELAMENTO.\nO crédito existia e terminou?\nPense:\nEXTINÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-036-b19",
+      "tipo": "exemplo",
+      "titulo": "Exemplo-chave:",
+      "texto": "PAGAMENTO ou REMISSÃO.\nA legislação impede sua constituição naquela hipótese?\nPense:\nEXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-036-b20",
+      "tipo": "exemplo",
+      "titulo": "Exemplos:",
+      "texto": "ISENÇÃO e ANISTIA.\nAgora transforme em três palavras:\nSUSPENDER → PAUSAR\nEXTINGUIR → TERMINAR\nEXCLUIR → IMPEDIR\nÉ simplificado, mas excelente para resolver questões.\n6. Pegadinhas de alto risco\nSe aparecer:\n“Parcelamento extingue o crédito.”\nAlerta.\nParcelamento → suspensão da exigibilidade.\nSe aparecer:\n“Remissão suspende.”\nAlerta.\nRemissão → extinção.\nSe aparecer:\n“Anistia e isenção são formas de suspensão.”\nAlerta.\nSão hipóteses de exclusão.\nSe aparecer:\n“Prescrição e decadência são formas de suspensão.”\nAlerta.\nO CTN as coloca entre as hipóteses de extinção.\nSe aparecer:\n“Isenção elimina automaticamente todas as obrigações acessórias.”\nAlerta.\nNão é essa a regra.\n7. Conexão com o trabalho do Agente Fiscal\nImagine quatro contribuintes:\nContribuinte A: possui débito parcelado.\nO crédito não desapareceu.\n→ SUSPENSÃO DA EXIGIBILIDADE.\nContribuinte B: pagou integralmente o crédito.\n→ EXTINÇÃO.\nContribuinte C: recebeu remissão regularmente concedida segundo a legislação.\n→ EXTINÇÃO.\nContribuinte D: enquadra-se em hipótese legal de isenção.\n→ EXCLUSÃO.\nO fiscal não pode tratar os quatro casos como equivalentes.\nA consequência jurídica é diferente.\n8. Recuperação cumulativa\nAgora conecte as Aulas 32–36:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b21",
+      "tipo": "teoria",
+      "titulo": "FATO GERADOR",
+      "texto": "↓\nfaz nascer"
+    },
+    {
+      "id": "direito-tributario-aula-036-b22",
+      "tipo": "teoria",
+      "titulo": "OBRIGAÇÃO",
+      "texto": "↓\nautoridade realiza"
+    },
+    {
+      "id": "direito-tributario-aula-036-b23",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO",
+      "texto": "↓\nconstitui"
+    },
+    {
+      "id": "direito-tributario-aula-036-b24",
+      "tipo": "teoria",
+      "titulo": "CRÉDITO TRIBUTÁRIO",
+      "texto": "↓\npode ocorrer:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b25",
+      "tipo": "questao",
+      "titulo": "SUSPENSÃO / EXTINÇÃO / EXCLUSÃO",
+      "texto": "E os dois relógios:\nDECADÊNCIA → constituição\nPRESCRIÇÃO → cobrança\nEssa cadeia é uma das estruturas mais importantes que construímos até agora.",
+      "questionIds": [
+        "direito-tributario-aula-036-q-001"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-036-b26",
+      "tipo": "teoria",
+      "titulo": "Gabarito: B",
+      "texto": "2. É hipótese de extinção:\n\nA) moratória.\nB) reclamação administrativa nas condições legais.\nC) remissão.\nD) isenção."
+    },
+    {
+      "id": "direito-tributario-aula-036-b27",
+      "tipo": "teoria",
+      "titulo": "Gabarito: C",
+      "texto": "3. São hipóteses de exclusão:\n\nA) pagamento e parcelamento.\nB) prescrição e decadência.\nC) isenção e anistia.\nD) moratória e remissão."
+    },
+    {
+      "id": "direito-tributario-aula-036-b28",
+      "tipo": "teoria",
+      "titulo": "Gabarito: C",
+      "texto": "4. É INCORRETO afirmar:\n\nA) parcelamento pode suspender a exigibilidade.\nB) pagamento pode extinguir o crédito.\nC) remissão constitui hipótese de extinção.\nD) anistia constitui modalidade de suspensão."
+    },
+    {
+      "id": "direito-tributario-aula-036-b29",
+      "tipo": "teoria",
+      "titulo": "Gabarito: D",
+      "texto": "5. Uma empresa possui crédito tributário regularmente parcelado. Em regra:\n\nA) o crédito necessariamente deixou de existir.\nB) sua exigibilidade encontra-se suspensa nas condições legais.\nC) ocorreu anistia.\nD) ocorreu imunidade."
+    },
+    {
+      "id": "direito-tributario-aula-036-b30",
+      "tipo": "teoria",
+      "titulo": "Gabarito: B",
+      "texto": "6. Sobre isenção e imunidade:\n\nA) são conceitos necessariamente idênticos.\nB) imunidade possui fundamento constitucional, enquanto isenção decorre da legislação competente.\nC) toda isenção é constitucional.\nD) toda imunidade depende de decisão individual do fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-036-b31",
+      "tipo": "teoria",
+      "titulo": "Gabarito: B",
+      "texto": "7. A anistia relaciona-se especialmente:\n\nA) às penalidades decorrentes de infrações abrangidas pela lei.\nB) à criação de impostos.\nC) à competência tributária.\nD) ao fato gerador do IPTU exclusivamente."
+    },
+    {
+      "id": "direito-tributario-aula-036-b32",
+      "tipo": "teoria",
+      "titulo": "Gabarito: A",
+      "texto": "8. Recuperação da Aula 34. Decadência e prescrição relacionam-se, respectivamente:\n\nA) cobrança e lançamento.\nB) constituição e cobrança.\nC) pagamento e imunidade.\nD) exclusão e suspensão."
+    },
+    {
+      "id": "direito-tributario-aula-036-b33",
+      "tipo": "teoria",
+      "titulo": "Gabarito: B",
+      "texto": "9. Recuperação da Aula 33. O lançamento:\n\nA) constitui o crédito tributário.\nB) cria a competência municipal.\nC) cria necessariamente o fato gerador.\nD) é atividade discricionária."
+    },
+    {
+      "id": "direito-tributario-aula-036-b34",
+      "tipo": "teoria",
+      "titulo": "Gabarito: A",
+      "texto": "10. Recuperação de Português. Leia:\n\n“Alguns créditos tiveram sua exigibilidade suspensa.”\n\nÉ possível afirmar corretamente que:\n\nA) todos os créditos foram extintos.\nB) nenhum crédito permanece existente.\nC) pelo menos parte dos créditos mencionados teve a exigibilidade suspensa.\nD) todos os contribuintes receberam remissão."
+    },
+    {
+      "id": "direito-tributario-aula-036-b35",
+      "tipo": "teoria",
+      "titulo": "Gabarito: C",
+      "texto": "Observe que a questão 10 mistura Português + Tributário. É exatamente esse tipo de intercalação que começaremos a intensificar."
+    },
+    {
+      "id": "direito-tributario-aula-036-b36",
+      "tipo": "regra-de-prova",
+      "titulo": "Regra de ouro da Aula 36",
+      "texto": "PARCELAMENTO PAUSA.\nREMISSÃO TERMINA.\nISENÇÃO E ANISTIA EXCLUEM.\nE nunca esqueça:\nMORATÓRIA ≠ REMISSÃO.\nSituação de domínio\nSuspensão, extinção e exclusão: EM APRENDIZAGEM.\nDecadência e prescrição: EM APRENDIZAGEM.\nLançamento: EM APRENDIZAGEM.\nInterpretação de textos: EM APRENDIZAGEM.\nNenhum desses conteúdos será classificado como dominado enquanto não houver resposta e posterior retenção em questões intercaladas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-036-q-001",
+      "lessonId": "direito-tributario-aula-036",
+      "numero": 9,
+      "question": "Teste cumulativo — padrão de prova 1. Constitui hipótese de suspensão da exigibilidade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "remissão."
+        },
+        {
+          "id": "B",
+          "text": "parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "anistia."
+        },
+        {
+          "id": "D",
+          "text": "pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Crédito tributário: suspensão, extinção e exclusão"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-036-b5",
+      "titulo": "Recuperação da Aula 34:",
+      "texto": "DECADÊNCIA → prazo para constituir.\n\nPRESCRIÇÃO → prazo para cobrar judicialmente crédito definitivamente constituído.\n\nApesar de diferentes, ambas aparecem no CTN entre as hipóteses de extinção do crédito tributário.\n\n3. Exclusão do crédito tributário\n\nAgora entramos em outra categoria.\n\nO art. 175 trabalha essencialmente com:"
+    },
+    {
+      "id": "direito-tributario-aula-036-b13",
+      "titulo": "Recuperação da Aula 34:",
+      "texto": "DECADÊNCIA → prazo para constituir.\n\nPRESCRIÇÃO → prazo para cobrar judicialmente crédito definitivamente constituído.\n\nApesar de diferentes, ambas aparecem no CTN entre as hipóteses de extinção do crédito tributário.\n\n3. Exclusão do crédito tributário\n\nAgora entramos em outra categoria.\n\nO art. 175 trabalha essencialmente com:"
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "ee769738f7f9b358"
+}

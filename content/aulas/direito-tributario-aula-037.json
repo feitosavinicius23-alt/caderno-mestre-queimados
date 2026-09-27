@@ -1,0 +1,454 @@
+{
+  "id": "direito-tributario-aula-037",
+  "numero": 37,
+  "titulo": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+  "slug": "credito-tributario-revisao-ativa-e-discriminacao-entre-suspensao-extincao-e-excl",
+  "disciplina": "Direito Tributário",
+  "assunto": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+  "ordem": 37,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "PARCELAMENTO PAUSA; REMISSÃO TERMINA; ISENÇÃO E ANISTIA EXCLUEM. DECADÊNCIA OLHA PARA A CONSTITUIÇÃO; PRESCRIÇÃO, PARA A COBRANÇA.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-037-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO DA AULA",
+      "texto": "Esta aula não abre matéria nova. Ela consolida a Aula 36 por recuperação ativa e intercalação com lançamento, decadência, prescrição e interpretação. A meta é impedir o erro mais comum: reconhecer o instituto isoladamente, mas confundi-lo quando a banca mistura categorias."
+    },
+    {
+      "id": "direito-tributario-aula-037-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO SEM CONSULTA",
+      "texto": "Antes de reler qualquer regra, tente completar mentalmente:\n• Parcelamento → ______ da exigibilidade.\n• Remissão → ______ do crédito.\n• Isenção e anistia → ______ do crédito.\n• Decadência → prazo ligado à ______ do crédito.\n• Prescrição → prazo ligado à ______ judicial.\n• Lançamento → ______ o crédito tributário.\n\nA cadeia lógica continua sendo:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO TRIBUTÁRIO.\nDepois de constituído o crédito, podem ocorrer fenômenos distintos. A banca explora exatamente a troca de rótulos entre eles."
+    },
+    {
+      "id": "direito-tributario-aula-037-b3",
+      "tipo": "teoria",
+      "titulo": "2. TRÊS CAIXAS MENTAIS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-037-b4",
+      "tipo": "teoria",
+      "titulo": "CAIXA 1 — SUSPENSÃO DA EXIGIBILIDADE",
+      "texto": "O crédito não desaparece; sua cobrança fica temporariamente impedida nas hipóteses legais."
+    },
+    {
+      "id": "direito-tributario-aula-037-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 151 do CTN: moratória; depósito do montante integral; reclamações e recursos administrativos nos termos legais; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; parcelamento."
+    },
+    {
+      "id": "direito-tributario-aula-037-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Macete: MOR–DEP–REC–LIM–PAR."
+    },
+    {
+      "id": "direito-tributario-aula-037-b7",
+      "tipo": "teoria",
+      "titulo": "CAIXA 2 — EXTINÇÃO",
+      "texto": "Aqui o crédito termina juridicamente por uma das hipóteses legais. Para esta etapa, fixe sobretudo: pagamento, compensação, transação, remissão, prescrição e decadência, além das demais hipóteses do art. 156 do CTN."
+    },
+    {
+      "id": "direito-tributario-aula-037-b8",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha central: REMISSÃO é extinção; MORATÓRIA é suspensão.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-037-b9",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 175 do CTN: ISENÇÃO e ANISTIA."
+    },
+    {
+      "id": "direito-tributario-aula-037-b10",
+      "tipo": "teoria",
+      "titulo": "CAIXA 3 — EXCLUSÃO",
+      "texto": "Macete: EXCLUSÃO = I + A.\nA exclusão não dispensa automaticamente o cumprimento das obrigações acessórias dependentes da obrigação principal ou dela consequentes."
+    },
+    {
+      "id": "direito-tributario-aula-037-b11",
+      "tipo": "teoria",
+      "titulo": "3. COMO A BANCA TROCA AS PEÇAS",
+      "texto": "Troca 1: “parcelamento extingue”. Errado. Parcelamento suspende a exigibilidade.\nTroca 2: “remissão exclui”. Errado. Remissão extingue.\nTroca 3: “anistia extingue”. Errado. Anistia integra a exclusão.\nTroca 4: “depósito integral extingue”. Errado. Depósito integral suspende a exigibilidade.\nTroca 5: “prescrição suspende”. Errado. Prescrição integra as hipóteses de extinção.\nTroca 6: “isenção dispensa toda obrigação acessória”. Errado como regra geral."
+    },
+    {
+      "id": "direito-tributario-aula-037-b12",
+      "tipo": "teoria",
+      "titulo": "4. INTERCALAÇÃO COM AS AULAS ANTERIORES",
+      "texto": "Não confunda existência do crédito com exigibilidade. Um crédito pode existir e estar com exigibilidade suspensa. Por isso, a expressão “suspensão da exigibilidade” é tecnicamente importante.\nTambém não confunda decadência com prescrição:\nDECADÊNCIA → relógio da constituição.\nPRESCRIÇÃO → relógio da cobrança.\nE lembre: o lançamento constitui o crédito tributário. Essa sequência permite eliminar alternativas que afirmem que parcelamento, moratória ou pagamento “constituem” o crédito."
+    },
+    {
+      "id": "direito-tributario-aula-037-b13",
+      "tipo": "teoria",
+      "titulo": "5. TÉCNICA DE PROVA — PALAVRA-GATILHO",
+      "texto": "Ao ler uma alternativa, circule mentalmente o verbo jurídico:\n• suspende;\n• extingue;\n• exclui;\n• constitui;\n• cobra.\nDepois compare o verbo com o instituto. Muitas questões ficam erradas por uma única palavra."
+    },
+    {
+      "id": "direito-tributario-aula-037-b14",
+      "tipo": "teoria",
+      "titulo": "6. MINI-CASOS",
+      "texto": "Caso A: contribuinte impugna administrativamente o lançamento, observadas as regras do processo tributário. O crédito não é apagado por isso; a hipótese pode suspender sua exigibilidade.\nCaso B: contribuinte paga integralmente o crédito. Aqui não há mera pausa: há hipótese de extinção.\nCaso C: lei concede isenção para situação nela definida. A categoria a recordar é exclusão.\nCaso D: contribuinte obtém parcelamento. A dívida não se transforma em inexistente; a exigibilidade fica suspensa enquanto observadas as condições legais.\nCaso E: ocorre remissão regularmente concedida. Não confunda com moratória: remissão é hipótese de extinção."
+    },
+    {
+      "id": "direito-tributario-aula-037-b15",
+      "tipo": "questao",
+      "titulo": "7. TESTE CUMULATIVO — RESPONDA SEM CONSULTAR O GABARITO",
+      "texto": "Não há respostas reveladas nesta aula antes da sua tentativa.",
+      "questionIds": [
+        "direito-tributario-aula-037-q-001",
+        "direito-tributario-aula-037-q-002",
+        "direito-tributario-aula-037-q-003",
+        "direito-tributario-aula-037-q-004",
+        "direito-tributario-aula-037-q-005",
+        "direito-tributario-aula-037-q-006",
+        "direito-tributario-aula-037-q-007",
+        "direito-tributario-aula-037-q-008",
+        "direito-tributario-aula-037-q-009",
+        "direito-tributario-aula-037-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-037-b16",
+      "tipo": "caderno-de-erros",
+      "titulo": "8. CADERNO DE ERROS",
+      "texto": "Ainda não há correção desta bateria porque a resposta do aluno deve vir antes do gabarito. Após a resposta, registrar para cada erro: alternativa marcada; causa provável; regra correta; mecanismo da pegadinha; data de revisão futura."
+    },
+    {
+      "id": "direito-tributario-aula-037-b17",
+      "tipo": "teoria",
+      "titulo": "9. REGRA DE RETENÇÃO",
+      "texto": "Acertar hoje não significa domínio. Este bloco deverá reaparecer misturado com outros assuntos em revisão posterior. Só haverá status DOMINADO após retenção em questões cumulativas e intercaladas."
+    },
+    {
+      "id": "direito-tributario-aula-037-b18",
+      "tipo": "fechamento",
+      "titulo": "REGRA FINAL DA AULA",
+      "texto": "PARCELAMENTO PAUSA; REMISSÃO TERMINA; ISENÇÃO E ANISTIA EXCLUEM. DECADÊNCIA OLHA PARA A CONSTITUIÇÃO; PRESCRIÇÃO, PARA A COBRANÇA."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-037-q-001",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 1,
+      "question": "Assinale a alternativa que contém somente hipóteses de suspensão da exigibilidade do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "moratória e parcelamento."
+        },
+        {
+          "id": "B",
+          "text": "remissão e parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "pagamento e depósito integral."
+        },
+        {
+          "id": "D",
+          "text": "isenção e anistia."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-002",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 2,
+      "question": "A remissão é classificada pelo CTN como hipótese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "constituição do crédito."
+        },
+        {
+          "id": "B",
+          "text": "suspensão da exigibilidade."
+        },
+        {
+          "id": "C",
+          "text": "extinção do crédito."
+        },
+        {
+          "id": "D",
+          "text": "exclusão do crédito."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-003",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 3,
+      "question": "São hipóteses de exclusão do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "isenção e anistia."
+        },
+        {
+          "id": "B",
+          "text": "prescrição e decadência."
+        },
+        {
+          "id": "C",
+          "text": "moratória e parcelamento."
+        },
+        {
+          "id": "D",
+          "text": "pagamento e compensação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-004",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 4,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o depósito do montante integral pode suspender a exigibilidade."
+        },
+        {
+          "id": "B",
+          "text": "o parcelamento pode suspender a exigibilidade."
+        },
+        {
+          "id": "C",
+          "text": "a remissão extingue o crédito tributário."
+        },
+        {
+          "id": "D",
+          "text": "a anistia é modalidade de extinção do crédito tributário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-005",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 5,
+      "question": "Um crédito regularmente constituído foi parcelado. A conclusão tecnicamente adequada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o crédito foi necessariamente extinto."
+        },
+        {
+          "id": "B",
+          "text": "ocorreu imunidade tributária."
+        },
+        {
+          "id": "C",
+          "text": "sua exigibilidade encontra-se suspensa nas condições legais."
+        },
+        {
+          "id": "D",
+          "text": "ocorreu remissão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-006",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 6,
+      "question": "Assinale a associação correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decadência → cobrança judicial; prescrição → constituição."
+        },
+        {
+          "id": "B",
+          "text": "decadência → constituição; prescrição → cobrança."
+        },
+        {
+          "id": "C",
+          "text": "decadência → exclusão; prescrição → suspensão."
+        },
+        {
+          "id": "D",
+          "text": "decadência → parcelamento; prescrição → anistia."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-007",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 7,
+      "question": "O lançamento tributário, na cadeia estudada:",
+      "options": [
+        {
+          "id": "A",
+          "text": "constitui o crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "extingue automaticamente o crédito."
+        },
+        {
+          "id": "C",
+          "text": "equivale a parcelamento."
+        },
+        {
+          "id": "D",
+          "text": "é hipótese de exclusão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-008",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 8,
+      "question": "Leia: “Alguns créditos foram parcelados após a notificação.” A conclusão autorizada pelo texto é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "todos os créditos foram parcelados."
+        },
+        {
+          "id": "B",
+          "text": "nenhum crédito permaneceu existente."
+        },
+        {
+          "id": "C",
+          "text": "pelo menos parte dos créditos mencionados foi parcelada."
+        },
+        {
+          "id": "D",
+          "text": "todos os créditos foram remitidos."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-009",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 9,
+      "question": "Assinale a alternativa que apresenta uma troca conceitual típica de pegadinha:",
+      "options": [
+        {
+          "id": "A",
+          "text": "parcelamento — suspensão."
+        },
+        {
+          "id": "B",
+          "text": "pagamento — extinção."
+        },
+        {
+          "id": "C",
+          "text": "isenção — exclusão."
+        },
+        {
+          "id": "D",
+          "text": "remissão — suspensão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-037-q-010",
+      "lessonId": "direito-tributario-aula-037",
+      "numero": 10,
+      "question": "EXCETO: todas as alternativas apresentam institutos associados corretamente, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "moratória — suspensão."
+        },
+        {
+          "id": "B",
+          "text": "anistia — exclusão."
+        },
+        {
+          "id": "C",
+          "text": "prescrição — extinção."
+        },
+        {
+          "id": "D",
+          "text": "parcelamento — extinção."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-037-b2",
+      "titulo": "1. RECUPERAÇÃO SEM CONSULTA",
+      "texto": "Antes de reler qualquer regra, tente completar mentalmente:\n• Parcelamento → ______ da exigibilidade.\n• Remissão → ______ do crédito.\n• Isenção e anistia → ______ do crédito.\n• Decadência → prazo ligado à ______ do crédito.\n• Prescrição → prazo ligado à ______ judicial.\n• Lançamento → ______ o crédito tributário.\n\nA cadeia lógica continua sendo:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO TRIBUTÁRIO.\nDepois de constituído o crédito, podem ocorrer fenômenos distintos. A banca explora exatamente a troca de rótulos entre eles."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-037-b5",
+      "titulo": "CAIXA 1 — SUSPENSÃO DA EXIGIBILIDADE",
+      "texto": "Art. 151 do CTN: moratória; depósito do montante integral; reclamações e recursos administrativos nos termos legais; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; parcelamento."
+    },
+    {
+      "id": "direito-tributario-aula-037-b9",
+      "titulo": "CAIXA 3 — EXCLUSÃO",
+      "texto": "Art. 175 do CTN: ISENÇÃO e ANISTIA."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "e26f4fad0e2333db"
+}

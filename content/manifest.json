@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 7,
+  "contentVersion": 8,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-27T13:52:43.756Z",
-  "contentHashGlobal": "e535a08c89a92bf9",
-  "totalAulas": 35,
-  "totalQuestoes": 137,
+  "ultimaSincronizacao": "2026-09-27T18:15:51.782Z",
+  "contentHashGlobal": "0c098259aa47da3a",
+  "totalAulas": 37,
+  "totalQuestoes": 148,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -40,7 +40,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-003.json",
-      "hash": "f47623ad405a398d",
+      "hash": "6b42eab4f3345b12",
       "totalQuestoes": 5,
       "ultimaAtualizacao": "2026-09-27"
     },
@@ -281,6 +281,30 @@
       "assunto": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
       "arquivo": "aulas/direito-tributario-aula-034.json",
       "hash": "48e0e48c6156d4d0",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-27"
+    },
+    {
+      "id": "direito-tributario-aula-036",
+      "numero": 36,
+      "titulo": "Crédito tributário: suspensão, extinção e exclusão",
+      "slug": "credito-tributario-suspensao-extincao-e-exclusao",
+      "disciplina": "Direito Tributário",
+      "assunto": "Crédito tributário: suspensão, extinção e exclusão",
+      "arquivo": "aulas/direito-tributario-aula-036.json",
+      "hash": "ee769738f7f9b358",
+      "totalQuestoes": 1,
+      "ultimaAtualizacao": "2026-09-27"
+    },
+    {
+      "id": "direito-tributario-aula-037",
+      "numero": 37,
+      "titulo": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+      "slug": "credito-tributario-revisao-ativa-e-discriminacao-entre-suspensao-extincao-e-excl",
+      "disciplina": "Direito Tributário",
+      "assunto": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+      "arquivo": "aulas/direito-tributario-aula-037.json",
+      "hash": "e26f4fad0e2333db",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-09-27"
     },

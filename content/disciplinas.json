@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 23,
-    "totalQuestoes": 121,
-    "tempoEstimadoMin": 96,
+    "totalAulas": 25,
+    "totalQuestoes": 132,
+    "tempoEstimadoMin": 109,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -28,7 +28,9 @@
       "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
       "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
       "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
-      "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+      "Decadência e prescrição tributárias: os dois relógios de 5 anos",
+      "Crédito tributário: suspensão, extinção e exclusão",
+      "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     ],
     "aulas": [
       {
@@ -168,6 +170,18 @@
         "numero": 34,
         "titulo": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
         "slug": "decadencia-e-prescricao-tributarias-os-dois-relogios-de-5-anos"
+      },
+      {
+        "id": "direito-tributario-aula-036",
+        "numero": 36,
+        "titulo": "Crédito tributário: suspensão, extinção e exclusão",
+        "slug": "credito-tributario-suspensao-extincao-e-exclusao"
+      },
+      {
+        "id": "direito-tributario-aula-037",
+        "numero": 37,
+        "titulo": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+        "slug": "credito-tributario-revisao-ativa-e-discriminacao-entre-suspensao-extincao-e-excl"
       }
     ]
   },
