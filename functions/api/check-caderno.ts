@@ -20,7 +20,7 @@ async function hashText(text: string) {
 export const onRequestGet = async ({ request }: { request: Request }) => {
   try {
     const [documentResponse, deployedResponse] = await Promise.all([
-      fetch(DOC_URL, { headers: { accept: 'text/plain' } }),
+      fetch(DOC_URL),
       fetch(new URL('/sync-source.json', request.url), { cache: 'no-store' }),
     ]);
 
