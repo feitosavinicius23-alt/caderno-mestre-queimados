@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /status-sync
+
+Sitemap: https://caderno-mestre-queimados.pages.dev/sitemap.xml

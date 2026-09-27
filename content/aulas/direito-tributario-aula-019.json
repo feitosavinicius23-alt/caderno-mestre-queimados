@@ -1,0 +1,38 @@
+{
+  "id": "direito-tributario-aula-019",
+  "numero": 19,
+  "titulo": "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
+  "slug": "revisao-cumulativa-de-direito-tributario-municipal",
+  "disciplina": "Direito Tributário",
+  "assunto": "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
+  "ordem": 19,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 2,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-019-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Aula de consolidação antes de novo bloco. ITBI, ISS, taxas, contribuição de melhoria, Administração Tributária e Processo Administrativo permanecem em aprendizagem até retenção comprovada em questões misturadas.\nMAPA INTEGRADO: FATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO → EXIGIBILIDADE → PAGAMENTO/EXTINÇÃO OU INADIMPLEMENTO → DÍVIDA ATIVA → COBRANÇA.\nTRÊS IMPOSTOS MUNICIPAIS: IPTU → propriedade/domínio útil/posse urbana; base = valor venal. ITBI → transmissão inter vivos onerosa; competência = Município da situação do bem. ISS → prestação de serviço da lista da LC 116; base = preço do serviço; regra territorial do estabelecimento prestador com exceções.\nTRIBUTOS VINCULADOS: taxa → poder de polícia ou serviço específico e divisível, com utilização efetiva ou potencial nas condições legais. Contribuição de melhoria → obra pública + valorização imobiliária; limite total = despesa da obra; limite individual = valorização do imóvel.\nCRÉDITO: suspensão mantém o crédito e impede temporariamente sua exigência; parcelamento suspende. Extinção encerra; pagamento e remissão extinguem. Exclusão = isenção e anistia. Depósito integral suspende; conversão em renda extingue.\nPROCESSO ADMINISTRATIVO: auto/lançamento → ciência → impugnação → instrução → julgamento → recurso, quando cabível. Reclamações e recursos nas condições do art. 151, III, podem suspender a exigibilidade.\nADMINISTRAÇÃO TRIBUTÁRIA: fiscalização conforme lei; regra de sigilo fiscal; crédito constituído e não pago pode ser inscrito em dívida ativa nas condições legais. Dívida ativa regularmente inscrita possui presunção RELATIVA de certeza e liquidez.\nCND/CPEN: art. 206 contempla créditos não vencidos, em execução com penhora efetivada e com exigibilidade suspensa. DECADÊNCIA = constituir. PRESCRIÇÃO = cobrar."
+    },
+    {
+      "id": "direito-tributario-aula-019-b2",
+      "tipo": "teoria",
+      "titulo": "SIMULADO — SEM GABARITO ANTECIPADO",
+      "texto": "1. Crédito parcelado: A extingue B suspende exigibilidade C anistia D obrigação acessória.\n2. É INCORRETO: A IPTU base valor venal B ISS base preço C ITBI inter vivos oneroso D ITBI estadual.\n3. Obra de R$5 mi valoriza imóvel em R$40 mil: A limite individual R$5 mi B valorização é relevante C valorização irrelevante D taxa.\n4. I taxa exige especificidade/divisibilidade; II uso potencial pode importar; III serviço geral/indivisível basta; IV taxa pode decorrer do poder de polícia. A I/II B I/II/IV C II/III/IV D todas.\n5. Dívida ativa regular: A presunção absoluta B relativa C nenhuma D imunidade.\n6. Impugnação cabível: A extingue B pode suspender C remite D prescreve.\n7. Serviço da lista não preponderante: A impede ISS B não impede por si só C vira ICMS D federal.\n8. ITBI com imóvel em Queimados: A domicílio comprador B vendedor C situação do imóvel D local do preço.\n9. É INCORRETO: A decadência=constituir B prescrição=cobrar C mesmos marcos sempre D ambas art.156.\n10. Crédito com exigibilidade suspensa: A pode CPEN B só positiva C suspensão=extinção D anistia.\n11. Informação econômica obtida pelo fiscal: A livre B sigilo com exceções legais C publicação D sem sigilo municipal.\n12. Sequência: A fato→dívida→obrigação→lançamento B lançamento→fato→obrigação→crédito C fato→obrigação→lançamento→crédito D obrigação→prescrição→fato→crédito."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "0478921bcb1f3b55"
+}

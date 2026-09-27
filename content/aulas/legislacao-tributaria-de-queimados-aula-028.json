@@ -1,0 +1,38 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-028",
+  "numero": 28,
+  "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
+  "slug": "codigo-tributario-de-queimados-iss-local-incidencia-local-responsabilidade-e-fis",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
+  "ordem": 28,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-028-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 27. Agora aplicamos ao Município o terceiro imposto municipal: ISS. A estrutura de prova é: CONSTITUIÇÃO → LC 116/2003 → LEGISLAÇÃO DE QUEIMADOS.\nMEMÓRIA CENTRAL: ISS → PRESTAÇÃO DE SERVIÇO DA LISTA → BASE, EM REGRA, PREÇO DO SERVIÇO → REGRA TERRITORIAL DO ESTABELECIMENTO PRESTADOR, COM EXCEÇÕES LEGAIS.\n1. INCIDÊNCIA. O ISS alcança a prestação dos serviços constantes da lista da LC 116/2003, ainda que o serviço não seja a atividade preponderante do prestador. A lei municipal não pode criar livremente serviço tributável fora da disciplina nacional.\n2. NÃO CONFUNDA RECEITA COM SERVIÇO. A existência de entrada financeira na empresa não basta para concluir pela incidência do ISS. O fiscal deve identificar a prestação juridicamente enquadrável na lista e a regra aplicável.\n3. LOCAL DA INCIDÊNCIA. Regra geral: imposto devido no local do estabelecimento prestador ou, na falta, no domicílio do prestador. Porém, o art. 3º da LC 116 contém exceções. Portanto, “ISS é sempre devido onde está a sede” é uma típica alternativa errada. Além disso, estabelecimento prestador não se reduz ao endereço formal da matriz: importa a unidade econômica ou profissional em que a atividade é desenvolvida nas condições legais.\n4. CONTRIBUINTE E RESPONSÁVEL. Contribuinte é o prestador. A legislação pode atribuir responsabilidade a terceiro vinculado ao fato gerador, inclusive retenção/recolhimento nas hipóteses legais. CONTRIBUINTE ≠ RESPONSÁVEL. O tomador não vira contribuinte apenas porque a lei lhe atribui responsabilidade.\n5. BASE DE CÁLCULO. Regra central: PREÇO DO SERVIÇO. Compare: IPTU → valor venal do imóvel; ISS → preço do serviço. Não aceite inversões.\n6. ALÍQUOTAS. A disciplina nacional estabelece limites para o ISS. Para a primeira volta, retenha: alíquota máxima de 5% e regra nacional de alíquota mínima de 2%, observadas as exceções legais. Benefício municipal não pode ser inventado pelo fiscal nem utilizado para contornar limites nacionais fora das hipóteses admitidas.\n7. SERVIÇO DO EXTERIOR E EXPORTAÇÃO. Serviço proveniente do exterior ou iniciado no exterior pode sofrer ISS nas hipóteses legais. Já exportação de serviços possui regra de não incidência, mas pagamento vindo do exterior, sozinho, não basta: deve-se observar a disciplina do resultado do serviço.\n8. ISS x ICMS. Em operações mistas, não use a fórmula “tem mercadoria, então nunca há ISS”. É necessário ler o item da lista e suas ressalvas, separando a competência municipal da estadual.\n9. FISCALIZAÇÃO LOCAL. Para o Agente Fiscal, a sequência prática é: identificar prestador e atividade → verificar item da lista → definir local da incidência → verificar base/preço → alíquota → eventual retenção/responsabilidade → obrigações acessórias/documentos → lançamento ou revisão, quando cabível → ciência e defesa. O fiscal não pode pular do “há empresa” para “há ISS devido”.\n10. OBRIGAÇÕES ACESSÓRIAS. Cadastro mobiliário, emissão de documentos fiscais, declarações e registros são instrumentos de fiscalização quando previstos na legislação. Descumprimento de obrigação acessória pode gerar penalidade pecuniária; MULTA NÃO É TRIBUTO, embora o dever de pagá-la possa integrar obrigação principal.\n11. PEGADINHAS IAN. Serviço precisa ser atividade preponderante; ISS sempre devido na sede; tomador sempre contribuinte; base = valor venal; qualquer receita empresarial sofre ISS; todo serviço pago do exterior é exportação; toda operação com mercadoria exclui ISS; Município pode criar qualquer serviço tributável; palavras SEMPRE, SOMENTE, AUTOMATICAMENTE e NECESSARIAMENTE.\nMAPA DE RETENÇÃO: ISS → Município/DF; serviço da lista; preponderância não é requisito; base = preço do serviço; contribuinte = prestador; responsabilidade pode alcançar terceiro conforme lei; local = regra do estabelecimento prestador + exceções; exterior/exportação exigem leitura da LC 116; fiscalização = enquadramento legal, não presunção."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-028-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. Serviço da lista da LC 116 que não é atividade preponderante do prestador: A nunca sofre ISS B pode sofrer ISS nas condições legais C vira ICMS D depende apenas do CNPJ.\n2. É INCORRETO: A base do ISS é em regra o preço do serviço B contribuinte é o prestador C ISS é sempre devido no local da sede sem exceção D LC 116 disciplina serviço do exterior.\n3. Empresa recebe pagamento estrangeiro por serviço desenvolvido no Brasil cujo resultado aqui se verifica. A origem do pagamento: A basta para afastar ISS B não basta por si só; observar requisitos e resultado C transforma em imposto federal D extingue obrigação.\n4. Associação correta: A IPTU→preço/ISS→venal B IPTU→venal/ISS→preço C ITBI→renda/ISS→venal D ISS→móveis do estabelecimento.\n5. I serviço não precisa ser preponderante; II art. 3º tem exceções territoriais; III relação de emprego é necessariamente ISS; IV máxima nacional 5%. A I/II B I/II/IV C II/III/IV D todas.\n6. Município inclui atividade sem correspondência com a disciplina nacional: A válido porque competência é ilimitada B inválido; deve observar Constituição e LC 116 C válido em capitais D válido se alíquota menor que 5%.\n7. Responsável por retenção: A vira necessariamente contribuinte B pode ser terceiro responsável conforme lei, sem se confundir com contribuinte C nunca existe D é escolhido informalmente pelo fiscal.\n8. Intercalado ITBI: competência territorial segue A comprador B vendedor C situação do imóvel D cartório.\n9. Intercalado IPTU: base A preço do serviço B valor venal C renda D faturamento.\n10. Intercalado crédito: parcelamento A extingue B suspende exigibilidade C exclui D imuniza.\n\nSem respostas registradas de Vinícius, ISS local e os temas intercalados continuam EM APRENDIZAGEM. Nenhum assunto é marcado como dominado sem recuperação posterior misturada.\n\nRECUPERAÇÃO DE 60 SEGUNDOS — SEM CONSULTA: ISS exige atividade preponderante? Qual é a base? Qual é a regra geral territorial? Existem exceções? Quem é contribuinte? Responsável é sinônimo de contribuinte? Pagamento vindo do exterior basta para caracterizar exportação? ITBI segue qual Município? IPTU tem qual base? Parcelamento suspende ou extingue?\n\nFRASE FINAL: NO ISS, NÃO BASTA VER FATURAMENTO. O AGENTE FISCAL PRECISA IDENTIFICAR A PRESTAÇÃO, ENQUADRÁ-LA NA LISTA, DEFINIR O LOCAL, O PREÇO, A RESPONSABILIDADE E AS OBRIGAÇÕES APLICÁVEIS. A REGRA DO ESTABELECIMENTO PRESTADOR TEM EXCEÇÕES; A BASE, EM REGRA, É O PREÇO DO SERVIÇO."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "5393e1d9a3a6f2a4"
+}

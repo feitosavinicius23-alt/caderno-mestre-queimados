@@ -1,0 +1,20 @@
+{
+  "_comentario": [
+    "Mapeamento de AULA -> DISCIPLINA.",
+    "O Caderno Mestre declara a disciplina explicitamente apenas na Aula 1 ('Aula 1 — Direito Tributário').",
+    "Para as demais, a disciplina é inferida a partir das PALAVRAS DO PRÓPRIO TÍTULO da aula, usando as",
+    "regras abaixo. Nada é inventado: os rótulos reutilizam a terminologia do documento.",
+    "",
+    "COMO CORRIGIR: edite 'porNumero' para fixar a disciplina de uma aula específica.",
+    "'porNumero' tem prioridade sobre 'regras'. Depois rode: npm run import-caderno",
+    "Este arquivo é CONFIGURAÇÃO — o script de sincronização nunca o reescreve."
+  ],
+  "padrao": "Direito Tributário",
+  "regras": [
+    { "contemNoTitulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS", "disciplina": "Legislação Tributária de Queimados" },
+    { "contemNoTitulo": "EM QUEIMADOS", "disciplina": "Legislação Tributária de Queimados" },
+    { "contemNoTitulo": "RECEITAS PÚBLICAS", "disciplina": "Receitas Públicas" },
+    { "contemNoTitulo": "RESPONSABILIDADE FISCAL NA RECEITA", "disciplina": "Receitas Públicas" }
+  ],
+  "porNumero": {}
+}

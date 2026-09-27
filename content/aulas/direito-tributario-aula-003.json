@@ -1,0 +1,300 @@
+{
+  "id": "direito-tributario-aula-003",
+  "numero": 3,
+  "titulo": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+  "slug": "suspensao-da-exigibilidade-do-credito-tributario",
+  "disciplina": "Direito Tributário",
+  "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+  "ordem": 3,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-003-b1",
+      "tipo": "missao-do-dia",
+      "titulo": "MISSÃO DO DIA — 4 HORAS EM 3 BLOCOS",
+      "texto": "Hoje o estudo será dividido em três aulas. Aula 1: suspensão da exigibilidade do crédito tributário. Aula 2: extinção do crédito tributário. Aula 3: exclusão do crédito tributário + revisão comparativa e questões. A meta não é decorar listas isoladas: é conseguir distinguir SUSPENDER, EXTINGUIR e EXCLUIR quando a IAN trocar uma palavra da alternativa.",
+      "missaoId": "direito-tributario-aula-003-missao"
+    },
+    {
+      "id": "direito-tributario-aula-003-b2",
+      "tipo": "teoria",
+      "titulo": "BLOCO 1 — SUSPENSÃO DA EXIGIBILIDADE",
+      "texto": "Na aula anterior, construímos a sequência:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO TRIBUTÁRIO.\nAgora imagine que o crédito já existe, mas ocorre uma situação legal que impede temporariamente sua exigência.\nEssa é a ideia de SUSPENSÃO DA EXIGIBILIDADE.\nMemória principal:\nSUSPENDER ≠ APAGAR.\nSUSPENDER = PARAR TEMPORARIAMENTE A EXIGÊNCIA.\nO CTN reúne seis hipóteses no art. 151:"
+    },
+    {
+      "id": "direito-tributario-aula-003-b3",
+      "tipo": "teoria",
+      "titulo": "MORATÓRIA;",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-003-b4",
+      "tipo": "teoria",
+      "titulo": "DEPÓSITO DO MONTANTE INTEGRAL;",
+      "texto": "RECLAMAÇÕES E RECURSOS ADMINISTRATIVOS, nos termos das leis reguladoras do processo tributário administrativo;"
+    },
+    {
+      "id": "direito-tributario-aula-003-b5",
+      "tipo": "teoria",
+      "titulo": "CONCESSÃO DE MEDIDA LIMINAR EM MANDADO DE SEGURANÇA;",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-003-b6",
+      "tipo": "teoria",
+      "titulo": "CONCESSÃO DE MEDIDA LIMINAR OU TUTELA ANTECIPADA EM OUTRAS ESPÉCIES DE AÇÃO JUDICIAL;",
+      "texto": "PARCELAMENTO.\nPara memorizar, pense em três famílias:\nTEMPO → moratória e parcelamento.\nGARANTIA/CONTENCIOSO → depósito integral e reclamações/recursos administrativos.\nJUDICIAL → liminar em MS e liminar/tutela em outras ações."
+    },
+    {
+      "id": "direito-tributario-aula-003-b7",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 1 — PARCELAMENTO",
+      "texto": "Parcelamento SUSPENDE a exigibilidade do crédito tributário.\nNão confunda com pagamento. Pagamento é hipótese de EXTINÇÃO, que veremos na próxima aula.\nSe a alternativa disser “o parcelamento extingue imediatamente o crédito tributário”, acenda o alerta.\nPARCELAMENTO → SUSPENDE.\nPAGAMENTO → EXTINGUE."
+    },
+    {
+      "id": "direito-tributario-aula-003-b8",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 2 — DEPÓSITO",
+      "texto": "O CTN fala em depósito do MONTANTE INTEGRAL.\nA palavra “integral” é material excelente para distrator. Uma alternativa pode trocar por “depósito parcial” e tentar manter o restante da frase correto.\nMemória:\nDEPÓSITO DO MONTANTE INTEGRAL → SUSPENSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-003-b9",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 3 — RECURSO ADMINISTRATIVO",
+      "texto": "Reclamações e recursos administrativos, quando observadas as regras do processo tributário administrativo, suspendem a exigibilidade.\nIsso conversa diretamente com outro ponto do seu edital: Processo Administrativo Tributário — defesa, impugnação, recursos e julgamento.\nVisualize a situação de Agente Fiscal:\nAUTO/LANÇAMENTO → contribuinte impugna na forma legal → discussão administrativa → exigibilidade suspensa nas condições previstas.\nNão conclua daí que o crédito foi extinto. Ele está sendo discutido."
+    },
+    {
+      "id": "direito-tributario-aula-003-b10",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 4 — SUSPENSÃO NÃO DISPENSA OBRIGAÇÃO ACESSÓRIA",
+      "texto": "O CTN determina que a suspensão da exigibilidade do crédito não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito esteja suspenso, ou dela consequentes, salvo disposição legal em contrário.\nEssa é uma excelente questão de prova porque mistura a aula de hoje com a aula anterior.\nCRÉDITO COM EXIGIBILIDADE SUSPENSA ≠ OBRIGAÇÕES ACESSÓRIAS AUTOMATICAMENTE SUSPENSAS."
+    },
+    {
+      "id": "direito-tributario-aula-003-b11",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Nos materiais da banca, devemos continuar atentos a comandos como CORRETA, INCORRETA e EXCETO e à substituição de um único elemento conceitual. Neste tema, as trocas mais perigosas são:\n“parcelamento extingue” → cuidado: suspende;\n“pagamento suspende” → cuidado: extingue;\n“depósito parcial” → cuidado com a exigência de montante integral;\n“todo recurso, em qualquer situação” → cuidado com formulações absolutas; o CTN remete às leis reguladoras do processo tributário administrativo;\n“suspensão elimina definitivamente o crédito” → errado: suspensão não é extinção;\n“suspensão dispensa automaticamente obrigações acessórias” → errado como regra."
+    },
+    {
+      "id": "direito-tributario-aula-003-b12",
+      "tipo": "memorize",
+      "titulo": "MAPA MENTAL DE 30 SEGUNDOS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-003-b13",
+      "tipo": "teoria",
+      "titulo": "CRÉDITO TRIBUTÁRIO",
+      "texto": "↓"
+    },
+    {
+      "id": "direito-tributario-aula-003-b14",
+      "tipo": "teoria",
+      "titulo": "SUSPENSÃO DA EXIGIBILIDADE",
+      "texto": "↓\ncrédito não desaparece\n↓\nexigência fica temporariamente impedida"
+    },
+    {
+      "id": "direito-tributario-aula-003-b15",
+      "tipo": "teoria",
+      "titulo": "ART. 151 — SEIS HIPÓTESES",
+      "texto": "Moratória\nDepósito integral\nReclamações/recursos administrativos\nLiminar em MS\nLiminar/tutela em outras ações\nParcelamento"
+    },
+    {
+      "id": "direito-tributario-aula-003-b16",
+      "tipo": "regra-de-prova",
+      "titulo": "REGRA DE OURO:",
+      "texto": "SUSPENDER É COLOCAR A COBRANÇA EM “PAUSA”; EXTINGUIR É ENCERRAR O CRÉDITO."
+    },
+    {
+      "id": "direito-tributario-aula-003-b17",
+      "tipo": "questao",
+      "titulo": "TREINO — SEM GABARITO AGORA",
+      "texto": "Questão 1",
+      "questionIds": [
+        "direito-tributario-aula-003-q-001",
+        "direito-tributario-aula-003-q-002",
+        "direito-tributario-aula-003-q-003",
+        "direito-tributario-aula-003-q-004",
+        "direito-tributario-aula-003-q-005"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-003-b18",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA DE AULAS ANTERIORES",
+      "texto": "Antes de encerrar este bloco, responda mentalmente sem consultar:\n\n1. O que faz nascer a obrigação tributária?\n2. O que constitui o crédito tributário?\n3. Qual modalidade de lançamento envolve antecipação de pagamento sem prévio exame da autoridade?\n4. Multa é tributo?\n5. O pagamento de penalidade pecuniária pode integrar obrigação principal?\nRESPOSTAS: 1) A ocorrência do fato gerador. 2) O lançamento. 3) Lançamento por homologação. 4) Não. 5) Sim.\n\nFrase para carregar hoje:\n\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO.\nPARCELAMENTO → SUSPENDE.\nPAGAMENTO → EXTINGUE"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-003-q-001",
+      "lessonId": "direito-tributario-aula-003",
+      "numero": 1,
+      "question": "Assinale a alternativa que apresenta hipótese de suspensão da exigibilidade do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pagamento."
+        },
+        {
+          "id": "B",
+          "text": "parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "remissão."
+        },
+        {
+          "id": "D",
+          "text": "prescrição. Questão 2 Um contribuinte efetua depósito apenas parcial do crédito tributário e sustenta que, por esse fato isolado, ocorreu a hipótese prevista no CTN de suspensão pelo depósito. Considerando a literalidade do CTN, a afirmação está:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-003-q-002",
+      "lessonId": "direito-tributario-aula-003",
+      "numero": 2,
+      "question": "Um contribuinte efetua depósito apenas parcial do crédito tributário e sustenta que, por esse fato isolado, ocorreu a hipótese prevista no CTN de suspensão pelo depósito. Considerando a literalidade do CTN, a afirmação está:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, porque qualquer depósito suspende integralmente a exigibilidade."
+        },
+        {
+          "id": "B",
+          "text": "correta, desde que o contribuinte manifeste intenção de discutir o crédito."
+        },
+        {
+          "id": "C",
+          "text": "incorreta, porque a hipótese legal refere-se ao depósito do montante integral."
+        },
+        {
+          "id": "D",
+          "text": "incorreta, porque depósito é hipótese de extinção do crédito. Questão 3 — atenção ao comando É INCORRETO afirmar que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-003-q-003",
+      "lessonId": "direito-tributario-aula-003",
+      "numero": 3,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a moratória pode integrar o conjunto das hipóteses de suspensão da exigibilidade."
+        },
+        {
+          "id": "B",
+          "text": "o parcelamento é hipótese de suspensão da exigibilidade."
+        },
+        {
+          "id": "C",
+          "text": "o pagamento é hipótese de suspensão da exigibilidade."
+        },
+        {
+          "id": "D",
+          "text": "reclamações e recursos administrativos podem suspender a exigibilidade nos termos das leis reguladoras do processo tributário administrativo. Questão 4 A suspensão da exigibilidade do crédito tributário, por si só:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-003-q-004",
+      "lessonId": "direito-tributario-aula-003",
+      "numero": 4,
+      "question": "A suspensão da exigibilidade do crédito tributário, por si só:",
+      "options": [
+        {
+          "id": "A",
+          "text": "extingue definitivamente o crédito."
+        },
+        {
+          "id": "B",
+          "text": "transforma o tributo em obrigação acessória."
+        },
+        {
+          "id": "C",
+          "text": "impede temporariamente sua exigência, sem se confundir com extinção."
+        },
+        {
+          "id": "D",
+          "text": "elimina automaticamente todas as obrigações acessórias relacionadas. Questão 5 — assertivas I. Parcelamento é hipótese de suspensão da exigibilidade. II. Pagamento é hipótese de extinção, e não de suspensão. III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-003-q-005",
+      "lessonId": "direito-tributario-aula-003",
+      "numero": 5,
+      "question": "III. A suspensão da exigibilidade dispensa automaticamente todas as obrigações acessórias.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I, apenas."
+        },
+        {
+          "id": "B",
+          "text": "II, apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e II, apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Responda: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-C | 3-C | 4-C | 5-C. Na correção, cada alternativa será analisada e qualquer erro entrará no caderno de erros."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-003-b18",
+      "titulo": "RECUPERAÇÃO ATIVA DE AULAS ANTERIORES",
+      "texto": "Antes de encerrar este bloco, responda mentalmente sem consultar:\n\n1. O que faz nascer a obrigação tributária?\n2. O que constitui o crédito tributário?\n3. Qual modalidade de lançamento envolve antecipação de pagamento sem prévio exame da autoridade?\n4. Multa é tributo?\n5. O pagamento de penalidade pecuniária pode integrar obrigação principal?\nRESPOSTAS: 1) A ocorrência do fato gerador. 2) O lançamento. 3) Lançamento por homologação. 4) Não. 5) Sim.\n\nFrase para carregar hoje:\n\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO.\nPARCELAMENTO → SUSPENDE.\nPAGAMENTO → EXTINGUE"
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": {
+    "id": "direito-tributario-aula-003-missao",
+    "lessonId": "direito-tributario-aula-003",
+    "titulo": "MISSÃO DO DIA — 4 HORAS EM 3 BLOCOS",
+    "descricao": "Hoje o estudo será dividido em três aulas. Aula 1: suspensão da exigibilidade do crédito tributário. Aula 2: extinção do crédito tributário. Aula 3: exclusão do crédito tributário + revisão comparativa e questões. A meta não é decorar listas isoladas: é conseguir distinguir SUSPENDER, EXTINGUIR e EXCLUIR quando a IAN trocar uma palavra da alternativa.",
+    "tarefas": []
+  },
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "31bef747263970a5"
+}

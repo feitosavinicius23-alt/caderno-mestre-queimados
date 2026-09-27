@@ -1,0 +1,38 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-027",
+  "numero": 27,
+  "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
+  "slug": "codigo-tributario-de-queimados-itbi-local-transmissao-contribuinte-base-e-fiscal",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
+  "ordem": 27,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-027-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 26. O núcleo do ITBI é: TRANSMISSÃO INTER VIVOS + ONEROSA + IMÓVEL/DIREITOS PREVISTOS → MUNICÍPIO DA SITUAÇÃO DO BEM.\nITBI x ITCMD: compra e venda onerosa entre vivos aponta para ITBI; herança e doação pertencem ao campo do ITCMD estadual. Na fiscalização, não basta haver imóvel: verifique transmissão/cessão juridicamente relevante, caráter inter vivos, onerosidade, objeto constitucional, situação do imóvel, eventual imunidade/não incidência, sujeito passivo e base tributável.\nCOMPETÊNCIA TERRITORIAL: ITBI SEGUE O IMÓVEL. Domicílio de comprador e vendedor não desloca a competência constitucional.\nPROMESSA x TRANSMISSÃO: contrato ou promessa não significa automaticamente propriedade transmitida. Para imóveis, a aquisição da propriedade entre vivos se relaciona ao registro do título translativo no Registro de Imóveis. Em prova, identifique o estágio jurídico da operação.\nDIREITOS REAIS DE GARANTIA: a Constituição ressalva os direitos reais de garantia. Pegadinha: “todos os direitos reais, inclusive os de garantia” está errada.\nCONTRIBUINTE: pelo CTN, qualquer das partes na operação tributada pode ser contribuinte, conforme dispuser a lei. Não memorize “comprador sempre e necessariamente” como regra nacional; na prova específica, observe a legislação local.\nBASE E FISCALIZAÇÃO: a estrutura geral do CTN refere-se ao valor venal dos bens ou direitos transmitidos. O valor declarado não pode ser substituído por número arbitrário do fiscal; apuração/revisão/arbitramento exige fundamento legal, critérios objetivos, procedimento e defesa.\nINTEGRALIZAÇÃO E REORGANIZAÇÕES: pessoa jurídica não significa imunidade automática. É preciso identificar a operação e os requisitos constitucionais. Na realização de capital, não trate automaticamente como imune parcela imobiliária excedente ao montante efetivamente destinado à integralização do capital social. Fusão, incorporação, cisão e extinção também exigem leitura da regra constitucional aplicável.\nFISCALIZAÇÃO DOCUMENTAL: instrumento da operação, matrícula, atos societários e dados cadastrais podem ser relevantes. CADASTRO FISCAL ≠ REGISTRO IMOBILIÁRIO.\nPEGADINHAS IAN: causa mortis como ITBI; doação como onerosa; domicílio das partes no lugar da situação do imóvel; garantia incluída sem ressalva; comprador como contribuinte universal; promessa como transmissão consumada; pessoa jurídica sempre imune; arbitramento por mera vontade.\nMAPA: ITBI municipal; inter vivos; oneroso; herança/doação → ITCMD; competência → situação do imóvel; direitos reais → atenção à exceção dos de garantia; contribuinte → lei aplicável; transmissão imobiliária → atenção ao registro; pessoa jurídica → imunidade não automática; fiscalização → legalidade + procedimento + defesa."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-027-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE — SEM GABARITO ANTECIPADO",
+      "texto": "1. Imóvel em Queimados, comprador no Rio e vendedor em Nova Iguaçu. Competência: A comprador B vendedor C situação do imóvel D escolha das partes.\n2. INCORRETO: A ITBI inter vivos oneroso B causa mortis é ITBI municipal C cessão de direitos pode integrar a competência D direitos reais de garantia têm tratamento distinto.\n3. Promessa de compra e venda: A sempre transmite propriedade B é preciso verificar o ato necessário à transmissão C todo contrato transmite imóvel D basta haver preço.\n4. Contribuinte no CTN: A sempre comprador B qualquer das partes conforme lei C cartório D escolhido pelo fiscal.\n5. Imóvel transferido a pessoa jurídica: A nunca há ITBI B verificar operação e requisitos constitucionais C basta CNPJ para imunidade D imóvel urbano é sempre imune.\n6. Fiscal escolhe valor sem fundamento/procedimento: A correto B problemático, pois deve observar lei e procedimento C obrigatório D discricionário.\n7. Recuperação: base do IPTU: A preço B valor venal C renda D preço de compra.\n8. Parcelamento, remissão, anistia: A suspensão/extinção/exclusão B extinção/suspensão/exclusão C exclusão/extinção/suspensão D todas extinção.\n9. Previsão, arrecadação, recolhimento: A receber/lançar/cobrar B estimar/receber/transferir ao Tesouro C cobrar/estimar/prescrever D instituir/lançar/anistiar.\n10. I ITBI segue imóvel; II doação é ITBI; III cadastro fiscal não é registro; IV fiscalização obedece legalidade. A I/II B I/III/IV C II/III/IV D todas.\n\nSem respostas registradas, ITBI local permanece EM APRENDIZAGEM.\n\nFRASE FINAL: NO ITBI, NÃO BASTA ENXERGAR UM IMÓVEL. IDENTIFIQUE TRANSMISSÃO, ONEROSIDADE, SITUAÇÃO DO BEM, SUJEITO PASSIVO, BASE LEGAL E EVENTUAL IMUNIDADE. O AGENTE FISCAL NÃO PRESUME NEM INVENTA: ELE ENQUADRA O FATO NA LEI."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "0a2d0bf989f88dc1"
+}

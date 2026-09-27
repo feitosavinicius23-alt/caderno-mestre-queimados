@@ -1,0 +1,38 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-030",
+  "numero": 30,
+  "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+  "slug": "codigo-tributario-de-queimados-taxas-municipais-poder-de-policia-e-servicos-publ",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+  "ordem": 30,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-030-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "REGRA-MÃE: taxa é tributo vinculado. Sua hipótese de incidência depende de atuação estatal específica relativa ao contribuinte: exercício regular do poder de polícia OU utilização efetiva ou potencial de serviço público específico e divisível, prestado ou posto à disposição, nos termos legais.\nTAXA NÃO É IMPOSTO. Imposto independe de atuação estatal específica dirigida ao contribuinte; taxa é vinculada. Não se pode justificar taxa apenas pela necessidade de arrecadar.\nTAXA DE POLÍCIA. O poder de polícia limita ou disciplina direito, interesse ou liberdade em razão do interesse público, nos termos do CTN. Para a taxa importa o exercício regular desse poder. Licenciamento, controle e fiscalização podem integrar esse campo quando houver previsão legal e requisitos jurídicos. Possuir genericamente poder de polícia não autoriza qualquer cobrança.\nTAXA DE SERVIÇO. O serviço deve ser específico e divisível. A utilização pode ser efetiva ou potencial nas hipóteses legais. Serviço específico é identificável; divisível é suscetível de utilização separada por usuário. Serviço geral e indivisível não pode ser convertido em taxa de serviço por conveniência arrecadatória.\nTAXA X TARIFA. Taxa é tributo e depende de lei. Tarifa/preço público não é tributo. TAXA = TRIBUTO; TARIFA = NÃO TRIBUTO.\nTAXA X MULTA. Multa não é tributo e taxa não é sanção. Taxa decorre da atuação estatal prevista em lei; multa decorre de infração. Fiscalização regular pode fundamentar taxa de polícia; infração pode gerar multa. São institutos distintos.\nATUAÇÃO DO AGENTE FISCAL: identificar a lei, a atuação estatal, se é polícia ou serviço, se o serviço é específico e divisível, sujeito passivo e critério quantitativo legal. O fiscal aplica a lei; não cria taxa por analogia.\nRECUPERAÇÃO: IPTU → valor venal. ITBI → transmissão inter vivos onerosa e situação do imóvel. ISS → serviço da lista e preço do serviço. Taxa → atuação estatal vinculada. Parcelamento → suspensão. Remissão → extinção. Anistia → exclusão.\nPEGADINHAS IAN: toda fiscalização gera automaticamente taxa; tarifa é tributo; serviço geral e indivisível pode financiar-se por taxa; taxa e multa são iguais; fiscal cria taxa sem lei; utilização potencial jamais admite cobrança."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-030-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE — SEM GABARITO ANTECIPADO",
+      "texto": "1. Taxa municipal caracteriza-se por: A) ser imposto patrimonial; B) vincular-se a atuação estatal específica prevista em lei; C) ser penalidade; D) ser sempre tarifa.\n2. É INCORRETO: A) taxa é tributo; B) tarifa não é tributo; C) multa e taxa têm a mesma natureza; D) taxa de polícia exige exercício regular do poder de polícia.\n3. Taxa de serviço exige: A) serviço geral e indivisível; B) serviço específico e divisível; C) transmissão imobiliária; D) faturamento.\n4. Fiscalização constata infração. Correto: A) taxa e multa são a mesma cobrança; B) podem existir fundamentos distintos para taxa de polícia e penalidade; C) multa é imposto; D) toda fiscalização cria taxa sem lei.\n5. Associação correta: A) IPTU → preço do serviço; B) ISS → valor venal; C) taxa → atuação estatal vinculada; D) ITBI → serviço público.\n6. Parcelamento, remissão e anistia: A) suspensão, extinção e exclusão; B) extinção, suspensão e exclusão; C) exclusão, extinção e suspensão; D) três extinções.\n7. Base geral do ISS: A) valor venal; B) preço do serviço; C) patrimônio líquido; D) valor do imóvel.\n8. Competência territorial do ITBI acompanha: A) comprador; B) vendedor; C) situação do imóvel; D) banco.\n\nSem respostas posteriores, o tema permanece EM APRENDIZAGEM.\n\nFRASE DE RETENÇÃO: TAXA NÃO É IMPOSTO COM OUTRO NOME. EXIGE ATUAÇÃO ESTATAL VINCULADA: PODER DE POLÍCIA REGULAR OU SERVIÇO ESPECÍFICO E DIVISÍVEL. TARIFA E MULTA NÃO SÃO TRIBUTOS."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "3c0a91bf347d065e"
+}

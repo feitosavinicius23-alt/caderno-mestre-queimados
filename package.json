@@ -1,0 +1,53 @@
+{
+  "name": "caderno-mestre-queimados",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Plataforma digital de preparação para o concurso de Agente Fiscal de Queimados/RJ 2026 — Caderno Mestre",
+  "type": "module",
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "preview": "vite preview --host 0.0.0.0 --allowedHosts all",
+    "build": "npm run sync-content && npm run build:search-index && npm run build:sitemap && vite build",
+    "build:app": "vite build",
+    "typecheck": "tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json",
+    "lint": "eslint . --max-warnings=0",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "check": "npm run typecheck && npm run lint && npm run test && npm run build",
+    "validate-content": "node scripts/validate-content.mjs",
+    "import-content": "node scripts/import-content.mjs",
+    "sync-content": "node scripts/sync-content.mjs",
+    "build:search-index": "node scripts/build-search-index.mjs",
+    "build:sitemap": "node scripts/build-sitemap.mjs",
+    "content:report": "node scripts/sync-report.mjs",
+    "content:reset": "node scripts/reset-content.mjs",
+    "fetch-caderno": "node scripts/fetch-caderno.mjs",
+    "import-caderno": "node scripts/import-caderno.mjs",
+    "sync-caderno": "npm run fetch-caderno && npm run import-caderno",
+    "sync:now": "node scripts/sync-now.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@types/wicg-file-system-access": "^2023.10.5",
+    "@typescript-eslint/eslint-plugin": "^8.8.1",
+    "@typescript-eslint/parser": "^8.8.1",
+    "@vitejs/plugin-react": "^4.3.2",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.9",
+    "vite-plugin-pwa": "^0.20.5",
+    "vitest": "^2.1.3",
+    "workbox-window": "^7.1.0"
+  }
+}

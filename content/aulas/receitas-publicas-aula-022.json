@@ -1,0 +1,38 @@
+{
+  "id": "receitas-publicas-aula-022",
+  "numero": 22,
+  "titulo": "RECEITAS PÚBLICAS III: ESTÁGIOS DA RECEITA — PREVISÃO, LANÇAMENTO, ARRECADAÇÃO E RECOLHIMENTO",
+  "slug": "receitas-publicas-iii-estagios-da-receita-previsao-lancamento-arrecadacao-e-reco",
+  "disciplina": "Receitas Públicas",
+  "assunto": "RECEITAS PÚBLICAS III: ESTÁGIOS DA RECEITA — PREVISÃO, LANÇAMENTO, ARRECADAÇÃO E RECOLHIMENTO",
+  "ordem": 22,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "receitas-publicas-aula-022-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 21. Agora fechamos o núcleo operacional de Receitas Públicas, mantendo foco EXCLUSIVO em AGENTE FISCAL.\nMEMÓRIA CENTRAL: PREVISÃO → estimativa. LANÇAMENTO → formalização/identificação do crédito quando cabível. ARRECADAÇÃO → recebimento. RECOLHIMENTO → transferência do arrecadado ao Tesouro.\n1. PREVISÃO. É a estimativa do que se espera arrecadar. Não significa dinheiro já recebido. Pegadinha: previsão ≠ arrecadação.\n2. LANÇAMENTO. Em Direito Tributário, lançamento constitui o crédito tributário. No ciclo da receita, representa a formalização do direito a receber quando a natureza da receita comporta esse estágio. Nem toda receita pública passa por lançamento tributário. Para tributos: FATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO.\n3. ARRECADAÇÃO. É o recebimento do valor devido pelos meios legalmente admitidos. LANÇAR ≠ ARRECADAR. Um IPTU pode estar lançado e ainda não pago.\n4. RECOLHIMENTO. É a transferência dos valores arrecadados à conta do Tesouro competente. Memória: ARRECADAÇÃO = receber do pagador; RECOLHIMENTO = levar o arrecadado ao Tesouro.\n5. INADIMPLEMENTO E DÍVIDA ATIVA. Crédito constituído, vencido e não pago não foi arrecadado. Nas condições legais, pode seguir para inscrição em dívida ativa. Linha: fato gerador → obrigação → lançamento → crédito → vencimento → pagamento/arrecadação OU inadimplemento → inscrição, quando cabível → cobrança.\n6. PREVISÃO NÃO CRIA TRIBUTO. Incluir uma receita no orçamento não cria competência tributária nem substitui a lei instituidora. Competência vem da Constituição; instituição e aumento observam legalidade e demais limitações.\n7. ESTÁGIO ≠ CLASSIFICAÇÃO. IPTU arrecadado continua receita tributária corrente. Aluguel de bem municipal continua patrimonial. Alienação de bem continua receita de capital. O estágio pelo qual o dinheiro passa não muda sua natureza.\n8. RECUPERAÇÃO INTERCALADA. Receita tributária → corrente. Alienação → capital. Operação de crédito → capital. Exploração patrimonial → patrimonial. Transferência recebida → não transfere competência. Taxa → tributo. Tarifa e multa → não são tributos.\nPEGADINHAS IAN: trocar arrecadação por recolhimento; dizer que previsão é dinheiro recebido; afirmar que toda receita exige lançamento tributário; confundir lançamento com pagamento; transformar previsão orçamentária em autorização para criar tributo; misturar classificação com estágio; usar SEMPRE, TODO, AUTOMATICAMENTE e NECESSARIAMENTE.\nMAPA: PREVISÃO = estimar. LANÇAMENTO = formalizar quando cabível. ARRECADAÇÃO = receber. RECOLHIMENTO = transferir ao Tesouro. CLASSIFICAÇÃO ≠ ESTÁGIO."
+    },
+    {
+      "id": "receitas-publicas-aula-022-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE — SEM GABARITO ANTECIPADO",
+      "texto": "1. Estimativa do montante esperado: A arrecadação B previsão C dívida ativa D remissão.\n2. INCORRETO: A lançamento e arrecadação são distintos B previsão não é ingresso realizado C recolhimento transfere arrecadado ao Tesouro D toda receita depende necessariamente de lançamento tributário.\n3. IPTU lançado e ainda não pago: A já arrecadado B crédito pode existir sem arrecadação C extinto D remitido.\n4. CORRETA: A arrecadação=estimativa B previsão=pagamento C recolhimento=transferência ao Tesouro D lançamento=dívida ativa.\n5. I previsão=estimativa; II arrecadação=recebimento; III recolhimento=lançamento; IV orçamento não basta para criar tributo. A I/II B I/II/IV C II/III D todas.\n6. Alienação de bem público: A tributária corrente B capital C taxa D ISS.\n7. Município recebe ICMS: A transfere competência B vira municipal C não transfere competência D vira taxa.\n8. Crédito parcelado: A extingue B suspende exigibilidade C exclui D prescreve.\n\nNão há gabarito antecipado. Sem respostas registradas, os temas permanecem em aprendizagem até retenção posterior em questões misturadas.\n\nFRASE FINAL: PREVER É ESTIMAR; LANÇAR É FORMALIZAR O CRÉDITO QUANDO CABÍVEL; ARRECADAR É RECEBER; RECOLHER É LEVAR O ARRECADADO AO TESOURO. NÃO CONFUNDA ESTÁGIO COM CLASSIFICAÇÃO."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "f463aa3034d97324"
+}

@@ -1,0 +1,368 @@
+{
+  "id": "direito-tributario-aula-011",
+  "numero": 11,
+  "titulo": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+  "slug": "competencia-tributaria-municipal-e-reparticao-de-receitas",
+  "disciplina": "Direito Tributário",
+  "assunto": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+  "ordem": 11,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "MUNICÍPIO INSTITUI IPTU, ITBI E ISS. RECEBER PARTE DE IPVA, ICMS, ITR OU IR É REPARTIÇÃO DE RECEITA E NÃO TRANSFORMA ESSES IMPOSTOS EM TRIBUTOS MUNICIPAIS.\n\nNa próxima aula, avançaremos para IPTU — hipótese de incidência, sujeito passivo, base de cálculo e progressividade, mantendo foco exclusivo em AGENTE FISCAL.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-011-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 10. Agora conectamos a competência tributária constitucional diretamente ao Município. Para AGENTE FISCAL, a distinção mais importante é: COMPETÊNCIA TRIBUTÁRIA não é a mesma coisa que RECEITA RECEBIDA POR REPARTIÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-011-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "COMPETÊNCIA → poder constitucional de INSTITUIR o tributo.\nREPARTIÇÃO → parcela da arrecadação de tributo de outro ente que a Constituição destina ao Município.\nLogo, receber parte do produto de um imposto NÃO transforma esse imposto em imposto municipal."
+    },
+    {
+      "id": "direito-tributario-aula-011-b3",
+      "tipo": "teoria",
+      "titulo": "1. OS IMPOSTOS MUNICIPAIS — CF, ART. 156",
+      "texto": "O Município possui competência para instituir três impostos centrais:\nIPTU — propriedade predial e territorial urbana.\nITBI — transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis e direitos previstos constitucionalmente, ressalvadas as hipóteses constitucionais.\nISS — serviços de qualquer natureza não compreendidos na competência do ICMS, definidos em lei complementar."
+    },
+    {
+      "id": "direito-tributario-aula-011-b4",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "OS 3 Is DO MUNICÍPIO = IPTU + ITBI + ISS."
+    },
+    {
+      "id": "direito-tributario-aula-011-b5",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Pegadinha: ICMS e IPVA são estaduais; ITR e IR são federais. O fato de o Município receber parcela de algumas dessas receitas não muda a competência."
+    },
+    {
+      "id": "direito-tributario-aula-011-b6",
+      "tipo": "teoria",
+      "titulo": "2. COMPETÊNCIA É INDELEGÁVEL; FUNÇÕES ADMINISTRATIVAS NÃO SE CONFUNDEM COM ELA",
+      "texto": "Recuperando a Aula 1: competência tributária para instituir tributo é indelegável. Já funções de arrecadação ou fiscalização podem ser atribuídas nos termos legais. Em prova, procure o verbo.\nINSTITUIR/CRIAR → competência tributária.\nARRECADAR/FISCALIZAR → capacidade tributária ativa/funções administrativas, conforme disciplina legal.\nRECEBER PERCENTUAL DA ARRECADAÇÃO → repartição de receitas."
+    },
+    {
+      "id": "direito-tributario-aula-011-b7",
+      "tipo": "teoria",
+      "titulo": "3. REPARTIÇÃO: O MUNICÍPIO PODE RECEBER SEM SER O TITULAR DO IMPOSTO",
+      "texto": "Exemplo clássico: IPVA é imposto estadual. A Constituição destina aos Municípios 50% do produto da arrecadação do IPVA relativo aos veículos licenciados em seus territórios, observada a disciplina constitucional vigente.\nPortanto:\nIPVA → COMPETÊNCIA ESTADUAL.\nMunicípio → recebe parcela constitucional da arrecadação.\nOutro exemplo: a Constituição destina aos Municípios 25% do produto da arrecadação do ICMS, segundo os critérios constitucionais.\nICMS → COMPETÊNCIA ESTADUAL.\nMunicípio → participa da receita.\nA banca pode tentar concluir: “Se o Município recebe 25% do ICMS, possui competência para instituí-lo.” ERRADO."
+    },
+    {
+      "id": "direito-tributario-aula-011-b8",
+      "tipo": "teoria",
+      "titulo": "4. ITR — PEGADINHA MAIS SOFISTICADA",
+      "texto": "O ITR é imposto da União. A Constituição prevê participação municipal em sua arrecadação e disciplina especial quando o Município opta por fiscalizar e cobrar o imposto nos termos constitucionais e legais, sem que isso implique redução do imposto ou outra forma de renúncia fiscal.\nMesmo nessa situação, não diga que o ITR virou imposto municipal. A competência constitucional continua sendo da União."
+    },
+    {
+      "id": "direito-tributario-aula-011-b9",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "FISCALIZAR/COBRAR ITR POR OPÇÃO LEGAL ≠ TRANSFERÊNCIA DA COMPETÊNCIA PARA INSTITUIR."
+    },
+    {
+      "id": "direito-tributario-aula-011-b10",
+      "tipo": "teoria",
+      "titulo": "5. IR RETIDO PELO MUNICÍPIO",
+      "texto": "Pertence aos Municípios o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza incidente na fonte sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e fundações que instituírem e mantiverem, nos termos constitucionais.\nMais uma vez:\nIR → imposto federal.\nReceita constitucionalmente pertencente ao Município em hipótese específica → não transforma o IR em imposto municipal."
+    },
+    {
+      "id": "direito-tributario-aula-011-b11",
+      "tipo": "teoria",
+      "titulo": "6. FPM",
+      "texto": "O Fundo de Participação dos Municípios é mecanismo constitucional de transferência/repartição. Para prova conceitual, basta separar:\nTRIBUTO PRÓPRIO → Município exerce competência constitucional própria.\nTRANSFERÊNCIA/REPARTIÇÃO → Município recebe receita segundo regras constitucionais."
+    },
+    {
+      "id": "direito-tributario-aula-011-b12",
+      "tipo": "pegadinha",
+      "titulo": "7. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "A banca pode misturar uma afirmação verdadeira sobre RECEITA com uma conclusão falsa sobre COMPETÊNCIA; dizer que IPVA ou ICMS são municipais porque parte da arrecadação chega ao Município; dizer que a fiscalização municipal do ITR transfere a competência legislativa; trocar 25% do ICMS por 50%; trocar 50% do IPVA por 25%; ou inserir palavras como “automaticamente”, “integralmente” e “passa a ser municipal”."
+    },
+    {
+      "id": "direito-tributario-aula-011-b13",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "MUNICÍPIO INSTITUI → IPTU + ITBI + ISS.\nIPVA → Estado; Município recebe 50% relativo aos veículos licenciados em seu território.\nICMS → Estado; Municípios recebem 25% do produto da arrecadação, segundo critérios constitucionais.\nITR → União; existe repartição e hipótese de fiscalização/cobrança municipal por opção, sem transferência da competência tributária.\nIR → União; determinadas retenções na fonte pertencem ao Município nas hipóteses constitucionais.\nFPM → transferência constitucional, não imposto municipal.",
+      "mapaId": "direito-tributario-aula-011-b13"
+    },
+    {
+      "id": "direito-tributario-aula-011-b14",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Resolva antes e confira o gabarito imediatamente abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-011-q-001",
+        "direito-tributario-aula-011-q-002",
+        "direito-tributario-aula-011-q-003",
+        "direito-tributario-aula-011-q-004",
+        "direito-tributario-aula-011-q-005",
+        "direito-tributario-aula-011-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-011-b15",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-A: memorize os 3 Is municipais. As demais alternativas introduzem imposto estadual ou federal.\n2-C: o distrator confunde destino da receita com titularidade da competência.\n3-C: ICMS continua estadual; a repartição não altera sua natureza competencial.\n4-B: fiscalização/cobrança municipal do ITR nas condições constitucionais não equivale a competência para instituí-lo.\n5-C: III é falsa justamente por confundir repartição com competência.\n6-B: esta é a regra prática mais importante da aula: RECEBER NÃO É INSTITUIR."
+    },
+    {
+      "id": "direito-tributario-aula-011-b16",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Imunidade? Resposta: limitação constitucional ao poder de tributar.\n2. Isenção? Resposta: benefício decorrente de lei.\n3. Decadência? Resposta: prazo para constituir o crédito.\n4. Prescrição? Resposta: prazo para cobrar crédito definitivamente constituído.\n5. Contribuinte x responsável? Resposta: contribuinte liga-se pessoal e diretamente ao fato gerador; responsável é obrigado por disposição expressa de lei.\n6. Quais os três impostos municipais? Resposta: IPTU, ITBI e ISS.\n7. Receber parcela de ICMS/IPVA transfere competência? Resposta: não."
+    },
+    {
+      "id": "direito-tributario-aula-011-b17",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "MUNICÍPIO INSTITUI IPTU, ITBI E ISS. RECEBER PARTE DE IPVA, ICMS, ITR OU IR É REPARTIÇÃO DE RECEITA E NÃO TRANSFORMA ESSES IMPOSTOS EM TRIBUTOS MUNICIPAIS.\n\nNa próxima aula, avançaremos para IPTU — hipótese de incidência, sujeito passivo, base de cálculo e progressividade, mantendo foco exclusivo em AGENTE FISCAL."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-011-q-001",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 1,
+      "question": "Assinale o conjunto formado exclusivamente por impostos de competência municipal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IPTU, ITBI e ISS."
+        },
+        {
+          "id": "B",
+          "text": "IPTU, IPVA e ISS."
+        },
+        {
+          "id": "C",
+          "text": "ICMS, ISS e ITBI."
+        },
+        {
+          "id": "D",
+          "text": "ITR, IPTU e ICMS."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "memorize os 3 Is municipais. As demais alternativas introduzem imposto estadual ou federal.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    },
+    {
+      "id": "direito-tributario-aula-011-q-002",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 2,
+      "question": "O Município recebe parcela constitucional do IPVA relativo aos veículos licenciados em seu território. Disso se conclui que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o IPVA passou a ser imposto municipal."
+        },
+        {
+          "id": "B",
+          "text": "a competência para instituir IPVA é compartilhada automaticamente entre Estado e Município."
+        },
+        {
+          "id": "C",
+          "text": "o IPVA permanece imposto estadual, embora exista repartição constitucional de receita com o Município."
+        },
+        {
+          "id": "D",
+          "text": "o Município pode alterar livremente a alíquota estadual do IPVA."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "o distrator confunde destino da receita com titularidade da competência.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    },
+    {
+      "id": "direito-tributario-aula-011-q-003",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 3,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o Município possui competência para instituir ISS, nos termos constitucionais e da lei complementar."
+        },
+        {
+          "id": "B",
+          "text": "receber participação na arrecadação de um imposto de outro ente não significa, por si só, possuir competência para instituí-lo."
+        },
+        {
+          "id": "C",
+          "text": "o ICMS torna-se imposto municipal porque parte de sua arrecadação é destinada aos Municípios."
+        },
+        {
+          "id": "D",
+          "text": "IPTU é imposto de competência municipal."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "ICMS continua estadual; a repartição não altera sua natureza competencial.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    },
+    {
+      "id": "direito-tributario-aula-011-q-004",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 4,
+      "question": "Sobre o ITR, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é originariamente imposto municipal."
+        },
+        {
+          "id": "B",
+          "text": "é imposto da União; a disciplina constitucional admite participação municipal e hipótese de fiscalização/cobrança pelo Município mediante opção, sem transferência da competência para instituí-lo."
+        },
+        {
+          "id": "C",
+          "text": "qualquer Município pode extinguir o ITR em seu território."
+        },
+        {
+          "id": "D",
+          "text": "a fiscalização municipal transforma automaticamente o ITR em IPTU."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "fiscalização/cobrança municipal do ITR nas condições constitucionais não equivale a competência para instituí-lo.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    },
+    {
+      "id": "direito-tributario-aula-011-q-005",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 5,
+      "question": "Considere: I. Competência tributária diz respeito ao poder de instituir tributo. II. Repartição de receita pode destinar ao Município parcela de imposto cuja competência pertence a outro ente. III. Receber receita de ICMS transforma o ICMS em tributo municipal. IV. IPTU, ITBI e ISS integram a competência impositiva municipal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "II e III apenas."
+        },
+        {
+          "id": "C",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "III é falsa justamente por confundir repartição com competência.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    },
+    {
+      "id": "direito-tributario-aula-011-q-006",
+      "lessonId": "direito-tributario-aula-011",
+      "numero": 6,
+      "question": "Um examinador afirma: “Como os Municípios recebem 25% do produto da arrecadação do ICMS, podem instituir ICMS por lei municipal.” A afirmação é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, porque repartição equivale a competência."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, porque participação na receita não transfere a competência constitucional para instituir o imposto."
+        },
+        {
+          "id": "C",
+          "text": "correta apenas em Municípios com mais de 100 mil habitantes."
+        },
+        {
+          "id": "D",
+          "text": "correta se houver autorização do governador. GABARITO: 1-A | 2-C | 3-C | 4-B | 5-C | 6-B."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "esta é a regra prática mais importante da aula: RECEBER NÃO É INSTITUIR.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-011-q-001",
+      "resposta": "A",
+      "comentario": "memorize os 3 Is municipais. As demais alternativas introduzem imposto estadual ou federal."
+    },
+    {
+      "questionId": "direito-tributario-aula-011-q-002",
+      "resposta": "C",
+      "comentario": "o distrator confunde destino da receita com titularidade da competência."
+    },
+    {
+      "questionId": "direito-tributario-aula-011-q-003",
+      "resposta": "C",
+      "comentario": "ICMS continua estadual; a repartição não altera sua natureza competencial."
+    },
+    {
+      "questionId": "direito-tributario-aula-011-q-004",
+      "resposta": "B",
+      "comentario": "fiscalização/cobrança municipal do ITR nas condições constitucionais não equivale a competência para instituí-lo."
+    },
+    {
+      "questionId": "direito-tributario-aula-011-q-005",
+      "resposta": "C",
+      "comentario": "III é falsa justamente por confundir repartição com competência."
+    },
+    {
+      "questionId": "direito-tributario-aula-011-q-006",
+      "resposta": "B",
+      "comentario": "esta é a regra prática mais importante da aula: RECEBER NÃO É INSTITUIR."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-011-b16",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Imunidade? Resposta: limitação constitucional ao poder de tributar.\n2. Isenção? Resposta: benefício decorrente de lei.\n3. Decadência? Resposta: prazo para constituir o crédito.\n4. Prescrição? Resposta: prazo para cobrar crédito definitivamente constituído.\n5. Contribuinte x responsável? Resposta: contribuinte liga-se pessoal e diretamente ao fato gerador; responsável é obrigado por disposição expressa de lei.\n6. Quais os três impostos municipais? Resposta: IPTU, ITBI e ISS.\n7. Receber parcela de ICMS/IPVA transfere competência? Resposta: não."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-011-b13",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "MUNICÍPIO INSTITUI",
+        "IPTU + ITBI + ISS",
+        "IPVA",
+        "Estado; Município recebe 50% relativo aos veículos licenciados em seu território",
+        "ICMS",
+        "Estado; Municípios recebem 25% do produto da arrecadação, segundo critérios constitucionais",
+        "ITR",
+        "União; existe repartição e hipótese de fiscalização/cobrança municipal por opção, sem transferência da competência tributária",
+        "IR",
+        "União; determinadas retenções na fonte pertencem ao Município nas hipóteses constitucionais",
+        "FPM",
+        "transferência constitucional, não imposto municipal"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "658eade12b3e2e48"
+}

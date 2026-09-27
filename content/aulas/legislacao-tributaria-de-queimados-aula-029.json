@@ -1,0 +1,357 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-029",
+  "numero": 29,
+  "titulo": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
+  "slug": "iss-em-queimados-recolhimento-retencao-nfs-e-e-arbitramento-fiscal",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
+  "ordem": 29,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 28. Agora saímos da estrutura geral do ISS e entramos em regras operacionais efetivamente locais de Queimados, com foco no que um Agente Fiscal precisa reconhecer na prova e na fiscalização."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b2",
+      "tipo": "teoria",
+      "titulo": "1. RECOLHIMENTO MENSAL DO ISS EM QUEIMADOS",
+      "texto": "A LC municipal nº 093/2021 alterou o art. 266 do Código Tributário de Queimados. A regra local passou a determinar que o recolhimento seja feito mensalmente, aos cofres municipais ou bancos autorizados, mediante guia específica, independentemente de aviso ou notificação e independentemente do recebimento do preço do serviço, até o dia 15 do mês subsequente ao faturamento.\nMemória de prova: ISS variável em Queimados → regra ordinária: DIA 15 DO MÊS SUBSEQUENTE.\nPegadinha: faturar e ainda não ter recebido do cliente não significa, por si só, que o vencimento ordinário do ISS fique automaticamente adiado."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b3",
+      "tipo": "teoria",
+      "titulo": "2. PRORROGAÇÃO DE VENCIMENTO NÃO É MORATÓRIA",
+      "texto": "Em 23/06/2026, o Decreto municipal nº 3.403 prorrogou excepcionalmente vencimentos de ISS das competências maio e junho de 2026 por causa da migração do sistema municipal para o Emissor Nacional da NFS-e/Ambiente de Dados Nacional. O próprio fundamento municipal registra que a prorrogação da data de vencimento não caracteriza moratória."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha IAN: PRORROGAR VENCIMENTO ≠ CONCEDER MORATÓRIA automaticamente.",
+      "texto": "3. NFS-e E AMBIENTE NACIONAL\nQueimados aderiu em 2026 ao Emissor Nacional da Nota Fiscal de Serviços Eletrônica, integrado ao Ambiente de Dados Nacional. Para o Agente Fiscal, a consequência conceitual é importante: documento fiscal eletrônico, declaração e ambiente de dados são instrumentos de controle e fiscalização; eles não criam, sozinhos, o fato gerador. O fato gerador continua dependendo da prestação tributável prevista na legislação.\nNFS-e → obrigação/instrumento fiscal.\nPrestação tributável → fato material relevante para o ISS.\nNão confunda documento com fato gerador."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b5",
+      "tipo": "teoria",
+      "titulo": "4. RETENÇÃO E RESPONSABILIDADE",
+      "texto": "A legislação municipal possui hipóteses de responsabilidade por retenção e recolhimento do ISS. A LC nº 019/2002, ao alterar o CTM, previu categorias de tomadores responsáveis pela retenção em hipóteses legais, incluindo, entre outros, entidades da Administração Pública e determinados setores econômicos.\nA regra conceitual permanece:\nPRESTADOR → contribuinte.\nTERCEIRO DESIGNADO POR LEI → responsável tributário.\nRETENÇÃO → mecanismo legal de recolhimento.\nLogo, retenção não transforma automaticamente o tomador em contribuinte. A banca pode trocar RESPONSÁVEL por CONTRIBUINTE."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b6",
+      "tipo": "teoria",
+      "titulo": "5. ARBITRAMENTO FISCAL: NÃO É CHUTE DO FISCAL",
+      "texto": "Em 2025, Queimados regulamentou critérios técnicos para arbitramento da base do ISS em serviços de construção civil, com fundamento nos arts. 237, §2º, 250 e 251 do CTM. A regulamentação menciona hipóteses de omissão ou irregularidade de informações fiscais e adota parâmetros técnicos objetivos, inclusive referência ao Custo Unitário Básico da Construção (CUB).\nRegra prática: ARBITRAMENTO ≠ LIBERDADE PARA INVENTAR BASE DE CÁLCULO.\nO arbitramento exige hipótese legal + motivação + critério objetivo + procedimento + possibilidade de defesa."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b7",
+      "tipo": "teoria",
+      "titulo": "6. CONSTRUÇÃO CIVIL E FISCALIZAÇÃO",
+      "texto": "Em uma fiscalização de obra, o raciocínio correto não é “há construção, então escolho um valor”. O Agente Fiscal deve verificar: qual serviço foi prestado; documentos e informações disponíveis; preço/base declarada; existência de omissão ou irregularidade; hipótese legal de arbitramento; critério técnico aplicável; sujeito passivo/responsável; e procedimento de lançamento e defesa."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b8",
+      "tipo": "teoria",
+      "titulo": "7. OBRIGAÇÃO ACESSÓRIA E MULTA",
+      "texto": "A emissão de NFS-e e demais deveres instrumentais não se confundem com o próprio imposto. O descumprimento de obrigação acessória pode gerar penalidade conforme a lei.\nMas mantenha: MULTA NÃO É TRIBUTO.\nAo mesmo tempo, a obrigação tributária principal pode ter por objeto pagamento de tributo ou penalidade pecuniária, segundo o CTN. Essa é uma pegadinha clássica de conceitos próximos."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b9",
+      "tipo": "mapa-mental",
+      "titulo": "8. MAPA DE RETENÇÃO",
+      "texto": "ISS Queimados → recolhimento mensal.\nRegra ordinária estudada → até dia 15 do mês subsequente ao faturamento.\nRecebimento posterior do preço → não adia automaticamente o vencimento.\nProrrogação de vencimento → não é automaticamente moratória.\nNFS-e → instrumento/obrigação fiscal, não fato gerador por si só.\nPrestador → contribuinte.\nTerceiro legalmente indicado → responsável.\nArbitramento → hipótese legal + critério técnico, nunca escolha pessoal.\nConstrução civil → Queimados possui disciplina técnica de arbitramento.\nMulta → não é tributo.",
+      "mapaId": "legislacao-tributaria-de-queimados-aula-029-b9"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b10",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "legislacao-tributaria-de-queimados-aula-029-q-001",
+        "legislacao-tributaria-de-queimados-aula-029-q-002",
+        "legislacao-tributaria-de-queimados-aula-029-q-003",
+        "legislacao-tributaria-de-queimados-aula-029-q-004",
+        "legislacao-tributaria-de-queimados-aula-029-q-005",
+        "legislacao-tributaria-de-queimados-aula-029-q-006",
+        "legislacao-tributaria-de-queimados-aula-029-q-007",
+        "legislacao-tributaria-de-queimados-aula-029-q-008"
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-001",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 1,
+      "question": "Segundo a regra municipal estudada para o ISS variável em Queimados, o recolhimento ordinário ocorre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas quando o cliente efetivamente paga."
+        },
+        {
+          "id": "B",
+          "text": "mensalmente, até o dia 15 do mês subsequente ao faturamento, segundo a disciplina local."
+        },
+        {
+          "id": "C",
+          "text": "somente após notificação individual do Fisco."
+        },
+        {
+          "id": "D",
+          "text": "uma vez por ano."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-002",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 2,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a NFS-e é instrumento de controle fiscal."
+        },
+        {
+          "id": "B",
+          "text": "a emissão da NFS-e, isoladamente, substitui a necessidade de ocorrência do fato tributável."
+        },
+        {
+          "id": "C",
+          "text": "retenção pode decorrer de responsabilidade atribuída por lei."
+        },
+        {
+          "id": "D",
+          "text": "arbitramento deve observar fundamento e critérios legais."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-003",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 3,
+      "question": "O tomador é obrigado por lei a reter e recolher ISS. Nessa situação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ele necessariamente substitui o prestador como contribuinte em sentido jurídico."
+        },
+        {
+          "id": "B",
+          "text": "pode ocupar a posição de responsável tributário."
+        },
+        {
+          "id": "C",
+          "text": "a retenção é ilegal porque somente o prestador pode recolher."
+        },
+        {
+          "id": "D",
+          "text": "o fiscal escolheu livremente o sujeito passivo."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-004",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 4,
+      "question": "Em construção civil, faltam informações fiscais confiáveis e a legislação autoriza arbitramento. O fiscal deve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "escolher livremente qualquer valor."
+        },
+        {
+          "id": "B",
+          "text": "aplicar os critérios técnicos e o procedimento legalmente previstos."
+        },
+        {
+          "id": "C",
+          "text": "cancelar necessariamente o imposto."
+        },
+        {
+          "id": "D",
+          "text": "usar obrigatoriamente o valor informado verbalmente pelo contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-005",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 5,
+      "question": "A prorrogação excepcional de vencimento ocorrida em Queimados em 2026:",
+      "options": [
+        {
+          "id": "A",
+          "text": "foi tratada automaticamente como remissão."
+        },
+        {
+          "id": "B",
+          "text": "foi tratada automaticamente como anistia."
+        },
+        {
+          "id": "C",
+          "text": "não se confunde, por si só, com moratória."
+        },
+        {
+          "id": "D",
+          "text": "extinguiu os créditos de ISS."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-006",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 6,
+      "question": "Recuperação: a base do ISS é, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "valor venal do imóvel."
+        },
+        {
+          "id": "B",
+          "text": "preço do serviço."
+        },
+        {
+          "id": "C",
+          "text": "renda do prestador."
+        },
+        {
+          "id": "D",
+          "text": "patrimônio líquido."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-007",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 7,
+      "question": "Recuperação: ITBI segue territorialmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o domicílio do comprador."
+        },
+        {
+          "id": "B",
+          "text": "o domicílio do vendedor."
+        },
+        {
+          "id": "C",
+          "text": "a situação do imóvel."
+        },
+        {
+          "id": "D",
+          "text": "o banco utilizado no pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-q-008",
+      "lessonId": "legislacao-tributaria-de-queimados-aula-029",
+      "numero": 8,
+      "question": "Recuperação: parcelamento, remissão e anistia correspondem, respectivamente, a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "suspensão — extinção — exclusão."
+        },
+        {
+          "id": "B",
+          "text": "extinção — suspensão — exclusão."
+        },
+        {
+          "id": "C",
+          "text": "exclusão — extinção — suspensão."
+        },
+        {
+          "id": "D",
+          "text": "três hipóteses de suspensão. Sem respostas registradas de Vinícius, ISS local continua EM APRENDIZAGEM. Não será marcado como dominado até aparecer posteriormente em questões misturadas e haver retenção comprovada. RECUPERAÇÃO FINAL: dia ordinário do ISS variável em Queimados? O recebimento do preço é condição para o vencimento? Prorrogação é necessariamente moratória? NFS-e é fato gerador? Prestador é contribuinte ou responsável? Tomador retentor é necessariamente contribuinte? Arbitramento permite escolha livre? Qual é a base geral do ISS? REGRA DE OURO: NO ISS DE QUEIMADOS, O AGENTE FISCAL PRECISA DOMINAR NÃO SÓ A INCIDÊNCIA, MAS A MECÂNICA LOCAL: RECOLHIMENTO, DOCUMENTAÇÃO ELETRÔNICA, RETENÇÃO, RESPONSABILIDADE E ARBITRAMENTO. PROCEDIMENTO FISCAL NÃO É DISCRICIONARIEDADE PARA INVENTAR O TRIBUTO."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Legislação Tributária de Queimados",
+      "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-029-b9",
+      "titulo": "8. MAPA DE RETENÇÃO",
+      "nos": [
+        "ISS Queimados",
+        "recolhimento mensal",
+        "Regra ordinária estudada",
+        "até dia 15 do mês subsequente ao faturamento",
+        "Recebimento posterior do preço",
+        "não adia automaticamente o vencimento",
+        "Prorrogação de vencimento",
+        "não é automaticamente moratória",
+        "NFS-e",
+        "instrumento/obrigação fiscal, não fato gerador por si só",
+        "Prestador",
+        "contribuinte",
+        "Terceiro legalmente indicado",
+        "responsável",
+        "Arbitramento",
+        "hipótese legal + critério técnico, nunca escolha pessoal",
+        "Construção civil",
+        "Queimados possui disciplina técnica de arbitramento",
+        "Multa",
+        "não é tributo"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "d27a83d2eebf174c"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "direito-tributario-aula-009",
+  "numero": 9,
+  "titulo": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+  "slug": "prescricao-e-decadencia-em-profundidade",
+  "disciplina": "Direito Tributário",
+  "assunto": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+  "ordem": 9,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "ANTES DO CRÉDITO DEFINITIVAMENTE CONSTITUÍDO, VIGIE A DECADÊNCIA. DEPOIS DA CONSTITUIÇÃO DEFINITIVA, VIGIE A PRESCRIÇÃO. ART. 173, I E ART. 150, §4º NÃO TÊM O MESMO MARCO; ART. 174 COMEÇA NA CONSTITUIÇÃO DEFINITIVA.\n\nNa próxima aula, avançaremos para SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS TRIBUTÁRIOS E LIMITAÇÕES AO PODER DE TRIBUTAR, mantendo o foco exclusivo em AGENTE FISCAL.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-009-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 8. Agora vamos dominar uma distinção que costuma produzir erros porque as duas figuras extinguem o crédito tributário, mas atuam em momentos diferentes."
+    },
+    {
+      "id": "direito-tributario-aula-009-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "DECADÊNCIA → o Fisco perde o prazo para CONSTITUIR o crédito pelo lançamento.\nPRESCRIÇÃO → o crédito já foi definitivamente constituído, mas se perde a pretensão de COBRÁ-LO judicialmente pelo decurso do prazo.\nFrase de prova: DECADÊNCIA = PERDE LANÇAR. PRESCRIÇÃO = PERDE COBRAR."
+    },
+    {
+      "id": "direito-tributario-aula-009-b3",
+      "tipo": "teoria",
+      "titulo": "1. DECADÊNCIA — ART. 173, I",
+      "texto": "A regra geral do art. 173, I, do CTN estabelece prazo de 5 anos contado do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.\nExemplo didático: suponha um tributo sujeito a lançamento de ofício cujo lançamento poderia ter sido realizado em 2026. Pela regra do art. 173, I, a contagem começa, em princípio, em 1º de janeiro de 2027.\nPegadinha: a banca pode dizer que os cinco anos sempre começam exatamente na data do fato gerador. Isso está errado como formulação geral."
+    },
+    {
+      "id": "direito-tributario-aula-009-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 173, II — também é importante reconhecer que o direito de constituir o crédito extingue-se em cinco anos contados da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado."
+    },
+    {
+      "id": "direito-tributario-aula-009-b5",
+      "tipo": "teoria",
+      "titulo": "2. LANÇAMENTO POR HOMOLOGAÇÃO — ART. 150, §4º",
+      "texto": "Aqui mora a maior armadilha.\nNos tributos sujeitos a lançamento por homologação, quando a lei não fixa prazo para homologação, ele é de 5 anos a contar da ocorrência do fato gerador. Expirado esse prazo sem pronunciamento da Fazenda Pública, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada ocorrência de dolo, fraude ou simulação.\nMemória:\nHOMOLOGAÇÃO + PAGAMENTO ANTECIPADO + SEM DOLO/FRAUDE/SIMULAÇÃO → atenção ao ART. 150, §4º → 5 anos do FATO GERADOR.\nREGRA GERAL DO ART. 173, I → 5 anos do PRIMEIRO DIA DO EXERCÍCIO SEGUINTE àquele em que o lançamento poderia ter sido efetuado.\nNão transforme essa comparação em fórmula cega para qualquer caso concreto: a modalidade do tributo, a existência ou não de pagamento antecipado e circunstâncias como dolo, fraude ou simulação precisam ser identificadas."
+    },
+    {
+      "id": "direito-tributario-aula-009-b6",
+      "tipo": "teoria",
+      "titulo": "3. PRESCRIÇÃO — ART. 174",
+      "texto": "A ação para cobrança do crédito tributário prescreve em 5 anos, contados da data de sua constituição definitiva.\nAqui a sequência já avançou:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO DEFINITIVAMENTE CONSTITUÍDO → PRAZO PARA COBRANÇA.\nLogo:\nPRESCRIÇÃO NÃO COMEÇA, COMO REGRA DO ART. 174, SIMPLESMENTE NO FATO GERADOR.\nO marco é a CONSTITUIÇÃO DEFINITIVA DO CRÉDITO."
+    },
+    {
+      "id": "direito-tributario-aula-009-b7",
+      "tipo": "teoria",
+      "titulo": "4. INTERRUPÇÃO DA PRESCRIÇÃO",
+      "texto": "O art. 174 prevê hipóteses que interrompem a prescrição. Para nossa primeira volta, fixe especialmente: despacho do juiz que ordenar a citação em execução fiscal; protesto judicial; qualquer ato judicial que constitua em mora o devedor; e qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor.\nINTERRUPÇÃO não é sinônimo de suspensão. Em prova, não aceite a troca automática dos termos."
+    },
+    {
+      "id": "direito-tributario-aula-009-b8",
+      "tipo": "teoria",
+      "titulo": "5. LINHA DO TEMPO",
+      "texto": "ANTES DA CONSTITUIÇÃO DO CRÉDITO → pense em DECADÊNCIA.\nDEPOIS DA CONSTITUIÇÃO DEFINITIVA → pense em PRESCRIÇÃO.\nVisualmente:\nFATO GERADOR → [DECADÊNCIA: prazo para constituir] → LANÇAMENTO/CONSTITUIÇÃO DEFINITIVA → [PRESCRIÇÃO: prazo para cobrar]."
+    },
+    {
+      "id": "direito-tributario-aula-009-b9",
+      "tipo": "pegadinha",
+      "titulo": "6. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar “constituir” por “cobrar”; afirmar que decadência e prescrição possuem necessariamente o mesmo marco inicial; colocar fato gerador como marco do art. 174; colocar constituição definitiva como marco geral do art. 173, I; esquecer a regra específica do art. 150, §4º; usar “sempre”, “em qualquer hipótese” e “automaticamente” para eliminar as diferenças entre modalidades de lançamento."
+    },
+    {
+      "id": "direito-tributario-aula-009-b10",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver primeiro e confira o gabarito logo abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-009-q-001",
+        "direito-tributario-aula-009-q-002",
+        "direito-tributario-aula-009-q-003",
+        "direito-tributario-aula-009-q-004",
+        "direito-tributario-aula-009-q-005",
+        "direito-tributario-aula-009-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-009-b11",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-C: o distrator clássico é inverter constituir e cobrar.\n2-B: literalidade do art. 173, I; cuidado com a palavra “sempre” ligada ao fato gerador.\n3-C: no art. 174, a expressão decisiva é constituição definitiva do crédito.\n4-A: aqui aparece a regra específica do art. 150, §4º; não a misture mecanicamente com o art. 173, I.\n5-C: “necessariamente” e “em qualquer situação” apagam regimes diferentes e tornam a alternativa errada.\n6-C: I e II são hipóteses legais de interrupção; III é falsa porque decadência e prescrição atuam em momentos distintos."
+    },
+    {
+      "id": "direito-tributario-aula-009-b12",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Art. 135: cargo de gerente basta sozinho? Resposta: não; procure excesso de poderes ou infração de lei, contrato social ou estatutos.\n2. Art. 138: fiscalização relacionada à infração já começou; denúncia posterior é espontânea? Resposta: não.\n3. Parcelamento? Resposta: suspende.\n4. Remissão? Resposta: extingue.\n5. Isenção e anistia? Resposta: excluem.\n6. Decadência? Resposta: perde o prazo para constituir.\n7. Prescrição? Resposta: perde o prazo para cobrar crédito definitivamente constituído."
+    },
+    {
+      "id": "direito-tributario-aula-009-b13",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "ANTES DO CRÉDITO DEFINITIVAMENTE CONSTITUÍDO, VIGIE A DECADÊNCIA. DEPOIS DA CONSTITUIÇÃO DEFINITIVA, VIGIE A PRESCRIÇÃO. ART. 173, I E ART. 150, §4º NÃO TÊM O MESMO MARCO; ART. 174 COMEÇA NA CONSTITUIÇÃO DEFINITIVA.\n\nNa próxima aula, avançaremos para SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS TRIBUTÁRIOS E LIMITAÇÕES AO PODER DE TRIBUTAR, mantendo o foco exclusivo em AGENTE FISCAL."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-009-q-001",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 1,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decadência → perda do prazo para cobrança judicial do crédito definitivamente constituído."
+        },
+        {
+          "id": "B",
+          "text": "prescrição → perda do prazo para realizar o lançamento antes da constituição."
+        },
+        {
+          "id": "C",
+          "text": "decadência → ligada à constituição do crédito; prescrição → ligada à cobrança após constituição definitiva."
+        },
+        {
+          "id": "D",
+          "text": "decadência e prescrição são hipóteses de suspensão."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "o distrator clássico é inverter constituir e cobrar.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-009-q-002",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 2,
+      "question": "Pela regra geral do art. 173, I, o prazo decadencial de cinco anos conta-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sempre da ocorrência do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado."
+        },
+        {
+          "id": "C",
+          "text": "da inscrição em dívida ativa."
+        },
+        {
+          "id": "D",
+          "text": "da citação na execução fiscal."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "literalidade do art. 173, I; cuidado com a palavra “sempre” ligada ao fato gerador.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-009-q-003",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 3,
+      "question": "Segundo o art. 174, a ação para cobrança do crédito tributário prescreve em cinco anos contados:",
+      "options": [
+        {
+          "id": "A",
+          "text": "do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "do primeiro dia do exercício seguinte ao fato gerador em qualquer hipótese."
+        },
+        {
+          "id": "C",
+          "text": "da constituição definitiva do crédito tributário."
+        },
+        {
+          "id": "D",
+          "text": "da inscrição cadastral do contribuinte."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "no art. 174, a expressão decisiva é constituição definitiva do crédito.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-009-q-004",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 4,
+      "question": "No lançamento por homologação, nas condições do art. 150, §4º, quando a lei não fixa prazo e não há dolo, fraude ou simulação, o prazo para homologação é, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cinco anos da ocorrência do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "cinco anos da inscrição em dívida ativa."
+        },
+        {
+          "id": "C",
+          "text": "dez anos da constituição definitiva."
+        },
+        {
+          "id": "D",
+          "text": "um ano da declaração."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "aqui aparece a regra específica do art. 150, §4º; não a misture mecanicamente com o art. 173, I.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-009-q-005",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 5,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decadência se relaciona ao prazo para constituição do crédito."
+        },
+        {
+          "id": "B",
+          "text": "prescrição se relaciona à cobrança de crédito definitivamente constituído."
+        },
+        {
+          "id": "C",
+          "text": "decadência e prescrição possuem necessariamente o mesmo marco inicial em qualquer tributo e situação."
+        },
+        {
+          "id": "D",
+          "text": "o CTN prevê causas de interrupção da prescrição."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "“necessariamente” e “em qualquer situação” apagam regimes diferentes e tornam a alternativa errada.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-009-q-006",
+      "lessonId": "direito-tributario-aula-009",
+      "numero": 6,
+      "question": "Considere: I. O despacho do juiz que ordena a citação em execução fiscal pode interromper a prescrição. II. Ato inequívoco, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor pode interromper a prescrição. III. Prescrição e decadência são sinônimos jurídicos.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I apenas."
+        },
+        {
+          "id": "B",
+          "text": "II apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. GABARITO: 1-C | 2-B | 3-C | 4-A | 5-C | 6-C."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "I e II são hipóteses legais de interrupção; III é falsa porque decadência e prescrição atuam em momentos distintos.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-009-q-001",
+      "resposta": "C",
+      "comentario": "o distrator clássico é inverter constituir e cobrar."
+    },
+    {
+      "questionId": "direito-tributario-aula-009-q-002",
+      "resposta": "B",
+      "comentario": "literalidade do art. 173, I; cuidado com a palavra “sempre” ligada ao fato gerador."
+    },
+    {
+      "questionId": "direito-tributario-aula-009-q-003",
+      "resposta": "C",
+      "comentario": "no art. 174, a expressão decisiva é constituição definitiva do crédito."
+    },
+    {
+      "questionId": "direito-tributario-aula-009-q-004",
+      "resposta": "A",
+      "comentario": "aqui aparece a regra específica do art. 150, §4º; não a misture mecanicamente com o art. 173, I."
+    },
+    {
+      "questionId": "direito-tributario-aula-009-q-005",
+      "resposta": "C",
+      "comentario": "“necessariamente” e “em qualquer situação” apagam regimes diferentes e tornam a alternativa errada."
+    },
+    {
+      "questionId": "direito-tributario-aula-009-q-006",
+      "resposta": "C",
+      "comentario": "I e II são hipóteses legais de interrupção; III é falsa porque decadência e prescrição atuam em momentos distintos."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-009-b12",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Art. 135: cargo de gerente basta sozinho? Resposta: não; procure excesso de poderes ou infração de lei, contrato social ou estatutos.\n2. Art. 138: fiscalização relacionada à infração já começou; denúncia posterior é espontânea? Resposta: não.\n3. Parcelamento? Resposta: suspende.\n4. Remissão? Resposta: extingue.\n5. Isenção e anistia? Resposta: excluem.\n6. Decadência? Resposta: perde o prazo para constituir.\n7. Prescrição? Resposta: perde o prazo para cobrar crédito definitivamente constituído."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-009-b4",
+      "titulo": "1. DECADÊNCIA — ART. 173, I",
+      "texto": "ART. 173, II — também é importante reconhecer que o direito de constituir o crédito extingue-se em cinco anos contados da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "ff34119745b56cf6"
+}

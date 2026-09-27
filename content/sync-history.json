@@ -1,0 +1,76 @@
+{
+  "registros": [
+    {
+      "data": "2026-09-27T12:12:29.942Z",
+      "contentVersion": 3,
+      "novasAulas": [
+        "direito-tributario-aula-035"
+      ],
+      "aulasModificadas": [],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 8,
+      "arquivosAlterados": 4,
+      "status": "success"
+    },
+    {
+      "data": "2026-09-27T05:20:27.447Z",
+      "contentVersion": 2,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-003",
+        "direito-tributario-aula-005",
+        "direito-tributario-aula-006",
+        "direito-tributario-aula-007"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 3,
+      "status": "success"
+    },
+    {
+      "data": "2026-09-27T05:17:03.015Z",
+      "contentVersion": 1,
+      "novasAulas": [
+        "direito-tributario-aula-001",
+        "direito-tributario-aula-002",
+        "direito-tributario-aula-003",
+        "direito-tributario-aula-004",
+        "direito-tributario-aula-005",
+        "direito-tributario-aula-006",
+        "direito-tributario-aula-007",
+        "direito-tributario-aula-008",
+        "direito-tributario-aula-009",
+        "direito-tributario-aula-010",
+        "direito-tributario-aula-011",
+        "direito-tributario-aula-012",
+        "direito-tributario-aula-013",
+        "direito-tributario-aula-014",
+        "direito-tributario-aula-015",
+        "direito-tributario-aula-016",
+        "direito-tributario-aula-017",
+        "direito-tributario-aula-018",
+        "direito-tributario-aula-019",
+        "direito-tributario-aula-031",
+        "direito-tributario-aula-032",
+        "direito-tributario-aula-033",
+        "direito-tributario-aula-034",
+        "legislacao-tributaria-de-queimados-aula-025",
+        "legislacao-tributaria-de-queimados-aula-026",
+        "legislacao-tributaria-de-queimados-aula-027",
+        "legislacao-tributaria-de-queimados-aula-028",
+        "legislacao-tributaria-de-queimados-aula-029",
+        "legislacao-tributaria-de-queimados-aula-030",
+        "receitas-publicas-aula-020",
+        "receitas-publicas-aula-021",
+        "receitas-publicas-aula-022",
+        "receitas-publicas-aula-023",
+        "receitas-publicas-aula-024"
+      ],
+      "aulasModificadas": [],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 129,
+      "arquivosAlterados": 4,
+      "status": "success"
+    }
+  ]
+}

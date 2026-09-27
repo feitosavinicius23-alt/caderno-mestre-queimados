@@ -1,0 +1,388 @@
+{
+  "id": "direito-tributario-aula-008",
+  "numero": 8,
+  "titulo": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+  "slug": "responsabilidade-tributaria-contribuinte-responsavel-sucessores-e-terceiros",
+  "disciplina": "Direito Tributário",
+  "assunto": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+  "ordem": 8,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "CONTRIBUINTE LIGA-SE AO FATO; RESPONSÁVEL LIGA-SE À LEI. SUCESSÃO TEM REGRAS E LIMITES. TERCEIRO NÃO RESPONDE AUTOMATICAMENTE: PROCURE OS REQUISITOS DO CTN.\n\nNa próxima aula, avançaremos para PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE, consolidando art. 173, I, art. 150, §4º e art. 174.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-008-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 7. Agora aprofundamos um ponto expressamente previsto no conteúdo de Direito Tributário do AGENTE FISCAL: responsabilidade tributária. A pergunta central é: QUEM A LEI PODE OBRIGAR A PAGAR O TRIBUTO OU A PENALIDADE?\nCONTRIBUINTE → possui relação pessoal e direta com a situação que constitui o fato gerador.\nRESPONSÁVEL → sem revestir a condição de contribuinte, sua obrigação decorre de disposição expressa de lei."
+    },
+    {
+      "id": "direito-tributario-aula-008-b2",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "CONTRIBUINTE → LIGAÇÃO DIRETA COM O FATO GERADOR. RESPONSÁVEL → A LEI ATRIBUI A OBRIGAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-008-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 128 — A lei pode atribuir expressamente responsabilidade pelo crédito a terceira pessoa vinculada ao fato gerador, excluindo a responsabilidade do contribuinte ou atribuindo-a em caráter total ou parcial. Palavras-chave: EXPRESSAMENTE + VINCULADA. Não aceite alternativa dizendo que a Administração escolhe livremente qualquer terceiro sem base legal."
+    },
+    {
+      "id": "direito-tributario-aula-008-b4",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "RESPONSABILIDADE DOS SUCESSORES — fatos posteriores como aquisição de bens, transmissão, sucessão empresarial ou falecimento podem deslocar ou estender responsabilidade conforme os requisitos legais. Pergunte: QUAL SUCESSÃO? QUAL BEM/EMPRESA/PATRIMÔNIO? QUAL CRÉDITO? QUAL REGRA DO CTN?"
+    },
+    {
+      "id": "direito-tributario-aula-008-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 130 — IMÓVEL. Créditos relativos a impostos cujo fato gerador seja propriedade, domínio útil ou posse de imóveis, taxas referentes a esses bens e contribuição de melhoria sub-rogam-se na pessoa dos adquirentes, salvo prova de quitação no título. Na arrematação em hasta pública, a sub-rogação ocorre sobre o preço. Memória: IMÓVEL + DÉBITO VINCULADO AO BEM → ATENÇÃO À SUB-ROGAÇÃO E ÀS RESSALVAS."
+    },
+    {
+      "id": "direito-tributario-aula-008-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 131 — SUCESSÃO POR MORTE. O sucessor e o cônjuge meeiro respondem, nas condições legais, até a data da partilha/adjudicação, limitadamente ao montante do quinhão, legado ou meação; o espólio responde pelos tributos devidos pelo de cujus até a abertura da sucessão. Pegadinha: responsabilidade do sucessor NÃO é automaticamente ilimitada."
+    },
+    {
+      "id": "direito-tributario-aula-008-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 132 — SUCESSÃO EMPRESARIAL. Pessoa jurídica resultante de fusão, transformação ou incorporação responde pelos tributos devidos até a data do ato pelas pessoas jurídicas fusionadas, transformadas ou incorporadas. A regra também alcança a continuidade da exploração por sócio remanescente ou espólio nas condições do parágrafo único. Memória: FUSÃO / TRANSFORMAÇÃO / INCORPORAÇÃO → OLHE PARA A SUCESSÃO TRIBUTÁRIA."
+    },
+    {
+      "id": "direito-tributario-aula-008-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 133 — FUNDO DE COMÉRCIO/ESTABELECIMENTO. Quem adquire fundo ou estabelecimento e continua a exploração pode responder pelos tributos relativos ao fundo/estabelecimento devidos até a data do ato. Distinção de prova: ALIENANTE CESSA A EXPLORAÇÃO → responsabilidade do adquirente pode ser INTEGRAL. ALIENANTE PROSSEGUE OU INICIA, DENTRO DE 6 MESES, NOVA ATIVIDADE → responsabilidade do adquirente é SUBSIDIÁRIA. Memória: CESSOU → INTEGRAL. CONTINUOU/RECOMEÇOU EM ATÉ 6 MESES → SUBSIDIÁRIA. Há exceções legais ligadas à alienação judicial em falência/recuperação."
+    },
+    {
+      "id": "direito-tributario-aula-008-b9",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "ARTS. 134 E 135 — TERCEIROS. ART. 134: impossibilidade de exigir do contribuinte + intervenção ou omissão do terceiro nos atos pelos quais for responsável → responsabilidade solidária nas hipóteses legais. ART. 135: responsabilidade pessoal por créditos resultantes de atos praticados com EXCESSO DE PODERES ou INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS. Inclui, nas condições legais, mandatários, prepostos, empregados, diretores, gerentes ou representantes. Pegadinha: ser gerente, diretor ou sócio, por si só, NÃO autoriza concluir automaticamente pela responsabilidade pessoal do art. 135."
+    },
+    {
+      "id": "direito-tributario-aula-008-b10",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "CONTRIBUINTE → relação pessoal e direta com fato gerador.\nRESPONSÁVEL → obrigação atribuída expressamente por lei.\nART. 128 → terceiro vinculado + atribuição legal expressa.\nART. 130 → imóvel: sub-rogação e ressalvas.\nART. 131 → sucessão/morte: limites legais.\nART. 132 → fusão, transformação e incorporação.\nART. 133 → cessou = integral; continuou/recomeçou até 6 meses = subsidiária.\nART. 134 → solidariedade nas condições legais.\nART. 135 → excesso de poderes ou infração de lei/contrato/estatuto = responsabilidade pessoal.",
+      "mapaId": "direito-tributario-aula-008-b10"
+    },
+    {
+      "id": "direito-tributario-aula-008-b11",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar contribuinte por responsável; criar responsabilidade sem lei; transformar limites do sucessor em responsabilidade ilimitada; inverter integral e subsidiária do art. 133; afirmar que todo sócio responde pessoalmente por qualquer débito; retirar do art. 135 “excesso de poderes” e “infração de lei, contrato social ou estatutos”; usar “automaticamente”, “qualquer”, “sempre”."
+    },
+    {
+      "id": "direito-tributario-aula-008-b12",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver antes e confira o gabarito logo abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-008-q-001",
+        "direito-tributario-aula-008-q-002",
+        "direito-tributario-aula-008-q-003",
+        "direito-tributario-aula-008-q-004",
+        "direito-tributario-aula-008-q-005",
+        "direito-tributario-aula-008-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-008-b13",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-C: B atribui ao responsável a característica típica do contribuinte.\n2-B: núcleo = “expressamente” + vínculo; a banca pode trocar lei por escolha administrativa.\n3-B: “irrelevante em qualquer hipótese” apaga a ressalva da prova de quitação.\n4-A: grave: cessou = integral; prosseguiu/recomeçou em até seis meses = subsidiária.\n5-C: II usa “todo”, “automaticamente” e “apenas por ser sócio”, ignorando requisitos legais.\n6-B: cargo não basta por si só; procure excesso de poderes ou infração qualificada."
+    },
+    {
+      "id": "direito-tributario-aula-008-b14",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Multa é tributo? Resposta: não.\n2. Denúncia depois de iniciada fiscalização relacionada à infração é espontânea para o art. 138? Resposta: não.\n3. Parcelamento? Resposta: suspende.\n4. Remissão? Resposta: extingue.\n5. Isenção e anistia? Resposta: excluem.\n6. Art. 185 — marco? Resposta: crédito tributário regularmente inscrito em dívida ativa.\n7. Contribuinte x responsável? Resposta: contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei."
+    },
+    {
+      "id": "direito-tributario-aula-008-b15",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "CONTRIBUINTE LIGA-SE AO FATO; RESPONSÁVEL LIGA-SE À LEI. SUCESSÃO TEM REGRAS E LIMITES. TERCEIRO NÃO RESPONDE AUTOMATICAMENTE: PROCURE OS REQUISITOS DO CTN.\n\nNa próxima aula, avançaremos para PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE, consolidando art. 173, I, art. 150, §4º e art. 174."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-008-q-001",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 1,
+      "question": "A respeito do sujeito passivo da obrigação principal, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "contribuinte é qualquer pessoa escolhida pela Administração."
+        },
+        {
+          "id": "B",
+          "text": "responsável possui necessariamente relação pessoal e direta com o fato gerador."
+        },
+        {
+          "id": "C",
+          "text": "contribuinte possui relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei sem ser contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "contribuinte e responsável são conceitos idênticos."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "B atribui ao responsável a característica típica do contribuinte.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    },
+    {
+      "id": "direito-tributario-aula-008-q-002",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 2,
+      "question": "Segundo o art. 128, a responsabilidade de terceiro:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pode ser atribuída livremente por ato do fiscal."
+        },
+        {
+          "id": "B",
+          "text": "depende de atribuição expressa de lei e vínculo do terceiro com o fato gerador, nos termos do CTN."
+        },
+        {
+          "id": "C",
+          "text": "somente existe se o terceiro for contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "jamais pode excluir a responsabilidade do contribuinte."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "núcleo = “expressamente” + vínculo; a banca pode trocar lei por escolha administrativa.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    },
+    {
+      "id": "direito-tributario-aula-008-q-003",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 3,
+      "question": "Na sucessão relacionada a imóvel, é INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o CTN contém regra de sub-rogação de determinados créditos na pessoa do adquirente."
+        },
+        {
+          "id": "B",
+          "text": "a prova de quitação constante do título é irrelevante em qualquer hipótese."
+        },
+        {
+          "id": "C",
+          "text": "impostos ligados à propriedade/domínio útil/posse estão abrangidos pelo art. 130."
+        },
+        {
+          "id": "D",
+          "text": "arrematação em hasta pública possui regra específica de sub-rogação sobre o preço."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "“irrelevante em qualquer hipótese” apaga a ressalva da prova de quitação.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    },
+    {
+      "id": "direito-tributario-aula-008-q-004",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 4,
+      "question": "Na aquisição de fundo de comércio ou estabelecimento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "se o alienante cessa a exploração, pode haver responsabilidade integral do adquirente."
+        },
+        {
+          "id": "B",
+          "text": "a responsabilidade do adquirente é sempre inexistente."
+        },
+        {
+          "id": "C",
+          "text": "se o alienante continua atividade, a responsabilidade torna-se necessariamente integral."
+        },
+        {
+          "id": "D",
+          "text": "não importa se a exploração é continuada pelo adquirente."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "grave: cessou = integral; prosseguiu/recomeçou em até seis meses = subsidiária.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    },
+    {
+      "id": "direito-tributario-aula-008-q-005",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 5,
+      "question": "Considere: I. Art. 135 trabalha com excesso de poderes ou infração de lei, contrato social ou estatutos. II. Todo sócio responde pessoal e automaticamente por qualquer crédito apenas por ser sócio. III. Art. 134 prevê responsabilidade de terceiros nas condições legais quando há impossibilidade de exigir do contribuinte e intervenção ou omissão do terceiro.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I apenas."
+        },
+        {
+          "id": "B",
+          "text": "II apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e III apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "II usa “todo”, “automaticamente” e “apenas por ser sócio”, ignorando requisitos legais.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    },
+    {
+      "id": "direito-tributario-aula-008-q-006",
+      "lessonId": "direito-tributario-aula-008",
+      "numero": 6,
+      "question": "“Para responsabilizar pessoalmente diretor ou gerente pelo art. 135, basta demonstrar que ocupava o cargo quando surgiu o débito.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, cargo gera responsabilidade automática."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, pois o art. 135 exige atos com excesso de poderes ou infração de lei, contrato social ou estatutos."
+        },
+        {
+          "id": "C",
+          "text": "correta apenas para tributos municipais."
+        },
+        {
+          "id": "D",
+          "text": "incorreta porque diretores e gerentes nunca podem responder. GABARITO: 1-C | 2-B | 3-B | 4-A | 5-C | 6-B."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "cargo não basta por si só; procure excesso de poderes ou infração qualificada.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-008-q-001",
+      "resposta": "C",
+      "comentario": "B atribui ao responsável a característica típica do contribuinte."
+    },
+    {
+      "questionId": "direito-tributario-aula-008-q-002",
+      "resposta": "B",
+      "comentario": "núcleo = “expressamente” + vínculo; a banca pode trocar lei por escolha administrativa."
+    },
+    {
+      "questionId": "direito-tributario-aula-008-q-003",
+      "resposta": "B",
+      "comentario": "“irrelevante em qualquer hipótese” apaga a ressalva da prova de quitação."
+    },
+    {
+      "questionId": "direito-tributario-aula-008-q-004",
+      "resposta": "A",
+      "comentario": "grave: cessou = integral; prosseguiu/recomeçou em até seis meses = subsidiária."
+    },
+    {
+      "questionId": "direito-tributario-aula-008-q-005",
+      "resposta": "C",
+      "comentario": "II usa “todo”, “automaticamente” e “apenas por ser sócio”, ignorando requisitos legais."
+    },
+    {
+      "questionId": "direito-tributario-aula-008-q-006",
+      "resposta": "B",
+      "comentario": "cargo não basta por si só; procure excesso de poderes ou infração qualificada."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-008-b14",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Multa é tributo? Resposta: não.\n2. Denúncia depois de iniciada fiscalização relacionada à infração é espontânea para o art. 138? Resposta: não.\n3. Parcelamento? Resposta: suspende.\n4. Remissão? Resposta: extingue.\n5. Isenção e anistia? Resposta: excluem.\n6. Art. 185 — marco? Resposta: crédito tributário regularmente inscrito em dívida ativa.\n7. Contribuinte x responsável? Resposta: contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-008-b10",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "CONTRIBUINTE",
+        "relação pessoal e direta com fato gerador",
+        "RESPONSÁVEL",
+        "obrigação atribuída expressamente por lei",
+        "ART. 128",
+        "terceiro vinculado + atribuição legal expressa",
+        "ART. 130",
+        "imóvel: sub-rogação e ressalvas",
+        "ART. 131",
+        "sucessão/morte: limites legais",
+        "ART. 132",
+        "fusão, transformação e incorporação",
+        "ART. 133",
+        "cessou = integral; continuou/recomeçou até 6 meses = subsidiária",
+        "ART. 134",
+        "solidariedade nas condições legais",
+        "ART. 135",
+        "excesso de poderes ou infração de lei/contrato/estatuto = responsabilidade pessoal"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-008-b3",
+      "titulo": "",
+      "texto": "ART. 128 — A lei pode atribuir expressamente responsabilidade pelo crédito a terceira pessoa vinculada ao fato gerador, excluindo a responsabilidade do contribuinte ou atribuindo-a em caráter total ou parcial. Palavras-chave: EXPRESSAMENTE + VINCULADA. Não aceite alternativa dizendo que a Administração escolhe livremente qualquer terceiro sem base legal."
+    },
+    {
+      "id": "direito-tributario-aula-008-b5",
+      "titulo": "",
+      "texto": "ART. 130 — IMÓVEL. Créditos relativos a impostos cujo fato gerador seja propriedade, domínio útil ou posse de imóveis, taxas referentes a esses bens e contribuição de melhoria sub-rogam-se na pessoa dos adquirentes, salvo prova de quitação no título. Na arrematação em hasta pública, a sub-rogação ocorre sobre o preço. Memória: IMÓVEL + DÉBITO VINCULADO AO BEM → ATENÇÃO À SUB-ROGAÇÃO E ÀS RESSALVAS."
+    },
+    {
+      "id": "direito-tributario-aula-008-b6",
+      "titulo": "",
+      "texto": "ART. 131 — SUCESSÃO POR MORTE. O sucessor e o cônjuge meeiro respondem, nas condições legais, até a data da partilha/adjudicação, limitadamente ao montante do quinhão, legado ou meação; o espólio responde pelos tributos devidos pelo de cujus até a abertura da sucessão. Pegadinha: responsabilidade do sucessor NÃO é automaticamente ilimitada."
+    },
+    {
+      "id": "direito-tributario-aula-008-b7",
+      "titulo": "",
+      "texto": "ART. 132 — SUCESSÃO EMPRESARIAL. Pessoa jurídica resultante de fusão, transformação ou incorporação responde pelos tributos devidos até a data do ato pelas pessoas jurídicas fusionadas, transformadas ou incorporadas. A regra também alcança a continuidade da exploração por sócio remanescente ou espólio nas condições do parágrafo único. Memória: FUSÃO / TRANSFORMAÇÃO / INCORPORAÇÃO → OLHE PARA A SUCESSÃO TRIBUTÁRIA."
+    },
+    {
+      "id": "direito-tributario-aula-008-b8",
+      "titulo": "",
+      "texto": "ART. 133 — FUNDO DE COMÉRCIO/ESTABELECIMENTO. Quem adquire fundo ou estabelecimento e continua a exploração pode responder pelos tributos relativos ao fundo/estabelecimento devidos até a data do ato. Distinção de prova: ALIENANTE CESSA A EXPLORAÇÃO → responsabilidade do adquirente pode ser INTEGRAL. ALIENANTE PROSSEGUE OU INICIA, DENTRO DE 6 MESES, NOVA ATIVIDADE → responsabilidade do adquirente é SUBSIDIÁRIA. Memória: CESSOU → INTEGRAL. CONTINUOU/RECOMEÇOU EM ATÉ 6 MESES → SUBSIDIÁRIA. Há exceções legais ligadas à alienação judicial em falência/recuperação."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "3fcbace11a7f5c16"
+}

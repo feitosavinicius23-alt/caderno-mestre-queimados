@@ -1,0 +1,72 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-025",
+  "numero": 25,
+  "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
+  "slug": "codigo-tributario-de-queimados-estrutura-local-legalidade-e-conexao-com-a-fiscal",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
+  "ordem": 25,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-025-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 24. Fechado o bloco geral de Receitas Públicas, começamos a aplicação LOCAL no Código Tributário do Município de Queimados, Lei Complementar nº 001/1995. Esta aula é exclusiva para AGENTE FISCAL e faz a ponte entre CTN/Constituição e a legislação municipal.\nATUALIZAÇÃO NORMATIVA: a consolidação oficial localizada no Portal da Transparência informa consolidação em 03/05/2024, com alterações até a LC nº 102/2023. Além disso, há legislação posterior relevante, como a LC nº 106, de 29/08/2025, que disciplina dação em pagamento de bens imóveis como forma de extinção da obrigação tributária municipal. Portanto, para prova, nunca trate a versão histórica de 1995 como se estivesse isolada das alterações posteriores.\nMEMÓRIA CENTRAL: CONSTITUIÇÃO DÁ COMPETÊNCIA → CTN TRAZ NORMAS GERAIS → CÓDIGO TRIBUTÁRIO MUNICIPAL DISCIPLINA A APLICAÇÃO LOCAL DENTRO DESSES LIMITES.\n1. HIERARQUIA PRÁTICA. A lei municipal não pode contrariar Constituição nem normas gerais nacionais aplicáveis. O Município exerce sua competência própria, mas não possui poder tributário ilimitado. Se uma alternativa disser que Queimados pode criar qualquer imposto por lei municipal, está errada. Os impostos municipais continuam IPTU, ITBI e ISS.\n2. LEGALIDADE LOCAL. O Agente Fiscal não cria tributo, não inventa fato gerador, não escolhe alíquota e não concede benefício informal. Sua atuação aplica a legislação vigente. Isso conecta diretamente as aulas anteriores: lançamento é atividade vinculada; benefício fiscal exige fundamento legal; renúncia de receita possui disciplina própria.\n3. CADASTRO E FISCALIZAÇÃO. A legislação tributária municipal depende de cadastros, declarações e informações para identificar sujeito passivo, imóvel, atividade econômica e fatos relevantes. Informação cadastral não cria direito real sobre imóvel: serve à finalidade tributária. O fiscal deve separar situação cadastral tributária de propriedade civil.\n4. IPTU LOCAL — PONTE COM O CTN. O CTN trabalha com propriedade, domínio útil ou posse nas condições legais e base de cálculo ligada ao valor venal. Ao estudar o Código de Queimados, procure como a lei local detalha cadastro imobiliário, incidência, base, lançamento, responsáveis, isenções e procedimentos. Não substitua a lei local por uma regra genérica memorizada de outro Município.\n5. ISS LOCAL — PONTE COM A LC 116. A lei municipal deve operar dentro da LC 116/2003. Procure na legislação de Queimados: cadastro mobiliário, deveres instrumentais, emissão de documentos, retenção/responsabilidade, alíquotas e fiscalização. Regra nacional permanece: base do ISS = preço do serviço, observadas as hipóteses legais específicas.\n6. ITBI LOCAL — PONTE COM A CONSTITUIÇÃO/CTN. O núcleo continua transmissão inter vivos onerosa e competência do Município da situação do bem. A legislação municipal disciplina procedimento, sujeito passivo e demais elementos dentro das normas superiores.\n7. TAXAS E PODER DE POLÍCIA. Queimados pode instituir taxas dentro de suas atribuições, mas a cobrança depende de lei e dos requisitos constitucionais/CTN. Não confunda existência de fiscalização com nascimento automático de taxa. Taxa de polícia exige exercício regular do poder de polícia; taxa de serviço exige serviço específico e divisível nas condições legais.\n8. EXTINÇÃO DO CRÉDITO — ATUALIZAÇÃO LOCAL IMPORTANTE. Em 29/08/2025 foi publicada a LC nº 106/2025 disciplinando a dação em pagamento de bens imóveis no Município, instituto que já estudamos no art. 156, XI, do CTN. Pegadinha: dação em pagamento de bem imóvel, quando realizada na forma e condições legais, pertence ao campo da EXTINÇÃO, não suspensão nem exclusão.\n9. COMO A IAN PODE TENTAR ENGANAR. Trocar competência municipal por poder ilimitado; usar redação antiga sem considerar alteração legislativa; confundir cadastro fiscal com prova definitiva de propriedade; transformar ato do fiscal em fonte autônoma de tributo; dizer que qualquer fiscalização gera taxa; trocar dação em pagamento por parcelamento; ou misturar IPTU, ITBI e ISS com fatos geradores e bases de cálculo invertidos."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-025-b2",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "Constituição → competência e limitações.\nCTN → normas gerais.\nLC 116 → disciplina nacional central do ISS.\nCTM Queimados → aplicação tributária municipal.\nFiscal → aplica a lei; não cria tributo nem benefício informal.\nIPTU → imóvel urbano / valor venal.\nITBI → transmissão inter vivos onerosa / situação do bem.\nISS → serviço da lista / preço do serviço.\nTaxa → polícia regular ou serviço específico/divisível.\nDação em pagamento de imóvel, na forma legal → extinção do crédito.",
+      "mapaId": "legislacao-tributaria-de-queimados-aula-025-b2"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-025-b3",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. A legislação tributária municipal de Queimados: A) pode contrariar livremente o CTN B) deve atuar dentro da competência constitucional e das normas gerais aplicáveis C) pode criar novos impostos sem limite constitucional D) torna desnecessária a LC 116 para ISS.\n2. É INCORRETO: A) o fiscal aplica a legislação B) lançamento é atividade vinculada C) o fiscal pode criar benefício tributário informal por conveniência D) a lei municipal deve respeitar limites constitucionais.\n3. Informação constante do cadastro imobiliário municipal: A) serve à finalidade tributária e não equivale automaticamente a título de propriedade civil B) sempre substitui o registro imobiliário C) elimina a necessidade de fiscalização D) transforma possuidor em proprietário civil.\n4. Associação CORRETA: A) IPTU→preço do serviço B) ISS→valor venal do imóvel C) ITBI→transmissão inter vivos onerosa D) taxa→qualquer serviço geral indivisível.\n5. A dação em pagamento de bens imóveis, quando admitida e realizada nas condições legais, relaciona-se a: A) suspensão B) extinção C) exclusão por anistia D) imunidade.\n6. Considere: I Constituição distribui competência; II CTN contém normas gerais; III lei municipal pode afastar livremente limitações constitucionais; IV fiscalização municipal deve observar a legislação. A) I/II B) I/II/IV C) II/III/IV D) todas.\n7. Intercalado: parcelamento, remissão e anistia correspondem a: A) suspensão, extinção, exclusão B) extinção, suspensão, exclusão C) exclusão, extinção, suspensão D) todas extinção.\n8. Intercalado: previsão, arrecadação e recolhimento significam: A) estimar, receber, transferir ao Tesouro B) receber, estimar, lançar C) lançar, cobrar, prescrever D) instituir, fiscalizar, anistiar.\n\nNão há gabarito antecipado. Sem respostas registradas, o tema permanece em aprendizagem. A próxima recuperação deve misturar CTM local com CTN, Receitas Públicas e impostos municipais para comprovar retenção real.\n\nRECUPERAÇÃO DE 60 SEGUNDOS — SEM CONSULTA: quem dá competência tributária? O CTM pode contrariar o CTN? Fiscal pode criar isenção? Cadastro fiscal prova sozinho propriedade civil? Qual a base do IPTU? Qual a base do ISS? ITBI é inter vivos oneroso ou causa mortis? Dação em pagamento de imóvel, na forma legal, suspende ou extingue? Parcelamento faz o quê?\n\nFRASE FINAL: O AGENTE FISCAL DE QUEIMADOS NÃO APLICA UMA LEI MUNICIPAL ISOLADA. ELE TRABALHA NUM SISTEMA: CONSTITUIÇÃO → NORMAS GERAIS → LEGISLAÇÃO NACIONAL ESPECÍFICA → CÓDIGO TRIBUTÁRIO MUNICIPAL ATUALIZADO. A PROVA PODE TROCAR UM NÍVEL PELO OUTRO; VOCÊ DEVE IDENTIFICAR QUAL NORMA CONTROLA CADA QUESTÃO."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-025-b2",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "Constituição",
+        "competência e limitações",
+        "CTN",
+        "normas gerais",
+        "LC 116",
+        "disciplina nacional central do ISS",
+        "CTM Queimados",
+        "aplicação tributária municipal",
+        "Fiscal",
+        "aplica a lei; não cria tributo nem benefício informal",
+        "IPTU",
+        "imóvel urbano / valor venal",
+        "ITBI",
+        "transmissão inter vivos onerosa / situação do bem",
+        "ISS",
+        "serviço da lista / preço do serviço",
+        "Taxa",
+        "polícia regular ou serviço específico/divisível",
+        "Dação em pagamento de imóvel, na forma legal",
+        "extinção do crédito"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "2dee6c9656b78f8d"
+}

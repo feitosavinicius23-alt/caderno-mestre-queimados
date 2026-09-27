@@ -1,0 +1,375 @@
+{
+  "id": "direito-tributario-aula-014",
+  "numero": 14,
+  "titulo": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+  "slug": "iss-incidencia-lista-de-servicos-local-da-incidencia-base-de-calculo-e-aliquotas",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+  "ordem": 14,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "IPTU OLHA O IMÓVEL URBANO; ITBI OLHA A TRANSMISSÃO ONEROSA INTER VIVOS; ISS OLHA A PRESTAÇÃO DE SERVIÇO DA LISTA. NO ISS, GRAVE: LISTA DA LC 116, PREÇO DO SERVIÇO E REGRA DO ESTABELECIMENTO PRESTADOR COM EXCEÇÕES LEGAIS.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-014-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 13 e completamos o núcleo dos três impostos municipais com o ISS — Imposto Sobre Serviços de Qualquer Natureza. O foco continua EXCLUSIVAMENTE no cargo de AGENTE FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-014-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "ISS → SERVIÇO PREVISTO EM LEI COMPLEMENTAR + COMPETÊNCIA MUNICIPAL/DF."
+    },
+    {
+      "id": "direito-tributario-aula-014-b3",
+      "tipo": "teoria",
+      "titulo": "1. FUNDAMENTO CONSTITUCIONAL",
+      "texto": "A Constituição, art. 156, III, atribui aos Municípios e ao Distrito Federal competência para instituir imposto sobre serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar. A lei complementar nacional central é a LC 116/2003.\nPegadinha: o Município não pode simplesmente inventar qualquer atividade e chamá-la de serviço tributável pelo ISS. A incidência deve respeitar a lista da lei complementar e a interpretação juridicamente admitida de seus itens."
+    },
+    {
+      "id": "direito-tributario-aula-014-b4",
+      "tipo": "teoria",
+      "titulo": "2. FATO GERADOR — LC 116/2003, ART. 1º",
+      "texto": "O ISS tem como fato gerador a prestação de serviços constantes da lista anexa à LC 116/2003, ainda que esses serviços não constituam a atividade preponderante do prestador."
+    },
+    {
+      "id": "direito-tributario-aula-014-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "SERVIÇO NA LISTA + PRESTAÇÃO → OLHE PARA ISS."
+    },
+    {
+      "id": "direito-tributario-aula-014-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "A incidência não depende de o serviço ser a atividade principal da empresa. A expressão “ainda que esses não se constituam como atividade preponderante do prestador” é excelente material de literalidade."
+    },
+    {
+      "id": "direito-tributario-aula-014-b7",
+      "tipo": "teoria",
+      "titulo": "3. SERVIÇO DO EXTERIOR",
+      "texto": "O imposto incide também sobre serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior, conforme a LC 116/2003. Portanto, “serviço iniciado no exterior nunca sofre ISS” é formulação errada."
+    },
+    {
+      "id": "direito-tributario-aula-014-b8",
+      "tipo": "teoria",
+      "titulo": "4. EXPORTAÇÃO DE SERVIÇOS",
+      "texto": "A LC 116 prevê não incidência sobre exportações de serviços para o exterior, mas traz ressalva: não se enquadram nessa regra os serviços desenvolvidos no Brasil cujo resultado aqui se verifique, ainda que o pagamento seja feito por residente no exterior.\nPegadinha: PAGAMENTO VINDO DO EXTERIOR, sozinho, não transforma automaticamente a operação em exportação não sujeita ao ISS. Observe onde se verifica o resultado nas condições legais.\n5. ISS x ICMS\nA Constituição exclui do ISS os serviços compreendidos na competência do ICMS. A LC 116 também disciplina situações em que serviços da lista podem envolver fornecimento de mercadorias. Não use fórmula simplista de que “qualquer operação com mercadoria elimina o ISS”. É preciso olhar o item da lista e sua ressalva."
+    },
+    {
+      "id": "direito-tributario-aula-014-b9",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "ISS → serviços da lista. ICMS → competência estadual constitucional. Em operação mista, LEIA A RESSALVA DO ITEM."
+    },
+    {
+      "id": "direito-tributario-aula-014-b10",
+      "tipo": "teoria",
+      "titulo": "6. LOCAL DO ISS — REGRA GERAL E EXCEÇÕES",
+      "texto": "A regra geral da LC 116 é que o serviço considera-se devido no local do estabelecimento prestador ou, na falta deste, no domicílio do prestador. Porém, o art. 3º traz diversas exceções em que o imposto é devido em outro local indicado pela própria lei complementar."
+    },
+    {
+      "id": "direito-tributario-aula-014-b11",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "REGRA → ESTABELECIMENTO PRESTADOR. EXCEÇÃO → PROCURE O ART. 3º."
+    },
+    {
+      "id": "direito-tributario-aula-014-b12",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Essa é uma fonte fortíssima de pegadinha: uma alternativa que diga “ISS é sempre devido onde está o prestador” está errada porque ignora as exceções legais."
+    },
+    {
+      "id": "direito-tributario-aula-014-b13",
+      "tipo": "teoria",
+      "titulo": "7. ESTABELECIMENTO PRESTADOR",
+      "texto": "Para a LC 116, estabelecimento prestador é o local onde o contribuinte desenvolve a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo denominações como sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato.\nA banca pode tentar reduzir estabelecimento prestador à sede formal da empresa. Não faça isso."
+    },
+    {
+      "id": "direito-tributario-aula-014-b14",
+      "tipo": "teoria",
+      "titulo": "8. CONTRIBUINTE E RESPONSABILIDADE",
+      "texto": "Contribuinte do ISS é o prestador do serviço. A lei complementar permite, contudo, que a legislação atribua responsabilidade a terceira pessoa vinculada ao fato gerador, inclusive com dever de retenção/recolhimento nas hipóteses legais. Recupere a Aula 8: CONTRIBUINTE não é sinônimo de RESPONSÁVEL."
+    },
+    {
+      "id": "direito-tributario-aula-014-b15",
+      "tipo": "teoria",
+      "titulo": "9. BASE DE CÁLCULO",
+      "texto": "Regra central da LC 116: a base de cálculo do ISS é o PREÇO DO SERVIÇO.\nMemória automática:\nIPTU → valor venal do imóvel.\nITBI → valor venal dos bens/direitos transmitidos, na literalidade do CTN.\nISS → preço do serviço.\nEssa comparação é excelente para questão de associação."
+    },
+    {
+      "id": "direito-tributario-aula-014-b16",
+      "tipo": "teoria",
+      "titulo": "10. ALÍQUOTAS — LEI COMPLEMENTAR",
+      "texto": "A Constituição reserva à lei complementar a fixação das alíquotas máximas e mínimas do ISS. A LC 116 estabelece alíquota máxima de 5%, e a disciplina nacional estabelece, como regra, alíquota mínima de 2%, observadas as exceções legais.\nPara prova: cuidado com Município criando benefício que resulte, direta ou indiretamente, em carga inferior à mínima legal fora das hipóteses permitidas."
+    },
+    {
+      "id": "direito-tributario-aula-014-b17",
+      "tipo": "teoria",
+      "titulo": "11. NÃO INCIDÊNCIAS IMPORTANTES DA LC 116",
+      "texto": "Além das exportações nos termos legais, a LC 116 prevê que o ISS não incide sobre prestação de serviços em relação de emprego, trabalhadores avulsos, diretores e membros de conselho consultivo ou fiscal de sociedades e fundações, bem como sócios-gerentes e gerentes-delegados; e traz regra própria sobre determinados valores intermediados no mercado de títulos e valores mobiliários, depósitos bancários, principal, juros e acréscimos moratórios relativos a operações de crédito realizadas por instituições financeiras.\nPara primeira volta, a chave é: RELAÇÃO DE EMPREGO NÃO É PRESTAÇÃO AUTÔNOMA TRIBUTADA PELO ISS."
+    },
+    {
+      "id": "direito-tributario-aula-014-b18",
+      "tipo": "pegadinha",
+      "titulo": "12. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pode ser tributada mesmo fora da disciplina da lei complementar; trocar a alíquota máxima de 5% por percentual maior; ou usar palavras absolutas como SEMPRE, SOMENTE, QUALQUER e NECESSARIAMENTE."
+    },
+    {
+      "id": "direito-tributario-aula-014-b19",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "ISS → Município/DF.\nFATO GERADOR → prestação de serviço da lista da LC 116.\nATIVIDADE PREPONDERANTE → não é requisito para incidência.\nSERVIÇO DO EXTERIOR → pode haver incidência nas hipóteses legais.\nEXPORTAÇÃO → observar resultado e requisitos legais.\nLOCAL → regra: estabelecimento prestador; existem várias exceções no art. 3º.\nCONTRIBUINTE → prestador.\nBASE → preço do serviço.\nALÍQUOTA MÁXIMA → 5%.\nALÍQUOTA MÍNIMA → regra nacional de 2%, observadas exceções legais.",
+      "mapaId": "direito-tributario-aula-014-b19"
+    },
+    {
+      "id": "direito-tributario-aula-014-b20",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN — SEM GABARITO NESTA ETAPA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-014-q-001",
+        "direito-tributario-aula-014-q-002",
+        "direito-tributario-aula-014-q-003",
+        "direito-tributario-aula-014-q-004",
+        "direito-tributario-aula-014-q-005",
+        "direito-tributario-aula-014-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-014-b21",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "ITBI: inter vivos ou causa mortis? Oneroso ou gratuito? Qual Município é competente? IPTU: base de cálculo? ISS: base de cálculo? Parcelamento suspende ou extingue? Prescrição serve para constituir ou cobrar? Art. 138: fiscalização já iniciada preserva denúncia espontânea posterior?"
+    },
+    {
+      "id": "direito-tributario-aula-014-b22",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "IPTU OLHA O IMÓVEL URBANO; ITBI OLHA A TRANSMISSÃO ONEROSA INTER VIVOS; ISS OLHA A PRESTAÇÃO DE SERVIÇO DA LISTA. NO ISS, GRAVE: LISTA DA LC 116, PREÇO DO SERVIÇO E REGRA DO ESTABELECIMENTO PRESTADOR COM EXCEÇÕES LEGAIS."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-014-q-001",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 1,
+      "question": "Segundo a LC 116/2003, o ISS tem como fato gerador:",
+      "options": [
+        {
+          "id": "A",
+          "text": "qualquer receita auferida por pessoa jurídica."
+        },
+        {
+          "id": "B",
+          "text": "a prestação de serviços constantes da lista anexa, ainda que não constituam atividade preponderante do prestador."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente serviços que constituam a atividade principal da empresa."
+        },
+        {
+          "id": "D",
+          "text": "toda circulação de mercadorias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    },
+    {
+      "id": "direito-tributario-aula-014-q-002",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a base de cálculo do ISS é, em regra, o preço do serviço."
+        },
+        {
+          "id": "B",
+          "text": "contribuinte é o prestador do serviço."
+        },
+        {
+          "id": "C",
+          "text": "o ISS é sempre devido no Município do estabelecimento prestador, sem qualquer exceção."
+        },
+        {
+          "id": "D",
+          "text": "a LC 116 disciplina hipóteses de serviços provenientes do exterior."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    },
+    {
+      "id": "direito-tributario-aula-014-q-003",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 3,
+      "question": "Uma empresa brasileira recebe pagamento de cliente estrangeiro por serviço desenvolvido no Brasil cujo resultado aqui se verifica. A simples origem estrangeira do pagamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "torna a operação automaticamente exportação não sujeita ao ISS."
+        },
+        {
+          "id": "B",
+          "text": "não basta, por si só, para caracterizar a não incidência por exportação; devem ser observados os requisitos legais e o local do resultado."
+        },
+        {
+          "id": "C",
+          "text": "transforma o ISS em imposto federal."
+        },
+        {
+          "id": "D",
+          "text": "elimina qualquer obrigação tributária municipal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    },
+    {
+      "id": "direito-tributario-aula-014-q-004",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 4,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IPTU → preço do serviço; ISS → valor venal do imóvel."
+        },
+        {
+          "id": "B",
+          "text": "ITBI → renda do adquirente; ISS → valor venal."
+        },
+        {
+          "id": "C",
+          "text": "IPTU → valor venal do imóvel; ISS → preço do serviço."
+        },
+        {
+          "id": "D",
+          "text": "ISS → valor dos bens móveis existentes no estabelecimento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    },
+    {
+      "id": "direito-tributario-aula-014-q-005",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 5,
+      "question": "Considere: I. O serviço não precisa constituir atividade preponderante do prestador para que possa haver incidência, se estiver na disciplina legal. II. O art. 3º da LC 116 possui exceções à regra do local do estabelecimento prestador. III. Relação de emprego constitui necessariamente prestação de serviço tributável pelo ISS. IV. A alíquota máxima nacional do ISS é 5%.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II, III e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    },
+    {
+      "id": "direito-tributario-aula-014-q-006",
+      "lessonId": "direito-tributario-aula-014",
+      "numero": 6,
+      "question": "Um examinador afirma: “Como o ISS é municipal, cada Município pode incluir livremente qualquer atividade em sua lista local, ainda que sem correspondência com a disciplina da lei complementar nacional.” A afirmação é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, porque a competência municipal é ilimitada."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, porque a competência municipal deve observar a Constituição e a lei complementar nacional que define os serviços tributáveis."
+        },
+        {
+          "id": "C",
+          "text": "correta apenas para capitais."
+        },
+        {
+          "id": "D",
+          "text": "correta se a alíquota for inferior a 5%. Registre mentalmente ou no estudo suas respostas 1 a 6. O gabarito não é revelado nesta etapa para preservar recuperação ativa. Na próxima execução, se houver respostas registradas, a correção deve ser alternativa por alternativa; sem respostas registradas, o tema permanece pendente de aferição e não será considerado dominado."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-014-b21",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "ITBI: inter vivos ou causa mortis? Oneroso ou gratuito? Qual Município é competente? IPTU: base de cálculo? ISS: base de cálculo? Parcelamento suspende ou extingue? Prescrição serve para constituir ou cobrar? Art. 138: fiscalização já iniciada preserva denúncia espontânea posterior?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-014-b19",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "ISS",
+        "Município/DF",
+        "FATO GERADOR",
+        "prestação de serviço da lista da LC 116",
+        "ATIVIDADE PREPONDERANTE",
+        "não é requisito para incidência",
+        "SERVIÇO DO EXTERIOR",
+        "pode haver incidência nas hipóteses legais",
+        "EXPORTAÇÃO",
+        "observar resultado e requisitos legais",
+        "LOCAL",
+        "regra: estabelecimento prestador; existem várias exceções no art. 3º",
+        "CONTRIBUINTE",
+        "prestador",
+        "BASE",
+        "preço do serviço",
+        "ALÍQUOTA MÁXIMA",
+        "5%",
+        "ALÍQUOTA MÍNIMA",
+        "regra nacional de 2%, observadas exceções legais"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "006c33f5c3a6fc8e"
+}

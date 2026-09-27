@@ -1,0 +1,38 @@
+{
+  "id": "direito-tributario-aula-033",
+  "numero": 33,
+  "titulo": "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
+  "slug": "lancamento-tributario-na-fiscalizacao-constituicao-revisao-e-modalidades",
+  "disciplina": "Direito Tributário",
+  "assunto": "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
+  "ordem": 33,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-033-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 32. Agora aprofundamos o ponto imediatamente seguinte da cadeia: LANÇAMENTO. Para o AGENTE FISCAL, ele é central porque transforma a obrigação já nascida em crédito tributário formalmente constituído.\nMEMÓRIA CENTRAL: FATO GERADOR → OBRIGAÇÃO. LANÇAMENTO → CRÉDITO. O lançamento é atividade administrativa VINCULADA, não decisão de conveniência.\nO lançamento envolve verificar a ocorrência do fato gerador, determinar a matéria tributável, calcular o montante, identificar o sujeito passivo e, quando cabível, aplicar/propor a penalidade segundo a disciplina legal. Regra prática: FATO → MATÉRIA → VALOR → DEVEDOR → PENALIDADE.\nMODALIDADES. OFÍCIO → protagonismo do Fisco; exemplo clássico: IPTU. DECLARAÇÃO → sujeito/terceiro fornece informações indispensáveis e a autoridade lança. HOMOLOGAÇÃO → sujeito pratica atos previstos e antecipa pagamento sem prévio exame; autoridade homologa depois. Cuidado: contribuinte não “vira autoridade lançadora”.\nREVISÃO DO LANÇAMENTO: não é liberdade para reabrir qualquer crédito indefinidamente. A revisão de ofício depende das hipóteses legais e deve respeitar decadência. Se fiscalização descobre omissão, erro ou fato não conhecido, pergunte: existe hipótese legal de revisão? o prazo decadencial ainda está aberto? houve ciência e defesa?\nALTERAÇÃO DO LANÇAMENTO: após regularmente notificado, o lançamento somente pode ser alterado nas hipóteses legais, como impugnação do sujeito passivo, recurso de ofício e iniciativa de ofício da autoridade nos casos previstos. Pegadinha: “o fiscal pode mudar a qualquer momento por conveniência” → errado.\nLEGISLAÇÃO APLICÁVEL: em regra, o lançamento reporta-se à data do fato gerador e rege-se pela lei então vigente, ainda que depois modificada ou revogada, observadas as regras do CTN sobre critérios de apuração e fiscalização. Não use retroatividade livre para aumentar tributo de fato passado.\nERRO DE DIREITO x ERRO DE FATO: para prova, não trate revisão como simples mudança posterior de interpretação jurídica desfavorável ao contribuinte sem base legal. A banca pode tentar transformar mudança de critério jurídico em autorização irrestrita de revisão retroativa. O CTN protege a estabilidade do critério jurídico adotado para fatos anteriores, nos termos do art. 146.\nCONEXÃO LOCAL: no IPTU, divergência de área/uso pode levar a atualização e eventual revisão, se cabível e dentro do prazo. No ISS, omissão/irregularidade pode levar a lançamento de ofício ou arbitramento quando autorizado, com critérios legais. No ITBI, valor ou operação não podem ser redefinidos por mero palpite: procedimento e defesa continuam necessários.\nPEGADINHAS IAN: “lançamento cria obrigação”; “lançamento é discricionário”; “homologação = contribuinte realiza juridicamente o lançamento”; “revisão é ilimitada”; “decadência não se aplica à revisão”; “mudança de critério jurídico permite retroagir livremente”; “lançamento e dívida ativa são o mesmo ato”.\nMAPA: FATO GERADOR→OBRIGAÇÃO; LANÇAMENTO→CRÉDITO; OFÍCIO→Fisco; DECLARAÇÃO→informação + Fisco lança; HOMOLOGAÇÃO→antecipação + homologação; REVISÃO→hipóteses legais + decadência + defesa; DÍVIDA ATIVA→etapa posterior ao crédito vencido e não pago, nas condições legais."
+    },
+    {
+      "id": "direito-tributario-aula-033-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "texto": "1. Lançamento: A cria competência B constitui crédito C extingue obrigação automaticamente D é sempre judicial.\n2. INCORRETO: A lançamento é vinculado B verifica fato gerador C pode identificar sujeito passivo D autoridade escolhe por conveniência se lança crédito devido.\n3. Declaração: A Fisco age sem informação necessária B sujeito informa e autoridade lança C contribuinte homologa D juiz lança.\n4. Homologação: A pagamento só após exame B sujeito pode antecipar pagamento e autoridade homologa C contribuinte substitui autoridade D nunca há participação do sujeito.\n5. Revisão de ofício: A ilimitada no tempo B depende de hipóteses legais e decadência C dispensa defesa D depende só da vontade do fiscal.\n6. Lançamento notificado pode ser alterado: A livremente B nas hipóteses legais C nunca D só por contrato particular.\n7. Recuperação: fato gerador faz nascer A crédito B obrigação C dívida ativa D prescrição.\n8. Recuperação: obrigação acessória descumprida com multa pode gerar A tributo novo B principal quanto à penalidade C imunidade D remissão.\n9. Recuperação: contribuição de melhoria exige A obra+valorização B só obra C serviço da lista D transmissão.\n10. Recuperação: parcelamento/remissão/anistia = A suspensão/extinção/exclusão B extinção/suspensão/exclusão C exclusão/extinção/suspensão D todas extinção.\n\nNão há gabarito antecipado. Sem respostas registradas, lançamento/revisão permanece EM APRENDIZAGEM e voltará em questões misturadas.\n\nFRASE FINAL: O FISCAL NÃO CRIA A OBRIGAÇÃO PELO LANÇAMENTO; ELE CONSTITUI O CRÉDITO A PARTIR DO FATO JÁ OCORRIDO. LANÇAMENTO É VINCULADO; REVISÃO EXIGE HIPÓTESE LEGAL, PRAZO E PROCEDIMENTO."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "3b18ea87211505db"
+}

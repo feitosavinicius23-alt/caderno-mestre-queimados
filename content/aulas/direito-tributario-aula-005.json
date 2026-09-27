@@ -1,0 +1,325 @@
+{
+  "id": "direito-tributario-aula-005",
+  "numero": 5,
+  "titulo": "Exclusão do Crédito Tributário",
+  "slug": "exclusao-do-credito-tributario",
+  "disciplina": "Direito Tributário",
+  "assunto": "Exclusão do Crédito Tributário",
+  "ordem": 5,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-005-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da sequência construída:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO\nDepois:\nSUSPENSÃO → crédito continua existindo, mas temporariamente não pode ser exigido.\nEXTINÇÃO → crédito termina.\nEXCLUSÃO → impede a constituição do crédito nas hipóteses legais.\nNo CTN, art. 175, existem duas hipóteses de exclusão:\nISENÇÃO + ANISTIA."
+    },
+    {
+      "id": "direito-tributario-aula-005-b2",
+      "tipo": "memorize",
+      "titulo": "Memorize:",
+      "texto": "EXCLUSÃO = I + A → ISENÇÃO + ANISTIA.\n1. Isenção\nA isenção está relacionada ao tributo.\nExiste uma hipótese de incidência tributária, mas a lei concede o benefício fiscal nos termos estabelecidos.\nPara prova:\nISENÇÃO → TRIBUTO.\nExemplo didático: determinado imóvel estaria sujeito ao IPTU, mas uma lei municipal estabelece isenção para determinada situação que cumpra seus requisitos."
+    },
+    {
+      "id": "direito-tributario-aula-005-b3",
+      "tipo": "atencao",
+      "titulo": "Cuidado com uma armadilha:",
+      "texto": "Isenção não é imunidade.\nA imunidade possui fundamento constitucional e representa limitação constitucional ao poder de tributar.\nA isenção decorre de lei.\nGrave:\nIMUNIDADE → CONSTITUIÇÃO.\nISENÇÃO → LEI.\n2. Anistia\nA anistia está relacionada às infrações tributárias e respectivas penalidades abrangidas pela lei.\nMemória:\nANISTIA → PENALIDADE.\nImagine um contribuinte que praticou determinada infração tributária. Posteriormente, uma lei concede anistia nos limites estabelecidos.\nA banca pode trocar as palavras:\n“Remissão é hipótese de exclusão.”\nERRADO.\n“Anistia é hipótese de extinção.”\nERRADO.\nA classificação correta é:\nREMISSÃO → EXTINÇÃO.\nANISTIA → EXCLUSÃO.\nEssa diferença merece prioridade porque uma única palavra transforma uma alternativa correta em errada.\n3. Obrigações acessórias\nAqui conectamos com a Aula 3.\nA exclusão do crédito tributário não dispensa automaticamente o cumprimento das obrigações acessórias relacionadas à obrigação principal cujo crédito seja excluído ou dela consequentes.\nPortanto:\nEXCLUIR O CRÉDITO ≠ APAGAR AUTOMATICAMENTE AS OBRIGAÇÕES ACESSÓRIAS.\nIsso é excelente material para uma questão da IAN com expressões absolutas como:\n“sempre”, “automaticamente”, “necessariamente” ou “em qualquer hipótese”."
+    },
+    {
+      "id": "direito-tributario-aula-005-b4",
+      "tipo": "mapa-mental",
+      "titulo": "Mapa definitivo",
+      "texto": "Agora quero que você enxergue três caixas:\n\nSUSPENSÃO — art. 151\n\nMoratória\nDepósito integral\nReclamações e recursos administrativos\nLiminar em mandado de segurança\nLiminar/tutela em outras ações\nParcelamento\n\n↓\nCrédito existe, mas sua exigibilidade fica suspensa.\n\nEXTINÇÃO — art. 156\n\nPagamento\nCompensação\nTransação\nRemissão\nPrescrição\nDecadência\nConversão de depósito em renda\ne demais hipóteses legais\n\n↓\nCrédito termina.\n\nEXCLUSÃO — art. 175\n\nIsenção\nAnistia\n\n↓\nExclusão do crédito nos termos legais.",
+      "mapaId": "direito-tributario-aula-005-b4"
+    },
+    {
+      "id": "direito-tributario-aula-005-b5",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinhas de alta prioridade",
+      "texto": "PARCELAMENTO → SUSPENSÃO.\nPAGAMENTO → EXTINÇÃO.\nDEPÓSITO INTEGRAL → SUSPENSÃO.\nCONVERSÃO DO DEPÓSITO EM RENDA → EXTINÇÃO.\nREMISSÃO → EXTINÇÃO.\nANISTIA → EXCLUSÃO.\nISENÇÃO → LEI.\nIMUNIDADE → CONSTITUIÇÃO.\nDECADÊNCIA → prazo para constituir.\nPRESCRIÇÃO → prazo para cobrar crédito constituído.\nEsse conjunto precisa ficar praticamente automático."
+    },
+    {
+      "id": "direito-tributario-aula-005-b6",
+      "tipo": "questao",
+      "titulo": "Questões — padrão IAN",
+      "texto": "Tente resolver antes de olhar o gabarito.",
+      "questionIds": [
+        "direito-tributario-aula-005-q-001",
+        "direito-tributario-aula-005-q-002",
+        "direito-tributario-aula-005-q-003",
+        "direito-tributario-aula-005-q-004",
+        "direito-tributario-aula-005-q-005",
+        "direito-tributario-aula-005-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-005-b7",
+      "tipo": "gabarito-comentado",
+      "titulo": "Correção estratégica",
+      "texto": "Na 1, a dupla é literal: isenção + anistia.\n\nNa 2, pagamento não exclui: pagamento extingue.\n\nNa 3, anistia está relacionada às infrações alcançadas pela lei. As demais alternativas trocam categorias.\n\nNa 4, todas estão corretas. É um formato de assertivas que exige avaliar cada frase separadamente.\n\nNa 5, aparece uma das melhores pegadinhas dessa matéria: depósito integral suspende; conversão em renda extingue.\n\nNa 6, a palavra-chave é “automaticamente”. Exclusão não elimina, por si só, os deveres instrumentais."
+    },
+    {
+      "id": "direito-tributario-aula-005-b8",
+      "tipo": "revisao",
+      "titulo": "Recuperação cumulativa",
+      "texto": "Antes de encerrar, tente responder mentalmente:\n\nO que faz nascer a obrigação tributária?\nResposta: fato gerador.\n\nO que constitui o crédito tributário?\nResposta: lançamento.\n\nQual lançamento envolve antecipação do pagamento pelo sujeito passivo?\nResposta: lançamento por homologação.\n\nMulta é tributo?\nResposta: não.\n\nA obrigação principal pode ter como objeto penalidade pecuniária?\nResposta: sim.\n\nParcelamento faz o quê?\nResposta: suspende a exigibilidade.\n\nPagamento faz o quê?\nResposta: extingue.\n\nRemissão?\nResposta: extingue.\n\nIsenção e anistia?\nResposta: excluem.\n\nDecadência?\nResposta: perda do prazo para constituição do crédito.\n\nPrescrição?\nResposta: perda da pretensão de cobrança do crédito definitivamente constituído.\n\nFrase de fechamento\n\nRepita mentalmente:\n\nPARCELO, SUSPENDO.\nPAGO, EXTINGO.\nPERDOO A DÍVIDA POR REMISSÃO, EXTINGO.\nISENÇÃO E ANISTIA, EXCLUO.\n\nA próxima etapa natural da preparação é Garantias e Privilégios do Crédito Tributário, mantendo Direito Tributário como prioridade antes de avançarmos para a aplicação municipal em ISS, IPTU, ITBI e fiscalização."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-005-q-001",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 1,
+      "question": "São hipóteses de exclusão do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "moratória e parcelamento"
+        },
+        {
+          "id": "B",
+          "text": "pagamento e remissão"
+        },
+        {
+          "id": "C",
+          "text": "isenção e anistia"
+        },
+        {
+          "id": "D",
+          "text": "prescrição e decadência"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-005-q-002",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "anistia é hipótese de exclusão"
+        },
+        {
+          "id": "B",
+          "text": "remissão é hipótese de extinção"
+        },
+        {
+          "id": "C",
+          "text": "parcelamento é hipótese de suspensão"
+        },
+        {
+          "id": "D",
+          "text": "pagamento é hipótese de exclusão"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-005-q-003",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 3,
+      "question": "Assinale a associação correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "imunidade — benefício criado exclusivamente por lei municipal"
+        },
+        {
+          "id": "B",
+          "text": "isenção — previsão constitucional que impede a competência tributária"
+        },
+        {
+          "id": "C",
+          "text": "anistia — relacionada às infrações abrangidas pela legislação concessiva"
+        },
+        {
+          "id": "D",
+          "text": "remissão — hipótese de suspensão da exigibilidade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-005-q-004",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 4,
+      "question": "Considere: I. O parcelamento suspende a exigibilidade. II. A remissão extingue o crédito. III. A isenção é hipótese de exclusão. IV. A anistia é hipótese de exclusão. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas"
+        },
+        {
+          "id": "B",
+          "text": "III e IV apenas"
+        },
+        {
+          "id": "C",
+          "text": "I, II e III apenas"
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-005-q-005",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 5,
+      "question": "Um contribuinte realiza depósito do montante integral enquanto discute determinado crédito. Posteriormente, o depósito é convertido em renda. Considerando as categorias estudadas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "depósito e conversão extinguem"
+        },
+        {
+          "id": "B",
+          "text": "depósito suspende e conversão extingue"
+        },
+        {
+          "id": "C",
+          "text": "depósito exclui e conversão suspende"
+        },
+        {
+          "id": "D",
+          "text": "depósito extingue e conversão exclui"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-005-q-006",
+      "lessonId": "direito-tributario-aula-005",
+      "numero": 6,
+      "question": "A respeito das obrigações acessórias, a exclusão do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sempre as extingue"
+        },
+        {
+          "id": "B",
+          "text": "automaticamente as transforma em tributo"
+        },
+        {
+          "id": "C",
+          "text": "não dispensa, por si só, seu cumprimento"
+        },
+        {
+          "id": "D",
+          "text": "necessariamente elimina qualquer dever instrumental"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Exclusão do Crédito Tributário"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-005-q-001",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-005-q-002",
+      "resposta": "D",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-005-q-003",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-005-q-004",
+      "resposta": "D",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-005-q-005",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-005-q-006",
+      "resposta": "C",
+      "comentario": ""
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-005-b8",
+      "titulo": "Recuperação cumulativa",
+      "texto": "Antes de encerrar, tente responder mentalmente:\n\nO que faz nascer a obrigação tributária?\nResposta: fato gerador.\n\nO que constitui o crédito tributário?\nResposta: lançamento.\n\nQual lançamento envolve antecipação do pagamento pelo sujeito passivo?\nResposta: lançamento por homologação.\n\nMulta é tributo?\nResposta: não.\n\nA obrigação principal pode ter como objeto penalidade pecuniária?\nResposta: sim.\n\nParcelamento faz o quê?\nResposta: suspende a exigibilidade.\n\nPagamento faz o quê?\nResposta: extingue.\n\nRemissão?\nResposta: extingue.\n\nIsenção e anistia?\nResposta: excluem.\n\nDecadência?\nResposta: perda do prazo para constituição do crédito.\n\nPrescrição?\nResposta: perda da pretensão de cobrança do crédito definitivamente constituído.\n\nFrase de fechamento\n\nRepita mentalmente:\n\nPARCELO, SUSPENDO.\nPAGO, EXTINGO.\nPERDOO A DÍVIDA POR REMISSÃO, EXTINGO.\nISENÇÃO E ANISTIA, EXCLUO.\n\nA próxima etapa natural da preparação é Garantias e Privilégios do Crédito Tributário, mantendo Direito Tributário como prioridade antes de avançarmos para a aplicação municipal em ISS, IPTU, ITBI e fiscalização."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-005-b4",
+      "titulo": "Mapa definitivo",
+      "nos": [
+        "Agora quero que você enxergue três caixas:",
+        "SUSPENSÃO — art. 151",
+        "Moratória",
+        "Depósito integral",
+        "Reclamações e recursos administrativos",
+        "Liminar em mandado de segurança",
+        "Liminar/tutela em outras ações",
+        "Parcelamento",
+        "Crédito existe, mas sua exigibilidade fica suspensa",
+        "EXTINÇÃO — art. 156",
+        "Pagamento",
+        "Compensação",
+        "Transação",
+        "Remissão",
+        "Prescrição",
+        "Decadência",
+        "Conversão de depósito em renda",
+        "e demais hipóteses legais",
+        "Crédito termina",
+        "EXCLUSÃO — art. 175",
+        "Isenção",
+        "Anistia",
+        "Exclusão do crédito nos termos legais"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "251969157e3ccbce"
+}

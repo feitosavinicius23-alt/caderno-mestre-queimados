@@ -1,0 +1,38 @@
+{
+  "id": "receitas-publicas-aula-020",
+  "numero": 20,
+  "titulo": "RECEITAS PÚBLICAS: CONCEITO, CLASSIFICAÇÃO E RECEITAS TRIBUTÁRIAS MUNICIPAIS",
+  "slug": "receitas-publicas-conceito-classificacao-e-receitas-tributarias-municipais",
+  "disciplina": "Receitas Públicas",
+  "assunto": "RECEITAS PÚBLICAS: CONCEITO, CLASSIFICAÇÃO E RECEITAS TRIBUTÁRIAS MUNICIPAIS",
+  "ordem": 20,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 2,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "receitas-publicas-aula-020-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Receita pública é ingresso que se incorpora ao patrimônio público segundo sua natureza jurídica/orçamentária; nem todo ingresso transitório é receita definitiva.\nRECEITA ORIGINÁRIA x DERIVADA. Originária decorre da exploração patrimonial/econômica estatal. Derivada decorre do poder estatal de retirar compulsoriamente recursos dos particulares. TRIBUTOS = RECEITAS DERIVADAS. IPTU não vira receita originária por ser imposto próprio do Município.\nRECEITA TRIBUTÁRIA MUNICIPAL: IPTU, ITBI e ISS; taxas municipais; contribuição de melhoria municipal quando presentes seus pressupostos. Nem toda receita recebida pelo Município é receita tributária própria.\nRECEITA PRÓPRIA x TRANSFERÊNCIA. Quem institui? competência tributária. Quem arrecada/fiscaliza? função administrativa conforme lei. Quem recebe produto/parcela? destinação/repartição constitucional. Receber ICMS/IPVA não transfere competência ao Município.\nReceitas tributárias integram receitas correntes. Entrar dinheiro no caixa não significa receita tributária. Alienação de bem público não se transforma em tributo.\nTAXA x TARIFA: taxa é tributo e receita tributária; tarifa/preço público não é tributo. MULTA NÃO É TRIBUTO. Dívida ativa tributária não se confunde com fato gerador ou lançamento."
+    },
+    {
+      "id": "receitas-publicas-aula-020-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE — SEM GABARITO",
+      "texto": "1. IPTU arrecadado: A originária B derivada C operação de crédito D patrimonial privada.\n2. INCORRETO: A tributos derivadas B taxa tributo C tarifa e taxa iguais D IPTU municipal.\n3. Parcela de imposto estadual: A transfere competência B não transfere C vira taxa D competência estadual desaparece.\n4. Correta: A taxa tributária/tarifa não tributo B multa tributo C IPTU originária D ICMS municipal.\n5. I IPTU/ITBI/ISS municipais; II receber ICMS não o torna municipal; III toda entrada tributária; IV receita tributária corrente. A I/III B I/II/IV C II/III D todas.\n6. “Multa é tributo porque gera receita”: A correta B incorreta C se tributária D se inscrita.\n7. Parcelamento: A extingue B exclui C suspende D imuniza.\n8. Associação: A IPTU preço/ISS venal B IPTU venal/ISS preço C ITBI causa mortis D taxa serviço geral indivisível.\n9. Dívida ativa regular: A absoluta B relativa C nenhuma D imunidade.\n10. Alienação de bem público: A imposto B não vira tributária só pelo ingresso C taxa D ISS."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "c049f947f2460894"
+}

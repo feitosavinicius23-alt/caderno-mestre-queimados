@@ -1,0 +1,50 @@
+{
+  "id": "receitas-publicas-aula-023",
+  "numero": 23,
+  "titulo": "RECEITAS PÚBLICAS IV: RENÚNCIA DE RECEITA E RESPONSABILIDADE FISCAL",
+  "slug": "receitas-publicas-iv-renuncia-de-receita-e-responsabilidade-fiscal",
+  "disciplina": "Receitas Públicas",
+  "assunto": "RECEITAS PÚBLICAS IV: RENÚNCIA DE RECEITA E RESPONSABILIDADE FISCAL",
+  "ordem": 23,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "receitas-publicas-aula-023-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 22. Agora avançamos para um ponto de alta utilidade para AGENTE FISCAL: renúncia de receita. A lógica é distinguir benefício tributário legítimo de simples decisão administrativa de não cobrar.\nMEMÓRIA CENTRAL: TRIBUTO NASCE DA LEI; BENEFÍCIO FISCAL TAMBÉM PRECISA DE FUNDAMENTO LEGAL. O FISCAL NÃO ESCOLHE LIVREMENTE QUEM PAGA.\n1. RENÚNCIA DE RECEITA. Na disciplina fiscal, concessão ou ampliação de incentivo ou benefício de natureza tributária que produza renúncia de receita exige observância dos requisitos legais. A ideia de prova é: benefício tributário não é favor pessoal nem ato discricionário do agente fiscal.\n2. FORMAS QUE PODEM REPRESENTAR RENÚNCIA. A legislação de responsabilidade fiscal trabalha com figuras como anistia, remissão, subsídio, crédito presumido, concessão de isenção em caráter não geral, alteração de alíquota ou modificação de base de cálculo que implique redução discriminada de tributos ou contribuições, além de outros benefícios que correspondam a tratamento diferenciado. Atenção: a classificação concreta depende da hipótese legal.\n3. ESTIMATIVA DO IMPACTO. A concessão/ampliação de incentivo tributário com renúncia deve estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, observadas as demais exigências legais."
+    },
+    {
+      "id": "receitas-publicas-aula-023-b2",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "COMEÇA AGORA + DOIS EXERCÍCIOS SEGUINTES → pense em impacto orçamentário-financeiro."
+    },
+    {
+      "id": "receitas-publicas-aula-023-b3",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "4. COMPENSAÇÃO OU CONSIDERAÇÃO NA ESTIMATIVA. A disciplina fiscal exige, conforme o caso, demonstração de que a renúncia foi considerada na estimativa de receita e não afetará as metas de resultados fiscais, OU medidas de compensação por aumento de receita nas condições legais. Não memorize como autorização genérica: leia a hipótese concreta.\n5. ISENÇÃO x ANISTIA x REMISSÃO. Recuperação do CTN: ISENÇÃO → exclusão ligada ao tributo. ANISTIA → exclusão relacionada a penalidades por infrações abrangidas. REMISSÃO → extinção do crédito. Em Receitas Públicas, essas figuras também podem produzir efeito arrecadatório e, quando configurada renúncia, atraem a disciplina fiscal pertinente.\n6. NÃO COBRAR POR VONTADE DO AGENTE NÃO É BENEFÍCIO FISCAL. O lançamento é atividade administrativa vinculada. Se a lei determina a incidência e não existe hipótese legal de exclusão, extinção, suspensão ou benefício aplicável, o fiscal não possui liberdade para dispensar o crédito por simpatia, conveniência pessoal ou acordo informal.\n7. PRINCÍPIO DA LEGALIDADE E RECEITA. A previsão orçamentária não cria tributo e a conveniência administrativa não cria isenção. Competência vem da Constituição; instituição e benefício obedecem à lei e às limitações constitucionais/fiscais.\n8. PEGADINHAS IAN. Trocar isenção por imunidade; dizer que fiscal pode dispensar tributo por conveniência; afirmar que renúncia nunca exige estimativa de impacto; confundir remissão com anistia; dizer que previsão no orçamento basta para criar benefício; usar SEMPRE, AUTOMATICAMENTE e INDEPENDENTEMENTE DE LEI.\nMAPA DE RETENÇÃO: IMUNIDADE → Constituição. ISENÇÃO → lei/exclusão. ANISTIA → penalidade/exclusão. REMISSÃO → crédito/extinção. RENÚNCIA DE RECEITA → benefício tributário com efeitos fiscais sujeito aos requisitos legais. FISCAL → atuação vinculada, não concede favor pessoal."
+    },
+    {
+      "id": "receitas-publicas-aula-023-b4",
+      "tipo": "teoria",
+      "titulo": "TESTE — SEM GABARITO ANTECIPADO",
+      "texto": "1. A concessão de benefício tributário que implique renúncia de receita: A pode decorrer de decisão pessoal do fiscal B deve observar fundamento e requisitos legais C independe de impacto fiscal D transforma tributo em tarifa.\n2. INCORRETO: A isenção decorre de lei B imunidade tem fundamento constitucional C remissão é hipótese de extinção D anistia e remissão são necessariamente a mesma categoria.\n3. A estimativa de impacto associada à renúncia alcança, na disciplina legal estudada: A apenas o mês seguinte B exercício inicial e dois seguintes C dez exercícios obrigatoriamente D nenhum período.\n4. Se a lei prevê tributo devido e não há benefício aplicável, o agente fiscal: A pode dispensá-lo por conveniência B atua de forma vinculada e não cria benefício informal C transforma-o em tarifa D pode conceder imunidade.\n5. Associação correta: A anistia→penalidade/exclusão B remissão→suspensão C parcelamento→extinção D imunidade→lei municipal.\n6. Intercalado: previsão→estimar; arrecadação→receber; recolhimento→transferir ao Tesouro. A todas corretas B apenas previsão C apenas arrecadação D todas erradas.\n\nNão há gabarito antecipado. Sem respostas registradas, o tema permanece em aprendizagem e será retomado em questões misturadas.\n\nFRASE FINAL: BENEFÍCIO TRIBUTÁRIO NÃO É FAVOR DO FISCAL. RENÚNCIA DE RECEITA EXIGE BASE LEGAL E DISCIPLINA FISCAL; ISENÇÃO, ANISTIA E REMISSÃO NÃO SÃO SINÔNIMOS."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "d8a50062b2d3906f"
+}

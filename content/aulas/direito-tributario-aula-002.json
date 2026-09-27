@@ -1,0 +1,402 @@
+{
+  "id": "direito-tributario-aula-002",
+  "numero": 2,
+  "titulo": "Crédito Tributário e Lançamento",
+  "slug": "credito-tributario-e-lancamento",
+  "disciplina": "Direito Tributário",
+  "assunto": "Crédito Tributário e Lançamento",
+  "ordem": 2,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-002-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Hoje avançamos para uma das distinções mais importantes de Direito Tributário: obrigação tributária, crédito tributário e lançamento.\nDistribuição das 4 horas:\n1h20 — teoria guiada: crédito tributário e lançamento.\n50 min — modalidades de lançamento: ofício, declaração e homologação.\n40 min — revisão ativa: obrigação, fato gerador, contribuinte e responsável.\n50 min — questões no padrão de cobrança da IAN e correção técnica.\n20 min — revisão de lei seca e recuperação ativa sem consulta."
+    },
+    {
+      "id": "direito-tributario-aula-002-b2",
+      "tipo": "teoria",
+      "titulo": "1. O CAMINHO QUE VOCÊ PRECISA ENXERGAR",
+      "texto": "Na aula anterior, fixamos:\nFATO GERADOR → nasce a OBRIGAÇÃO TRIBUTÁRIA.\nAgora acrescentaremos o próximo passo:\nFATO GERADOR → OBRIGAÇÃO TRIBUTÁRIA → LANÇAMENTO → CRÉDITO TRIBUTÁRIO.\nEsse encadeamento é fundamental.\nA obrigação tributária e o crédito tributário estão ligados, mas não são exatamente a mesma coisa.\nO CTN estabelece que o crédito tributário decorre da obrigação principal e tem a mesma natureza dela.\nPara prova, pense assim:\nFATO GERADOR → faz nascer a obrigação.\nLANÇAMENTO → constitui o crédito tributário.\nSe uma alternativa trocar esses verbos, atenção."
+    },
+    {
+      "id": "direito-tributario-aula-002-b3",
+      "tipo": "teoria",
+      "titulo": "2. O QUE É LANÇAMENTO?",
+      "texto": "O lançamento é um procedimento administrativo vinculado pelo qual a autoridade administrativa verifica a ocorrência do fato gerador, determina a matéria tributável, calcula o montante devido, identifica o sujeito passivo e, quando cabível, propõe a aplicação da penalidade.\nPara memorizar, use:\nFATO → MATÉRIA → VALOR → DEVEDOR → PENALIDADE.\nA autoridade verifica:\nO fato gerador aconteceu?\nO que será tributado?\nQuanto é devido?\nQuem deve?\nExiste penalidade aplicável?\nIsso é a lógica do lançamento."
+    },
+    {
+      "id": "direito-tributario-aula-002-b4",
+      "tipo": "teoria",
+      "titulo": "⚠️ PEGADINHA",
+      "texto": "O lançamento não é atividade discricionária.\nEle é atividade administrativa vinculada.\nPortanto, se uma alternativa disser que a autoridade pode escolher livremente se realiza ou não o lançamento quando presentes os requisitos legais, desconfie."
+    },
+    {
+      "id": "direito-tributario-aula-002-b5",
+      "tipo": "teoria",
+      "titulo": "3. TRÊS MODALIDADES DE LANÇAMENTO",
+      "texto": "O edital de Agente Fiscal cita expressamente:\nlançamento de ofício;\nlançamento por declaração;\nlançamento por homologação.\nPrecisamos diferenciá-los rapidamente."
+    },
+    {
+      "id": "direito-tributario-aula-002-b6",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO DE OFÍCIO",
+      "texto": "Aqui a Administração realiza o lançamento diretamente, nas hipóteses previstas em lei.\nMemória:\nOFÍCIO → FISCO AGE."
+    },
+    {
+      "id": "direito-tributario-aula-002-b7",
+      "tipo": "exemplo",
+      "titulo": "Exemplo didático clássico: IPTU, normalmente trabalhado como lançamento de ofício.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-002-b8",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO POR DECLARAÇÃO",
+      "texto": "Existe participação do sujeito passivo ou de terceiro mediante prestação de informações indispensáveis à realização do lançamento pela autoridade.\nMemória:\nDECLARAÇÃO → CONTRIBUINTE INFORMA → FISCO LANÇA."
+    },
+    {
+      "id": "direito-tributario-aula-002-b9",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO POR HOMOLOGAÇÃO",
+      "texto": "Aqui está uma fonte clássica de pegadinhas.\nO sujeito passivo realiza atos relevantes, inclusive antecipa o pagamento sem prévio exame da autoridade administrativa, e posteriormente ocorre a homologação nos termos legais.\nMemória:\nHOMOLOGAÇÃO → CONTRIBUINTE APURA/PAGA ANTES → FISCO HOMOLOGA DEPOIS.\nCuidado: dizer simplesmente que “no lançamento por homologação o contribuinte realiza o lançamento” é tecnicamente perigoso. O lançamento é atividade privativa da autoridade administrativa; o contribuinte pratica os atos que a legislação lhe atribui e a autoridade posteriormente homologa."
+    },
+    {
+      "id": "direito-tributario-aula-002-b10",
+      "tipo": "teoria",
+      "titulo": "4. QUADRO MENTAL",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-002-b11",
+      "tipo": "teoria",
+      "titulo": "OFÍCIO",
+      "texto": "→ protagonismo inicial do Fisco."
+    },
+    {
+      "id": "direito-tributario-aula-002-b12",
+      "tipo": "teoria",
+      "titulo": "DECLARAÇÃO",
+      "texto": "→ sujeito fornece informações → autoridade lança."
+    },
+    {
+      "id": "direito-tributario-aula-002-b13",
+      "tipo": "teoria",
+      "titulo": "HOMOLOGAÇÃO",
+      "texto": "→ sujeito pratica os atos previstos e antecipa pagamento → autoridade homologa.\nUse a sequência:\nOFÍCIO = FISCO.\nDECLARAÇÃO = INFORMAÇÃO.\nHOMOLOGAÇÃO = ANTECIPAÇÃO + HOMOLOGAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-002-b14",
+      "tipo": "teoria",
+      "titulo": "5. OUTRA PEGADINHA: LEGISLAÇÃO APLICÁVEL AO LANÇAMENTO",
+      "texto": "Em regra, o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada, observadas as regras específicas do CTN.\nNão transforme isso numa regra absoluta para qualquer aspecto procedimental: o próprio CTN traz disciplina específica para legislação posterior que institua novos critérios de apuração, processos de fiscalização ou amplie poderes de investigação, ressalvadas as hipóteses legais.\nA prova pode explorar exatamente a diferença entre regra e exceção."
+    },
+    {
+      "id": "direito-tributario-aula-002-b15",
+      "tipo": "teoria",
+      "titulo": "6. COMO A IAN TENDE A CONSTRUIR O DISTRATOR",
+      "texto": "Nos materiais da banca que estamos utilizando, um padrão importante é apresentar conceitos verdadeiros, mas trocar sua posição na relação jurídica."
+    },
+    {
+      "id": "direito-tributario-aula-002-b16",
+      "tipo": "exemplo",
+      "titulo": "Exemplos de inversões que você deve detectar:",
+      "texto": "“o lançamento faz nascer a obrigação” → ERRADO.\n“o fato gerador constitui o crédito tributário” → ERRADO.\n“o lançamento constitui o crédito tributário” → CORRETO.\n“lançamento é atividade discricionária” → ERRADO.\n“no lançamento por declaração não existe participação do sujeito passivo” → ERRADO.\n“no lançamento por homologação o pagamento é necessariamente posterior ao exame da autoridade” → ERRADO.\nA técnica é identificar qual palavra foi deslocada."
+    },
+    {
+      "id": "direito-tributario-aula-002-b17",
+      "tipo": "memorize",
+      "titulo": "7. MAPA MENTAL DE 30 SEGUNDOS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-002-b18",
+      "tipo": "teoria",
+      "titulo": "FATO GERADOR",
+      "texto": "↓"
+    },
+    {
+      "id": "direito-tributario-aula-002-b19",
+      "tipo": "teoria",
+      "titulo": "OBRIGAÇÃO",
+      "texto": "↓"
+    },
+    {
+      "id": "direito-tributario-aula-002-b20",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO",
+      "texto": "↓"
+    },
+    {
+      "id": "direito-tributario-aula-002-b21",
+      "tipo": "teoria",
+      "titulo": "CRÉDITO TRIBUTÁRIO",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-002-b22",
+      "tipo": "teoria",
+      "titulo": "LANÇAMENTO",
+      "texto": "→ atividade administrativa vinculada\n→ verifica fato gerador\n→ matéria tributável\n→ calcula montante\n→ identifica sujeito passivo\n→ penalidade, quando cabível."
+    },
+    {
+      "id": "direito-tributario-aula-002-b23",
+      "tipo": "teoria",
+      "titulo": "MODALIDADES",
+      "texto": "OFÍCIO → Fisco.\nDECLARAÇÃO → informação → Fisco lança.\nHOMOLOGAÇÃO → antecipação → homologação posterior."
+    },
+    {
+      "id": "direito-tributario-aula-002-b24",
+      "tipo": "questao",
+      "titulo": "8. TREINO — NÃO CONSULTE O MAPA",
+      "texto": "Questão 1",
+      "questionIds": [
+        "direito-tributario-aula-002-q-001",
+        "direito-tributario-aula-002-q-002",
+        "direito-tributario-aula-002-q-003",
+        "direito-tributario-aula-002-q-004",
+        "direito-tributario-aula-002-q-005",
+        "direito-tributario-aula-002-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-002-b25",
+      "tipo": "revisao",
+      "titulo": "9. REVISÃO ESPAÇADA",
+      "texto": "Sem consultar, responda também:\n\nQual a diferença entre multa e tributo?\nO que pode ser objeto da obrigação principal?\nO que caracteriza uma obrigação acessória?\n\nQuem é contribuinte?\n\nQuem é responsável?\nQual a diferença entre competência tributária e capacidade tributária ativa?\nRESPOSTAS: multa não é tributo, pois é sanção; a obrigação principal pode ter por objeto tributo ou penalidade pecuniária; obrigação acessória é dever instrumental positivo/negativo; contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei; competência tributária é o poder de instituir tributos e é indelegável, enquanto funções de arrecadação/fiscalização podem ser atribuídas nos termos legais."
+    },
+    {
+      "id": "direito-tributario-aula-002-b26",
+      "tipo": "teoria",
+      "titulo": "10. FRASE DE FECHAMENTO",
+      "texto": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO.\nE para as modalidades:\nOFÍCIO = FISCO.\nDECLARAÇÃO = INFORMAÇÃO.\nHOMOLOGAÇÃO = ANTECIPAÇÃO + HOMOLOGAÇÃO."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-002-q-001",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 1,
+      "question": "Assinale a alternativa CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O lançamento faz nascer a obrigação tributária principal."
+        },
+        {
+          "id": "B",
+          "text": "O crédito tributário surge exclusivamente com a ocorrência material do fato gerador, independentemente de lançamento."
+        },
+        {
+          "id": "C",
+          "text": "O lançamento constitui o crédito tributário, enquanto a obrigação tributária surge com a ocorrência do fato gerador."
+        },
+        {
+          "id": "D",
+          "text": "Fato gerador, obrigação tributária, lançamento e crédito tributário são expressões equivalentes. Questão 2 A respeito do lançamento tributário, assinale a alternativa INCORRETA:"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    },
+    {
+      "id": "direito-tributario-aula-002-q-002",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 2,
+      "question": "A respeito do lançamento tributário, assinale a alternativa INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É atividade administrativa vinculada."
+        },
+        {
+          "id": "B",
+          "text": "Envolve a verificação da ocorrência do fato gerador."
+        },
+        {
+          "id": "C",
+          "text": "Pode envolver a identificação do sujeito passivo e o cálculo do montante devido."
+        },
+        {
+          "id": "D",
+          "text": "Constitui atividade discricionária, permitindo à autoridad8e decidir segundo critérios de conveniência e oportunidade se constituirá o crédito. Questão 3 Quando o sujeito presta à autoridade informações indispensáveis à realização do lançamento, que posteriormente é efetuado pela Administração, estamos diante, em princípio, de lançamento:"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    },
+    {
+      "id": "direito-tributario-aula-002-q-003",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 3,
+      "question": "Quando o sujeito presta à autoridade informações indispensáveis à realização do lançamento, que posteriormente é efetuado pela Administração, estamos diante, em princípio, de lançamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "de ofício."
+        },
+        {
+          "id": "B",
+          "text": "por declaração."
+        },
+        {
+          "id": "C",
+          "text": "por homologação."
+        },
+        {
+          "id": "D",
+          "text": "judicial. Questão 4 No lançamento por homologação:"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    },
+    {
+      "id": "direito-tributario-aula-002-q-004",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 4,
+      "question": "No lançamento por homologação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "inexiste qualquer participação do sujeito passivo antes da atuação fiscal."
+        },
+        {
+          "id": "B",
+          "text": "o pagamento somente pode ocorrer depois de prévio exame da autoridade."
+        },
+        {
+          "id": "C",
+          "text": "o sujeito passivo pratica os atos que a legislação lhe atribui e pode antecipar o pagamento sem prévio exame da autoridade, sujeito à posterior homologação."
+        },
+        {
+          "id": "D",
+          "text": "o contribuinte substitui definitivamente a autoridade administrativa e realiza juridicamente o lançamento. Questão 5 — assertivas I. A ocorrência do fato gerador relaciona-se ao nascimento da obrigação tributária. II. O lançamento constitui o crédito tributário. III. Todo lançamento depende necessariamente de declaração prévia do contribuinte. Está correto o que se afirma em:"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    },
+    {
+      "id": "direito-tributario-aula-002-q-005",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 5,
+      "question": "Está correto o que se afirma em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I, apenas."
+        },
+        {
+          "id": "B",
+          "text": "II e III, apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e II, apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Questão 6 Um examinador afirma: “No lançamento de ofício, a constituição do crédito depende necessariamente de declaração prévia apresentada pelo sujeito passivo.” A afirmação está:"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    },
+    {
+      "id": "direito-tributario-aula-002-q-006",
+      "lessonId": "direito-tributario-aula-002",
+      "numero": 6,
+      "question": "A afirmação está:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, porque todos os lançamentos exigem declaração."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, porque o lançamento de ofício é realizado pela autoridade nas hipóteses legais sem essa exigência necessária."
+        },
+        {
+          "id": "C",
+          "text": "correta apenas para impostos municipais."
+        },
+        {
+          "id": "D",
+          "text": "incorreta porque lançamento de ofício é realizado judicialmente."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "Crédito Tributário e Lançamento"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-002-q-001",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-002-q-002",
+      "resposta": "D",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-002-q-003",
+      "resposta": "B",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-002-q-004",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-002-q-005",
+      "resposta": "C",
+      "comentario": ""
+    },
+    {
+      "questionId": "direito-tributario-aula-002-q-006",
+      "resposta": "B",
+      "comentario": ""
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-002-b25",
+      "titulo": "9. REVISÃO ESPAÇADA",
+      "texto": "Sem consultar, responda também:\n\nQual a diferença entre multa e tributo?\nO que pode ser objeto da obrigação principal?\nO que caracteriza uma obrigação acessória?\n\nQuem é contribuinte?\n\nQuem é responsável?\nQual a diferença entre competência tributária e capacidade tributária ativa?\nRESPOSTAS: multa não é tributo, pois é sanção; a obrigação principal pode ter por objeto tributo ou penalidade pecuniária; obrigação acessória é dever instrumental positivo/negativo; contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei; competência tributária é o poder de instituir tributos e é indelegável, enquanto funções de arrecadação/fiscalização podem ser atribuídas nos termos legais."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "75147ef88e9e4b3d"
+}

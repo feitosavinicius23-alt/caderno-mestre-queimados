@@ -1,0 +1,389 @@
+{
+  "id": "direito-tributario-aula-035",
+  "numero": 35,
+  "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+  "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca",
+  "disciplina": "Direito Tributário",
+  "assunto": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+  "ordem": 35,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "EM INTERPRETAÇÃO, NÃO PERGUNTE “ISSO É VERDADE?”. PERGUNTE “O TEXTO ME AUTORIZA A AFIRMAR ISSO?”.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-035-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO DA AULA",
+      "texto": "Iniciar a primeira frente de Língua Portuguesa sem abandonar a revisão espaçada dos Conhecimentos Específicos. Ao final, o aluno deve distinguir informação explícita, inferência legítima, pressuposição indevida e extrapolação; reconhecer alternativas que apenas repetem palavras do texto, mas alteram seu sentido; e aplicar um método de resolução voltado ao padrão de prova."
+    },
+    {
+      "id": "direito-tributario-aula-035-b2",
+      "tipo": "teoria",
+      "titulo": "1. REGRA CENTRAL: A RESPOSTA ESTÁ NO TEXTO OU É AUTORIZADA POR ELE",
+      "texto": "Em interpretação, a alternativa correta não é a que parece mais verdadeira no mundo real. É a que pode ser sustentada pelo texto. Conhecimento de mundo ajuda a compreender, mas não pode substituir o que o autor efetivamente escreveu."
+    },
+    {
+      "id": "direito-tributario-aula-035-b3",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: “A fiscalização foi ampliada após o aumento das denúncias.”",
+      "texto": "Podemos afirmar que houve aumento das denúncias e que a fiscalização foi ampliada. Podemos inferir uma relação temporal e, pela construção, uma conexão entre os fatos. Mas não podemos concluir, sem informação adicional, que todas as denúncias eram verdadeiras, que houve aumento de infrações ou que a fiscalização resolveu o problema."
+    },
+    {
+      "id": "direito-tributario-aula-035-b4",
+      "tipo": "regra-de-prova",
+      "titulo": "REGRA DE OURO: TEXTO > OPINIÃO PESSOAL.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-035-b5",
+      "tipo": "teoria",
+      "titulo": "2. INFORMAÇÃO EXPLÍCITA X INFERÊNCIA",
+      "texto": "Informação explícita é aquilo que o texto declara diretamente. Inferência é uma conclusão que decorre logicamente de elementos do texto, mesmo sem estar escrita com as mesmas palavras."
+    },
+    {
+      "id": "direito-tributario-aula-035-b6",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: “Embora estivesse chovendo, a equipe realizou a vistoria.”",
+      "texto": "Explícito: chovia; a equipe realizou a vistoria.\nInferência legítima: a chuva poderia ser entendida como circunstância contrária à realização da vistoria, porque “embora” introduz ideia concessiva.\nExtrapolação: a vistoria foi realizada com atraso. O texto não disse isso."
+    },
+    {
+      "id": "direito-tributario-aula-035-b7",
+      "tipo": "teoria",
+      "titulo": "3. EXTRAPOLAÇÃO — UMA DAS ARMAS MAIS PERIGOSAS",
+      "texto": "A alternativa extrapola quando acrescenta informação não autorizada. A banca pode construir uma opção com 90% de conteúdo correto e inserir uma palavra que torna a conclusão maior do que o texto permite.\nMarcadores perigosos: sempre, nunca, todos, somente, exclusivamente, necessariamente, definitivamente, qualquer, nenhum.\nSe o texto diz “alguns contribuintes apresentaram recurso”, é incorreto transformar em “todos os contribuintes apresentaram recurso”. Se diz “pode”, não transforme em “deve”. Se diz “frequentemente”, não transforme em “sempre”."
+    },
+    {
+      "id": "direito-tributario-aula-035-b8",
+      "tipo": "teoria",
+      "titulo": "4. GENERALIZAÇÃO E RESTRIÇÃO INDEVIDAS",
+      "texto": "Generalização: o texto fala de parte; a alternativa transforma em totalidade.\nRestrição: o texto apresenta possibilidade ampla; a alternativa reduz sem autorização.\nTexto: “A leitura pode contribuir para a ampliação do vocabulário.”\nExtrapolação: “A leitura sempre amplia o vocabulário de qualquer leitor.”\nRestrição indevida: “A leitura contribui para o vocabulário apenas quando realizada diariamente.”"
+    },
+    {
+      "id": "direito-tributario-aula-035-b9",
+      "tipo": "teoria",
+      "titulo": "5. PARÁFRASE CORRETA NÃO PRECISA REPETIR AS PALAVRAS",
+      "texto": "A banca pode trocar palavras mantendo o sentido. Por isso, procurar apenas palavras iguais é uma estratégia fraca.\nTexto: “O servidor recusou-se a fornecer a informação porque não possuía autorização.”\nParáfrase possível: “A ausência de autorização foi apresentada como motivo para a recusa do servidor.”\nAs palavras mudaram; a relação de sentido permaneceu."
+    },
+    {
+      "id": "direito-tributario-aula-035-b10",
+      "tipo": "teoria",
+      "titulo": "6. ALTERNATIVA-ESPELHO: MESMAS PALAVRAS, SENTIDO ERRADO",
+      "texto": "A banca também pode copiar termos do texto e alterar a relação entre eles.\nTexto: “A redução das filas depende de planejamento e aumento da eficiência.”\nAlternativa enganosa: “O texto afirma que o aumento das filas produz maior eficiência.”\nAs palavras “filas” e “eficiência” estão presentes, mas a relação lógica foi invertida.\nPortanto: NÃO MARQUE POR RECONHECIMENTO DE VOCABULÁRIO. MARQUE POR EQUIVALÊNCIA DE SENTIDO."
+    },
+    {
+      "id": "direito-tributario-aula-035-b11",
+      "tipo": "teoria",
+      "titulo": "7. CAUSA, CONSEQUÊNCIA, CONDIÇÃO E CONCESSÃO",
+      "texto": "Parte relevante da interpretação depende de perceber relações lógicas.\nPorque, já que, visto que → frequentemente causa/explicação.\nPortanto, por isso, de modo que → frequentemente consequência/conclusão.\nSe, caso → condição.\nEmbora, ainda que, apesar de → concessão.\nMas, porém, contudo → oposição/adversidade.\nA banca pode manter os fatos e inverter a relação entre eles."
+    },
+    {
+      "id": "direito-tributario-aula-035-b12",
+      "tipo": "teoria",
+      "titulo": "8. MÉTODO DE RESOLUÇÃO EM 5 PASSOS",
+      "texto": "PASSO 1 — Leia o comando antes de escolher: CORRETA, INCORRETA, EXCETO, depreende-se, infere-se, segundo o texto.\nPASSO 2 — Identifique o núcleo do que está sendo perguntado.\nPASSO 3 — Para cada alternativa, procure no texto a evidência que a sustenta.\nPASSO 4 — Teste palavras absolutas e relações lógicas.\nPASSO 5 — Escolha a alternativa que exige menos suposições externas.\nMnemônico: C-E-L-A-S = Comando, Evidência, Limites, Absolutos, Sentido."
+    },
+    {
+      "id": "direito-tributario-aula-035-b13",
+      "tipo": "pegadinha",
+      "titulo": "9. PEGADINHAS DE PROVA",
+      "texto": "A) alternativa verdadeira no mundo, mas não sustentada pelo texto;\nB) troca de “alguns” por “todos”;\nC) troca de possibilidade por certeza;\nD) inversão de causa e consequência;\nE) conclusão baseada em opinião do candidato;\nF) cópia literal de palavras com mudança de sentido;\nG) alternativa parcialmente correta com final falso;\nH) comando negativo — INCORRETA/EXCETO — ignorado pelo candidato."
+    },
+    {
+      "id": "direito-tributario-aula-035-b14",
+      "tipo": "teoria",
+      "titulo": "10. MINIEXEMPLO COMENTADO",
+      "texto": "Texto: “O crescimento das ferramentas digitais ampliou o acesso à informação. Isso, contudo, não garante que toda informação encontrada seja confiável. A avaliação crítica das fontes permanece necessária.”\nÉ possível sustentar: ferramentas digitais ampliaram o acesso; acesso não equivale automaticamente a confiabilidade; avaliar fontes continua necessário.\nNão é possível sustentar: toda informação digital é falsa; ferramentas digitais reduziram o acesso; avaliação crítica tornou-se desnecessária.\nObserve “contudo”: a segunda frase introduz contraste em relação à expectativa que poderia surgir da primeira."
+    },
+    {
+      "id": "direito-tributario-aula-035-b15",
+      "tipo": "revisao",
+      "titulo": "11. RECUPERAÇÃO ESPAÇADA DOS ESPECÍFICOS",
+      "texto": "Sem consultar: fato gerador faz nascer a obrigação; lançamento constitui o crédito; decadência relaciona-se ao prazo para constituir; prescrição, à cobrança judicial de crédito definitivamente constituído; parcelamento suspende a exigibilidade; remissão extingue; contribuição de melhoria exige obra pública e valorização imobiliária dela decorrente; taxa é tributo vinculado."
+    },
+    {
+      "id": "direito-tributario-aula-035-b16",
+      "tipo": "questao",
+      "titulo": "12. TESTE — NÃO REVELAR O GABARITO ANTES DA RESPOSTA DO ALUNO",
+      "texto": "Texto para as questões 1 a 4:\n“Em administrações complexas, aumentar a quantidade de normas não significa, por si só, melhorar a fiscalização. Regras claras podem favorecer o trabalho dos agentes e a compreensão dos administrados. Entretanto, a efetividade também depende de estrutura, capacitação e aplicação coerente das normas.”",
+      "questionIds": [
+        "direito-tributario-aula-035-q-001",
+        "direito-tributario-aula-035-q-002",
+        "direito-tributario-aula-035-q-003",
+        "direito-tributario-aula-035-q-004",
+        "direito-tributario-aula-035-q-005",
+        "direito-tributario-aula-035-q-006",
+        "direito-tributario-aula-035-q-007",
+        "direito-tributario-aula-035-q-008"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-035-b17",
+      "tipo": "teoria",
+      "titulo": "STATUS DE DOMÍNIO",
+      "texto": "Interpretação e inferência: EM APRENDIZAGEM. Nenhum domínio será registrado sem resposta e retenção posterior em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-035-b18",
+      "tipo": "caderno-de-erros",
+      "titulo": "CADERNO DE ERROS",
+      "texto": "Sem resposta do aluno nesta execução: não aferido. Após as respostas, registrar erro, causa provável, regra correta, pegadinha e revisão futura."
+    },
+    {
+      "id": "direito-tributario-aula-035-b19",
+      "tipo": "fechamento",
+      "titulo": "REGRA FINAL DA AULA",
+      "texto": "EM INTERPRETAÇÃO, NÃO PERGUNTE “ISSO É VERDADE?”. PERGUNTE “O TEXTO ME AUTORIZA A AFIRMAR ISSO?”."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-035-q-001",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 1,
+      "question": "Segundo o texto, é correto afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o aumento do número de normas garante fiscalização melhor."
+        },
+        {
+          "id": "B",
+          "text": "a clareza das regras pode favorecer agentes e administrados."
+        },
+        {
+          "id": "C",
+          "text": "a capacitação é dispensável quando as regras são claras."
+        },
+        {
+          "id": "D",
+          "text": "a efetividade depende exclusivamente da quantidade de normas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-002",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 2,
+      "question": "Pode-se inferir do texto que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a existência de normas, isoladamente, não assegura efetividade."
+        },
+        {
+          "id": "B",
+          "text": "nenhuma norma é necessária à fiscalização."
+        },
+        {
+          "id": "C",
+          "text": "toda administração complexa possui fiscalização ineficiente."
+        },
+        {
+          "id": "D",
+          "text": "agentes capacitados dispensam estrutura."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-003",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 3,
+      "question": "A palavra “Entretanto” introduz ideia predominantemente de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "causa."
+        },
+        {
+          "id": "B",
+          "text": "conclusão."
+        },
+        {
+          "id": "C",
+          "text": "oposição/contraste."
+        },
+        {
+          "id": "D",
+          "text": "condição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-004",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 4,
+      "question": "É INCORRETO afirmar, segundo o texto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "estrutura é um dos fatores associados à efetividade."
+        },
+        {
+          "id": "B",
+          "text": "regras claras podem auxiliar a compreensão dos administrados."
+        },
+        {
+          "id": "C",
+          "text": "quantidade de normas, sozinha, garante melhor fiscalização."
+        },
+        {
+          "id": "D",
+          "text": "capacitação é mencionada como fator relevante."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-005",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 5,
+      "question": "Texto: “Alguns processos foram revistos após a auditoria.” Qual alternativa extrapola a informação?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Houve processos revistos."
+        },
+        {
+          "id": "B",
+          "text": "A revisão ocorreu após a auditoria."
+        },
+        {
+          "id": "C",
+          "text": "Todos os processos foram revistos após a auditoria."
+        },
+        {
+          "id": "D",
+          "text": "O texto estabelece uma relação temporal entre auditoria e revisão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-006",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 6,
+      "question": "Texto: “Embora o prazo fosse curto, a equipe concluiu o relatório.” A conjunção destacada estabelece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "concessão."
+        },
+        {
+          "id": "B",
+          "text": "causa."
+        },
+        {
+          "id": "C",
+          "text": "condição."
+        },
+        {
+          "id": "D",
+          "text": "conclusão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-007",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 7,
+      "question": "Recuperação tributária: decadência relaciona-se diretamente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à constituição do crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "apenas à execução fiscal."
+        },
+        {
+          "id": "C",
+          "text": "à criação da competência tributária."
+        },
+        {
+          "id": "D",
+          "text": "ao pagamento voluntário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    },
+    {
+      "id": "direito-tributario-aula-035-q-008",
+      "lessonId": "direito-tributario-aula-035",
+      "numero": 8,
+      "question": "Recuperação tributária: lançamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "faz nascer a obrigação tributária."
+        },
+        {
+          "id": "B",
+          "text": "constitui o crédito tributário."
+        },
+        {
+          "id": "C",
+          "text": "cria o fato gerador."
+        },
+        {
+          "id": "D",
+          "text": "é necessariamente judicial."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-035-b15",
+      "titulo": "11. RECUPERAÇÃO ESPAÇADA DOS ESPECÍFICOS",
+      "texto": "Sem consultar: fato gerador faz nascer a obrigação; lançamento constitui o crédito; decadência relaciona-se ao prazo para constituir; prescrição, à cobrança judicial de crédito definitivamente constituído; parcelamento suspende a exigibilidade; remissão extingue; contribuição de melhoria exige obra pública e valorização imobiliária dela decorrente; taxa é tributo vinculado."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "77a22dafb27799d3"
+}

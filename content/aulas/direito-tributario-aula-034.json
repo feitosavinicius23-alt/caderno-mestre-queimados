@@ -1,0 +1,430 @@
+{
+  "id": "direito-tributario-aula-034",
+  "numero": 34,
+  "titulo": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
+  "slug": "decadencia-e-prescricao-tributarias-os-dois-relogios-de-5-anos",
+  "disciplina": "Direito Tributário",
+  "assunto": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
+  "ordem": 34,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-034-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 33. Agora entramos em um dos pontos mais cobrados e mais confundidos do CTN: decadência e prescrição. Para o Agente Fiscal, a distinção é operacional: antes do lançamento, pergunte se ainda existe prazo para constituir o crédito; depois de constituído definitivamente, pergunte se ainda existe prazo para cobrá-lo judicialmente."
+    },
+    {
+      "id": "direito-tributario-aula-034-b2",
+      "tipo": "regra-de-prova",
+      "titulo": "REGRA-MÃE",
+      "texto": "DECADÊNCIA → perda do direito de CONSTITUIR o crédito tributário.\nPRESCRIÇÃO → perda da pretensão de COBRAR judicialmente crédito já definitivamente constituído.\nMemória de prova: DECADÊNCIA vem antes do crédito constituído; PRESCRIÇÃO vem depois da constituição definitiva.\n1. DECADÊNCIA — relógio da constituição\nO art. 173, I, do CTN traz a regra geral: o direito de a Fazenda constituir o crédito extingue-se após 5 anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.\nExemplo didático: se um lançamento já poderia ter sido efetuado em 2026 e a hipótese se enquadra na regra geral do art. 173, I, o marco de contagem começa, em princípio, em 1º de janeiro de 2027. A questão real sempre exige identificar a modalidade de lançamento e a regra aplicável antes de contar.\nO art. 173, II, prevê ainda contagem a partir da data em que se tornar definitiva a decisão que houver anulado, por vício formal, lançamento anteriormente efetuado.\nPegadinha IAN: anulação por vício formal não significa simplesmente que o Fisco perdeu automaticamente qualquer possibilidade de novo lançamento. É preciso aplicar a regra legal de decadência.\n2. LANÇAMENTO POR HOMOLOGAÇÃO — art. 150, §4º\nQuando a legislação atribui ao sujeito passivo o dever de antecipar pagamento sem prévio exame da autoridade, existe regra específica: se a lei não fixar prazo para homologação, ele é de 5 anos a contar da ocorrência do fato gerador; expirado esse prazo sem pronunciamento da Fazenda, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovados dolo, fraude ou simulação.\nMemória:"
+    },
+    {
+      "id": "direito-tributario-aula-034-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 173, I → regra geral → primeiro dia do exercício seguinte."
+    },
+    {
+      "id": "direito-tributario-aula-034-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 150, §4º → homologação com antecipação, nas condições legais → fato gerador."
+    },
+    {
+      "id": "direito-tributario-aula-034-b5",
+      "tipo": "regra-de-prova",
+      "titulo": "",
+      "texto": "Não aplique mecanicamente um único marco a todos os tributos.\n3. PRESCRIÇÃO — relógio da cobrança\nO art. 174 do CTN estabelece que a ação para cobrança do crédito tributário prescreve em 5 anos contados da data de sua constituição definitiva.\nMemória:\nCONSTITUIÇÃO DEFINITIVA → começa o relógio prescricional.\nLogo, está errada a alternativa: “A prescrição começa sempre na ocorrência do fato gerador.” Isso mistura os dois relógios."
+    },
+    {
+      "id": "direito-tributario-aula-034-b6",
+      "tipo": "teoria",
+      "titulo": "4. INTERRUPÇÃO DA PRESCRIÇÃO",
+      "texto": "O CTN prevê causas que interrompem a prescrição. Entre elas estão o despacho do juiz que ordenar a citação em execução fiscal, o protesto judicial, qualquer ato judicial que constitua em mora o devedor e qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor.\nINTERRUPÇÃO ≠ SUSPENSÃO. Na interrupção, a contagem é desfeita e reinicia conforme o regime jurídico aplicável. A banca pode trocar os verbos para produzir distrator."
+    },
+    {
+      "id": "direito-tributario-aula-034-b7",
+      "tipo": "teoria",
+      "titulo": "5. SUSPENSÃO DA EXIGIBILIDADE NÃO É EXTINÇÃO",
+      "texto": "Recupere o art. 151: moratória, depósito integral, reclamações e recursos administrativos, liminar/tutela nas hipóteses legais e parcelamento suspendem a exigibilidade.\nPARCELAMENTO → SUSPENDE A EXIGIBILIDADE.\nREMISSÃO → EXTINGUE O CRÉDITO.\nANISTIA → EXCLUI O CRÉDITO quanto à penalidade nas condições legais.\nSe o crédito está com exigibilidade suspensa, não diga que ele desapareceu. Ele continua existindo, mas sua exigibilidade está temporariamente impedida."
+    },
+    {
+      "id": "direito-tributario-aula-034-b8",
+      "tipo": "teoria",
+      "titulo": "6. DECADÊNCIA E PRESCRIÇÃO SÃO EXTINÇÃO DO CRÉDITO",
+      "texto": "O art. 156 do CTN inclui tanto a prescrição quanto a decadência entre as causas de extinção do crédito tributário.\nIsso não elimina a diferença entre elas. A banca pode perguntar a categoria comum e, em outra questão, exigir o momento de cada uma.\nDECADÊNCIA → extingue porque passou o prazo para constituir.\nPRESCRIÇÃO → extingue porque passou o prazo para cobrar o crédito definitivamente constituído.\n7. Aplicação prática do Agente Fiscal\nImagine que o fiscal encontre em 2026 uma construção antiga não refletida no cadastro do IPTU. Ele não pode simplesmente cobrar “todos os anos anteriores”. Deve identificar quando ocorreu o fato, qual modalidade de lançamento se aplica, quais exercícios ainda podem ser constituídos e qual regra decadencial governa cada período.\nNo ISS, ao identificar omissão pretérita, o mesmo raciocínio vale: modalidade de lançamento, eventual antecipação de pagamento, marco decadencial, constituição do crédito e, posteriormente, prescrição.\nO fiscal trabalha com FATO + LEI + PROVA + PRAZO.\n8. Pegadinhas de alta prioridade\nDesconfie de: “decadência é prazo para execução fiscal”; “prescrição impede o lançamento”; “ambas começam sempre no fato gerador”; “parcelamento extingue”; “crédito suspenso deixa de existir”; “anulação formal impede necessariamente novo lançamento”; “todo prazo tributário de cinco anos possui o mesmo termo inicial”.\nPalavras perigosas: SEMPRE, AUTOMATICAMENTE, EM QUALQUER CASO, NECESSARIAMENTE."
+    },
+    {
+      "id": "direito-tributario-aula-034-b9",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "Fato gerador → obrigação.\nLançamento → crédito.\nDecadência → prazo para constituir.\nConstituição definitiva → marco da prescrição.\nPrescrição → prazo para cobrar judicialmente.\nArt. 173, I → regra geral decadencial.\nArt. 150, §4º → regra específica de homologação nas condições legais.\nParcelamento → suspensão.\nRemissão → extinção.\nAnistia → exclusão.\nDecadência e prescrição → causas de extinção do crédito.",
+      "mapaId": "direito-tributario-aula-034-b9"
+    },
+    {
+      "id": "direito-tributario-aula-034-b10",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-034-q-001",
+        "direito-tributario-aula-034-q-002",
+        "direito-tributario-aula-034-q-003",
+        "direito-tributario-aula-034-q-004",
+        "direito-tributario-aula-034-q-005",
+        "direito-tributario-aula-034-q-006",
+        "direito-tributario-aula-034-q-007",
+        "direito-tributario-aula-034-q-008",
+        "direito-tributario-aula-034-q-009",
+        "direito-tributario-aula-034-q-010"
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-034-q-001",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 1,
+      "question": "Decadência tributária relaciona-se diretamente à perda do direito de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "constituir o crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "cobrar judicialmente crédito definitivamente constituído."
+        },
+        {
+          "id": "C",
+          "text": "criar competência tributária."
+        },
+        {
+          "id": "D",
+          "text": "editar lei municipal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-002",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 2,
+      "question": "Prescrição tributária, em regra, relaciona-se ao prazo para:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ocorrência do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "constituição originária da obrigação."
+        },
+        {
+          "id": "C",
+          "text": "cobrança judicial do crédito definitivamente constituído."
+        },
+        {
+          "id": "D",
+          "text": "instituição do tributo."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-003",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 3,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decadência e prescrição constam entre as causas de extinção do crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "todo prazo tributário de cinco anos começa necessariamente na ocorrência do fato gerador."
+        },
+        {
+          "id": "C",
+          "text": "a modalidade de lançamento pode ser relevante para definir a regra decadencial."
+        },
+        {
+          "id": "D",
+          "text": "a prescrição pressupõe crédito constituído definitivamente."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-004",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 4,
+      "question": "Na regra geral do art. 173, I, o prazo decadencial é contado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sempre do pagamento."
+        },
+        {
+          "id": "B",
+          "text": "do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado."
+        },
+        {
+          "id": "C",
+          "text": "sempre da inscrição em dívida ativa."
+        },
+        {
+          "id": "D",
+          "text": "da execução fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-005",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 5,
+      "question": "No lançamento por homologação, nas condições do art. 150, §4º, a regra específica toma como referência:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a ocorrência do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "a sentença judicial."
+        },
+        {
+          "id": "C",
+          "text": "a inscrição em dívida ativa."
+        },
+        {
+          "id": "D",
+          "text": "a citação do contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-006",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 6,
+      "question": "Parcelamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "extingue o crédito."
+        },
+        {
+          "id": "B",
+          "text": "suspende a exigibilidade."
+        },
+        {
+          "id": "C",
+          "text": "exclui o crédito."
+        },
+        {
+          "id": "D",
+          "text": "gera imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-007",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 7,
+      "question": "Recuperação da Aula 33. O lançamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "faz nascer a obrigação."
+        },
+        {
+          "id": "B",
+          "text": "constitui o crédito tributário."
+        },
+        {
+          "id": "C",
+          "text": "cria a competência tributária."
+        },
+        {
+          "id": "D",
+          "text": "é discricionário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-008",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 8,
+      "question": "Recuperação da Aula 32. O descumprimento de obrigação acessória pode gerar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "obrigação principal quanto à penalidade pecuniária."
+        },
+        {
+          "id": "B",
+          "text": "imunidade."
+        },
+        {
+          "id": "C",
+          "text": "competência tributária nova."
+        },
+        {
+          "id": "D",
+          "text": "remissão automática."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-009",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 9,
+      "question": "Recuperação da Aula 31. Contribuição de melhoria exige:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente obra pública."
+        },
+        {
+          "id": "B",
+          "text": "obra pública e valorização imobiliária dela decorrente."
+        },
+        {
+          "id": "C",
+          "text": "serviço específico e divisível."
+        },
+        {
+          "id": "D",
+          "text": "transmissão onerosa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    },
+    {
+      "id": "direito-tributario-aula-034-q-010",
+      "lessonId": "direito-tributario-aula-034",
+      "numero": 10,
+      "question": "Sequência correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "fato gerador → obrigação → lançamento → crédito."
+        },
+        {
+          "id": "B",
+          "text": "lançamento → fato gerador → obrigação → crédito."
+        },
+        {
+          "id": "C",
+          "text": "crédito → fato gerador → lançamento → obrigação."
+        },
+        {
+          "id": "D",
+          "text": "obrigação → competência → fato gerador → crédito. Sem respostas registradas de Vinícius, decadência e prescrição permanecem EM APRENDIZAGEM. Não considero domínio sem recuperação posterior em questões misturadas. Recuperação oral de 60 segundos: decadência serve para constituir ou cobrar? Prescrição serve para constituir ou cobrar? Qual é o prazo-base de ambas? O art. 173, I começa em qual marco? O art. 150, §4º usa qual marco nas condições legais? Parcelamento extingue ou suspende? Remissão faz o quê? Lançamento constitui o quê? REGRA DE OURO: DECADÊNCIA OLHA PARA A CONSTITUIÇÃO DO CRÉDITO; PRESCRIÇÃO OLHA PARA SUA COBRANÇA. NÃO DECORE APENAS “5 ANOS”: IDENTIFIQUE QUAL RELÓGIO ESTÁ CORRENDO E QUAL É O TERMO INICIAL LEGAL."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-034-b9",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "Fato gerador",
+        "obrigação",
+        "Lançamento",
+        "crédito",
+        "Decadência",
+        "prazo para constituir",
+        "Constituição definitiva",
+        "marco da prescrição",
+        "Prescrição",
+        "prazo para cobrar judicialmente",
+        "Art. 173, I",
+        "regra geral decadencial",
+        "Art. 150, §4º",
+        "regra específica de homologação nas condições legais",
+        "Parcelamento",
+        "suspensão",
+        "Remissão",
+        "extinção",
+        "Anistia",
+        "exclusão",
+        "Decadência e prescrição",
+        "causas de extinção do crédito"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-034-b3",
+      "titulo": "REGRA-MÃE",
+      "texto": "ART. 173, I → regra geral → primeiro dia do exercício seguinte."
+    },
+    {
+      "id": "direito-tributario-aula-034-b4",
+      "titulo": "REGRA-MÃE",
+      "texto": "ART. 150, §4º → homologação com antecipação, nas condições legais → fato gerador."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "48e0e48c6156d4d0"
+}

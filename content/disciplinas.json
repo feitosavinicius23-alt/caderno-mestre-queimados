@@ -1,0 +1,282 @@
+[
+  {
+    "id": "direito-tributario",
+    "slug": "direito-tributario",
+    "nome": "Direito Tributário",
+    "totalAulas": 24,
+    "totalQuestoes": 129,
+    "tempoEstimadoMin": 101,
+    "assuntos": [
+      "Direito Tributário",
+      "Crédito Tributário e Lançamento",
+      "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "Exclusão do Crédito Tributário",
+      "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
+      "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
+      "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
+      "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
+      "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
+      "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
+      "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
+      "Decadência e prescrição tributárias: os dois relógios de 5 anos",
+      "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
+    ],
+    "aulas": [
+      {
+        "id": "direito-tributario-aula-001",
+        "numero": 1,
+        "titulo": "Direito Tributário",
+        "slug": "direito-tributario"
+      },
+      {
+        "id": "direito-tributario-aula-002",
+        "numero": 2,
+        "titulo": "Crédito Tributário e Lançamento",
+        "slug": "credito-tributario-e-lancamento"
+      },
+      {
+        "id": "direito-tributario-aula-003",
+        "numero": 3,
+        "titulo": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+        "slug": "suspensao-da-exigibilidade-do-credito-tributario"
+      },
+      {
+        "id": "direito-tributario-aula-004",
+        "numero": 4,
+        "titulo": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+        "slug": "extincao-do-credito-tributario"
+      },
+      {
+        "id": "direito-tributario-aula-005",
+        "numero": 5,
+        "titulo": "Exclusão do Crédito Tributário",
+        "slug": "exclusao-do-credito-tributario"
+      },
+      {
+        "id": "direito-tributario-aula-006",
+        "numero": 6,
+        "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+        "slug": "garantias-e-privilegios-do-credito-tributario"
+      },
+      {
+        "id": "direito-tributario-aula-007",
+        "numero": 7,
+        "titulo": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
+        "slug": "infracoes-sancoes-e-penalidades-tributarias"
+      },
+      {
+        "id": "direito-tributario-aula-008",
+        "numero": 8,
+        "titulo": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+        "slug": "responsabilidade-tributaria-contribuinte-responsavel-sucessores-e-terceiros"
+      },
+      {
+        "id": "direito-tributario-aula-009",
+        "numero": 9,
+        "titulo": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+        "slug": "prescricao-e-decadencia-em-profundidade"
+      },
+      {
+        "id": "direito-tributario-aula-010",
+        "numero": 10,
+        "titulo": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
+        "slug": "sistema-tributario-na-constituicao-principios-e-limitacoes-ao-poder-de-tributar"
+      },
+      {
+        "id": "direito-tributario-aula-011",
+        "numero": 11,
+        "titulo": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+        "slug": "competencia-tributaria-municipal-e-reparticao-de-receitas"
+      },
+      {
+        "id": "direito-tributario-aula-012",
+        "numero": 12,
+        "titulo": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+        "slug": "iptu-incidencia-contribuinte-base-de-calculo-e-progressividade"
+      },
+      {
+        "id": "direito-tributario-aula-013",
+        "numero": 13,
+        "titulo": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
+        "slug": "itbi-fato-gerador-onerosidade-competencia-territorial-e-imunidade"
+      },
+      {
+        "id": "direito-tributario-aula-014",
+        "numero": 14,
+        "titulo": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+        "slug": "iss-incidencia-lista-de-servicos-local-da-incidencia-base-de-calculo-e-aliquotas"
+      },
+      {
+        "id": "direito-tributario-aula-015",
+        "numero": 15,
+        "titulo": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+        "slug": "taxas-municipais-poder-de-policia-e-servicos-publicos"
+      },
+      {
+        "id": "direito-tributario-aula-016",
+        "numero": 16,
+        "titulo": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+        "slug": "contribuicao-de-melhoria-obra-publica-valorizacao-e-limites"
+      },
+      {
+        "id": "direito-tributario-aula-017",
+        "numero": 17,
+        "titulo": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+        "slug": "administracao-tributaria-fiscalizacao-sigilo-fiscal-divida-ativa-e-certidoes"
+      },
+      {
+        "id": "direito-tributario-aula-018",
+        "numero": 18,
+        "titulo": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
+        "slug": "processo-administrativo-tributario-defesa-impugnacao-recursos-e-julgamento"
+      },
+      {
+        "id": "direito-tributario-aula-019",
+        "numero": 19,
+        "titulo": "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
+        "slug": "revisao-cumulativa-de-direito-tributario-municipal"
+      },
+      {
+        "id": "direito-tributario-aula-031",
+        "numero": 31,
+        "titulo": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+        "slug": "contribuicao-de-melhoria-obra-publica-valorizacao-e-limites-aula-31"
+      },
+      {
+        "id": "direito-tributario-aula-032",
+        "numero": 32,
+        "titulo": "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
+        "slug": "obrigacao-tributaria-principal-acessoria-fato-gerador-e-sujeito-passivo"
+      },
+      {
+        "id": "direito-tributario-aula-033",
+        "numero": 33,
+        "titulo": "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
+        "slug": "lancamento-tributario-na-fiscalizacao-constituicao-revisao-e-modalidades"
+      },
+      {
+        "id": "direito-tributario-aula-034",
+        "numero": 34,
+        "titulo": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
+        "slug": "decadencia-e-prescricao-tributarias-os-dois-relogios-de-5-anos"
+      },
+      {
+        "id": "direito-tributario-aula-035",
+        "numero": 35,
+        "titulo": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
+        "slug": "portugues-interpretacao-de-textos-e-inferencia-como-a-ian-tenta-fazer-voce-marca"
+      }
+    ]
+  },
+  {
+    "id": "legislacao-tributaria-de-queimados",
+    "slug": "legislacao-tributaria-de-queimados",
+    "nome": "Legislação Tributária de Queimados",
+    "totalAulas": 6,
+    "totalQuestoes": 8,
+    "tempoEstimadoMin": 24,
+    "assuntos": [
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
+      "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    ],
+    "aulas": [
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-025",
+        "numero": 25,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
+        "slug": "codigo-tributario-de-queimados-estrutura-local-legalidade-e-conexao-com-a-fiscal"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-026",
+        "numero": 26,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
+        "slug": "codigo-tributario-de-queimados-iptu-local-incidencia-cadastro-valor-venal-e-lanc"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-027",
+        "numero": 27,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
+        "slug": "codigo-tributario-de-queimados-itbi-local-transmissao-contribuinte-base-e-fiscal"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-028",
+        "numero": 28,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
+        "slug": "codigo-tributario-de-queimados-iss-local-incidencia-local-responsabilidade-e-fis"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-029",
+        "numero": 29,
+        "titulo": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
+        "slug": "iss-em-queimados-recolhimento-retencao-nfs-e-e-arbitramento-fiscal"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-030",
+        "numero": 30,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+        "slug": "codigo-tributario-de-queimados-taxas-municipais-poder-de-policia-e-servicos-publ"
+      }
+    ]
+  },
+  {
+    "id": "receitas-publicas",
+    "slug": "receitas-publicas",
+    "nome": "Receitas Públicas",
+    "totalAulas": 5,
+    "totalQuestoes": 0,
+    "tempoEstimadoMin": 17,
+    "assuntos": [
+      "RECEITAS PÚBLICAS: CONCEITO, CLASSIFICAÇÃO E RECEITAS TRIBUTÁRIAS MUNICIPAIS",
+      "RECEITAS PÚBLICAS II: CORRENTES, DE CAPITAL E TRANSFERÊNCIAS",
+      "RECEITAS PÚBLICAS III: ESTÁGIOS DA RECEITA — PREVISÃO, LANÇAMENTO, ARRECADAÇÃO E RECOLHIMENTO",
+      "RECEITAS PÚBLICAS IV: RENÚNCIA DE RECEITA E RESPONSABILIDADE FISCAL",
+      "RESPONSABILIDADE FISCAL NA RECEITA: INSTITUIÇÃO, PREVISÃO, ARRECADAÇÃO E COMBATE À EVASÃO"
+    ],
+    "aulas": [
+      {
+        "id": "receitas-publicas-aula-020",
+        "numero": 20,
+        "titulo": "RECEITAS PÚBLICAS: CONCEITO, CLASSIFICAÇÃO E RECEITAS TRIBUTÁRIAS MUNICIPAIS",
+        "slug": "receitas-publicas-conceito-classificacao-e-receitas-tributarias-municipais"
+      },
+      {
+        "id": "receitas-publicas-aula-021",
+        "numero": 21,
+        "titulo": "RECEITAS PÚBLICAS II: CORRENTES, DE CAPITAL E TRANSFERÊNCIAS",
+        "slug": "receitas-publicas-ii-correntes-de-capital-e-transferencias"
+      },
+      {
+        "id": "receitas-publicas-aula-022",
+        "numero": 22,
+        "titulo": "RECEITAS PÚBLICAS III: ESTÁGIOS DA RECEITA — PREVISÃO, LANÇAMENTO, ARRECADAÇÃO E RECOLHIMENTO",
+        "slug": "receitas-publicas-iii-estagios-da-receita-previsao-lancamento-arrecadacao-e-reco"
+      },
+      {
+        "id": "receitas-publicas-aula-023",
+        "numero": 23,
+        "titulo": "RECEITAS PÚBLICAS IV: RENÚNCIA DE RECEITA E RESPONSABILIDADE FISCAL",
+        "slug": "receitas-publicas-iv-renuncia-de-receita-e-responsabilidade-fiscal"
+      },
+      {
+        "id": "receitas-publicas-aula-024",
+        "numero": 24,
+        "titulo": "RESPONSABILIDADE FISCAL NA RECEITA: INSTITUIÇÃO, PREVISÃO, ARRECADAÇÃO E COMBATE À EVASÃO",
+        "slug": "responsabilidade-fiscal-na-receita-instituicao-previsao-arrecadacao-e-combate-a"
+      }
+    ]
+  }
+]

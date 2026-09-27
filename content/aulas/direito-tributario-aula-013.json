@@ -1,0 +1,359 @@
+{
+  "id": "direito-tributario-aula-013",
+  "numero": 13,
+  "titulo": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
+  "slug": "itbi-fato-gerador-onerosidade-competencia-territorial-e-imunidade",
+  "disciplina": "Direito Tributário",
+  "assunto": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
+  "ordem": 13,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "IPTU OLHA A PROPRIEDADE/DOMÍNIO/POSSE URBANA; ITBI OLHA A TRANSMISSÃO INTER VIVOS E ONEROSA. NO ITBI, SIGA O IMÓVEL: A COMPETÊNCIA É DO MUNICÍPIO DA SITUAÇÃO DO BEM.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-013-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 12. Agora entramos no segundo imposto municipal: ITBI. O núcleo constitucional é a transmissão INTER VIVOS, por ATO ONEROSO, de bens imóveis e de determinados direitos reais sobre imóveis, bem como a cessão de direitos à sua aquisição."
+    },
+    {
+      "id": "direito-tributario-aula-013-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "ITBI → INTER VIVOS + ONEROSO + IMÓVEL."
+    },
+    {
+      "id": "direito-tributario-aula-013-b3",
+      "tipo": "teoria",
+      "titulo": "1. O QUE O ITBI ALCANÇA",
+      "texto": "A Constituição, art. 156, II, atribui aos Municípios competência para instituir imposto sobre: transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis por natureza ou acessão física; transmissão de direitos reais sobre imóveis, exceto os de garantia; e cessão de direitos à aquisição de imóveis.\nTrês núcleos de prova:\nTRANSMISSÃO DO IMÓVEL.\nTRANSMISSÃO DE DIREITO REAL SOBRE IMÓVEL, exceto garantia.\nCESSÃO DE DIREITO À AQUISIÇÃO.\n2. INTER VIVOS x CAUSA MORTIS\nITBI é INTER VIVOS. Transmissão causa mortis não é ITBI; pertence ao campo do ITCMD, de competência estadual."
+    },
+    {
+      "id": "direito-tributario-aula-013-b4",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "VIDA + ONEROSIDADE → pense ITBI. MORTE/DOAÇÃO → não trate como ITBI."
+    },
+    {
+      "id": "direito-tributario-aula-013-b5",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "A palavra ONEROSO é decisiva. Doação gratuita não integra a hipótese constitucional do ITBI."
+    },
+    {
+      "id": "direito-tributario-aula-013-b6",
+      "tipo": "teoria",
+      "titulo": "3. DIREITOS REAIS DE GARANTIA",
+      "texto": "A Constituição exclui da hipótese do ITBI os direitos reais de garantia. Logo, uma alternativa que diga que qualquer direito real sobre imóvel, sem exceção, está sujeito ao ITBI é perigosa."
+    },
+    {
+      "id": "direito-tributario-aula-013-b7",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha IAN: trocar “exceto os de garantia” por “inclusive os de garantia”. Uma única palavra muda o gabarito.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-013-b8",
+      "tipo": "teoria",
+      "titulo": "4. COMPETÊNCIA TERRITORIAL",
+      "texto": "O ITBI compete ao Município da SITUAÇÃO DO BEM. Não é, como regra constitucional, o domicílio do comprador, do vendedor ou o local escolhido pelas partes."
+    },
+    {
+      "id": "direito-tributario-aula-013-b9",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "ITBI SEGUE O IMÓVEL."
+    },
+    {
+      "id": "direito-tributario-aula-013-b10",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Exemplo: comprador mora no Rio, vendedor mora em Nova Iguaçu e o imóvel está em Queimados. Para a competência do ITBI, o dado decisivo é a situação do imóvel."
+    },
+    {
+      "id": "direito-tributario-aula-013-b11",
+      "tipo": "teoria",
+      "titulo": "5. BASE DE CÁLCULO NO CTN",
+      "texto": "O CTN, art. 38, estabelece como base de cálculo o VALOR VENAL dos bens ou direitos transmitidos.\nPara esta primeira volta, fixe a literalidade do CTN: ITBI → valor venal dos bens ou direitos transmitidos. Não confunda isso com a base do IPTU apenas porque ambos podem envolver valor venal; os fatos geradores são diferentes."
+    },
+    {
+      "id": "direito-tributario-aula-013-b12",
+      "tipo": "teoria",
+      "titulo": "6. CONTRIBUINTE",
+      "texto": "Segundo o CTN, art. 42, contribuinte pode ser qualquer das partes na operação tributada, conforme dispuser a lei.\nPegadinha: não existe, no CTN, uma regra universal dizendo que o adquirente é necessariamente o único contribuinte em todo Município. A lei local disciplina dentro dos limites legais."
+    },
+    {
+      "id": "direito-tributario-aula-013-b13",
+      "tipo": "teoria",
+      "titulo": "7. IMUNIDADE CONSTITUCIONAL NA INTEGRALIZAÇÃO E REORGANIZAÇÃO SOCIETÁRIA",
+      "texto": "A Constituição prevê não incidência do ITBI sobre transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital e sobre transmissões decorrentes de fusão, incorporação, cisão ou extinção de pessoa jurídica, ressalvada a hipótese constitucional ligada à atividade preponderante do adquirente de compra e venda desses bens ou direitos, locação de imóveis ou arrendamento mercantil.\nPara a prova, não simplifique para “pessoa jurídica nunca paga ITBI”. Isso está errado. Procure a operação e a ressalva constitucional."
+    },
+    {
+      "id": "direito-tributario-aula-013-b14",
+      "tipo": "teoria",
+      "titulo": "8. MOMENTO DO FATO GERADOR — ALERTA DE PROVA",
+      "texto": "Não confunda contrato preliminar, promessa e transmissão efetiva da propriedade. Para imóveis, a transmissão da propriedade entre vivos se relaciona ao registro do título translativo no Registro de Imóveis. Em questões, identifique se houve efetiva transmissão ou apenas compromisso anterior."
+    },
+    {
+      "id": "direito-tributario-aula-013-b15",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "ITBI → municipal.\nINTER VIVOS → sim.\nONEROSO → sim.\nCAUSA MORTIS → não; ITCMD.\nDOAÇÃO → não; ITCMD.\nIMÓVEL/direitos previstos → sim.\nDIREITO REAL DE GARANTIA → excluído da hipótese constitucional.\nCOMPETÊNCIA → Município da situação do bem.\nBASE CTN → valor venal dos bens/direitos transmitidos.\nCONTRIBUINTE CTN → qualquer das partes, conforme a lei.\nREALIZAÇÃO DE CAPITAL/REORGANIZAÇÃO SOCIETÁRIA → observar imunidade e ressalva constitucional.",
+      "mapaId": "direito-tributario-aula-013-b15"
+    },
+    {
+      "id": "direito-tributario-aula-013-b16",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar inter vivos por causa mortis; retirar a onerosidade; incluir direitos reais de garantia; escolher o Município do domicílio do comprador; afirmar que adquirente é sempre e necessariamente o único contribuinte; transformar a imunidade societária em imunidade absoluta de toda pessoa jurídica; confundir promessa de compra e venda com transmissão já consumada."
+    },
+    {
+      "id": "direito-tributario-aula-013-b17",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN — RESPONDA SEM CONSULTAR",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-013-q-001",
+        "direito-tributario-aula-013-q-002",
+        "direito-tributario-aula-013-q-003",
+        "direito-tributario-aula-013-q-004",
+        "direito-tributario-aula-013-q-005",
+        "direito-tributario-aula-013-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-013-b18",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "IPTU: fato gerador? Zona urbana? Base de cálculo? Quem pode ser contribuinte? Quais são os três impostos municipais? Parcelamento suspende ou extingue? Decadência serve para constituir ou cobrar? Imunidade nasce da Constituição ou da lei?"
+    },
+    {
+      "id": "direito-tributario-aula-013-b19",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "IPTU OLHA A PROPRIEDADE/DOMÍNIO/POSSE URBANA; ITBI OLHA A TRANSMISSÃO INTER VIVOS E ONEROSA. NO ITBI, SIGA O IMÓVEL: A COMPETÊNCIA É DO MUNICÍPIO DA SITUAÇÃO DO BEM."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-013-q-001",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 1,
+      "question": "O ITBI municipal incide constitucionalmente sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "toda transmissão causa mortis de imóvel."
+        },
+        {
+          "id": "B",
+          "text": "transmissão inter vivos, por ato oneroso, nas hipóteses constitucionais relativas a imóveis e direitos."
+        },
+        {
+          "id": "C",
+          "text": "qualquer doação de imóvel."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente propriedade rural."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-013-q-002",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o ITBI é imposto municipal."
+        },
+        {
+          "id": "B",
+          "text": "a onerosidade integra o núcleo constitucional do ITBI."
+        },
+        {
+          "id": "C",
+          "text": "direitos reais de garantia estão incluídos sem ressalva na hipótese constitucional do ITBI."
+        },
+        {
+          "id": "D",
+          "text": "cessão de direitos à aquisição de imóveis integra a competência constitucional nas condições previstas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-013-q-003",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 3,
+      "question": "Comprador domiciliado no Rio de Janeiro adquire onerosamente imóvel situado em Queimados de vendedor domiciliado em Nova Iguaçu. Para definir o Município competente para o ITBI, o elemento central é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "domicílio do comprador."
+        },
+        {
+          "id": "B",
+          "text": "domicílio do vendedor."
+        },
+        {
+          "id": "C",
+          "text": "situação do imóvel."
+        },
+        {
+          "id": "D",
+          "text": "local em que o preço foi pago."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-013-q-004",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 4,
+      "question": "Segundo o CTN, a base de cálculo do ITBI é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "necessariamente o custo histórico do vendedor."
+        },
+        {
+          "id": "B",
+          "text": "valor venal dos bens ou direitos transmitidos."
+        },
+        {
+          "id": "C",
+          "text": "renda anual do adquirente."
+        },
+        {
+          "id": "D",
+          "text": "valor do IPTU pago no exercício."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-013-q-005",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 5,
+      "question": "Considere: I. ITBI é inter vivos. II. Doação é hipótese típica de ITBI. III. A Constituição ressalva os direitos reais de garantia. IV. A competência territorial considera a situação do bem.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, III e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-013-q-006",
+      "lessonId": "direito-tributario-aula-013",
+      "numero": 6,
+      "question": "Sobre transmissão para pessoa jurídica, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "toda transmissão para pessoa jurídica é sempre imune ao ITBI."
+        },
+        {
+          "id": "B",
+          "text": "a Constituição prevê hipótese de não incidência na realização de capital e reorganizações societárias, mas contém ressalva ligada à atividade preponderante nas condições constitucionais."
+        },
+        {
+          "id": "C",
+          "text": "pessoa jurídica nunca pode ser parte em operação sujeita ao ITBI."
+        },
+        {
+          "id": "D",
+          "text": "a imunidade depende exclusivamente do domicílio dos sócios. NÃO HÁ GABARITO NESTA ETAPA. Registre suas respostas 1 a 6. Na próxima execução, a primeira atividade será corrigir alternativa por alternativa, identificar o mecanismo da IAN e alimentar o caderno de erros antes de avançar."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-013-b18",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "IPTU: fato gerador? Zona urbana? Base de cálculo? Quem pode ser contribuinte? Quais são os três impostos municipais? Parcelamento suspende ou extingue? Decadência serve para constituir ou cobrar? Imunidade nasce da Constituição ou da lei?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-013-b15",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "ITBI",
+        "municipal",
+        "INTER VIVOS",
+        "sim",
+        "ONEROSO",
+        "sim",
+        "CAUSA MORTIS",
+        "não; ITCMD",
+        "DOAÇÃO",
+        "não; ITCMD",
+        "IMÓVEL/direitos previstos",
+        "sim",
+        "DIREITO REAL DE GARANTIA",
+        "excluído da hipótese constitucional",
+        "COMPETÊNCIA",
+        "Município da situação do bem",
+        "BASE CTN",
+        "valor venal dos bens/direitos transmitidos",
+        "CONTRIBUINTE CTN",
+        "qualquer das partes, conforme a lei",
+        "REALIZAÇÃO DE CAPITAL/REORGANIZAÇÃO SOCIETÁRIA",
+        "observar imunidade e ressalva constitucional"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "47b3284efa9ec2f7"
+}

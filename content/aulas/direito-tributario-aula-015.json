@@ -1,0 +1,327 @@
+{
+  "id": "direito-tributario-aula-015",
+  "numero": 15,
+  "titulo": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+  "slug": "taxas-municipais-poder-de-policia-e-servicos-publicos",
+  "disciplina": "Direito Tributário",
+  "assunto": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+  "ordem": 15,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "IMPOSTO NÃO EXIGE ATUAÇÃO ESTATAL ESPECÍFICA RELATIVA AO CONTRIBUINTE; TAXA É VINCULADA. TAXA DE POLÍCIA EXIGE EXERCÍCIO REGULAR; TAXA DE SERVIÇO EXIGE SERVIÇO ESPECÍFICO E DIVISÍVEL, COM UTILIZAÇÃO EFETIVA OU POTENCIAL NAS CONDIÇÕES LEGAIS.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-015-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 14. Depois de IPTU, ITBI e ISS, avançamos para TAXAS, mantendo foco exclusivo em AGENTE FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-015-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "TAXA É TRIBUTO VINCULADO A UMA ATUAÇÃO ESTATAL."
+    },
+    {
+      "id": "direito-tributario-aula-015-b3",
+      "tipo": "teoria",
+      "titulo": "1. FUNDAMENTO — CF, ART. 145, II, E CTN, ARTS. 77 A 80",
+      "texto": "União, Estados, DF e Municípios podem instituir taxas, no âmbito de suas atribuições, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição.\nPara o Agente Fiscal, separe imediatamente as duas famílias:\nTAXA DE POLÍCIA → exercício regular do poder de polícia.\nTAXA DE SERVIÇO → serviço público específico e divisível, utilizado efetiva ou potencialmente, nas condições legais."
+    },
+    {
+      "id": "direito-tributario-aula-015-b4",
+      "tipo": "teoria",
+      "titulo": "2. PODER DE POLÍCIA — CTN, ART. 78",
+      "texto": "Poder de polícia é a atividade administrativa que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou a abstenção de fato em razão de interesses públicos previstos no CTN, como segurança, higiene, ordem, costumes, disciplina da produção e do mercado, exercício de atividades econômicas dependentes de concessão ou autorização, tranquilidade pública e respeito à propriedade e aos direitos individuais ou coletivos.\nPara a taxa, interessa o EXERCÍCIO REGULAR do poder de polícia. O parágrafo único do art. 78 relaciona a regularidade ao desempenho pelo órgão competente, nos limites da lei aplicável, com observância do processo legal e, quando a atividade for discricionária, sem abuso ou desvio de poder."
+    },
+    {
+      "id": "direito-tributario-aula-015-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "POLÍCIA → LIMITA/FISCALIZA DIREITOS OU ATIVIDADES EM FAVOR DO INTERESSE PÚBLICO."
+    },
+    {
+      "id": "direito-tributario-aula-015-b6",
+      "tipo": "teoria",
+      "titulo": "3. TAXA DE SERVIÇO — ESPECÍFICO E DIVISÍVEL",
+      "texto": "O CTN exige serviço específico e divisível. Específico é aquele que pode ser destacado em unidade autônoma de intervenção, utilidade ou necessidade pública. Divisível é aquele suscetível de utilização separadamente por cada usuário.\nNão basta dizer: “o Município presta serviços à população”. Para taxa de serviço, procure ESPECIFICIDADE + DIVISIBILIDADE."
+    },
+    {
+      "id": "direito-tributario-aula-015-b7",
+      "tipo": "teoria",
+      "titulo": "4. UTILIZAÇÃO EFETIVA OU POTENCIAL",
+      "texto": "A utilização é efetiva quando o contribuinte usufrui concretamente o serviço. Pode ser potencial quando, sendo o serviço de utilização compulsória, ele é posto à disposição mediante atividade administrativa em efetivo funcionamento.\nPegadinha: “taxa de serviço só pode ser cobrada se o contribuinte efetivamente usar o serviço”. ERRADO como formulação geral, porque o CTN contempla utilização potencial nas condições legais."
+    },
+    {
+      "id": "direito-tributario-aula-015-b8",
+      "tipo": "teoria",
+      "titulo": "5. TAXA NÃO É IMPOSTO NEM TARIFA",
+      "texto": "IMPOSTO → fato gerador independe de atividade estatal específica relativa ao contribuinte.\nTAXA → vinculada à atuação estatal que fundamenta sua cobrança.\nTARIFA/PREÇO PÚBLICO → não é tributo.\nOutra regra constitucional decisiva: TAXA NÃO PODE TER BASE DE CÁLCULO PRÓPRIA DE IMPOSTO.\nNão conclua, porém, que qualquer elemento numérico também usado no cálculo de imposto torna automaticamente a taxa inválida. Em prova, leia exatamente se a alternativa fala em identidade integral da base própria de imposto ou apenas em utilização de algum elemento para dimensionar o custo da atividade estatal."
+    },
+    {
+      "id": "direito-tributario-aula-015-b9",
+      "tipo": "teoria",
+      "titulo": "6. SERVIÇOS GERAIS E INDIVISÍVEIS",
+      "texto": "Serviços gerais prestados indistintamente à coletividade, sem possibilidade de individualização adequada por usuário, não se ajustam ao requisito de serviço específico e divisível para taxa de serviço.\nRegra mental: UTI UNIVERSI/GERAL E INDIVISÍVEL → ALERTA: NÃO É O MODELO DO ART. 79 PARA TAXA DE SERVIÇO."
+    },
+    {
+      "id": "direito-tributario-aula-015-b10",
+      "tipo": "teoria",
+      "titulo": "7. TAXA DE POLÍCIA NA PRÁTICA DO AGENTE FISCAL",
+      "texto": "Licenciamento, fiscalização de atividades e controles administrativos podem envolver poder de polícia, desde que exista competência, fundamento legal e exercício regular. Não aceite a frase “qualquer fiscalização gera automaticamente taxa”. A instituição da taxa depende de lei e dos requisitos constitucionais e do CTN."
+    },
+    {
+      "id": "direito-tributario-aula-015-b11",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar taxa por imposto; afirmar que toda taxa exige uso efetivo; apagar “específico e divisível”; dizer que serviço geral e indivisível basta; transformar tarifa em tributo; afirmar que qualquer fiscalização cria taxa automaticamente; retirar a exigência de exercício regular do poder de polícia; ou dizer que taxa pode ter livremente base de cálculo própria de imposto."
+    },
+    {
+      "id": "direito-tributario-aula-015-b12",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "TAXA → tributo vinculado.\nPOLÍCIA → exercício regular do poder de polícia.\nSERVIÇO → específico + divisível.\nUTILIZAÇÃO → efetiva OU potencial, nas condições legais.\nIMPOSTO → não vinculado a atuação estatal específica relativa ao contribuinte.\nTARIFA → não é tributo.\nBASE DE CÁLCULO → taxa não pode ter base própria de imposto.",
+      "mapaId": "direito-tributario-aula-015-b12"
+    },
+    {
+      "id": "direito-tributario-aula-015-b13",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN — SEM GABARITO NESTA ETAPA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-015-q-001",
+        "direito-tributario-aula-015-q-002",
+        "direito-tributario-aula-015-q-003",
+        "direito-tributario-aula-015-q-004",
+        "direito-tributario-aula-015-q-005",
+        "direito-tributario-aula-015-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-015-b14",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "ITBI: inter vivos ou causa mortis? ISS: qual é a base? ISS é sempre devido no estabelecimento prestador? IPTU: qual é a base? Taxa: quais são as duas hipóteses centrais? Serviço para taxa: quais duas características? Parcelamento: suspende ou extingue? Decadência: constituir ou cobrar?"
+    },
+    {
+      "id": "direito-tributario-aula-015-b15",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "IMPOSTO NÃO EXIGE ATUAÇÃO ESTATAL ESPECÍFICA RELATIVA AO CONTRIBUINTE; TAXA É VINCULADA. TAXA DE POLÍCIA EXIGE EXERCÍCIO REGULAR; TAXA DE SERVIÇO EXIGE SERVIÇO ESPECÍFICO E DIVISÍVEL, COM UTILIZAÇÃO EFETIVA OU POTENCIAL NAS CONDIÇÕES LEGAIS."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-015-q-001",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 1,
+      "question": "A taxa pode ser instituída, nos termos constitucionais e do CTN, em razão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente da capacidade econômica do contribuinte."
+        },
+        {
+          "id": "B",
+          "text": "do exercício regular do poder de polícia ou da utilização efetiva ou potencial de serviço público específico e divisível, nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "de qualquer serviço público geral prestado à coletividade."
+        },
+        {
+          "id": "D",
+          "text": "de qualquer atividade administrativa, independentemente de lei."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    },
+    {
+      "id": "direito-tributario-aula-015-q-002",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "taxa é tributo."
+        },
+        {
+          "id": "B",
+          "text": "taxa pode decorrer do exercício regular do poder de polícia."
+        },
+        {
+          "id": "C",
+          "text": "taxa de serviço exige necessariamente utilização efetiva, sendo juridicamente impossível utilização potencial."
+        },
+        {
+          "id": "D",
+          "text": "serviço público que fundamenta taxa deve observar especificidade e divisibilidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    },
+    {
+      "id": "direito-tributario-aula-015-q-003",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 3,
+      "question": "Determinado Município pretende cobrar taxa para custear serviço geral prestado indistintamente a toda a coletividade, sem possibilidade de individualização por usuário. À luz dos requisitos do CTN, a situação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "atende automaticamente aos requisitos de taxa de serviço."
+        },
+        {
+          "id": "B",
+          "text": "exige atenção, pois falta o caráter específico e divisível exigido para a taxa de serviço."
+        },
+        {
+          "id": "C",
+          "text": "transforma a cobrança necessariamente em contribuição de melhoria."
+        },
+        {
+          "id": "D",
+          "text": "é válida apenas porque o Município possui competência tributária."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    },
+    {
+      "id": "direito-tributario-aula-015-q-004",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 4,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "imposto → necessariamente vinculado a serviço específico."
+        },
+        {
+          "id": "B",
+          "text": "taxa → tributo vinculado à atuação estatal que fundamenta sua cobrança."
+        },
+        {
+          "id": "C",
+          "text": "tarifa → espécie tributária compulsória."
+        },
+        {
+          "id": "D",
+          "text": "taxa → sanção por ato ilícito."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    },
+    {
+      "id": "direito-tributario-aula-015-q-005",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 5,
+      "question": "Considere: I. O poder de polícia pode limitar ou disciplinar direito, interesse ou liberdade nos termos legais. II. Para taxa de polícia, interessa o exercício regular do poder de polícia. III. Qualquer atividade fiscalizatória gera automaticamente taxa, ainda que inexista lei instituidora. IV. Taxa não pode ter base de cálculo própria de imposto.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II, III e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    },
+    {
+      "id": "direito-tributario-aula-015-q-006",
+      "lessonId": "direito-tributario-aula-015",
+      "numero": 6,
+      "question": "Um serviço público é específico, divisível, de utilização compulsória e está efetivamente em funcionamento, posto à disposição do contribuinte. A afirmação de que “não pode existir taxa porque o contribuinte não demonstrou uso concreto” é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta em qualquer hipótese."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, pois o CTN admite utilização potencial nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "correta porque utilização potencial só existe para impostos."
+        },
+        {
+          "id": "D",
+          "text": "correta porque taxa é sempre facultativa. Registre suas respostas 1 a 6. Como não há resposta do aluno registrada para as baterias pendentes de ITBI e ISS, esses temas permanecem NÃO DOMINADOS e voltarão em teste cumulativo; não inventaremos desempenho."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-015-b14",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "ITBI: inter vivos ou causa mortis? ISS: qual é a base? ISS é sempre devido no estabelecimento prestador? IPTU: qual é a base? Taxa: quais são as duas hipóteses centrais? Serviço para taxa: quais duas características? Parcelamento: suspende ou extingue? Decadência: constituir ou cobrar?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-015-b12",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "TAXA",
+        "tributo vinculado",
+        "POLÍCIA",
+        "exercício regular do poder de polícia",
+        "SERVIÇO",
+        "específico + divisível",
+        "UTILIZAÇÃO",
+        "efetiva OU potencial, nas condições legais",
+        "IMPOSTO",
+        "não vinculado a atuação estatal específica relativa ao contribuinte",
+        "TARIFA",
+        "não é tributo",
+        "BASE DE CÁLCULO",
+        "taxa não pode ter base própria de imposto"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "70bd6338ea7bc83e"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "direito-tributario-aula-004",
+  "numero": 4,
+  "titulo": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+  "slug": "extincao-do-credito-tributario",
+  "disciplina": "Direito Tributário",
+  "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+  "ordem": 4,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "SUSPENDER = PAUSAR A COBRANÇA.\nEXTINGUIR = ENCERRAR O CRÉDITO.\nDECADÊNCIA = PERDE LANÇAR.\nPRESCRIÇÃO = PERDE COBRAR.\nREMISSÃO = EXTINÇÃO.\nPARCELAMENTO = SUSPENSÃO.\n.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-004-b1",
+      "tipo": "teoria",
+      "titulo": "BLOCO 2 DO DIA — DIREITO TRIBUTÁRIO",
+      "texto": "Na aula anterior, a palavra-chave foi PAUSA: suspensão impede temporariamente a exigência, mas o crédito continua existindo. Agora muda completamente a lógica.\nEXTINÇÃO = O CRÉDITO TRIBUTÁRIO ACABA.\nO art. 156 do CTN apresenta as hipóteses de extinção. Para a prova, você precisa primeiro reconhecer a lista e depois dominar as diferenças que viram distratores."
+    },
+    {
+      "id": "direito-tributario-aula-004-b2",
+      "tipo": "teoria",
+      "titulo": "HIPÓTESES DO ART. 156",
+      "texto": "Pagamento; compensação; transação; remissão; prescrição e decadência; conversão de depósito em renda; pagamento antecipado e homologação do lançamento; consignação em pagamento julgada procedente; decisão administrativa irreformável; decisão judicial passada em julgado; e dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.\nNão tente decorar tudo como uma sequência sem sentido. Separe em famílias.\nSATISFAÇÃO DO CRÉDITO → pagamento, compensação, conversão do depósito em renda, consignação procedente, dação em pagamento.\nACORDO/PERDÃO → transação e remissão.\nTEMPO → decadência e prescrição.\nDECISÃO DEFINITIVA → administrativa irreformável ou judicial transitada em julgado.\nHOMOLOGAÇÃO → pagamento antecipado + homologação, nos termos do CTN."
+    },
+    {
+      "id": "direito-tributario-aula-004-b3",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 1 — PAGAMENTO x PARCELAMENTO",
+      "texto": "Pagamento EXTINGUE. Parcelamento SUSPENDE.\nSe a banca trocar apenas essas duas palavras, a alternativa muda de correta para errada."
+    },
+    {
+      "id": "direito-tributario-aula-004-b4",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 2 — REMISSÃO x ANISTIA",
+      "texto": "REMISSÃO é perdão do crédito/dívida tributária e é causa de EXTINÇÃO.\nANISTIA alcança penalidades por infrações nos limites legais e é causa de EXCLUSÃO, tema do próximo bloco."
+    },
+    {
+      "id": "direito-tributario-aula-004-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "REMISSÃO → dívida → extingue. ANISTIA → penalidade → exclui."
+    },
+    {
+      "id": "direito-tributario-aula-004-b6",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 3 — PRESCRIÇÃO x DECADÊNCIA",
+      "texto": "As duas aparecem no art. 156, mas não significam a mesma coisa.\nDECADÊNCIA → perda do direito de constituir o crédito pelo lançamento.\nPRESCRIÇÃO → perda da pretensão de cobrar judicialmente o crédito já definitivamente constituído.\nMemória operacional: DECADÊNCIA = perdeu o tempo de LANÇAR. PRESCRIÇÃO = perdeu o tempo de COBRAR.\nA regra geral de decadência do art. 173, I, trabalha com cinco anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Nos tributos sujeitos a lançamento por homologação, havendo pagamento antecipado e inexistindo dolo, fraude ou simulação, é indispensável lembrar também a disciplina do art. 150, §4º. Esse contraste será aprofundado em aula própria porque é ponto de alto risco de erro.\nA prescrição do art. 174 é de cinco anos, contados da constituição definitiva do crédito tributário. Não confunda o marco inicial: a banca pode colocar “fato gerador” no lugar de “constituição definitiva”."
+    },
+    {
+      "id": "direito-tributario-aula-004-b7",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 4 — DEPÓSITO INTEGRAL x CONVERSÃO EM RENDA",
+      "texto": "Depósito do montante integral → SUSPENDE a exigibilidade.\nConversão do depósito em renda → EXTINGUE o crédito.\nA palavra decisiva é CONVERSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-004-b8",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 5 — TRANSAÇÃO",
+      "texto": "Transação não é parcelamento. Nos termos legais, a transação é hipótese de EXTINÇÃO. Parcelamento permanece como hipótese de SUSPENSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-004-b9",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 6 — COMPENSAÇÃO",
+      "texto": "Compensação também é hipótese de EXTINÇÃO. Não confunda com restituição: na compensação, créditos e débitos são contrapostos conforme autorização e disciplina legal."
+    },
+    {
+      "id": "direito-tributario-aula-004-b10",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA 7 — CONSIGNAÇÃO",
+      "texto": "A simples palavra “consignação” pode induzir erro. O art. 156 fala em consignação em pagamento JULGADA PROCEDENTE. A banca pode omitir a condição decisiva."
+    },
+    {
+      "id": "direito-tributario-aula-004-b11",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "SUSPENSÃO → crédito existe, cobrança fica em pausa.\nEXTINÇÃO → crédito termina.\nEXCLUSÃO → estudaremos no próximo bloco: isenção e anistia.",
+      "mapaId": "direito-tributario-aula-004-b11"
+    },
+    {
+      "id": "direito-tributario-aula-004-b12",
+      "tipo": "regra-de-prova",
+      "titulo": "TRIO QUE PRECISA FICAR AUTOMÁTICO",
+      "texto": "PARCELAMENTO → SUSPENDE.\nPAGAMENTO → EXTINGUE.\nREMISSÃO → EXTINGUE."
+    },
+    {
+      "id": "direito-tributario-aula-004-b13",
+      "tipo": "questao",
+      "titulo": "TREINO — NÃO CONSULTE A AULA E NÃO PROCURE GABARITO ANTES DE RESPONDER",
+      "texto": "Questão 1",
+      "questionIds": [
+        "direito-tributario-aula-004-q-001",
+        "direito-tributario-aula-004-q-002",
+        "direito-tributario-aula-004-q-003",
+        "direito-tributario-aula-004-q-004",
+        "direito-tributario-aula-004-q-005"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-004-b14",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — 60 SEGUNDOS",
+      "texto": "Sem consultar: quais são as seis hipóteses do art. 151? O que constitui o crédito tributário? Qual lançamento envolve pagamento antecipado? Multa é tributo? Qual a diferença entre contribuinte e responsável?\nRESPOSTAS: art. 151 — moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações judiciais; parcelamento. O lançamento constitui o crédito tributário. O lançamento por homologação envolve pagamento antecipado. Multa não é tributo. Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei."
+    },
+    {
+      "id": "direito-tributario-aula-004-b15",
+      "tipo": "fechamento",
+      "titulo": "REGRA FINAL DA AULA",
+      "texto": "SUSPENDER = PAUSAR A COBRANÇA.\nEXTINGUIR = ENCERRAR O CRÉDITO.\nDECADÊNCIA = PERDE LANÇAR.\nPRESCRIÇÃO = PERDE COBRAR.\nREMISSÃO = EXTINÇÃO.\nPARCELAMENTO = SUSPENSÃO.\n."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-004-q-001",
+      "lessonId": "direito-tributario-aula-004",
+      "numero": 1,
+      "question": "Assinale a alternativa que apresenta somente hipóteses de extinção do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pagamento, parcelamento e remissão."
+        },
+        {
+          "id": "B",
+          "text": "compensação, transação e remissão."
+        },
+        {
+          "id": "C",
+          "text": "moratória, pagamento e prescrição."
+        },
+        {
+          "id": "D",
+          "text": "depósito integral, decadência e anistia. Questão 2 — comando INCORRETA É INCORRETO afirmar que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-004-q-002",
+      "lessonId": "direito-tributario-aula-004",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o pagamento extingue o crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "a remissão é hipótese de extinção."
+        },
+        {
+          "id": "C",
+          "text": "o parcelamento extingue o crédito tributário."
+        },
+        {
+          "id": "D",
+          "text": "prescrição e decadência constam entre as hipóteses de extinção previstas no CTN. Questão 3 Um contribuinte efetua depósito do montante integral para discutir determinado crédito. Posteriormente, o depósito é convertido em renda do ente tributante. Considerando apenas a classificação dos institutos no CTN, é correto afirmar que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-004-q-003",
+      "lessonId": "direito-tributario-aula-004",
+      "numero": 3,
+      "question": "Um contribuinte efetua depósito do montante integral para discutir determinado crédito. Posteriormente, o depósito é convertido em renda do ente tributante. Considerando apenas a classificação dos institutos no CTN, é correto afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "tanto o depósito quanto sua conversão em renda apenas suspendem a exigibilidade."
+        },
+        {
+          "id": "B",
+          "text": "o depósito integral suspende; a conversão em renda extingue."
+        },
+        {
+          "id": "C",
+          "text": "o depósito extingue; a conversão em renda suspende."
+        },
+        {
+          "id": "D",
+          "text": "ambos são hipóteses de exclusão. Questão 4 Assinale a associação CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-004-q-004",
+      "lessonId": "direito-tributario-aula-004",
+      "numero": 4,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decadência → perda do prazo para cobrança judicial de crédito definitivamente constituído."
+        },
+        {
+          "id": "B",
+          "text": "prescrição → perda do direito de realizar o lançamento antes da constituição do crédito."
+        },
+        {
+          "id": "C",
+          "text": "decadência → ligada ao prazo para constituir o crédito; prescrição → ligada ao prazo para cobrá-lo após constituição definitiva."
+        },
+        {
+          "id": "D",
+          "text": "prescrição e decadência são modalidades de suspensão da exigibilidade. Questão 5 — assertivas I. Remissão é causa de extinção do crédito tributário. II. Anistia e remissão pertencem necessariamente à mesma categoria de extinção. III. Parcelamento suspende a exigibilidade; pagamento extingue o crédito. Está correto o que se afirma em:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-004-q-005",
+      "lessonId": "direito-tributario-aula-004",
+      "numero": 5,
+      "question": "Está correto o que se afirma em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I apenas."
+        },
+        {
+          "id": "B",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e III apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Responda depois no chat: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-C | 3-B | 4-C | 5-C."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-004-b14",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — 60 SEGUNDOS",
+      "texto": "Sem consultar: quais são as seis hipóteses do art. 151? O que constitui o crédito tributário? Qual lançamento envolve pagamento antecipado? Multa é tributo? Qual a diferença entre contribuinte e responsável?\nRESPOSTAS: art. 151 — moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações judiciais; parcelamento. O lançamento constitui o crédito tributário. O lançamento por homologação envolve pagamento antecipado. Multa não é tributo. Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-004-b11",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "SUSPENSÃO",
+        "crédito existe, cobrança fica em pausa",
+        "EXTINÇÃO",
+        "crédito termina",
+        "EXCLUSÃO",
+        "estudaremos no próximo bloco: isenção e anistia"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "27417bc7a6002988"
+}

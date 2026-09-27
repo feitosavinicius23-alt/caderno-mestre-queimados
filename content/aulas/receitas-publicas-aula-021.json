@@ -1,0 +1,38 @@
+{
+  "id": "receitas-publicas-aula-021",
+  "numero": 21,
+  "titulo": "RECEITAS PÚBLICAS II: CORRENTES, DE CAPITAL E TRANSFERÊNCIAS",
+  "slug": "receitas-publicas-ii-correntes-de-capital-e-transferencias",
+  "disciplina": "Receitas Públicas",
+  "assunto": "RECEITAS PÚBLICAS II: CORRENTES, DE CAPITAL E TRANSFERÊNCIAS",
+  "ordem": 21,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "receitas-publicas-aula-021-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da Aula 20. Agora refinamos a classificação das receitas públicas para evitar a pegadinha de classificar qualquer entrada como tributo.\n1. RECEITAS CORRENTES. Incluem categorias como tributária, contribuições, patrimonial, agropecuária, industrial, serviços, transferências correntes e outras receitas correntes, conforme disciplina orçamentária. No foco municipal: IPTU, ITBI, ISS e taxas → receita tributária corrente.\n2. RECEITAS DE CAPITAL. Incluem, entre outras categorias legais, operações de crédito, alienação de bens, amortização de empréstimos, transferências de capital e outras receitas de capital. Vender imóvel público gera ingresso, mas não cria imposto.\n3. TRANSFERÊNCIAS. Não classifique apenas por quem envia. A natureza/destinação orçamentária importa. Transferência recebida não se torna tributo municipal. Repartição constitucional também não transfere competência tributária.\n4. RECEITA TRIBUTÁRIA x PATRIMONIAL. Tributária decorre de tributo. Patrimonial decorre da exploração do patrimônio público. IPTU sobre imóvel particular continua tributária; aluguel recebido pelo Município pela exploração de bem municipal pertence à lógica patrimonial. O objeto “imóvel” não define sozinho a natureza da receita.\n5. INGRESSO TRANSITÓRIO. Nem toda entrada representa aumento patrimonial definitivo. Valores com obrigação de restituição ou caráter transitório exigem tratamento próprio. A palavra “entrada” não basta para concluir “receita tributária”.\n6. RECEITA PRÓPRIA E TRANSFERIDA. Receita própria decorre das fontes do ente segundo o ordenamento. Receita transferida decorre de mecanismo constitucional/legal. Premissa verdadeira + conclusão falsa típica: “Município recebe ICMS, logo ICMS é municipal”.\n7. DÍVIDA ATIVA. Crédito tributário não pago e regularmente inscrito passa ao regime de dívida ativa tributária. Isso não transforma inscrição em lançamento. Sequência: fato gerador → obrigação → lançamento → crédito → inadimplemento → inscrição, quando cabível → dívida ativa → cobrança.\nPEGADINHAS IAN: trocar corrente por capital; classificar alienação como tributária; dizer que toda transferência é tributo; confundir patrimonial com IPTU; transformar repartição em competência; afirmar que toda entrada é receita definitiva; usar “sempre”, “qualquer”, “automaticamente”.\nMAPA: tributos municipais → receita tributária corrente. Exploração de patrimônio → patrimonial. Alienação de bens → capital. Operação de crédito → capital. Transferência → não transfere competência. ICMS/IPVA repartidos → continuam estaduais. Multa e tarifa → não são tributos."
+    },
+    {
+      "id": "receitas-publicas-aula-021-b2",
+      "tipo": "teoria",
+      "titulo": "QUESTÕES — SEM GABARITO ANTECIPADO",
+      "texto": "1. IPTU arrecadado: A receita tributária corrente B operação de crédito C alienação D capital.\n2. INCORRETO: A alienação é capital B operação de crédito é capital C toda entrada é tributária D tributos municipais geram receita tributária.\n3. Município aluga bem próprio: A patrimonial B IPTU C ITBI D contribuição de melhoria.\n4. Município recebe ICMS: A vira municipal B pode instituir C recebimento não transfere competência D vira taxa.\n5. I tributária é corrente; II alienação é capital; III tarifa é tributo; IV repartição não transfere competência. A I/II B I/II/IV C II/III D todas.\n6. Venda de imóvel público gera receita tributária? A sim B não, alienação não é tributo C se alto valor D se comprador paga IPTU.\n7. Intercalado: parcelamento A extingue B suspende C exclui D anistia.\n8. Intercalado: contribuição de melhoria exige A serviço geral B obra pública + valorização C transmissão onerosa D serviço da lista.\n\nNão há gabarito antecipado. Temas só serão considerados dominados após resposta e retenção posterior em questões misturadas.\n\nFRASE FINAL: RECEITA NÃO SE CLASSIFICA PELO SIMPLES FATO DE O DINHEIRO ENTRAR NO CAIXA. PERGUNTE A ORIGEM E A NATUREZA: TRIBUTO É RECEITA CORRENTE; ALIENAÇÃO E OPERAÇÃO DE CRÉDITO SÃO RECEITAS DE CAPITAL; TRANSFERÊNCIA NÃO MUDA A COMPETÊNCIA TRIBUTÁRIA."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "06f36cfba5b78d86"
+}

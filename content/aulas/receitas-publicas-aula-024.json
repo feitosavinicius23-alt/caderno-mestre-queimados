@@ -1,0 +1,80 @@
+{
+  "id": "receitas-publicas-aula-024",
+  "numero": 24,
+  "titulo": "RESPONSABILIDADE FISCAL NA RECEITA: INSTITUIÇÃO, PREVISÃO, ARRECADAÇÃO E COMBATE À EVASÃO",
+  "slug": "responsabilidade-fiscal-na-receita-instituicao-previsao-arrecadacao-e-combate-a",
+  "disciplina": "Receitas Públicas",
+  "assunto": "RESPONSABILIDADE FISCAL NA RECEITA: INSTITUIÇÃO, PREVISÃO, ARRECADAÇÃO E COMBATE À EVASÃO",
+  "ordem": 24,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 6,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "receitas-publicas-aula-024-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 23. Depois de estudar renúncia de receita, fechamos o bloco de Receitas Públicas com a responsabilidade do Município de instituir, prever e efetivamente arrecadar os tributos de sua competência. O foco permanece EXCLUSIVAMENTE em AGENTE FISCAL.\nMEMÓRIA CENTRAL: NÃO BASTA O MUNICÍPIO TER COMPETÊNCIA TRIBUTÁRIA; A GESTÃO FISCAL RESPONSÁVEL EXIGE INSTITUIÇÃO, PREVISÃO E EFETIVA ARRECADAÇÃO DOS TRIBUTOS DE SUA COMPETÊNCIA, nos termos da legislação aplicável.\n1. LRF, ART. 11 — REQUISITO ESSENCIAL. A Lei de Responsabilidade Fiscal trata como requisitos essenciais da responsabilidade na gestão fiscal a instituição, previsão e efetiva arrecadação de todos os tributos da competência constitucional do ente. Para o Município, conecte imediatamente com IPTU, ITBI e ISS, além das taxas e contribuições que caibam no âmbito de sua competência.\nPegadinha: receber transferências constitucionais NÃO substitui o dever de cuidar da própria receita. ICMS/IPVA repartidos continuam receitas transferidas; IPTU/ITBI/ISS permanecem tributos municipais.\n2. INSTITUIR ≠ PREVER ≠ ARRECADAR. INSTITUIR = criar juridicamente o tributo por lei dentro da competência constitucional. PREVER = estimar a receita no orçamento com critérios técnicos e legais. ARRECADAR = receber efetivamente os valores devidos. A banca pode colocar as três palavras como sinônimas. Não são.\nExemplo: Queimados possui competência constitucional para IPTU. A lei municipal institui o imposto. A LOA estima quanto será arrecadado. O contribuinte paga. Temos três momentos distintos: instituição → previsão → arrecadação.\n3. PREVISÃO DA RECEITA — LRF, ART. 12. As previsões de receita devem observar normas técnicas e legais, considerar efeitos de alterações na legislação, variação do índice de preços, crescimento econômico ou outros fatores relevantes e ser acompanhadas de demonstrativos pertinentes. Para prova, a previsão NÃO é um palpite livre do administrador."
+    },
+    {
+      "id": "receitas-publicas-aula-024-b2",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "PREVISÃO RESPONSÁVEL = BASE TÉCNICA + BASE LEGAL + VARIÁVEIS RELEVANTES."
+    },
+    {
+      "id": "receitas-publicas-aula-024-b3",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "4. ARRECADAÇÃO EFETIVA E ATUAÇÃO FISCAL. A existência de lei tributária sem estrutura de fiscalização, cadastro, lançamento, cobrança e controle pode comprometer a efetividade da receita. Para o Agente Fiscal, a cadeia prática é: CADASTRO/INFORMAÇÃO → FISCALIZAÇÃO → IDENTIFICAÇÃO DO FATO GERADOR → LANÇAMENTO QUANDO CABÍVEL → CIÊNCIA → ARRECADAÇÃO OU CONTENCIOSO → INADIMPLEMENTO → COBRANÇA/INSCRIÇÃO, NAS CONDIÇÕES LEGAIS.\nIsso NÃO autoriza cobrança fora da lei. Eficiência arrecadatória e legalidade caminham juntas.\n5. EVASÃO, INADIMPLEMENTO E BENEFÍCIO LEGAL NÃO SÃO A MESMA COISA. Se o contribuinte simplesmente deixa de pagar tributo devido, há inadimplemento. Se existe isenção válida, imunidade constitucional, remissão ou outra hipótese legal, a ausência de arrecadação possui fundamento jurídico próprio. O fiscal precisa identificar a causa, não presumir que toda redução de receita é fraude ou evasão.\nRegra prática: MENOS RECEITA ≠ AUTOMATICAMENTE IRREGULARIDADE. Pergunte: houve fato gerador? existe crédito? há benefício legal? exigibilidade está suspensa? ocorreu pagamento? houve decadência/prescrição? existe renúncia legalmente estruturada?\n6. RENÚNCIA x OMISSÃO DE COBRANÇA. A Aula 23 mostrou que benefício tributário exige fundamento legal e disciplina fiscal. Isso é diferente de simplesmente deixar de lançar ou cobrar um tributo devido sem base jurídica. O Agente Fiscal não possui autorização para criar, por conta própria, uma dispensa de pagamento.\n7. TRANSFERÊNCIAS E ESFORÇO FISCAL. Repartição constitucional não muda competência. O Município pode receber ICMS, IPVA, ITR ou IR em hipóteses constitucionais sem que esses impostos se tornem municipais. Logo, uma alternativa que conclua “como o Município recebe transferências, não precisa instituir ou arrecadar seus tributos próprios” deve ser tratada com forte desconfiança.\n8. PEGADINHAS IAN DE ALTA PRIORIDADE. Trocar instituição por arrecadação; afirmar que previsão orçamentária cria tributo; dizer que previsão é mero palpite; transformar transferência de ICMS/IPVA em competência municipal; afirmar que qualquer queda de receita prova fraude; dizer que o fiscal pode dispensar crédito por conveniência; confundir renúncia legal com omissão arrecadatória; usar SEMPRE, AUTOMATICAMENTE, QUALQUER e INDEPENDENTEMENTE DE LEI."
+    },
+    {
+      "id": "receitas-publicas-aula-024-b4",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "COMPETÊNCIA → Constituição diz quem pode instituir.\nINSTITUIÇÃO → lei cria o tributo dentro da competência.\nPREVISÃO → estima tecnicamente a receita.\nLANÇAMENTO → constitui o crédito tributário quando cabível.\nARRECADAÇÃO → recebe.\nRECOLHIMENTO → transfere o arrecadado ao Tesouro.\nRENÚNCIA → benefício tributário com efeitos fiscais sujeito aos requisitos legais.\nTRANSFERÊNCIA → receita recebida de outro ente; não transfere competência.",
+      "mapaId": "receitas-publicas-aula-024-b4"
+    },
+    {
+      "id": "receitas-publicas-aula-024-b5",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. A responsabilidade na gestão fiscal, quanto às receitas próprias, relaciona-se: A) apenas à previsão B) à instituição, previsão e efetiva arrecadação dos tributos da competência do ente, nos termos legais C) somente às transferências D) apenas ao ISS.\n\n2. É INCORRETO: A instituição e arrecadação são conceitos distintos B previsão deve observar critérios técnicos e legais C previsão orçamentária, sozinha, cria validamente um novo tributo D arrecadação corresponde ao efetivo recebimento.\n\n3. Município recebe parcela de ICMS e IPVA. Disso decorre que: A esses impostos tornam-se municipais B a repartição não transfere a competência tributária C o Município pode alterar suas alíquotas estaduais D deixam de existir IPTU/ITBI/ISS.\n\n4. A lei municipal institui IPTU; a LOA estima sua receita; depois o contribuinte paga. A sequência representa: A arrecadação→instituição→previsão B instituição→previsão→arrecadação C previsão→dívida ativa→instituição D recolhimento→imunidade→arrecadação.\n\n5. Determinada redução de receita ocorreu porque contribuinte possui isenção válida prevista em lei. Concluir automaticamente que houve evasão fiscal é: A correto sempre B incorreto, pois a causa jurídica da não arrecadação precisa ser identificada C correto porque toda isenção é fraude D correto porque benefício fiscal nunca pode existir.\n\n6. Intercalado: remissão, parcelamento e anistia correspondem, respectivamente, a: A extinção, suspensão, exclusão B suspensão, extinção, exclusão C exclusão, suspensão, extinção D extinção, exclusão, suspensão.\n\n7. Intercalado: previsão, arrecadação e recolhimento correspondem, respectivamente, a: A receber, estimar, lançar B estimar, receber, transferir ao Tesouro C instituir, cobrar, remitir D lançar, prescrever, arrecadar.\n\n8. Um agente decide não lançar crédito devido apenas por considerar a cobrança inconveniente, sem hipótese legal de dispensa. A conduta é compatível com a lógica estudada? A sim, porque lançamento é discricionário B não, porque lançamento é atividade vinculada e benefício exige fundamento jurídico C sim, se o valor for pequeno D sim, se o contribuinte pedir verbalmente.\n\nNão há gabarito antecipado. Como ainda não há respostas de Vinícius às baterias pendentes, não marco o bloco como dominado. As questões serão reapresentadas de forma misturada para aferir retenção real.\n\nRECUPERAÇÃO DE 60 SEGUNDOS — SEM CONSULTA: quais são os três impostos municipais? Previsão cria tributo? Qual a diferença entre previsão e arrecadação? Recolhimento significa o quê? Receber ICMS transfere competência? Parcelamento suspende ou extingue? Remissão extingue ou exclui? Anistia extingue ou exclui? Renúncia pode ser criada informalmente pelo fiscal?\n\nFRASE FINAL: GESTÃO FISCAL RESPONSÁVEL NÃO É APENAS COBRAR MAIS; É INSTITUIR, PREVER, FISCALIZAR E ARRECADAR O QUE A LEI DETERMINA, SEM CRIAR TRIBUTO OU BENEFÍCIO FORA DA LEI. COMPETÊNCIA, PREVISÃO, ARRECADAÇÃO E TRANSFERÊNCIA SÃO CONCEITOS DIFERENTES."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "receitas-publicas-aula-024-b4",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "COMPETÊNCIA",
+        "Constituição diz quem pode instituir",
+        "INSTITUIÇÃO",
+        "lei cria o tributo dentro da competência",
+        "PREVISÃO",
+        "estima tecnicamente a receita",
+        "LANÇAMENTO",
+        "constitui o crédito tributário quando cabível",
+        "ARRECADAÇÃO",
+        "recebe",
+        "RECOLHIMENTO",
+        "transfere o arrecadado ao Tesouro",
+        "RENÚNCIA",
+        "benefício tributário com efeitos fiscais sujeito aos requisitos legais",
+        "TRANSFERÊNCIA",
+        "receita recebida de outro ente; não transfere competência"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "03c179fded5a45cc"
+}

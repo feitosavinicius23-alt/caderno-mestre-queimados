@@ -1,0 +1,354 @@
+{
+  "id": "direito-tributario-aula-007",
+  "numero": 7,
+  "titulo": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
+  "slug": "infracoes-sancoes-e-penalidades-tributarias",
+  "disciplina": "Direito Tributário",
+  "assunto": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
+  "ordem": 7,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "MULTA NÃO É TRIBUTO; INFRAÇÃO, EM REGRA, NÃO EXIGE PROVA DE INTENÇÃO; DENÚNCIA ESPONTÂNEA TEM DE CHEGAR ANTES DA AÇÃO FISCAL RELACIONADA À INFRAÇÃO.\n\nNa próxima aula, avançaremos para RESPONSABILIDADE TRIBUTÁRIA, conectando contribuinte, responsável, sucessores e terceiros à atuação do Agente Fiscal.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-007-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 6. Agora entramos em um ponto expressamente previsto no edital de AGENTE FISCAL e diretamente ligado à atividade fiscalizatória: infrações, sanções e penalidades tributárias."
+    },
+    {
+      "id": "direito-tributario-aula-007-b2",
+      "tipo": "teoria",
+      "titulo": "1. REGRA CENTRAL — CTN, ART. 136",
+      "texto": "Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e também da efetividade, natureza e extensão dos efeitos do ato.\nMemória de prova:\nINFRAÇÃO TRIBUTÁRIA → EM REGRA, NÃO DEPENDE DE PROVAR INTENÇÃO.\nIsso não significa que dolo ou intenção nunca importem. Significa que a regra geral do art. 136 é objetiva quanto à infração, salvo disposição legal em contrário.\nPegadinha IAN: “Toda infração tributária exige comprovação de dolo.” → ERRADO."
+    },
+    {
+      "id": "direito-tributario-aula-007-b3",
+      "tipo": "teoria",
+      "titulo": "2. MULTA NÃO É TRIBUTO",
+      "texto": "Retomando a Aula 1: tributo não constitui sanção de ato ilícito. Portanto:\nMULTA ≠ TRIBUTO.\nMas o CTN estabelece que a obrigação tributária principal pode ter por objeto o pagamento de tributo OU penalidade pecuniária.\nLogo:\nMULTA NÃO É TRIBUTO.\nPAGAR MULTA TRIBUTÁRIA PODE INTEGRAR OBRIGAÇÃO PRINCIPAL.\nEssa aparente contradição é uma excelente fonte de distrator."
+    },
+    {
+      "id": "direito-tributario-aula-007-b4",
+      "tipo": "teoria",
+      "titulo": "3. RESPONSABILIDADE PESSOAL — CTN, ART. 137",
+      "texto": "Existem hipóteses em que a responsabilidade é pessoal do agente. Para nossa primeira volta, fixe a ideia central: o CTN individualiza a responsabilidade em situações específicas, especialmente quando a infração envolve elemento pessoal qualificado previsto em lei.\nNão transforme o art. 136 em regra absoluta dizendo que circunstâncias subjetivas jamais importam.\nRegra mental:"
+    },
+    {
+      "id": "direito-tributario-aula-007-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 136 → regra geral: intenção não precisa ser provada."
+    },
+    {
+      "id": "direito-tributario-aula-007-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 137 → hipóteses específicas de responsabilidade pessoal do agente."
+    },
+    {
+      "id": "direito-tributario-aula-007-b7",
+      "tipo": "teoria",
+      "titulo": "4. DENÚNCIA ESPONTÂNEA — CTN, ART. 138",
+      "texto": "Este é o ponto de maior potencial de pegadinha da aula.\nA responsabilidade pode ser excluída pela denúncia espontânea da infração, acompanhada, quando for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade quando o montante depender de apuração.\nMas existe uma condição decisiva:\nNÃO É ESPONTÂNEA A DENÚNCIA APRESENTADA APÓS O INÍCIO DE QUALQUER PROCEDIMENTO ADMINISTRATIVO OU MEDIDA DE FISCALIZAÇÃO RELACIONADOS COM A INFRAÇÃO.\nMemória:\nANTES DA FISCALIZAÇÃO → pode haver espontaneidade.\nDEPOIS DE INICIADA A FISCALIZAÇÃO RELACIONADA À INFRAÇÃO → não é denúncia espontânea para esse efeito.\nPara o Agente Fiscal, visualize:\nCONTRIBUINTE PERCEBE ERRO → regulariza espontaneamente antes da ação fiscal → analisar art. 138.\nFISCO INICIA PROCEDIMENTO RELACIONADO À INFRAÇÃO → contribuinte tenta “denunciar espontaneamente” depois → perdeu a espontaneidade para o art. 138.\n5. INFRAÇÃO x PENALIDADE x CRÉDITO\nNão misture as etapas:\nDESCUMPRIMENTO DA LEGISLAÇÃO → INFRAÇÃO.\nLEI PREVÊ CONSEQUÊNCIA → PENALIDADE.\nPENALIDADE PECUNIÁRIA → pode integrar obrigação principal.\nLANÇAMENTO, quando cabível → constitui o crédito correspondente.\nE lembre:\nACESSÓRIA DESCUMPRIDA → PENALIDADE PECUNIÁRIA → obrigação principal quanto à multa."
+    },
+    {
+      "id": "direito-tributario-aula-007-b8",
+      "tipo": "pegadinha",
+      "titulo": "6. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocas perigosas: dizer que multa é tributo; exigir dolo em toda infração; afirmar que denúncia feita depois do início da fiscalização continua necessariamente espontânea; dizer que obrigação acessória descumprida “vira tributo”; usar “sempre”, “exclusivamente”, “automaticamente” e “em qualquer hipótese” para apagar exceções legais."
+    },
+    {
+      "id": "direito-tributario-aula-007-b9",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "ART. 136 → regra geral de responsabilidade por infração independe da intenção, salvo disposição legal em contrário.\nART. 137 → hipóteses legais de responsabilidade pessoal.\nART. 138 → denúncia espontânea pode excluir responsabilidade nas condições legais.\nINÍCIO DE PROCEDIMENTO/FISCALIZAÇÃO RELACIONADO À INFRAÇÃO → afasta a espontaneidade posterior para esse efeito.\nMULTA ≠ TRIBUTO.\nPAGAMENTO DE MULTA TRIBUTÁRIA → pode integrar obrigação principal.",
+      "mapaId": "direito-tributario-aula-007-b9"
+    },
+    {
+      "id": "direito-tributario-aula-007-b10",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver antes e confira o gabarito logo abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-007-q-001",
+        "direito-tributario-aula-007-q-002",
+        "direito-tributario-aula-007-q-003",
+        "direito-tributario-aula-007-q-004",
+        "direito-tributario-aula-007-q-005",
+        "direito-tributario-aula-007-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-007-b11",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-C: o distrator usa “sempre” para exigir dolo onde o art. 136 estabelece regra diversa.\n2-B: separa natureza da multa e objeto da obrigação principal.\n3-B: a chave é a regularização antes do início de procedimento relacionado à infração, observadas as condições legais.\n4-C: novamente a palavra “necessariamente” cria uma falsa exigência geral de dolo.\n5-B: I, II e IV estão corretas; III contradiz a regra geral do art. 136.\n6-C: não diga que a multa virou tributo. O que surge é obrigação principal relativamente à penalidade pecuniária."
+    },
+    {
+      "id": "direito-tributario-aula-007-b12",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Parcelamento? Resposta: suspende a exigibilidade.\n2. Remissão? Resposta: extingue o crédito.\n3. Isenção e anistia? Resposta: excluem o crédito nos termos legais.\n4. Art. 185 — marco importante? Resposta: crédito tributário regularmente inscrito em dívida ativa.\n5. Art. 136 exige sempre dolo? Resposta: não; salvo disposição legal em contrário, a responsabilidade independe da intenção.\n6. Depois de iniciada fiscalização relacionada à infração ainda há denúncia espontânea para o art. 138? Resposta: não."
+    },
+    {
+      "id": "direito-tributario-aula-007-b13",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "MULTA NÃO É TRIBUTO; INFRAÇÃO, EM REGRA, NÃO EXIGE PROVA DE INTENÇÃO; DENÚNCIA ESPONTÂNEA TEM DE CHEGAR ANTES DA AÇÃO FISCAL RELACIONADA À INFRAÇÃO.\n\nNa próxima aula, avançaremos para RESPONSABILIDADE TRIBUTÁRIA, conectando contribuinte, responsável, sucessores e terceiros à atuação do Agente Fiscal."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-007-q-001",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 1,
+      "question": "Segundo a regra geral do CTN sobre responsabilidade por infrações tributárias:",
+      "options": [
+        {
+          "id": "A",
+          "text": "depende sempre da comprovação de dolo."
+        },
+        {
+          "id": "B",
+          "text": "depende necessariamente do prejuízo efetivo ao Fisco."
+        },
+        {
+          "id": "C",
+          "text": "salvo disposição legal em contrário, independe da intenção do agente ou responsável e da efetividade, natureza e extensão dos efeitos do ato."
+        },
+        {
+          "id": "D",
+          "text": "somente existe quando houver crime tributário."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "o distrator usa “sempre” para exigir dolo onde o art. 136 estabelece regra diversa.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    },
+    {
+      "id": "direito-tributario-aula-007-q-002",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 2,
+      "question": "Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "multa tributária é espécie de tributo."
+        },
+        {
+          "id": "B",
+          "text": "multa não é tributo, embora a penalidade pecuniária possa ser objeto da obrigação tributária principal."
+        },
+        {
+          "id": "C",
+          "text": "toda penalidade pecuniária é obrigação acessória."
+        },
+        {
+          "id": "D",
+          "text": "obrigação principal só pode ter por objeto tributo."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "separa natureza da multa e objeto da obrigação principal.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    },
+    {
+      "id": "direito-tributario-aula-007-q-003",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 3,
+      "question": "Um contribuinte procura espontaneamente a Administração para regularizar infração antes do início de qualquer procedimento fiscal relacionado a ela e cumpre as condições legais do art. 138. Em tese:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a denúncia espontânea jamais produz efeito sobre responsabilidade."
+        },
+        {
+          "id": "B",
+          "text": "pode ocorrer exclusão da responsabilidade nos termos do CTN."
+        },
+        {
+          "id": "C",
+          "text": "a infração transforma-se em imunidade tributária."
+        },
+        {
+          "id": "D",
+          "text": "ocorre automaticamente remissão do tributo."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "a chave é a regularização antes do início de procedimento relacionado à infração, observadas as condições legais.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    },
+    {
+      "id": "direito-tributario-aula-007-q-004",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 4,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o início de procedimento administrativo relacionado à infração é relevante para a espontaneidade."
+        },
+        {
+          "id": "B",
+          "text": "denúncia apresentada depois do início da fiscalização relacionada à infração não é espontânea para o efeito do art. 138."
+        },
+        {
+          "id": "C",
+          "text": "toda infração tributária exige necessariamente intenção dolosa comprovada."
+        },
+        {
+          "id": "D",
+          "text": "o CTN prevê denúncia espontânea."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "novamente a palavra “necessariamente” cria uma falsa exigência geral de dolo.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    },
+    {
+      "id": "direito-tributario-aula-007-q-005",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 5,
+      "question": "Considere: I. Multa não é tributo. II. Penalidade pecuniária pode integrar obrigação principal. III. A regra geral do art. 136 exige sempre prova da intenção do agente. IV. A denúncia posterior ao início de fiscalização relacionada à infração não é espontânea para o art. 138. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II, III e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "I, II e IV estão corretas; III contradiz a regra geral do art. 136.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    },
+    {
+      "id": "direito-tributario-aula-007-q-006",
+      "lessonId": "direito-tributario-aula-007",
+      "numero": 6,
+      "question": "Uma obrigação acessória é descumprida e a legislação prevê multa. A associação correta é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a multa passa a ser tributo."
+        },
+        {
+          "id": "B",
+          "text": "o descumprimento é irrelevante se não houver tributo devido."
+        },
+        {
+          "id": "C",
+          "text": "a penalidade pecuniária decorrente do descumprimento pode integrar obrigação principal."
+        },
+        {
+          "id": "D",
+          "text": "a multa permanece necessariamente obrigação acessória. GABARITO: 1-C | 2-B | 3-B | 4-C | 5-B | 6-C."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "não diga que a multa virou tributo. O que surge é obrigação principal relativamente à penalidade pecuniária.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-007-q-001",
+      "resposta": "C",
+      "comentario": "o distrator usa “sempre” para exigir dolo onde o art. 136 estabelece regra diversa."
+    },
+    {
+      "questionId": "direito-tributario-aula-007-q-002",
+      "resposta": "B",
+      "comentario": "separa natureza da multa e objeto da obrigação principal."
+    },
+    {
+      "questionId": "direito-tributario-aula-007-q-003",
+      "resposta": "B",
+      "comentario": "a chave é a regularização antes do início de procedimento relacionado à infração, observadas as condições legais."
+    },
+    {
+      "questionId": "direito-tributario-aula-007-q-004",
+      "resposta": "C",
+      "comentario": "novamente a palavra “necessariamente” cria uma falsa exigência geral de dolo."
+    },
+    {
+      "questionId": "direito-tributario-aula-007-q-005",
+      "resposta": "B",
+      "comentario": "I, II e IV estão corretas; III contradiz a regra geral do art. 136."
+    },
+    {
+      "questionId": "direito-tributario-aula-007-q-006",
+      "resposta": "C",
+      "comentario": "não diga que a multa virou tributo. O que surge é obrigação principal relativamente à penalidade pecuniária."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-007-b12",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Parcelamento? Resposta: suspende a exigibilidade.\n2. Remissão? Resposta: extingue o crédito.\n3. Isenção e anistia? Resposta: excluem o crédito nos termos legais.\n4. Art. 185 — marco importante? Resposta: crédito tributário regularmente inscrito em dívida ativa.\n5. Art. 136 exige sempre dolo? Resposta: não; salvo disposição legal em contrário, a responsabilidade independe da intenção.\n6. Depois de iniciada fiscalização relacionada à infração ainda há denúncia espontânea para o art. 138? Resposta: não."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-007-b9",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "ART. 136",
+        "regra geral de responsabilidade por infração independe da intenção, salvo disposição legal em contrário",
+        "ART. 137",
+        "hipóteses legais de responsabilidade pessoal",
+        "ART. 138",
+        "denúncia espontânea pode excluir responsabilidade nas condições legais",
+        "INÍCIO DE PROCEDIMENTO/FISCALIZAÇÃO RELACIONADO À INFRAÇÃO",
+        "afasta a espontaneidade posterior para esse efeito",
+        "MULTA ≠ TRIBUTO",
+        "PAGAMENTO DE MULTA TRIBUTÁRIA",
+        "pode integrar obrigação principal"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-007-b5",
+      "titulo": "3. RESPONSABILIDADE PESSOAL — CTN, ART. 137",
+      "texto": "ART. 136 → regra geral: intenção não precisa ser provada."
+    },
+    {
+      "id": "direito-tributario-aula-007-b6",
+      "titulo": "3. RESPONSABILIDADE PESSOAL — CTN, ART. 137",
+      "texto": "ART. 137 → hipóteses específicas de responsabilidade pessoal do agente."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "5198d481f2ac3d58"
+}

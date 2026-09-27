@@ -1,0 +1,650 @@
+{
+  "id": "direito-tributario-aula-001",
+  "numero": 1,
+  "titulo": "Direito Tributário",
+  "slug": "direito-tributario",
+  "disciplina": "Direito Tributário",
+  "assunto": "Direito Tributário",
+  "ordem": 1,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 12,
+  "resumo": "Ao terminar as quatro horas, você deve conseguir responder sem consulta:\n\n1. Qual a diferença entre tributo e multa?\n2. O que pode ser objeto da obrigação principal?\n3. O que é obrigação acessória?\n4. O que acontece quando ela é descumprida?\n5. O que faz nascer a obrigação tributária?\n6. Qual a diferença entre fato gerador e lançamento?\n7. Quem é sujeito ativo?\n8. Qual a diferença entre contribuinte e responsável?\nRESPOSTAS: 1) Tributo não é sanção por ato ilícito; multa é penalidade. 2) Pagamento de tributo ou penalidade pecuniária. 3) Dever instrumental, positivo ou negativo, no interesse da arrecadação/fiscalização. 4) O descumprimento gera penalidade pecuniária e, quanto a ela, obrigação principal. 5) A ocorrência do fato gerador. 6) Fato gerador faz nascer a obrigação; lançamento constitui o crédito tributário. 7) Pessoa jurídica de direito público titular da competência para exigir o cumprimento da obrigação. 8) Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei, sem ser contribuinte.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-001-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Tributo, competência tributária e espécies tributárias\nO edital de Agente Fiscal começa justamente por Direito Tributário e exige, entre outros pontos, conceito e espécies de tributos, competência tributária, obrigação tributária, fato gerador, sujeitos da obrigação, responsabilidade e crédito tributário.\nHoje quero construir uma base que vai aparecer depois em IPTU, ISS, ITBI, taxas, fiscalização e lançamento.\n1. Primeiro: o que é tributo?\nImagine que você abriu uma empresa em Queimados.\nO Município cobra ISS sobre determinados serviços.\nVocê não paga porque quer. Existe uma obrigação prevista em lei.\nA definição clássica que você precisa reconhecer em prova é:\nTributo = prestação pecuniária + compulsória + em moeda ou valor exprimível em moeda + que não seja sanção de ato ilícito + instituída em lei + cobrada mediante atividade administrativa plenamente vinculada.\nNão tente decorar o texto inteiro agora. Quero que grave:\nTributo é obrigatório, nasce da lei e NÃO é punição.\nEssa última parte é muito importante.\n⚠️ Pegadinha\nUma pessoa comete uma infração e recebe uma multa de R$ 2.000.\nEssa multa é tributo?\nNÃO.\nPorque tributo não constitui sanção de ato ilícito.\nIsso não significa que tributos nunca possam aparecer relacionados a situações ilícitas. O ponto é outro: a obrigação tributária não existe como punição pelo ilícito.\n2. Espécies tributárias\nPara nossa prova, você precisa reconhecer principalmente:\nImpostos — Taxas — Contribuições de melhoria — Empréstimos compulsórios — Contribuições especiais.\nUse:"
+    },
+    {
+      "id": "direito-tributario-aula-001-b2",
+      "tipo": "teoria",
+      "titulo": "I T C E C",
+      "texto": "Agora precisamos saber diferenciá-las."
+    },
+    {
+      "id": "direito-tributario-aula-001-b3",
+      "tipo": "teoria",
+      "titulo": "IMPOSTO",
+      "texto": "A característica fundamental:\nImposto NÃO depende de uma atuação estatal específica dirigida ao contribuinte."
+    },
+    {
+      "id": "direito-tributario-aula-001-b4",
+      "tipo": "exemplo",
+      "titulo": "Exemplo perfeito para seu cargo:",
+      "texto": "IPTU.\nVocê possui imóvel urbano nas condições previstas na legislação → ocorre o fato gerador → surge a obrigação tributária.\nNão é necessário o Município demonstrar:\n“Vinícius pagará IPTU porque recebeu exatamente este serviço.”\nPor isso dizemos que imposto é tributo não vinculado.\nGuarde:\nIMPOSTO → NÃO VINCULADO.\n3. TAXA — aqui começam as pegadinhas\nA taxa é diferente.\nEla pode decorrer:\ndo exercício regular do poder de polícia"
+    },
+    {
+      "id": "direito-tributario-aula-001-b5",
+      "tipo": "teoria",
+      "titulo": "OU",
+      "texto": "da utilização efetiva ou potencial de serviço público específico e divisível."
+    },
+    {
+      "id": "direito-tributario-aula-001-b6",
+      "tipo": "exemplo",
+      "titulo": "Exemplo relacionado diretamente à fiscalização:",
+      "texto": "O Município exerce determinada atividade de fiscalização decorrente do poder de polícia.\nIsso pode fundamentar uma taxa, desde que atendidos os requisitos legais.\nSeu próprio edital destaca posteriormente “taxas de serviços e poder de polícia” dentro de Receitas Públicas.\nEntão memorize:\nIMPOSTO → não vinculado.\nTAXA → vinculada a uma atuação estatal.\nEssa oposição é extremamente importante.\n4. Taxa não é tarifa\nOutra distinção de prova:\nTaxa = tributo.\nTarifa/preço público ≠ tributo.\nPortanto, se uma alternativa disser:\n“Taxa é uma contraprestação contratual facultativa...”\nDesconfie imediatamente.\nTributo é compulsório.\n5. Contribuição de melhoria\nImagine:\nO Município realiza uma obra pública.\nEssa obra provoca valorização imobiliária.\nAqui pode aparecer a contribuição de melhoria.\nPara memorizar:\nOBRA PÚBLICA + VALORIZAÇÃO IMOBILIÁRIA → CONTRIBUIÇÃO DE MELHORIA.\nNão basta você pensar:\n“o Município fez uma obra.”\nA ideia central que diferencia essa espécie é a valorização imobiliária decorrente da obra pública.\n6. Agora entra a competência tributária\nPergunta:\nQuem pode instituir tributos?\nA Constituição distribui competências entre os entes federativos.\nPara o seu concurso, quero especial atenção ao Município, porque você será Agente Fiscal municipal.\nOs três impostos municipais fundamentais são:"
+    },
+    {
+      "id": "direito-tributario-aula-001-b7",
+      "tipo": "teoria",
+      "titulo": "IPTU — ISS — ITBI",
+      "texto": "Use:\n“3 Is do Município”"
+    },
+    {
+      "id": "direito-tributario-aula-001-b8",
+      "tipo": "teoria",
+      "titulo": "IPTU",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b9",
+      "tipo": "teoria",
+      "titulo": "ISS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b10",
+      "tipo": "teoria",
+      "titulo": "ITBI",
+      "texto": "Isso será repetido inúmeras vezes durante nossa preparação.\nSeu edital confirma expressamente que a legislação tributária municipal abrangerá IPTU, ISS, ITBI, taxas e contribuições, além de fiscalização, lançamento e cobrança."
+    },
+    {
+      "id": "direito-tributario-aula-001-b11",
+      "tipo": "teoria",
+      "titulo": "🧠 MAPA MENTAL DE 30 SEGUNDOS",
+      "texto": "Quero que sua cabeça fique assim:"
+    },
+    {
+      "id": "direito-tributario-aula-001-b12",
+      "tipo": "teoria",
+      "titulo": "TRIBUTO",
+      "texto": "→ obrigatório\n→ criado por lei\n→ não é punição."
+    },
+    {
+      "id": "direito-tributario-aula-001-b13",
+      "tipo": "teoria",
+      "titulo": "IMPOSTO",
+      "texto": "→ não vinculado."
+    },
+    {
+      "id": "direito-tributario-aula-001-b14",
+      "tipo": "teoria",
+      "titulo": "TAXA",
+      "texto": "→ poder de polícia OU serviço público específico e divisível."
+    },
+    {
+      "id": "direito-tributario-aula-001-b15",
+      "tipo": "teoria",
+      "titulo": "CONTRIBUIÇÃO DE MELHORIA",
+      "texto": "→ obra pública + valorização imobiliária."
+    },
+    {
+      "id": "direito-tributario-aula-001-b16",
+      "tipo": "questao",
+      "titulo": "MUNICÍPIO",
+      "texto": "→ IPTU + ISS + ITBI.\nIsso é sua primeira camada de conhecimento.\nAgora vamos fazer o que combinamos: aprender do jeito que a IAN cobra.\n🎯 Rodada 1 — sem consultar a aula\nQuestão 1\nDeterminado contribuinte recebeu cobrança municipal exclusivamente porque é proprietário de imóvel urbano localizado em área abrangida pela legislação municipal.",
+      "questionIds": [
+        "direito-tributario-aula-001-q-001",
+        "direito-tributario-aula-001-q-002",
+        "direito-tributario-aula-001-q-003",
+        "direito-tributario-aula-001-q-004",
+        "direito-tributario-aula-001-q-005"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-001-b17",
+      "tipo": "missao-do-dia",
+      "titulo": "MISSÃO DIÁRIA — AGENTE FISCAL DE QUEIMADOS/RJ — 4 HORAS",
+      "texto": "Continuação da Aula 1 — Direito Tributário\n\nHoje vamos avançar exatamente do ponto em que paramos: obrigação tributária, fato gerador e sujeitos da obrigação. Esse bloco é estratégico porque ele é pré-requisito para lançamento, crédito tributário, fiscalização, ISS, IPTU, ITBI e responsabilidade tributária. O conteúdo está dentro do programa específico de Agente Fiscal, que inclui obrigação tributária, fato gerador, crédito tributário, lançamento, sujeitos ativo e passivo, responsabilidade e administração tributária.\n\nDistribuição das 4 horas de hoje:\n1h20 — teoria guiada: obrigação principal e acessória, fato gerador, sujeito ativo e sujeito passivo.\n50 min — questões e análise de alternativas, com atenção a comandos CORRETA/INCORRETA/EXCETO e assertivas.\n40 min — revisão ativa da Aula 1: tributo, imposto, taxa, contribuição de melhoria e competência municipal.\n50 min — consolidação: mini-simulado + caderno de erros + revisão de lei seca dos artigos estudados.\n20 min — revisão espaçada final sem consulta.",
+      "missaoId": "direito-tributario-aula-001-missao"
+    },
+    {
+      "id": "direito-tributario-aula-001-b18",
+      "tipo": "teoria",
+      "titulo": "AULA — OBRIGAÇÃO TRIBUTÁRIA, FATO GERADOR E SUJEITOS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b19",
+      "tipo": "teoria",
+      "titulo": "1. A PRIMEIRA ARMADILHA: OBRIGAÇÃO PRINCIPAL NÃO É SÓ “PAGAR TRIBUTO”",
+      "texto": "Na aula anterior nós simplificamos para criar a primeira camada mental:\nobrigação principal → pagamento;\nobrigação acessória → dever instrumental.\nAgora vamos refinar isso para o nível de prova.\nPelo CTN, a obrigação tributária principal surge com a ocorrência do fato gerador e tem por objeto o pagamento de tributo OU penalidade pecuniária.\nGuarde exatamente esta ideia:\nOBRIGAÇÃO PRINCIPAL = pagar tributo OU pagar penalidade pecuniária.\nAqui aparece uma pegadinha excelente.\nNós aprendemos que multa não é tributo.\nIsso continua verdadeiro.\nMas o dever de pagar uma multa tributária integra a obrigação tributária principal.\nParece contraditório, mas não é.\nMULTA ≠ TRIBUTO.\nPAGAR MULTA TRIBUTÁRIA = OBRIGAÇÃO PRINCIPAL.\nEssa diferença conceitual é típica de questão que tenta fazer você confundir “natureza jurídica da multa” com “objeto da obrigação principal”."
+    },
+    {
+      "id": "direito-tributario-aula-001-b20",
+      "tipo": "exemplo",
+      "titulo": "Exemplo:",
+      "texto": "Uma empresa deixa de cumprir uma obrigação fiscal e recebe penalidade pecuniária de R$ 5.000.\nPergunta 1: os R$ 5.000 constituem tributo?\nNÃO.\nPergunta 2: o dever de pagar os R$ 5.000 integra obrigação tributária principal?\nSIM."
+    },
+    {
+      "id": "direito-tributario-aula-001-b21",
+      "tipo": "regra-de-prova",
+      "titulo": "Regra de prova:",
+      "texto": "quando a alternativa disser “multa é tributo”, marque errado.\nquando disser “a obrigação principal pode ter por objeto penalidade pecuniária”, pode estar correta."
+    },
+    {
+      "id": "direito-tributario-aula-001-b22",
+      "tipo": "teoria",
+      "titulo": "2. OBRIGAÇÃO ACESSÓRIA",
+      "texto": "A obrigação acessória não tem como objeto imediato o pagamento.\nEla decorre da legislação tributária e consiste em prestações positivas ou negativas no interesse da arrecadação ou da fiscalização.\nTraduzindo para linguagem de Agente Fiscal:\nemitir documento fiscal;\nprestar declaração;\nmanter livros e registros;\nfornecer informações ao Fisco;\npermitir ou viabilizar controles previstos em lei;\nabster-se de determinada conduta quando a legislação exigir.\nTudo isso pode funcionar como obrigação acessória.\nUse esta memória:\nPRINCIPAL → DINHEIRO.\nACESSÓRIA → COMPORTAMENTO / DEVER INSTRUMENTAL.\nMas cuidado: “acessória” não significa “facultativa”, “menos importante” ou “só existe se houver tributo a pagar”.\nA obrigação acessória existe porque a legislação tributária impõe um comportamento destinado a facilitar arrecadação e fiscalização."
+    },
+    {
+      "id": "direito-tributario-aula-001-b23",
+      "tipo": "teoria",
+      "titulo": "3. A PEGADINHA MAIS IMPORTANTE DA OBRIGAÇÃO ACESSÓRIA",
+      "texto": "Se a obrigação acessória for descumprida, esse descumprimento converte-se em obrigação principal relativamente à penalidade pecuniária.\nVeja o caminho:\nDEVER DE ENTREGAR DECLARAÇÃO → obrigação acessória.\nNão entregou → infração.\nLei prevê multa → dever de pagar a multa.\nPAGAMENTO DA MULTA → obrigação principal.\nEntão memorize esta transformação:\nACESSÓRIA DESCUMPRIDA → PENALIDADE PECUNIÁRIA → PRINCIPAL.\nNão significa que a obrigação acessória “vira tributo”.\nO que surge é uma obrigação principal correspondente à penalidade."
+    },
+    {
+      "id": "direito-tributario-aula-001-b24",
+      "tipo": "teoria",
+      "titulo": "4. FATO GERADOR",
+      "texto": "Agora entramos no ponto que conecta teoria e cobrança.\nFato gerador é, em linguagem simples, o acontecimento previsto em lei cuja ocorrência faz nascer a obrigação tributária."
+    },
+    {
+      "id": "direito-tributario-aula-001-b25",
+      "tipo": "exemplo",
+      "titulo": "Exemplo de raciocínio:",
+      "texto": "A lei prevê determinadas condições para incidência do IPTU.\nO contribuinte se enquadra nessas condições.\nO fato previsto em lei ocorre.\nSurge a obrigação tributária.\nPara memorizar:\nLEI DESCREVE A SITUAÇÃO → SITUAÇÃO ACONTECE → NASCE A OBRIGAÇÃO.\nNão confunda fato gerador com lançamento.\nFATO GERADOR → faz nascer a obrigação.\nLANÇAMENTO → veremos depois; constitui o crédito tributário.\nEsta distinção será muito importante quando avançarmos para crédito tributário."
+    },
+    {
+      "id": "direito-tributario-aula-001-b26",
+      "tipo": "teoria",
+      "titulo": "5. FATO GERADOR DA OBRIGAÇÃO PRINCIPAL E DA ACESSÓRIA",
+      "texto": "No CTN, o fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente para sua ocorrência.\nJá o fato gerador da obrigação acessória é qualquer situação que, na forma da legislação aplicável, imponha a prática ou a abstenção de ato que não configure obrigação principal.\nPara prova, simplifique:\nPRINCIPAL → situação prevista em lei que gera dever pecuniário.\nACESSÓRIA → situação prevista na legislação que gera dever instrumental."
+    },
+    {
+      "id": "direito-tributario-aula-001-b27",
+      "tipo": "teoria",
+      "titulo": "6. SUJEITO ATIVO",
+      "texto": "Quem está do lado que pode exigir o cumprimento da obrigação?\nO sujeito ativo.\nO CTN define sujeito ativo como a pessoa jurídica de direito público titular da competência para exigir o cumprimento da obrigação tributária.\nNa prática municipal, muitas questões vão colocar o Município como sujeito ativo em tributos municipais.\nMas cuidado com uma diferença que estudaremos várias vezes:\nCOMPETÊNCIA TRIBUTÁRIA ≠ CAPACIDADE TRIBUTÁRIA ATIVA.\nCompetência para instituir tributo é indelegável.\nFunções de arrecadar ou fiscalizar podem, nos limites legais, ser atribuídas a outra pessoa jurídica de direito público.\nPrimeira regra mental:\nCRIAR TRIBUTO → competência tributária.\nARRECADAR/FISCALIZAR → capacidade ativa pode ser atribuída nos termos legais."
+    },
+    {
+      "id": "direito-tributario-aula-001-b28",
+      "tipo": "teoria",
+      "titulo": "7. SUJEITO PASSIVO",
+      "texto": "Agora estamos do outro lado da relação.\nSujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária.\nEle pode aparecer como:\nCONTRIBUINTE → possui relação pessoal e direta com a situação que constitui o fato gerador.\nRESPONSÁVEL → sem ser contribuinte, sua obrigação decorre de disposição expressa de lei.\nGuarde:\nCONTRIBUINTE → ligação direta com o fato gerador.\nRESPONSÁVEL → a lei coloca a obrigação sobre ele.\nIsso será aprofundado quando entrarmos em responsabilidade tributária."
+    },
+    {
+      "id": "direito-tributario-aula-001-b29",
+      "tipo": "teoria",
+      "titulo": "8. COMO A QUESTÃO TENTA CONFUNDIR VOCÊ",
+      "texto": "Uma estrutura muito produtiva para treino é misturar conceitos verdadeiros em posições erradas. Exemplos de distratores:\n“multa é espécie de tributo” → errado.\n“obrigação principal tem por objeto apenas tributo” → errado, porque também pode envolver penalidade pecuniária.\n“obrigação acessória é facultativa” → errado.\n“descumprimento de obrigação acessória gera penalidade e, quanto a ela, obrigação principal” → correto.\n“fato gerador e lançamento são o mesmo ato” → errado.\n“responsável tributário necessariamente praticou pessoalmente o fato gerador” → errado.\n“contribuinte tem relação pessoal e direta com o fato gerador” → correto."
+    },
+    {
+      "id": "direito-tributario-aula-001-b30",
+      "tipo": "memorize",
+      "titulo": "9. MAPA MENTAL DE 60 SEGUNDOS",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b31",
+      "tipo": "teoria",
+      "titulo": "OBRIGAÇÃO PRINCIPAL",
+      "texto": "→ nasce com fato gerador\n→ pagamento de tributo OU penalidade pecuniária\n→ extingue-se com o crédito dela decorrente nos termos legais."
+    },
+    {
+      "id": "direito-tributario-aula-001-b32",
+      "tipo": "teoria",
+      "titulo": "OBRIGAÇÃO ACESSÓRIA",
+      "texto": "→ dever instrumental\n→ fazer ou não fazer\n→ interesse da arrecadação/fiscalização\n→ descumprimento gera penalidade pecuniária."
+    },
+    {
+      "id": "direito-tributario-aula-001-b33",
+      "tipo": "teoria",
+      "titulo": "FATO GERADOR",
+      "texto": "→ situação prevista em lei\n→ quando acontece, nasce a obrigação."
+    },
+    {
+      "id": "direito-tributario-aula-001-b34",
+      "tipo": "teoria",
+      "titulo": "SUJEITO ATIVO",
+      "texto": "→ lado que exige o cumprimento."
+    },
+    {
+      "id": "direito-tributario-aula-001-b35",
+      "tipo": "teoria",
+      "titulo": "SUJEITO PASSIVO",
+      "texto": "→ lado obrigado.\n→ contribuinte: relação direta com fato gerador.\n→ responsável: obrigação decorre da lei."
+    },
+    {
+      "id": "direito-tributario-aula-001-b36",
+      "tipo": "revisao",
+      "titulo": "10. REVISÃO DA QUESTÃO 1 DA AULA ANTERIOR",
+      "texto": "Pergunta: quando a Constituição atribui ao Município o poder de instituir determinados tributos, estamos falando de quê?\n\nSua resposta foi B — competência tributária.\n\nCORRETA.\n\nPor quê?\nPorque competência tributária é justamente a aptidão constitucional para instituir tributos.\n\nRegra prática extraída:\nSe a questão falar em CRIAR/INSTITUIR tributo → pense primeiro em COMPETÊNCIA TRIBUTÁRIA.\nSe falar em ARRECADAR/FISCALIZAR → cuidado: pode estar tratando de capacidade tributária ativa."
+    },
+    {
+      "id": "direito-tributario-aula-001-b37",
+      "tipo": "questao",
+      "titulo": "11. RODADA DE TREINO — NÃO CONSULTE O MAPA MENTAL",
+      "texto": "Questão 1",
+      "questionIds": [
+        "direito-tributario-aula-001-q-006",
+        "direito-tributario-aula-001-q-007",
+        "direito-tributario-aula-001-q-008",
+        "direito-tributario-aula-001-q-009",
+        "direito-tributario-aula-001-q-010",
+        "direito-tributario-aula-001-q-011"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-001-b38",
+      "tipo": "gabarito-comentado",
+      "titulo": "12. GABARITO COMENTADO PARA AUTOCORREÇÃO POSTERIOR",
+      "texto": "Use apenas depois de responder.\n\n1 — B.\nA está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente.\n\n2 — B.\n\nTransmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade.\n\n3 — B.\n\nA multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória.\n\n4 — C.\n\nO responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal.\n\n 5 — C.\n\nI e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar.\n\n6 — C.\n\nEssa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário."
+    },
+    {
+      "id": "direito-tributario-aula-001-b39",
+      "tipo": "caderno-de-erros",
+      "titulo": "13. CADERNO DE ERROS — MODELO DE HOJE",
+      "texto": "Se errar uma questão, registre em cinco campos:\nErro cometido | causa provável | regra correta | pegadinha | revisão."
+    },
+    {
+      "id": "direito-tributario-aula-001-b40",
+      "tipo": "exemplo",
+      "titulo": "Exemplo:",
+      "texto": "Erro: marquei que multa é tributo.\nCausa: confundi objeto da obrigação principal com natureza jurídica da multa.\nRegra: multa não é tributo; pagar multa tributária integra obrigação principal."
+    },
+    {
+      "id": "direito-tributario-aula-001-b41",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: trocar “integra obrigação principal” por “é espécie tributária”.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b42",
+      "tipo": "revisao",
+      "titulo": "Revisão: amanhã + 7 dias + 21 dias.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-001-b43",
+      "tipo": "fechamento",
+      "titulo": "14. FECHAMENTO DA MISSÃO DE HOJE",
+      "texto": "Ao terminar as quatro horas, você deve conseguir responder sem consulta:\n\n1. Qual a diferença entre tributo e multa?\n2. O que pode ser objeto da obrigação principal?\n3. O que é obrigação acessória?\n4. O que acontece quando ela é descumprida?\n5. O que faz nascer a obrigação tributária?\n6. Qual a diferença entre fato gerador e lançamento?\n7. Quem é sujeito ativo?\n8. Qual a diferença entre contribuinte e responsável?\nRESPOSTAS: 1) Tributo não é sanção por ato ilícito; multa é penalidade. 2) Pagamento de tributo ou penalidade pecuniária. 3) Dever instrumental, positivo ou negativo, no interesse da arrecadação/fiscalização. 4) O descumprimento gera penalidade pecuniária e, quanto a ela, obrigação principal. 5) A ocorrência do fato gerador. 6) Fato gerador faz nascer a obrigação; lançamento constitui o crédito tributário. 7) Pessoa jurídica de direito público titular da competência para exigir o cumprimento da obrigação. 8) Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei, sem ser contribuinte."
+    },
+    {
+      "id": "direito-tributario-aula-001-b44",
+      "tipo": "fechamento",
+      "titulo": "Frase final para memorização:",
+      "texto": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO."
+    },
+    {
+      "id": "direito-tributario-aula-001-b45",
+      "tipo": "missao-do-dia",
+      "titulo": "MISSÃO DIÁRIA — AGENTE FISCAL DE QUEIMADOS/RJ — 4 HORAS",
+      "texto": "",
+      "missaoId": "direito-tributario-aula-001-missao"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-001-q-001",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 1,
+      "question": "Considerando as espécies tributárias, a cobrança descrita possui natureza, em princípio, de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "taxa, por decorrer de atividade municipal."
+        },
+        {
+          "id": "B",
+          "text": "imposto, independentemente de prestação estatal específica ao contribuinte."
+        },
+        {
+          "id": "C",
+          "text": "contribuição de melhoria, pela existência do imóvel."
+        },
+        {
+          "id": "D",
+          "text": "tarifa, em razão da disponibilidade dos serviços municipais. Questão 2 A respeito das taxas, assinale a alternativa CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-002",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 2,
+      "question": "A respeito das taxas, assinale a alternativa CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Podem decorrer do exercício regular do poder de polícia ou da utilização, efetiva ou potencial, de serviço público específico e divisível."
+        },
+        {
+          "id": "B",
+          "text": "São impostos municipais vinculados à prestação de serviços públicos."
+        },
+        {
+          "id": "C",
+          "text": "Somente podem ser cobradas quando o contribuinte efetivamente utilizar o serviço público."
+        },
+        {
+          "id": "D",
+          "text": "Possuem natureza contratual e facultativa. Questão 3 Um Município realiza obra pública que resulta em valorização dos imóveis localizados na região beneficiada. A espécie tributária diretamente relacionada à situação é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-003",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 3,
+      "question": "A espécie tributária diretamente relacionada à situação é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "imposto."
+        },
+        {
+          "id": "B",
+          "text": "taxa."
+        },
+        {
+          "id": "C",
+          "text": "contribuição de melhoria."
+        },
+        {
+          "id": "D",
+          "text": "tarifa pública. Questão 4 — atenção à palavra perigosa É INCORRETO afirmar que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-004",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 4,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IPTU é imposto de competência municipal."
+        },
+        {
+          "id": "B",
+          "text": "ISS é imposto de competência municipal."
+        },
+        {
+          "id": "C",
+          "text": "ITBI é imposto de competência municipal."
+        },
+        {
+          "id": "D",
+          "text": "toda atividade fiscalizatória municipal gera automaticamente a obrigação de pagar uma taxa. Questão 5 — quero testar conceito, não memória Um Município estabelece determinada cobrança como punição pela prática de uma infração administrativa. Considerando apenas essa característica, a cobrança:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-005",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 5,
+      "question": "Considerando apenas essa característica, a cobrança:",
+      "options": [
+        {
+          "id": "A",
+          "text": "constitui necessariamente imposto."
+        },
+        {
+          "id": "B",
+          "text": "constitui necessariamente taxa de polícia."
+        },
+        {
+          "id": "C",
+          "text": "não se caracteriza como tributo se sua natureza for de sanção por ato ilícito."
+        },
+        {
+          "id": "D",
+          "text": "será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública. Responda sem voltar na matéria: 1?, 2?, 3?, 4?, 5?. GABARITO: 1-B | 2-A | 3-C | 4-D | 5-C. Não vou apenas fornecer o gabarito depois. Vou analisar cada erro/acerto, o distrator que poderia enganar você e a regra de prova, e então avançaremos para obrigação tributária + fato gerador + sujeito ativo/passivo, que é onde Direito Tributário começa a ficar muito interessante para a função de Agente Fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-006",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 1,
+      "question": "De acordo com o Código Tributário Nacional, a obrigação tributária principal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "tem por objeto exclusivamente o pagamento de tributo."
+        },
+        {
+          "id": "B",
+          "text": "surge com a ocorrência do fato gerador e pode ter por objeto o pagamento de tributo ou penalidade pecuniária."
+        },
+        {
+          "id": "C",
+          "text": "corresponde apenas aos deveres instrumentais impostos ao contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "é facultativa quando o contribuinte não praticou pessoalmente o lançamento. Questão 2 Uma empresa é obrigada pela legislação a transmitir determinada declaração fiscal. A transmissão da declaração constitui:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-007",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 2,
+      "question": "Uma empresa é obrigada pela legislação a transmitir determinada declaração fiscal. A transmissão da declaração constitui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "obrigação principal, pois toda obrigação tributária possui conteúdo pecuniário."
+        },
+        {
+          "id": "B",
+          "text": "obrigação acessória, por se tratar de dever instrumental relacionado à fiscalização."
+        },
+        {
+          "id": "C",
+          "text": "crédito tributário constituído."
+        },
+        {
+          "id": "D",
+          "text": "penalidade pecuniária. Questão 3 O contribuinte deixa de cumprir obrigação acessória e, em razão disso, a legislação prevê multa. Assinale a alternativa CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-008",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 3,
+      "question": "O contribuinte deixa de cumprir obrigação acessória e, em razão disso, a legislação prevê multa. Assinale a alternativa CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A multa passa a ser espécie tributária."
+        },
+        {
+          "id": "B",
+          "text": "O dever de pagar a penalidade pecuniária integra obrigação principal."
+        },
+        {
+          "id": "C",
+          "text": "O descumprimento elimina a obrigação tributária."
+        },
+        {
+          "id": "D",
+          "text": "A multa conserva natureza de obrigação acessória porque decorreu de dever instrumental. Questão 4 É INCORRETO afirmar que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-009",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 4,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o fato gerador é elemento relacionado ao nascimento da obrigação tributária."
+        },
+        {
+          "id": "B",
+          "text": "o contribuinte possui relação pessoal e direta com a situação que constitui o fato gerador."
+        },
+        {
+          "id": "C",
+          "text": "o responsável tributário somente pode ser aquele que praticou pessoalmente o fato gerador."
+        },
+        {
+          "id": "D",
+          "text": "o sujeito passivo da obrigação principal pode ser contribuinte ou responsável. Questão 5 Considere as assertivas: I. Multa tributária não é tributo. II. O pagamento de penalidade pecuniária pode integrar a obrigação tributária principal. III. Obrigação acessória é necessariamente facultativa quando não existe tributo a pagar. Está correto o que se afirma em:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-010",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 5,
+      "question": "Está correto o que se afirma em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I, apenas."
+        },
+        {
+          "id": "B",
+          "text": "II, apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e II, apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Questão 6 Quando uma alternativa afirma que “o lançamento faz nascer a obrigação tributária”, a afirmação deve ser tratada, em regra, como:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    },
+    {
+      "id": "direito-tributario-aula-001-q-011",
+      "lessonId": "direito-tributario-aula-001",
+      "numero": 6,
+      "question": "Quando uma alternativa afirma que “o lançamento faz nascer a obrigação tributária”, a afirmação deve ser tratada, em regra, como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, porque lançamento e fato gerador são sinônimos."
+        },
+        {
+          "id": "B",
+          "text": "correta, porque nenhuma obrigação existe antes do lançamento."
+        },
+        {
+          "id": "C",
+          "text": "incorreta, porque a obrigação nasce com a ocorrência do fato gerador; o lançamento atua na constituição do crédito tributário."
+        },
+        {
+          "id": "D",
+          "text": "incorreta apenas nos casos de taxas. Pare antes do gabarito. Resolva primeiro: 1?, 2?, 3?, 4?, 5?, 6?."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Direito Tributário"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-001-b36",
+      "titulo": "10. REVISÃO DA QUESTÃO 1 DA AULA ANTERIOR",
+      "texto": "Pergunta: quando a Constituição atribui ao Município o poder de instituir determinados tributos, estamos falando de quê?\n\nSua resposta foi B — competência tributária.\n\nCORRETA.\n\nPor quê?\nPorque competência tributária é justamente a aptidão constitucional para instituir tributos.\n\nRegra prática extraída:\nSe a questão falar em CRIAR/INSTITUIR tributo → pense primeiro em COMPETÊNCIA TRIBUTÁRIA.\nSe falar em ARRECADAR/FISCALIZAR → cuidado: pode estar tratando de capacidade tributária ativa."
+    },
+    {
+      "id": "direito-tributario-aula-001-b42",
+      "titulo": "Revisão: amanhã + 7 dias + 21 dias.",
+      "texto": ""
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": {
+    "id": "direito-tributario-aula-001-missao",
+    "lessonId": "direito-tributario-aula-001",
+    "titulo": "MISSÃO DIÁRIA — AGENTE FISCAL DE QUEIMADOS/RJ — 4 HORAS",
+    "descricao": "",
+    "tarefas": []
+  },
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "b1db89aa6041a2f0"
+}

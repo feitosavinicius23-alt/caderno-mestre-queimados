@@ -1,0 +1,353 @@
+{
+  "id": "direito-tributario-aula-018",
+  "numero": 18,
+  "titulo": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
+  "slug": "processo-administrativo-tributario-defesa-impugnacao-recursos-e-julgamento",
+  "disciplina": "Direito Tributário",
+  "assunto": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
+  "ordem": 18,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "NO PROCESSO ADMINISTRATIVO TRIBUTÁRIO, AUTUAÇÃO NÃO É FIM DA DISCUSSÃO: HÁ CIÊNCIA, DEFESA, INSTRUÇÃO, JULGAMENTO E, QUANDO CABÍVEL, RECURSO. IMPUGNAR PODE SUSPENDER A EXIGIBILIDADE; NÃO SIGNIFICA EXTINGUIR O CRÉDITO.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-018-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 17. Agora avançamos para Processo Administrativo Tributário, mantendo foco EXCLUSIVO em AGENTE FISCAL. Este tema conecta a atuação fiscal, o lançamento e o direito de defesa do sujeito passivo."
+    },
+    {
+      "id": "direito-tributario-aula-018-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "LANÇAMENTO/AUTO → CIÊNCIA → DEFESA/IMPUGNAÇÃO → INSTRUÇÃO → JULGAMENTO → RECURSO, QUANDO CABÍVEL → DECISÃO ADMINISTRATIVA."
+    },
+    {
+      "id": "direito-tributario-aula-018-b3",
+      "tipo": "teoria",
+      "titulo": "1. CONTRADITÓRIO E AMPLA DEFESA",
+      "texto": "O processo administrativo tributário deve respeitar o devido processo legal, o contraditório e a ampla defesa. Para a prova, isso significa que a Administração não pode tratar a autuação como verdade imutável apenas porque foi lavrada por autoridade fiscal. O sujeito passivo deve poder conhecer a exigência, apresentar defesa e produzir os meios admitidos pela legislação aplicável."
+    },
+    {
+      "id": "direito-tributario-aula-018-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: “A lavratura do auto elimina a possibilidade de discussão administrativa.” ERRADO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-018-b5",
+      "tipo": "teoria",
+      "titulo": "2. IMPUGNAÇÃO E EXIGIBILIDADE",
+      "texto": "Recupere o art. 151, III, do CTN: reclamações e recursos, nos termos das leis reguladoras do processo tributário administrativo, SUSPENDEM A EXIGIBILIDADE do crédito."
+    },
+    {
+      "id": "direito-tributario-aula-018-b6",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "IMPUGNAÇÃO/RECURSO ADMINISTRATIVO, QUANDO CABÍVEL E NOS TERMOS DA LEI → SUSPENSÃO DA EXIGIBILIDADE; NÃO É EXTINÇÃO DO CRÉDITO."
+    },
+    {
+      "id": "direito-tributario-aula-018-b7",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Isso é uma pegadinha de alta prioridade: a existência de discussão administrativa não significa que o crédito desapareceu."
+    },
+    {
+      "id": "direito-tributario-aula-018-b8",
+      "tipo": "teoria",
+      "titulo": "3. CIÊNCIA DO SUJEITO PASSIVO",
+      "texto": "A ciência regular da exigência é essencial para permitir o exercício da defesa e marcar os prazos previstos na legislação. Em questão prática, procure: quem foi cientificado, por qual meio admitido, quando ocorreu a ciência e qual prazo começou a correr.\nNão invente regra universal de forma de intimação: o procedimento concreto depende da legislação aplicável. A técnica de prova é desconfiar de expressões como “somente pessoalmente”, “jamais por meio eletrônico” ou “qualquer comunicação informal basta”, sem apoio legal."
+    },
+    {
+      "id": "direito-tributario-aula-018-b9",
+      "tipo": "teoria",
+      "titulo": "4. DEFESA NÃO SE CONFUNDE COM RECURSO",
+      "texto": "DEFESA/IMPUGNAÇÃO → normalmente inaugura a contestação administrativa da exigência perante a instância competente.\nRECURSO → busca reexame de decisão administrativa, quando previsto.\nA banca pode trocar as fases ou afirmar que todo recurso existe automaticamente, independentemente da legislação. Cuidado: o cabimento, prazo, autoridade competente e efeitos decorrem da disciplina do processo administrativo aplicável."
+    },
+    {
+      "id": "direito-tributario-aula-018-b10",
+      "tipo": "teoria",
+      "titulo": "5. JULGAMENTO ADMINISTRATIVO",
+      "texto": "A autoridade julgadora deve apreciar a controvérsia dentro da competência legal e fundamentar a decisão. Fiscalização e julgamento não devem ser confundidos conceitualmente: o agente que constata fatos e formaliza a exigência atua em etapa distinta daquela de apreciação da impugnação, conforme a estrutura administrativa prevista em lei.\nRegra mental: FISCALIZAÇÃO PRODUZ/FORMALIZA A EXIGÊNCIA; PROCESSO ADMINISTRATIVO CONTROLA SUA LEGALIDADE E CORREÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-018-b11",
+      "tipo": "teoria",
+      "titulo": "6. EFEITOS DA DECISÃO DEFINITIVA",
+      "texto": "Recupere o art. 156 do CTN: decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória, integra as hipóteses legais de extinção do crédito nos termos do dispositivo.\nNão transforme qualquer decisão intermediária em extinção automática. A palavra decisiva é DEFINITIVA/IRREFORMÁVEL na esfera administrativa, dentro da hipótese legal."
+    },
+    {
+      "id": "direito-tributario-aula-018-b12",
+      "tipo": "teoria",
+      "titulo": "7. VERDADE MATERIAL E PROVA",
+      "texto": "Na instrução, documentos, informações fiscais e demais elementos admitidos servem para verificar se a exigência corresponde aos fatos e à legislação. Para o Agente Fiscal, isso reforça uma regra prática: auto bem fundamentado deve indicar fatos, enquadramento legal e elementos probatórios pertinentes. Conclusões genéricas e sem suporte fragilizam a exigência."
+    },
+    {
+      "id": "direito-tributario-aula-018-b13",
+      "tipo": "teoria",
+      "titulo": "8. NULIDADE NÃO É SINÔNIMO DE QUALQUER ERRO",
+      "texto": "Em prova, cuidado com alternativas dizendo que qualquer falha formal, por mínima que seja, necessariamente anula todo o processo. A análise de nulidade depende da disciplina legal, da natureza do vício e de seus efeitos sobre competência, defesa e validade do ato. Da mesma forma, não aceite a tese oposta de que vícios jamais geram nulidade."
+    },
+    {
+      "id": "direito-tributario-aula-018-b14",
+      "tipo": "teoria",
+      "titulo": "9. CONEXÃO COM DECADÊNCIA",
+      "texto": "Recupere o art. 173, II: se decisão definitiva anular, por vício formal, lançamento anteriormente efetuado, o CTN estabelece regra decadencial específica. Isso mostra como Processo Administrativo e decadência podem aparecer juntos em uma questão contextualizada."
+    },
+    {
+      "id": "direito-tributario-aula-018-b15",
+      "tipo": "pegadinha",
+      "titulo": "10. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar suspensão por extinção; dizer que impugnação apaga o crédito; confundir defesa inicial com recurso; afirmar que qualquer decisão intermediária extingue definitivamente; apagar contraditório/ampla defesa; usar “sempre”, “qualquer”, “automaticamente” e “sem possibilidade de defesa”; ou misturar a função fiscalizatória com a função julgadora."
+    },
+    {
+      "id": "direito-tributario-aula-018-b16",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "AUTO/LANÇAMENTO → formalização da exigência.\nCIÊNCIA → abre caminho para defesa e prazos.\nIMPUGNAÇÃO → contestação administrativa inicial, conforme a lei.\nRECURSO → reexame de decisão, quando cabível.\nRECLAMAÇÕES/RECURSOS DO ART. 151, III → suspensão da exigibilidade nas condições legais.\nJULGAMENTO → decisão fundamentada pela autoridade competente.\nDECISÃO ADMINISTRATIVA DEFINITIVA → observar os efeitos previstos no CTN.\nVÍCIO FORMAL COM ANULAÇÃO DEFINITIVA DO LANÇAMENTO → atenção ao art. 173, II.",
+      "mapaId": "direito-tributario-aula-018-b16"
+    },
+    {
+      "id": "direito-tributario-aula-018-b17",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO NESTA ETAPA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-018-q-001",
+        "direito-tributario-aula-018-q-002",
+        "direito-tributario-aula-018-q-003",
+        "direito-tributario-aula-018-q-004",
+        "direito-tributario-aula-018-q-005",
+        "direito-tributario-aula-018-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-018-b18",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Impugnação administrativa cabível suspende ou extingue? Qual a diferença entre defesa e recurso? Qual a presunção da dívida ativa? Quais situações do art. 206 permitem CPEN? Contribuição de melhoria: limite total e individual? Taxa de serviço: quais requisitos? ISS: qual base? ITBI: qual Município é competente? Decadência: constituir ou cobrar?"
+    },
+    {
+      "id": "direito-tributario-aula-018-b19",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "NO PROCESSO ADMINISTRATIVO TRIBUTÁRIO, AUTUAÇÃO NÃO É FIM DA DISCUSSÃO: HÁ CIÊNCIA, DEFESA, INSTRUÇÃO, JULGAMENTO E, QUANDO CABÍVEL, RECURSO. IMPUGNAR PODE SUSPENDER A EXIGIBILIDADE; NÃO SIGNIFICA EXTINGUIR O CRÉDITO."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-018-q-001",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 1,
+      "question": "A apresentação de impugnação administrativa cabível, nos termos da legislação reguladora do processo tributário, em relação ao crédito discutido:",
+      "options": [
+        {
+          "id": "A",
+          "text": "extingue automaticamente o crédito."
+        },
+        {
+          "id": "B",
+          "text": "pode suspender sua exigibilidade, conforme art. 151, III, do CTN."
+        },
+        {
+          "id": "C",
+          "text": "transforma o tributo em obrigação acessória."
+        },
+        {
+          "id": "D",
+          "text": "equivale necessariamente ao pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    },
+    {
+      "id": "direito-tributario-aula-018-q-002",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "contraditório e ampla defesa são relevantes no processo administrativo tributário."
+        },
+        {
+          "id": "B",
+          "text": "defesa/impugnação e recurso representam necessariamente a mesma etapa procedimental."
+        },
+        {
+          "id": "C",
+          "text": "a ciência regular da exigência é relevante para o exercício da defesa."
+        },
+        {
+          "id": "D",
+          "text": "o julgamento deve observar a competência e a disciplina legal aplicável."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    },
+    {
+      "id": "direito-tributario-aula-018-q-003",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 3,
+      "question": "Um contribuinte apresenta recurso administrativo cabível contra decisão que manteve a exigência. Dizer que o simples recurso “apagou definitivamente o crédito” é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correto, pois todo recurso extingue."
+        },
+        {
+          "id": "B",
+          "text": "incorreto, pois suspensão da exigibilidade não se confunde com extinção."
+        },
+        {
+          "id": "C",
+          "text": "correto apenas para ISS."
+        },
+        {
+          "id": "D",
+          "text": "correto apenas para IPTU."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    },
+    {
+      "id": "direito-tributario-aula-018-q-004",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 4,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "impugnação administrativa cabível → necessariamente extinção."
+        },
+        {
+          "id": "B",
+          "text": "pagamento → suspensão."
+        },
+        {
+          "id": "C",
+          "text": "parcelamento → suspensão; pagamento → extinção."
+        },
+        {
+          "id": "D",
+          "text": "anistia → prescrição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    },
+    {
+      "id": "direito-tributario-aula-018-q-005",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 5,
+      "question": "Considere: I. O processo administrativo permite controle da exigência tributária. II. Qualquer decisão intermediária extingue definitivamente o crédito. III. O art. 173, II, contém regra ligada à anulação definitiva, por vício formal, de lançamento anterior. IV. A função de fiscalizar/formalizar a exigência não deve ser confundida conceitualmente com a função de julgá-la.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, III e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    },
+    {
+      "id": "direito-tributario-aula-018-q-006",
+      "lessonId": "direito-tributario-aula-018",
+      "numero": 6,
+      "question": "TESTE INTERCALADO. Crédito regularmente inscrito em dívida ativa possui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "presunção absoluta e incontestável."
+        },
+        {
+          "id": "B",
+          "text": "presunção relativa de certeza e liquidez."
+        },
+        {
+          "id": "C",
+          "text": "inexistência de qualquer presunção."
+        },
+        {
+          "id": "D",
+          "text": "imunidade tributária. Não há gabarito nesta etapa. Como ainda não há respostas registradas do aluno para ITBI, ISS, taxas, contribuição de melhoria e Administração Tributária, esses temas continuam NÃO DOMINADOS e permanecerão intercalados. Esta aula também só será considerada dominada após retenção posterior em questões misturadas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-018-b18",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Impugnação administrativa cabível suspende ou extingue? Qual a diferença entre defesa e recurso? Qual a presunção da dívida ativa? Quais situações do art. 206 permitem CPEN? Contribuição de melhoria: limite total e individual? Taxa de serviço: quais requisitos? ISS: qual base? ITBI: qual Município é competente? Decadência: constituir ou cobrar?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-018-b16",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "AUTO/LANÇAMENTO",
+        "formalização da exigência",
+        "CIÊNCIA",
+        "abre caminho para defesa e prazos",
+        "IMPUGNAÇÃO",
+        "contestação administrativa inicial, conforme a lei",
+        "RECURSO",
+        "reexame de decisão, quando cabível",
+        "RECLAMAÇÕES/RECURSOS DO ART. 151, III",
+        "suspensão da exigibilidade nas condições legais",
+        "JULGAMENTO",
+        "decisão fundamentada pela autoridade competente",
+        "DECISÃO ADMINISTRATIVA DEFINITIVA",
+        "observar os efeitos previstos no CTN",
+        "VÍCIO FORMAL COM ANULAÇÃO DEFINITIVA DO LANÇAMENTO",
+        "atenção ao art. 173, II"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "af3c2e7ec8304245"
+}

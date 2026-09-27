@@ -1,0 +1,380 @@
+{
+  "id": "direito-tributario-aula-010",
+  "numero": 10,
+  "titulo": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
+  "slug": "sistema-tributario-na-constituicao-principios-e-limitacoes-ao-poder-de-tributar",
+  "disciplina": "Direito Tributário",
+  "assunto": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
+  "ordem": 10,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "A CONSTITUIÇÃO ENTREGA A COMPETÊNCIA, MAS TAMBÉM COLOCA OS FREIOS: LEI, IGUALDADE, TEMPO, NÃO CONFISCO, LIBERDADE DE TRÁFEGO E IMUNIDADES.\n\nNa próxima aula, avançaremos para COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS, conectando a Constituição diretamente ao Município de Queimados.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-010-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 9. Agora saímos do CTN geral e entramos no Sistema Tributário da Constituição, conteúdo expresso de AGENTE FISCAL. A lógica é: a Constituição dá competência para tributar, mas também coloca freios nessa competência."
+    },
+    {
+      "id": "direito-tributario-aula-010-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "COMPETÊNCIA TRIBUTÁRIA = poder constitucional de instituir tributos.\nLIMITAÇÕES AO PODER DE TRIBUTAR = freios constitucionais ao exercício desse poder."
+    },
+    {
+      "id": "direito-tributario-aula-010-b3",
+      "tipo": "teoria",
+      "titulo": "1. LEGALIDADE — CF, ART. 150, I",
+      "texto": "É vedado exigir ou aumentar tributo sem lei que o estabeleça. Para prova: CRIAR/AUMENTAR TRIBUTO → REGRA: LEI. Cuidado com alternativas que atribuem ao fiscal ou a simples ato administrativo poder geral para criar tributo."
+    },
+    {
+      "id": "direito-tributario-aula-010-b4",
+      "tipo": "teoria",
+      "titulo": "2. ISONOMIA — ART. 150, II",
+      "texto": "É vedado instituir tratamento desigual entre contribuintes que se encontrem em situação equivalente, inclusive distinção em razão de ocupação profissional ou função exercida, independentemente da denominação jurídica dos rendimentos, títulos ou direitos."
+    },
+    {
+      "id": "direito-tributario-aula-010-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "SITUAÇÕES EQUIVALENTES → TRATAMENTO TRIBUTÁRIO ISONÔMICO."
+    },
+    {
+      "id": "direito-tributario-aula-010-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "3. IRRETROATIVIDADE — ART. 150, III, “a”\nÉ vedado cobrar tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado."
+    },
+    {
+      "id": "direito-tributario-aula-010-b7",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "LEI NOVA NÃO VOLTA PARA TRIBUTAR FATO GERADOR ANTERIOR, na regra constitucional."
+    },
+    {
+      "id": "direito-tributario-aula-010-b8",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "4. ANTERIORIDADE ANUAL — ART. 150, III, “b”\nEm regra, não se pode cobrar o tributo no mesmo exercício financeiro em que foi publicada a lei que o instituiu ou aumentou.\n5. ANTERIORIDADE NONAGESIMAL — ART. 150, III, “c”\nEm regra, também se exige que tenham transcorrido 90 dias da publicação da lei que instituiu ou aumentou o tributo.\nA prova pode tentar fazer você pensar que anual e noventena são sinônimos. NÃO SÃO.\nANTERIORIDADE ANUAL → olha a mudança de exercício financeiro.\nNOVENTENA → olha 90 dias.\nExistem exceções constitucionais a essas anterioridades. Nesta primeira volta, o objetivo é reconhecer a regra e não aceitar palavras como “todo tributo, sem exceção”."
+    },
+    {
+      "id": "direito-tributario-aula-010-b9",
+      "tipo": "teoria",
+      "titulo": "6. VEDAÇÃO AO CONFISCO — ART. 150, IV",
+      "texto": "É vedado utilizar tributo com efeito de confisco."
+    },
+    {
+      "id": "direito-tributario-aula-010-b10",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: a Constituição não diz simplesmente “é proibido tributo alto”. A expressão constitucional é EFEITO DE CONFISCO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-010-b11",
+      "tipo": "teoria",
+      "titulo": "7. LIBERDADE DE TRÁFEGO — ART. 150, V",
+      "texto": "É vedado estabelecer limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público.\nPalavra decisiva: PEDÁGIO aparece como ressalva constitucional."
+    },
+    {
+      "id": "direito-tributario-aula-010-b12",
+      "tipo": "teoria",
+      "titulo": "8. IMUNIDADES — ART. 150, VI",
+      "texto": "A Constituição prevê hipóteses em que os entes não podem instituir impostos sobre determinados patrimônios, rendas ou serviços. Para esta aula, fixe a diferença estrutural:\nIMUNIDADE → CONSTITUIÇÃO LIMITA O PODER DE TRIBUTAR.\nISENÇÃO → BENEFÍCIO PREVISTO EM LEI, dentro da competência tributária.\nEssa oposição já apareceu na Aula 5 e agora retorna por repetição espaçada."
+    },
+    {
+      "id": "direito-tributario-aula-010-b13",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "LEGALIDADE → sem lei, não exigir/aumentar.\nISONOMIA → equivalentes não recebem tratamento tributário desigual arbitrário.\nIRRETROATIVIDADE → lei nova não alcança fato gerador anterior para instituir/aumentar tributo.\nANTERIORIDADE ANUAL → exercício seguinte, em regra.\nNOVENTENA → 90 dias, em regra.\nNÃO CONFISCO → tributo não pode ter efeito confiscatório.\nTRÁFEGO → não limitar por tributo interestadual/intermunicipal; ressalva do pedágio constitucional.\nIMUNIDADE → limitação constitucional.\nISENÇÃO → lei.",
+      "mapaId": "direito-tributario-aula-010-b13"
+    },
+    {
+      "id": "direito-tributario-aula-010-b14",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar legalidade por discricionariedade administrativa; dizer que anterioridade anual e noventena são idênticas; usar “todos os tributos sem exceção”; trocar imunidade por isenção; apagar a palavra “equivalente” na isonomia; afirmar que a irretroatividade permite alcançar livremente fatos geradores anteriores; retirar a ressalva do pedágio."
+    },
+    {
+      "id": "direito-tributario-aula-010-b15",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver antes e confira o gabarito logo abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-010-q-001",
+        "direito-tributario-aula-010-q-002",
+        "direito-tributario-aula-010-q-003",
+        "direito-tributario-aula-010-q-004",
+        "direito-tributario-aula-010-q-005",
+        "direito-tributario-aula-010-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-010-b16",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-B: “sem lei” aponta diretamente para legalidade.\n2-A: o distrator tenta trocar o problema temporal do fato gerador por noventena.\n3-C: imunidade nasce da Constituição; isenção é instituto legal. Não são idênticas.\n4-B: questão de literalidade com ressalva: pedágio pela utilização de vias conservadas pelo Poder Público.\n5-B: III é falsa; anual e noventena têm critérios diferentes.\n6-B: “nunca” cria o erro. A anterioridade é regra constitucional com exceções previstas na própria Constituição."
+    },
+    {
+      "id": "direito-tributario-aula-010-b17",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Decadência? Resposta: prazo para constituir o crédito.\n2. Prescrição? Resposta: prazo para cobrar o crédito definitivamente constituído.\n3. Art. 173, I? Resposta: em regra, cinco anos do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.\n4. Art. 174? Resposta: cinco anos da constituição definitiva do crédito.\n5. Imunidade? Resposta: limitação constitucional ao poder de tributar.\n6. Isenção? Resposta: benefício decorrente de lei."
+    },
+    {
+      "id": "direito-tributario-aula-010-b18",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "A CONSTITUIÇÃO ENTREGA A COMPETÊNCIA, MAS TAMBÉM COLOCA OS FREIOS: LEI, IGUALDADE, TEMPO, NÃO CONFISCO, LIBERDADE DE TRÁFEGO E IMUNIDADES.\n\nNa próxima aula, avançaremos para COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS, conectando a Constituição diretamente ao Município de Queimados."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-010-q-001",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 1,
+      "question": "É vedado exigir ou aumentar tributo sem lei que o estabeleça. Trata-se principalmente do princípio da:",
+      "options": [
+        {
+          "id": "A",
+          "text": "isonomia."
+        },
+        {
+          "id": "B",
+          "text": "legalidade."
+        },
+        {
+          "id": "C",
+          "text": "anterioridade."
+        },
+        {
+          "id": "D",
+          "text": "capacidade tributária ativa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "“sem lei” aponta diretamente para legalidade.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    },
+    {
+      "id": "direito-tributario-aula-010-q-002",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 2,
+      "question": "A regra que impede a cobrança de tributo em relação a fato gerador ocorrido antes da vigência da lei que o instituiu ou aumentou corresponde à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "irretroatividade tributária."
+        },
+        {
+          "id": "B",
+          "text": "noventena."
+        },
+        {
+          "id": "C",
+          "text": "vedação ao confisco."
+        },
+        {
+          "id": "D",
+          "text": "liberdade de tráfego."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "o distrator tenta trocar o problema temporal do fato gerador por noventena.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    },
+    {
+      "id": "direito-tributario-aula-010-q-003",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 3,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "anterioridade anual e noventena possuem critérios temporais distintos."
+        },
+        {
+          "id": "B",
+          "text": "a Constituição prevê limitações ao poder de tributar."
+        },
+        {
+          "id": "C",
+          "text": "imunidade e isenção são conceitos juridicamente idênticos e ambos nascem necessariamente de lei ordinária."
+        },
+        {
+          "id": "D",
+          "text": "a legalidade constitui limitação relevante ao exercício da competência tributária."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "imunidade nasce da Constituição; isenção é instituto legal. Não são idênticas.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    },
+    {
+      "id": "direito-tributario-aula-010-q-004",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 4,
+      "question": "Sobre a liberdade de tráfego, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a Constituição permite livremente tributos interestaduais destinados a impedir circulação de bens."
+        },
+        {
+          "id": "B",
+          "text": "existe ressalva constitucional relacionada ao pedágio pela utilização de vias conservadas pelo Poder Público."
+        },
+        {
+          "id": "C",
+          "text": "qualquer pedágio é constitucionalmente classificado como imposto municipal."
+        },
+        {
+          "id": "D",
+          "text": "a regra somente protege pessoas, nunca bens."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "questão de literalidade com ressalva: pedágio pela utilização de vias conservadas pelo Poder Público.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    },
+    {
+      "id": "direito-tributario-aula-010-q-005",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 5,
+      "question": "Considere: I. Imunidade possui fundamento constitucional. II. Isenção decorre de lei. III. Anterioridade anual e noventena são necessariamente a mesma regra. IV. É vedado utilizar tributo com efeito de confisco.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II, III e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "III é falsa; anual e noventena têm critérios diferentes.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    },
+    {
+      "id": "direito-tributario-aula-010-q-006",
+      "lessonId": "direito-tributario-aula-010",
+      "numero": 6,
+      "question": "Uma lei publicada em determinado exercício institui tributo e a alternativa afirma que ele pode ser cobrado imediatamente porque “a anterioridade nunca se aplica a tributos”. A afirmação é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "correta, pois anterioridade só existe para multas."
+        },
+        {
+          "id": "B",
+          "text": "incorreta, pois a Constituição estabelece anterioridade como regra, embora existam exceções constitucionais."
+        },
+        {
+          "id": "C",
+          "text": "correta, porque legalidade elimina a anterioridade."
+        },
+        {
+          "id": "D",
+          "text": "correta para qualquer tributo municipal. GABARITO: 1-B | 2-A | 3-C | 4-B | 5-B | 6-B."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "“nunca” cria o erro. A anterioridade é regra constitucional com exceções previstas na própria Constituição.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-010-q-001",
+      "resposta": "B",
+      "comentario": "“sem lei” aponta diretamente para legalidade."
+    },
+    {
+      "questionId": "direito-tributario-aula-010-q-002",
+      "resposta": "A",
+      "comentario": "o distrator tenta trocar o problema temporal do fato gerador por noventena."
+    },
+    {
+      "questionId": "direito-tributario-aula-010-q-003",
+      "resposta": "C",
+      "comentario": "imunidade nasce da Constituição; isenção é instituto legal. Não são idênticas."
+    },
+    {
+      "questionId": "direito-tributario-aula-010-q-004",
+      "resposta": "B",
+      "comentario": "questão de literalidade com ressalva: pedágio pela utilização de vias conservadas pelo Poder Público."
+    },
+    {
+      "questionId": "direito-tributario-aula-010-q-005",
+      "resposta": "B",
+      "comentario": "III é falsa; anual e noventena têm critérios diferentes."
+    },
+    {
+      "questionId": "direito-tributario-aula-010-q-006",
+      "resposta": "B",
+      "comentario": "“nunca” cria o erro. A anterioridade é regra constitucional com exceções previstas na própria Constituição."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-010-b17",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Decadência? Resposta: prazo para constituir o crédito.\n2. Prescrição? Resposta: prazo para cobrar o crédito definitivamente constituído.\n3. Art. 173, I? Resposta: em regra, cinco anos do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.\n4. Art. 174? Resposta: cinco anos da constituição definitiva do crédito.\n5. Imunidade? Resposta: limitação constitucional ao poder de tributar.\n6. Isenção? Resposta: benefício decorrente de lei."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-010-b13",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "LEGALIDADE",
+        "sem lei, não exigir/aumentar",
+        "ISONOMIA",
+        "equivalentes não recebem tratamento tributário desigual arbitrário",
+        "IRRETROATIVIDADE",
+        "lei nova não alcança fato gerador anterior para instituir/aumentar tributo",
+        "ANTERIORIDADE ANUAL",
+        "exercício seguinte, em regra",
+        "NOVENTENA",
+        "90 dias, em regra",
+        "NÃO CONFISCO",
+        "tributo não pode ter efeito confiscatório",
+        "TRÁFEGO",
+        "não limitar por tributo interestadual/intermunicipal; ressalva do pedágio constitucional",
+        "IMUNIDADE",
+        "limitação constitucional",
+        "ISENÇÃO",
+        "lei"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "71d2bf9c0b428866"
+}

@@ -1,0 +1,342 @@
+{
+  "id": "direito-tributario-aula-012",
+  "numero": 12,
+  "titulo": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+  "slug": "iptu-incidencia-contribuinte-base-de-calculo-e-progressividade",
+  "disciplina": "Direito Tributário",
+  "assunto": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+  "ordem": 12,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "IPTU É MUNICIPAL; INCIDE SOBRE PROPRIEDADE, DOMÍNIO ÚTIL OU POSSE; ZONA URBANA É LEI + 2 DE 5; BASE É VALOR VENAL; E PROGRESSIVIDADE NÃO SE CONFUNDE COM MERA DIFERENCIAÇÃO DE ALÍQUOTAS.\n\nNa próxima aula, avançaremos para ITBI — fato gerador, transmissão onerosa inter vivos, competência territorial e imunidades/não incidência constitucionais, mantendo foco exclusivo em AGENTE FISCAL.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-012-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos da competência municipal estudada na Aula 11. Agora entramos no primeiro dos três impostos municipais: IPTU — Imposto sobre a Propriedade Predial e Territorial Urbana. A competência é dos Municípios, conforme art. 156, I, da Constituição."
+    },
+    {
+      "id": "direito-tributario-aula-012-b2",
+      "tipo": "teoria",
+      "titulo": "1. FATO GERADOR — CTN, ART. 32",
+      "texto": "O IPTU tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, localizado na zona urbana do Município."
+    },
+    {
+      "id": "direito-tributario-aula-012-b3",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "PROPRIEDADE + DOMÍNIO ÚTIL + POSSE. Não reduza o fato gerador apenas ao proprietário registrado."
+    },
+    {
+      "id": "direito-tributario-aula-012-b4",
+      "tipo": "teoria",
+      "titulo": "2. ZONA URBANA",
+      "texto": "Para o CTN, a zona urbana é definida em lei municipal. Como regra do art. 32, §1º, exige-se a existência de pelo menos 2 dos 5 melhoramentos, construídos ou mantidos pelo Poder Público: I — meio-fio ou calçamento, com canalização de águas pluviais; II — abastecimento de água; III — sistema de esgotos sanitários; IV — rede de iluminação pública, com ou sem posteamento para distribuição domiciliar; V — escola primária ou posto de saúde a uma distância máxima de 3 km do imóvel considerado."
+    },
+    {
+      "id": "direito-tributario-aula-012-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "ZONA URBANA → LEI MUNICIPAL + 2 DE 5."
+    },
+    {
+      "id": "direito-tributario-aula-012-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "O §2º permite que a lei municipal considere urbanas áreas urbanizáveis ou de expansão urbana constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, indústria ou comércio, mesmo localizados fora da zona definida pelo §1º."
+    },
+    {
+      "id": "direito-tributario-aula-012-b7",
+      "tipo": "teoria",
+      "titulo": "3. CONTRIBUINTE — CTN, ART. 34",
+      "texto": "O contribuinte do IPTU é o proprietário do imóvel, o titular do domínio útil ou o possuidor a qualquer título."
+    },
+    {
+      "id": "direito-tributario-aula-012-b8",
+      "tipo": "comparacao",
+      "titulo": "Compare: fato gerador — propriedade/domínio útil/posse; contribuinte — proprietário/titular do domínio útil/possuidor.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-012-b9",
+      "tipo": "teoria",
+      "titulo": "4. BASE DE CÁLCULO — CTN, ART. 33",
+      "texto": "A base de cálculo do IPTU é o VALOR VENAL DO IMÓVEL. Na determinação da base de cálculo, não se considera o valor dos bens móveis mantidos, em caráter permanente ou temporário, no imóvel para efeito de sua utilização, exploração, aformoseamento ou comodidade."
+    },
+    {
+      "id": "direito-tributario-aula-012-b10",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "IPTU → BASE = VALOR VENAL DO IMÓVEL."
+    },
+    {
+      "id": "direito-tributario-aula-012-b11",
+      "tipo": "teoria",
+      "titulo": "5. PROGRESSIVIDADE E DIFERENCIAÇÃO",
+      "texto": "A Constituição permite que o IPTU seja progressivo em razão do valor do imóvel e tenha alíquotas diferentes de acordo com a localização e o uso do imóvel. Existe ainda a progressividade no tempo, ligada à política urbana e ao cumprimento da função social da propriedade, nas condições constitucionais e legais.\nNão misture: PROGRESSIVIDADE FISCAL → valor do imóvel. DIFERENCIAÇÃO → localização e uso. PROGRESSIVIDADE NO TEMPO → política urbana/função social.\n6. PEGADINHA IPTU x ITR\nNão use a fórmula simplista “todo imóvel dentro do perímetro urbano sempre paga IPTU”. Em prova, observe a legislação aplicável e as particularidades do caso. Palavras como TODO, SEMPRE e EXCLUSIVAMENTE merecem atenção."
+    },
+    {
+      "id": "direito-tributario-aula-012-b12",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Reduzir o fato gerador à propriedade registrada; trocar “pelo menos dois” por “todos os cinco” melhoramentos; substituir valor venal por preço de aquisição; afirmar que somente proprietário registrado pode ser contribuinte; confundir progressividade em razão do valor com diferenciação por localização/uso; apagar a regra especial das áreas urbanizáveis ou de expansão urbana."
+    },
+    {
+      "id": "direito-tributario-aula-012-b13",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver antes e confira o gabarito imediatamente abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-012-q-001",
+        "direito-tributario-aula-012-q-002",
+        "direito-tributario-aula-012-q-003",
+        "direito-tributario-aula-012-q-004",
+        "direito-tributario-aula-012-q-005",
+        "direito-tributario-aula-012-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-012-b14",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-B: o distrator reduz indevidamente o fato gerador à propriedade registrada.\n2-C: literalidade decisiva: pelo menos 2 dos 5 melhoramentos.\n3-C: associação automática — IPTU = valor venal.\n4-D: “somente” cria a armadilha; o CTN também contempla titular do domínio útil e possuidor.\n5-D: todas as assertivas estão corretas.\n6-B: a banca tenta apagar a regra especial das áreas urbanizáveis ou de expansão urbana."
+    },
+    {
+      "id": "direito-tributario-aula-012-b15",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO CUMULATIVA",
+      "texto": "1. Quais os impostos municipais? Resposta: IPTU, ITBI e ISS.\n2. Receber parte do IPVA transforma-o em municipal? Resposta: não.\n3. IPTU — fato gerador? Resposta: propriedade, domínio útil ou posse nas condições legais.\n4. Zona urbana no CTN? Resposta: lei municipal + pelo menos 2 dos 5 melhoramentos, ressalvada a disciplina do §2º.\n5. Base do IPTU? Resposta: valor venal do imóvel.\n6. Contribuinte? Resposta: proprietário, titular do domínio útil ou possuidor a qualquer título.\n7. Imunidade? Resposta: Constituição.\n8. Isenção? Resposta: lei.\n9. Decadência? Resposta: prazo para constituir.\n10. Prescrição? Resposta: prazo para cobrar crédito definitivamente constituído."
+    },
+    {
+      "id": "direito-tributario-aula-012-b16",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "IPTU É MUNICIPAL; INCIDE SOBRE PROPRIEDADE, DOMÍNIO ÚTIL OU POSSE; ZONA URBANA É LEI + 2 DE 5; BASE É VALOR VENAL; E PROGRESSIVIDADE NÃO SE CONFUNDE COM MERA DIFERENCIAÇÃO DE ALÍQUOTAS.\n\nNa próxima aula, avançaremos para ITBI — fato gerador, transmissão onerosa inter vivos, competência territorial e imunidades/não incidência constitucionais, mantendo foco exclusivo em AGENTE FISCAL."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-012-q-001",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 1,
+      "question": "Segundo o CTN, o fato gerador do IPTU compreende:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente a propriedade registrada."
+        },
+        {
+          "id": "B",
+          "text": "propriedade, domínio útil ou posse do imóvel nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente a posse com escritura pública."
+        },
+        {
+          "id": "D",
+          "text": "apenas imóveis edificados."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "o distrator reduz indevidamente o fato gerador à propriedade registrada.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-012-q-002",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 2,
+      "question": "Para caracterização da zona urbana segundo a regra do art. 32, §1º, exige-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "todos os cinco melhoramentos."
+        },
+        {
+          "id": "B",
+          "text": "pelo menos três."
+        },
+        {
+          "id": "C",
+          "text": "pelo menos dois dos melhoramentos previstos, construídos ou mantidos pelo Poder Público."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente rede de água e esgoto."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "literalidade decisiva: pelo menos 2 dos 5 melhoramentos.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-012-q-003",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 3,
+      "question": "Constitui base de cálculo do IPTU:",
+      "options": [
+        {
+          "id": "A",
+          "text": "renda anual do proprietário."
+        },
+        {
+          "id": "B",
+          "text": "preço de aquisição obrigatoriamente."
+        },
+        {
+          "id": "C",
+          "text": "valor venal do imóvel."
+        },
+        {
+          "id": "D",
+          "text": "valor dos bens móveis existentes no imóvel."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "associação automática — IPTU = valor venal.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-012-q-004",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 4,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o proprietário pode ser contribuinte do IPTU."
+        },
+        {
+          "id": "B",
+          "text": "o titular do domínio útil pode ser contribuinte."
+        },
+        {
+          "id": "C",
+          "text": "o possuidor pode ser contribuinte nas condições do CTN."
+        },
+        {
+          "id": "D",
+          "text": "somente quem possui registro imobiliário de propriedade pode ser contribuinte."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "“somente” cria a armadilha; o CTN também contempla titular do domínio útil e possuidor.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-012-q-005",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 5,
+      "question": "Considere: I. IPTU é imposto municipal. II. Sua base de cálculo é o valor venal do imóvel. III. A Constituição admite progressividade em razão do valor do imóvel. IV. A Constituição admite alíquotas diferentes conforme localização e uso.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e III apenas."
+        },
+        {
+          "id": "C",
+          "text": "II e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "todas as assertivas estão corretas.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    },
+    {
+      "id": "direito-tributario-aula-012-q-006",
+      "lessonId": "direito-tributario-aula-012",
+      "numero": 6,
+      "question": "Sobre áreas urbanizáveis ou de expansão urbana:",
+      "options": [
+        {
+          "id": "A",
+          "text": "jamais podem ser consideradas urbanas para efeitos do IPTU."
+        },
+        {
+          "id": "B",
+          "text": "podem ser consideradas urbanas por lei municipal nas condições do CTN."
+        },
+        {
+          "id": "C",
+          "text": "somente a União pode defini-las."
+        },
+        {
+          "id": "D",
+          "text": "necessariamente precisam possuir todos os cinco melhoramentos do §1º. GABARITO: 1-B | 2-C | 3-C | 4-D | 5-D | 6-B."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "a banca tenta apagar a regra especial das áreas urbanizáveis ou de expansão urbana.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-012-q-001",
+      "resposta": "B",
+      "comentario": "o distrator reduz indevidamente o fato gerador à propriedade registrada."
+    },
+    {
+      "questionId": "direito-tributario-aula-012-q-002",
+      "resposta": "C",
+      "comentario": "literalidade decisiva: pelo menos 2 dos 5 melhoramentos."
+    },
+    {
+      "questionId": "direito-tributario-aula-012-q-003",
+      "resposta": "C",
+      "comentario": "associação automática — IPTU = valor venal."
+    },
+    {
+      "questionId": "direito-tributario-aula-012-q-004",
+      "resposta": "D",
+      "comentario": "“somente” cria a armadilha; o CTN também contempla titular do domínio útil e possuidor."
+    },
+    {
+      "questionId": "direito-tributario-aula-012-q-005",
+      "resposta": "D",
+      "comentario": "todas as assertivas estão corretas."
+    },
+    {
+      "questionId": "direito-tributario-aula-012-q-006",
+      "resposta": "B",
+      "comentario": "a banca tenta apagar a regra especial das áreas urbanizáveis ou de expansão urbana."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-012-b15",
+      "titulo": "RECUPERAÇÃO CUMULATIVA",
+      "texto": "1. Quais os impostos municipais? Resposta: IPTU, ITBI e ISS.\n2. Receber parte do IPVA transforma-o em municipal? Resposta: não.\n3. IPTU — fato gerador? Resposta: propriedade, domínio útil ou posse nas condições legais.\n4. Zona urbana no CTN? Resposta: lei municipal + pelo menos 2 dos 5 melhoramentos, ressalvada a disciplina do §2º.\n5. Base do IPTU? Resposta: valor venal do imóvel.\n6. Contribuinte? Resposta: proprietário, titular do domínio útil ou possuidor a qualquer título.\n7. Imunidade? Resposta: Constituição.\n8. Isenção? Resposta: lei.\n9. Decadência? Resposta: prazo para constituir.\n10. Prescrição? Resposta: prazo para cobrar crédito definitivamente constituído."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "c7d49f8b63575a06"
+}

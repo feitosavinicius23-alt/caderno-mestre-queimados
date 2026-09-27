@@ -1,0 +1,357 @@
+{
+  "id": "direito-tributario-aula-006",
+  "numero": 6,
+  "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+  "slug": "garantias-e-privilegios-do-credito-tributario",
+  "disciplina": "Direito Tributário",
+  "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+  "ordem": 6,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "CRÉDITO CONSTITUÍDO PRECISA SER PROTEGIDO: GARANTIA PROTEGE A SATISFAÇÃO; PRIVILÉGIO ORGANIZA A PREFERÊNCIA.\n\nNa próxima aula, avançaremos para INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS, conectando o CTN à atuação prática do Agente Fiscal.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-006-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Hoje avançamos para um tema expressamente previsto no conteúdo de Direito Tributário do AGENTE FISCAL: garantias e privilégios do crédito tributário. A ideia central é simples: depois de constituído o crédito, o CTN cria mecanismos para proteger sua satisfação."
+    },
+    {
+      "id": "direito-tributario-aula-006-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "GARANTIA → protege a possibilidade de satisfação do crédito.\nPRIVILÉGIO/PREFERÊNCIA → estabelece posição favorecida do crédito tributário diante de outros créditos, nos limites legais."
+    },
+    {
+      "id": "direito-tributario-aula-006-b3",
+      "tipo": "teoria",
+      "titulo": "1. GARANTIAS NÃO SÃO UMA LISTA FECHADA",
+      "texto": "O CTN estabelece que a enumeração das garantias atribuídas ao crédito tributário não exclui outras que sejam expressamente previstas em lei, em função da natureza ou das características do tributo.\nPegadinha: “As garantias do CTN são taxativas e nenhuma outra pode ser criada por lei.” → ERRADO."
+    },
+    {
+      "id": "direito-tributario-aula-006-b4",
+      "tipo": "teoria",
+      "titulo": "2. UNIVERSALIDADE PATRIMONIAL — REGRA DO ART. 184",
+      "texto": "Sem prejuízo dos privilégios especiais sobre determinados bens, responde pelo pagamento do crédito tributário a totalidade dos bens e rendas do sujeito passivo, seu espólio ou massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, qualquer que seja a data da constituição do ônus ou cláusula, ressalvados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis.\nPara prova, grave a oposição:\nREGRA → patrimônio responde amplamente.\nRESSALVA → bens/rendas declarados pela lei absolutamente impenhoráveis.\nA banca pode tentar transformar “absolutamente impenhoráveis” em qualquer bem simplesmente gravado por cláusula particular. Não é a mesma coisa."
+    },
+    {
+      "id": "direito-tributario-aula-006-b5",
+      "tipo": "teoria",
+      "titulo": "3. FRAUDE À EXECUÇÃO FISCAL — ART. 185",
+      "texto": "Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por sujeito passivo em débito para com a Fazenda Pública por crédito tributário regularmente inscrito como dívida ativa.\nA expressão decisiva é:\nCRÉDITO TRIBUTÁRIO REGULARMENTE INSCRITO EM DÍVIDA ATIVA.\nA regra não se aplica se o devedor houver reservado bens ou rendas suficientes ao total pagamento da dívida inscrita.\nMemória:\nINSCRIÇÃO EM DÍVIDA ATIVA + ALIENAÇÃO/ONERAÇÃO → ALERTA DE FRAUDE.\nRESERVOU PATRIMÔNIO SUFICIENTE → exceção legal."
+    },
+    {
+      "id": "direito-tributario-aula-006-b6",
+      "tipo": "teoria",
+      "titulo": "4. INDISPONIBILIDADE — ART. 185-A",
+      "texto": "Quando o devedor tributário, devidamente citado, não paga nem apresenta bens à penhora no prazo legal e não são encontrados bens penhoráveis, o juiz pode determinar a indisponibilidade de bens e direitos, limitada ao valor total exigível.\nSequência mental:\nCITAÇÃO → NÃO PAGA/NÃO INDICA BENS → NÃO ENCONTRADOS BENS PENHORÁVEIS → INDISPONIBILIDADE JUDICIAL.\nPegadinha forte: a indisponibilidade não significa autorização ilimitada para bloquear patrimônio sem relação com o montante exigível. O CTN trabalha com limite correspondente ao valor total exigível."
+    },
+    {
+      "id": "direito-tributario-aula-006-b7",
+      "tipo": "teoria",
+      "titulo": "5. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO — ART. 186",
+      "texto": "Regra geral: o crédito tributário prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constituição, RESSALVADOS os créditos decorrentes da legislação do trabalho ou do acidente de trabalho.\nMemória de prova:\nTRABALHO/ACIDENTE DE TRABALHO → podem ficar à frente do crédito tributário na regra geral do art. 186.\nMas atenção: falência possui disciplina própria no próprio CTN. Não transforme a regra geral em resposta automática para toda situação falimentar."
+    },
+    {
+      "id": "direito-tributario-aula-006-b8",
+      "tipo": "teoria",
+      "titulo": "6. CONCURSO DE PREFERÊNCIA ENTRE PESSOAS JURÍDICAS DE DIREITO PÚBLICO — ART. 187",
+      "texto": "O crédito tributário não se submete a concurso de credores ou habilitação em falência, recuperação judicial, inventário ou arrolamento. O CTN também estabelece ordem para concurso de preferência entre pessoas jurídicas de direito público.\nPara nossa primeira volta, fixe a lógica da ordem tradicional do CTN:\nUNIÃO → ESTADOS/DF conjuntamente e pro rata → MUNICÍPIOS conjuntamente e pro rata.\nComo você fará prova para fiscalização municipal, cuidado com alternativa dizendo que o Município sempre prefere à União apenas porque o tributo é municipal. Isso está errado."
+    },
+    {
+      "id": "direito-tributario-aula-006-b9",
+      "tipo": "teoria",
+      "titulo": "7. CERTIDÕES E PAGAMENTO EM SITUAÇÕES ESPECÍFICAS",
+      "texto": "O CTN protege o crédito tributário também em situações como inventário, arrolamento, liquidação e contratação com o Poder Público, exigindo prova de quitação nas hipóteses legais. O ponto de prova é perceber que “privilégios” não significam apenas preferência abstrata: existem mecanismos concretos para evitar que patrimônio seja distribuído ou certas relações avancem ignorando débitos tributários."
+    },
+    {
+      "id": "direito-tributario-aula-006-b10",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "GARANTIAS → protegem a satisfação do crédito.\nART. 184 → patrimônio responde amplamente; ressalva dos absolutamente impenhoráveis por lei.\nART. 185 → alienação/oneração após regular inscrição em dívida ativa pode ser presumida fraudulenta; exceção se houver reserva suficiente.\nART. 185-A → citado + não paga/não apresenta bens + não encontrados bens penhoráveis → juiz pode determinar indisponibilidade, limitada ao exigível.\nART. 186 → preferência tributária, ressalvados na regra geral créditos trabalhistas e de acidente de trabalho.\nART. 187 → crédito tributário não se submete ao concurso/habilitação nas situações previstas; preferência entre entes segue a ordem legal.",
+      "mapaId": "direito-tributario-aula-006-b10"
+    },
+    {
+      "id": "direito-tributario-aula-006-b11",
+      "tipo": "pegadinha",
+      "titulo": "COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar “regularmente inscrito em dívida ativa” por “desde a ocorrência do fato gerador”; transformar a presunção de fraude em regra sem a exceção da reserva patrimonial suficiente; dizer que qualquer cláusula privada de impenhorabilidade afasta necessariamente o crédito tributário; inverter a preferência entre União, Estados/DF e Municípios; usar palavras absolutas como “sempre”, “automaticamente” e “sem qualquer limite”."
+    },
+    {
+      "id": "direito-tributario-aula-006-b12",
+      "tipo": "questao",
+      "titulo": "QUESTÕES — PADRÃO IAN",
+      "texto": "Tente resolver primeiro e só depois confira o gabarito imediatamente abaixo.",
+      "questionIds": [
+        "direito-tributario-aula-006-q-001",
+        "direito-tributario-aula-006-q-002",
+        "direito-tributario-aula-006-q-003",
+        "direito-tributario-aula-006-q-004",
+        "direito-tributario-aula-006-q-005",
+        "direito-tributario-aula-006-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-006-b13",
+      "tipo": "gabarito-comentado",
+      "titulo": "CORREÇÃO E MECANISMO DA BANCA",
+      "texto": "1-C: o distrator A usa uma palavra absoluta — “impede” — para transformar a enumeração em lista fechada.\n2-B: a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa.\n3-C: questão típica de exceção. A reserva de patrimônio suficiente afasta a aplicação da presunção prevista no dispositivo.\n4-D: “ilimitada” denuncia o exagero. A indisponibilidade deve observar o limite legal ligado ao valor exigível.\n5-A: literalidade importante do art. 186. Não aplique essa frase mecanicamente à falência sem observar sua disciplina específica.\n6-B: memorize a hierarquia legal para não cair no impulso de privilegiar o Município por ser uma prova municipal."
+    },
+    {
+      "id": "direito-tributario-aula-006-b14",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Parcelamento: suspende, extingue ou exclui?\nResposta: suspende.\n2. Remissão?\nResposta: extingue.\n3. Isenção e anistia?\nResposta: excluem.\n4. Depósito integral?\nResposta: suspende.\n5. Conversão do depósito em renda?\nResposta: extingue.\n6. O que constitui o crédito tributário?\nResposta: lançamento."
+    },
+    {
+      "id": "direito-tributario-aula-006-b15",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "CRÉDITO CONSTITUÍDO PRECISA SER PROTEGIDO: GARANTIA PROTEGE A SATISFAÇÃO; PRIVILÉGIO ORGANIZA A PREFERÊNCIA.\n\nNa próxima aula, avançaremos para INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS, conectando o CTN à atuação prática do Agente Fiscal."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-006-q-001",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 1,
+      "question": "Sobre as garantias do crédito tributário, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A enumeração do CTN impede a criação legal de outras garantias."
+        },
+        {
+          "id": "B",
+          "text": "Somente bens sem qualquer ônus podem responder pelo crédito tributário."
+        },
+        {
+          "id": "C",
+          "text": "A enumeração das garantias no CTN não exclui outras expressamente previstas em lei."
+        },
+        {
+          "id": "D",
+          "text": "Toda cláusula particular de impenhorabilidade prevalece necessariamente contra o crédito tributário."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "o distrator A usa uma palavra absoluta — “impede” — para transformar a enumeração em lista fechada.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-006-q-002",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 2,
+      "question": "Para a presunção do art. 185 do CTN, é elemento especialmente relevante:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas a ocorrência do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "crédito tributário regularmente inscrito em dívida ativa."
+        },
+        {
+          "id": "C",
+          "text": "qualquer dívida civil ainda não vencida."
+        },
+        {
+          "id": "D",
+          "text": "somente sentença judicial transitada em julgado."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-006-q-003",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 3,
+      "question": "A presunção de fraude do art. 185 não se aplica quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o devedor simplesmente afirma que pretende pagar no futuro."
+        },
+        {
+          "id": "B",
+          "text": "o bem alienado possui elevado valor sentimental."
+        },
+        {
+          "id": "C",
+          "text": "foram reservados bens ou rendas suficientes ao total pagamento da dívida inscrita."
+        },
+        {
+          "id": "D",
+          "text": "a alienação ocorre depois da inscrição em dívida ativa, em qualquer hipótese."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "questão típica de exceção. A reserva de patrimônio suficiente afasta a aplicação da presunção prevista no dispositivo.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-006-q-004",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 4,
+      "question": "Sobre a indisponibilidade do art. 185-A, assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pressupõe, na disciplina legal, devedor devidamente citado."
+        },
+        {
+          "id": "B",
+          "text": "relaciona-se à ausência de pagamento/apresentação de bens e à não localização de bens penhoráveis."
+        },
+        {
+          "id": "C",
+          "text": "pode ser determinada judicialmente."
+        },
+        {
+          "id": "D",
+          "text": "autoriza indisponibilidade ilimitada, independentemente do valor total exigível."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "“ilimitada” denuncia o exagero. A indisponibilidade deve observar o limite legal ligado ao valor exigível.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-006-q-005",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 5,
+      "question": "Na regra geral de preferência do art. 186, o crédito tributário ressalva os créditos:",
+      "options": [
+        {
+          "id": "A",
+          "text": "decorrentes da legislação do trabalho ou do acidente de trabalho."
+        },
+        {
+          "id": "B",
+          "text": "de qualquer fornecedor privado, independentemente da natureza."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente bancários."
+        },
+        {
+          "id": "D",
+          "text": "constituídos depois do crédito tributário."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "literalidade importante do art. 186. Não aplique essa frase mecanicamente à falência sem observar sua disciplina específica.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    },
+    {
+      "id": "direito-tributario-aula-006-q-006",
+      "lessonId": "direito-tributario-aula-006",
+      "numero": 6,
+      "question": "No concurso de preferência entre pessoas jurídicas de direito público, segundo a ordem do CTN trabalhada nesta aula:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Municípios preferem à União."
+        },
+        {
+          "id": "B",
+          "text": "União vem antes; depois Estados/DF conjuntamente e pro rata; depois Municípios conjuntamente e pro rata."
+        },
+        {
+          "id": "C",
+          "text": "a ordem depende exclusivamente da data do fato gerador."
+        },
+        {
+          "id": "D",
+          "text": "todos os entes possuem preferência absolutamente idêntica em qualquer situação. GABARITO: 1-C | 2-B | 3-C | 4-D | 5-A | 6-B."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "memorize a hierarquia legal para não cair no impulso de privilegiar o Município por ser uma prova municipal.",
+      "gabaritoOculto": false,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+    }
+  ],
+  "gabaritos": [
+    {
+      "questionId": "direito-tributario-aula-006-q-001",
+      "resposta": "C",
+      "comentario": "o distrator A usa uma palavra absoluta — “impede” — para transformar a enumeração em lista fechada."
+    },
+    {
+      "questionId": "direito-tributario-aula-006-q-002",
+      "resposta": "B",
+      "comentario": "a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa."
+    },
+    {
+      "questionId": "direito-tributario-aula-006-q-003",
+      "resposta": "C",
+      "comentario": "questão típica de exceção. A reserva de patrimônio suficiente afasta a aplicação da presunção prevista no dispositivo."
+    },
+    {
+      "questionId": "direito-tributario-aula-006-q-004",
+      "resposta": "D",
+      "comentario": "“ilimitada” denuncia o exagero. A indisponibilidade deve observar o limite legal ligado ao valor exigível."
+    },
+    {
+      "questionId": "direito-tributario-aula-006-q-005",
+      "resposta": "A",
+      "comentario": "literalidade importante do art. 186. Não aplique essa frase mecanicamente à falência sem observar sua disciplina específica."
+    },
+    {
+      "questionId": "direito-tributario-aula-006-q-006",
+      "resposta": "B",
+      "comentario": "memorize a hierarquia legal para não cair no impulso de privilegiar o Município por ser uma prova municipal."
+    }
+  ],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-006-b14",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "1. Parcelamento: suspende, extingue ou exclui?\nResposta: suspende.\n2. Remissão?\nResposta: extingue.\n3. Isenção e anistia?\nResposta: excluem.\n4. Depósito integral?\nResposta: suspende.\n5. Conversão do depósito em renda?\nResposta: extingue.\n6. O que constitui o crédito tributário?\nResposta: lançamento."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-006-b10",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "GARANTIAS",
+        "protegem a satisfação do crédito",
+        "ART. 184",
+        "patrimônio responde amplamente; ressalva dos absolutamente impenhoráveis por lei",
+        "ART. 185",
+        "alienação/oneração após regular inscrição em dívida ativa pode ser presumida fraudulenta; exceção se houver reserva suficiente",
+        "ART. 185-A",
+        "citado + não paga/não apresenta bens + não encontrados bens penhoráveis",
+        "juiz pode determinar indisponibilidade, limitada ao exigível",
+        "ART. 186",
+        "preferência tributária, ressalvados na regra geral créditos trabalhistas e de acidente de trabalho",
+        "ART. 187",
+        "crédito tributário não se submete ao concurso/habilitação nas situações previstas; preferência entre entes segue a ordem legal"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "1465dc99abd05cd5"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "legislacao-tributaria-de-queimados-aula-026",
+  "numero": 26,
+  "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
+  "slug": "codigo-tributario-de-queimados-iptu-local-incidencia-cadastro-valor-venal-e-lanc",
+  "disciplina": "Legislação Tributária de Queimados",
+  "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
+  "ordem": 26,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 25. Agora começamos a leitura aplicada da legislação tributária local pelo IPTU, sempre dentro do conteúdo de AGENTE FISCAL. A regra de método é comparar o CTN com a disciplina municipal, sem inventar regras locais quando a redação atualizada não estiver confirmada.\nMEMÓRIA CENTRAL: IPTU É IMPOSTO MUNICIPAL; O CTN FIXA A ESTRUTURA GERAL E A LEI DE QUEIMADOS DETALHA A APLICAÇÃO LOCAL. O FISCAL DEVE IDENTIFICAR O IMÓVEL, O SUJEITO PASSIVO, A BASE LEGAL, A BASE DE CÁLCULO E O LANÇAMENTO.\n1. PONTO DE PARTIDA — CTN. O fato gerador do IPTU envolve propriedade, domínio útil ou posse de imóvel nas condições legais; a base de cálculo é o valor venal. Isso continua sendo o filtro para ler a legislação municipal. Se a alternativa reduzir o IPTU exclusivamente ao proprietário com registro, desconfie.\n2. CADASTRO IMOBILIÁRIO. O cadastro fiscal é instrumento de administração tributária. Ele reúne dados necessários à identificação do imóvel e à tributação, mas não se confunde com o Registro de Imóveis. Alteração cadastral pode ter relevância fiscal sem, por si só, criar ou transferir propriedade civil."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b2",
+      "tipo": "regra-de-prova",
+      "titulo": "REGRA DE PROVA: CADASTRO FISCAL ≠ TÍTULO DE PROPRIEDADE.",
+      "texto": "3. SITUAÇÃO FÁTICA E SUJEITO PASSIVO. Na fiscalização imobiliária, não basta olhar um único campo cadastral. O agente deve confrontar a situação do imóvel com a legislação: localização, utilização, características físicas, titularidade/posse relevante e demais elementos legalmente pertinentes. A responsabilidade tributária depende da lei; o fiscal não escolhe livremente quem será devedor.\n4. VALOR VENAL. A base do IPTU é o valor venal do imóvel. Não confunda valor venal com preço histórico de compra, renda do proprietário ou valor dos móveis existentes dentro do imóvel. A legislação municipal pode estabelecer critérios objetivos de avaliação e planta de valores, sempre submetidos à legalidade e às regras superiores aplicáveis."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b3",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "IPTU → VALOR VENAL. ISS → PREÇO DO SERVIÇO. ITBI → TRANSMISSÃO ONEROSA INTER VIVOS, com base disciplinada pela legislação aplicável."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b4",
+      "tipo": "regra-de-prova",
+      "titulo": "",
+      "texto": "5. LANÇAMENTO. O IPTU é exemplo clássico trabalhado como lançamento de ofício: a Administração, com base nos dados disponíveis e na legislação, constitui o crédito e cientifica o sujeito passivo. Isso não significa que o fato gerador nasceu com o lançamento. A ordem continua: FATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO.\n6. ALTERAÇÃO CADASTRAL E FISCALIZAÇÃO. Se o Fisco identifica ampliação, alteração de uso, erro de metragem ou outro dado relevante, a consequência tributária não deve ser inventada pelo agente. É preciso aplicar a legislação vigente, observar o período alcançado, regras de lançamento/revisão, decadência e direito de defesa.\n7. PROGRESSIVIDADE. A Constituição admite progressividade do IPTU em razão do valor do imóvel e diferenciação de alíquotas conforme localização e uso, além da progressividade no tempo vinculada à política urbana nas condições constitucionais. Não confunda essas figuras.\n8. BENEFÍCIOS. Isenção de IPTU não nasce de pedido informal nem da vontade do fiscal. Deve existir fundamento legal e cumprimento dos requisitos. IMUNIDADE vem da Constituição; ISENÇÃO vem da lei. O cadastro serve para verificar fatos e requisitos, não para criar benefício.\n9. INADIMPLEMENTO. IPTU lançado e não pago não significa automaticamente dívida ativa. Primeiro há crédito constituído; depois, vencido e não pago, observados os requisitos legais, pode ocorrer inscrição. LANÇAMENTO ≠ INSCRIÇÃO EM DÍVIDA ATIVA.\n10. PEGADINHAS IAN. Reduzir contribuinte ao proprietário registrado; confundir cadastro fiscal com registro civil; trocar valor venal por preço do serviço; dizer que lançamento cria o fato gerador; afirmar que qualquer alteração cadastral autoriza cobrança retroativa ilimitada; tratar isenção como decisão discricionária do fiscal; confundir lançamento com dívida ativa; usar SEMPRE, SOMENTE, AUTOMATICAMENTE e SEM LIMITE."
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b5",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "IPTU → imposto municipal.\nFato gerador → propriedade/domínio útil/posse nas condições legais.\nBase → valor venal.\nCadastro fiscal → instrumento tributário, não título de propriedade.\nLançamento → constitui o crédito; não cria o fato gerador.\nBenefício → depende de fundamento jurídico.\nNão pagamento → pode levar à dívida ativa após os passos legais; não é inscrição automática.",
+      "mapaId": "legislacao-tributaria-de-queimados-aula-026-b5"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b6",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. Sobre o cadastro imobiliário municipal: A) substitui necessariamente o Registro de Imóveis B) serve à administração tributária e não equivale automaticamente a título civil de propriedade C) cria propriedade por ato do fiscal D) elimina a necessidade de lei.\n\n2. A base de cálculo do IPTU é: A) preço do serviço B) renda do proprietário C) valor venal do imóvel D) valor dos móveis existentes no imóvel.\n\n3. É INCORRETO afirmar: A) lançamento constitui o crédito B) fato gerador faz nascer a obrigação C) lançamento e inscrição em dívida ativa são o mesmo ato D) IPTU é imposto municipal.\n\n4. Um fiscal identifica divergência cadastral relevante em imóvel. A conduta juridicamente adequada é: A) criar cobrança por critério pessoal B) aplicar a legislação vigente, observando lançamento/revisão, decadência e defesa C) escolher livremente o responsável D) dispensar o crédito se considerar pequeno.\n\n5. Considere: I cadastro fiscal não é título de propriedade; II IPTU tem base no valor venal; III isenção pode ser criada informalmente pelo fiscal; IV lançamento de ofício não significa que a obrigação nasceu com o lançamento. A) I/II B) I/II/IV C) II/III/IV D) todas.\n\n6. Intercalado: parcelamento, remissão e anistia correspondem a: A) suspensão, extinção, exclusão B) extinção, suspensão, exclusão C) exclusão, extinção, suspensão D) todas extinção.\n\n7. Intercalado: previsão, arrecadação e recolhimento significam: A) estimar, receber, transferir ao Tesouro B) receber, estimar, lançar C) lançar, cobrar, prescrever D) instituir, fiscalizar, anistiar.\n\n8. Intercalado: ITBI segue, para competência territorial: A) domicílio do comprador B) domicílio do vendedor C) situação do imóvel D) local do pagamento.\n\nNão há gabarito antecipado. Sem respostas de Vinícius às baterias anteriores, IPTU local e os temas intercalados continuam EM APRENDIZAGEM. A retenção só será confirmada quando houver resposta posterior em questões misturadas.\n\nRECUPERAÇÃO DE 60 SEGUNDOS — SEM CONSULTA: cadastro fiscal prova propriedade civil? Qual a base do IPTU? O lançamento cria a obrigação ou constitui o crédito? Não pagamento já é dívida ativa? Isenção nasce da Constituição ou da lei? Imunidade nasce de onde? Parcelamento suspende ou extingue? ITBI segue qual Município?\n\nFRASE FINAL: NO IPTU, O AGENTE FISCAL NÃO DEVE CONFUNDIR CADASTRO COM PROPRIEDADE, FATO GERADOR COM LANÇAMENTO, NEM LANÇAMENTO COM DÍVIDA ATIVA. IDENTIFIQUE O FATO, A PESSOA, O VALOR VENAL E A REGRA LEGAL APLICÁVEL."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-026-b5",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "IPTU",
+        "imposto municipal",
+        "Fato gerador",
+        "propriedade/domínio útil/posse nas condições legais",
+        "Base",
+        "valor venal",
+        "Cadastro fiscal",
+        "instrumento tributário, não título de propriedade",
+        "Lançamento",
+        "constitui o crédito; não cria o fato gerador",
+        "Benefício",
+        "depende de fundamento jurídico",
+        "Não pagamento",
+        "pode levar à dívida ativa após os passos legais; não é inscrição automática"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "0cfda31d0f286b04"
+}

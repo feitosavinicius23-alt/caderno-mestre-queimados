@@ -1,0 +1,367 @@
+{
+  "id": "direito-tributario-aula-017",
+  "numero": 17,
+  "titulo": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+  "slug": "administracao-tributaria-fiscalizacao-sigilo-fiscal-divida-ativa-e-certidoes",
+  "disciplina": "Direito Tributário",
+  "assunto": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+  "ordem": 17,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 6,
+  "resumo": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO; INADIMPLEMENTO NAS CONDIÇÕES LEGAIS PODE LEVAR À INSCRIÇÃO EM DÍVIDA ATIVA. INSCRIÇÃO REGULAR GERA PRESUNÇÃO RELATIVA DE CERTEZA E LIQUIDEZ. CRÉDITO EXISTENTE NEM SEMPRE IMPEDE EFEITOS DE CERTIDÃO NEGATIVA: LEMBRE O ART. 206.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-017-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 16. Agora avançamos para Administração Tributária, núcleo diretamente ligado à atuação do AGENTE FISCAL. A lógica desta aula é enxergar o caminho do Fisco depois das regras de incidência: FISCALIZAR → CONSTITUIR/CONTROLAR O CRÉDITO → INSCREVER QUANDO CABÍVEL → CERTIFICAR A SITUAÇÃO FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-017-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "FISCALIZAÇÃO → aplicação da legislação tributária e verificação do cumprimento das obrigações.\nDÍVIDA ATIVA → crédito regularmente inscrito após o prazo legal para pagamento, observada a disciplina aplicável.\nCERTIDÃO → prova formal da situação fiscal nos termos do CTN."
+    },
+    {
+      "id": "direito-tributario-aula-017-b3",
+      "tipo": "teoria",
+      "titulo": "1. FISCALIZAÇÃO — CTN, ARTS. 194 E SEGUINTES",
+      "texto": "A legislação tributária regula, em caráter geral ou especificamente em função da natureza do tributo, a competência e os poderes das autoridades administrativas em matéria de fiscalização. Para prova, não aceite a ideia de que o Agente Fiscal atua por vontade pessoal: a fiscalização é atividade administrativa submetida à lei.\nO art. 195 traz regra de grande importância: para os efeitos da legislação tributária, não têm aplicação disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos comerciantes, industriais ou produtores, nem a obrigação destes de exibi-los, observados os limites jurídicos aplicáveis."
+    },
+    {
+      "id": "direito-tributario-aula-017-b4",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "DOCUMENTAÇÃO FISCAL RELEVANTE → pode ser objeto de exame pela autoridade competente nos termos da lei."
+    },
+    {
+      "id": "direito-tributario-aula-017-b5",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Além disso, livros obrigatórios de escrituração comercial e fiscal e comprovantes dos lançamentos neles efetuados devem ser conservados até que ocorra a prescrição dos créditos tributários decorrentes das operações a que se refiram."
+    },
+    {
+      "id": "direito-tributario-aula-017-b6",
+      "tipo": "teoria",
+      "titulo": "2. DEVER DE INFORMAÇÃO — CTN, ART. 197",
+      "texto": "O CTN prevê que determinadas pessoas e entidades, mediante intimação escrita, devem prestar à autoridade administrativa informações de que disponham com relação a bens, negócios ou atividades de terceiros, nas hipóteses legais.\nMas cuidado com absolutismos: o próprio CTN preserva hipóteses de dever legal de sigilo profissional. Portanto, “qualquer pessoa é obrigada a revelar qualquer informação em qualquer situação” é formulação errada."
+    },
+    {
+      "id": "direito-tributario-aula-017-b7",
+      "tipo": "teoria",
+      "titulo": "3. SIGILO FISCAL — CTN, ART. 198",
+      "texto": "A regra é a vedação da divulgação, pela Fazenda Pública ou por seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades, ressalvadas as hipóteses legalmente previstas."
+    },
+    {
+      "id": "direito-tributario-aula-017-b8",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "DADO OBTIDO PELO FISCO EM RAZÃO DO OFÍCIO → REGRA = SIGILO; EXCEÇÕES = SOMENTE NAS HIPÓTESES LEGAIS."
+    },
+    {
+      "id": "direito-tributario-aula-017-b9",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Pegadinha: sigilo fiscal não significa que absolutamente nenhuma informação possa ser compartilhada. O CTN prevê exceções e intercâmbio de informações entre Fazendas Públicas nas condições legais."
+    },
+    {
+      "id": "direito-tributario-aula-017-b10",
+      "tipo": "teoria",
+      "titulo": "4. AUXÍLIO DA FORÇA PÚBLICA — CTN, ART. 200",
+      "texto": "As autoridades administrativas podem requisitar auxílio da força pública federal, estadual ou municipal, reciprocamente, quando vítimas de embaraço ou desacato no exercício de suas funções ou quando necessário à efetivação de medida prevista na legislação tributária, ainda que o fato não configure crime ou contravenção.\nPara o Agente Fiscal, grave a lógica: EMBARAÇO/DESACATO OU NECESSIDADE DE EFETIVAR MEDIDA LEGAL → possibilidade de requisição de auxílio, conforme o CTN."
+    },
+    {
+      "id": "direito-tributario-aula-017-b11",
+      "tipo": "teoria",
+      "titulo": "5. DÍVIDA ATIVA — CTN, ARTS. 201 E 202",
+      "texto": "Constitui dívida ativa tributária a proveniente de crédito dessa natureza, regularmente inscrita na repartição administrativa competente depois de esgotado o prazo fixado para pagamento pela lei ou por decisão final proferida em processo regular.\nNão confunda:\nFATO GERADOR ≠ DÍVIDA ATIVA.\nLANÇAMENTO ≠ INSCRIÇÃO EM DÍVIDA ATIVA.\nCRÉDITO CONSTITUÍDO E NÃO PAGO, NAS CONDIÇÕES LEGAIS → pode seguir para INSCRIÇÃO.\nA inscrição deve conter elementos legalmente exigidos, como identificação do devedor e corresponsáveis quando conhecidos, quantia devida e forma de cálculo dos juros, origem e natureza do crédito com indicação do fundamento legal, data da inscrição e, sendo o caso, número do processo administrativo."
+    },
+    {
+      "id": "direito-tributario-aula-017-b12",
+      "tipo": "teoria",
+      "titulo": "6. PRESUNÇÃO DA DÍVIDA ATIVA — ART. 204",
+      "texto": "A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem efeito de prova pré-constituída. Essa presunção, porém, é RELATIVA: pode ser ilidida por prova inequívoca a cargo do sujeito passivo ou terceiro a quem aproveite.\nMemória de prova: INSCRIÇÃO REGULAR → PRESUNÇÃO DE CERTEZA E LIQUIDEZ → PRESUNÇÃO RELATIVA, NÃO ABSOLUTA."
+    },
+    {
+      "id": "direito-tributario-aula-017-b13",
+      "tipo": "teoria",
+      "titulo": "7. CERTIDÃO NEGATIVA — ART. 205",
+      "texto": "A lei pode exigir prova de quitação de determinado tributo por certidão negativa, expedida à vista de requerimento do interessado e contendo as informações necessárias à identificação da pessoa, domicílio fiscal, ramo de negócio ou atividade e indicação do período a que se refere o pedido.\nO CTN estabelece prazo de 10 dias para fornecimento da certidão, contado da entrada do requerimento na repartição."
+    },
+    {
+      "id": "direito-tributario-aula-017-b14",
+      "tipo": "teoria",
+      "titulo": "8. CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA — ART. 206",
+      "texto": "Este ponto tem alto potencial de prova. Produz os mesmos efeitos da certidão negativa a certidão de que conste a existência de créditos:\n— não vencidos;\n— em curso de cobrança executiva em que tenha sido efetivada a penhora;\n— cuja exigibilidade esteja suspensa."
+    },
+    {
+      "id": "direito-tributario-aula-017-b15",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "CND = sem crédito exigível nas condições legais. CPEN = existe crédito, MAS a situação jurídica permite efeitos de negativa."
+    },
+    {
+      "id": "direito-tributario-aula-017-b16",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Exemplo: contribuinte possui crédito tributário com exigibilidade suspensa por parcelamento. Isso não significa necessariamente que receberá uma certidão “positiva simples”; o art. 206 deve ser lembrado."
+    },
+    {
+      "id": "direito-tributario-aula-017-b17",
+      "tipo": "pegadinha",
+      "titulo": "9. PEGADINHAS DE ALTA PRIORIDADE",
+      "texto": "A IAN pode trocar “presunção relativa” por “absoluta”; afirmar que dívida ativa nasce com o fato gerador; dizer que inscrição substitui o lançamento; afirmar que crédito com exigibilidade suspensa impede sempre certidão com efeitos de negativa; transformar sigilo fiscal em proibição absoluta sem exceções; ou dizer que o fiscal pode divulgar livremente informações obtidas no exercício do cargo."
+    },
+    {
+      "id": "direito-tributario-aula-017-b18",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "FISCALIZAÇÃO → poderes definidos pela legislação.\nDOCUMENTOS/LIVROS → exame e conservação nos termos do CTN.\nINFORMAÇÕES DE TERCEIROS → dever nas hipóteses legais + atenção ao sigilo profissional.\nSIGILO FISCAL → regra de não divulgação + exceções legais.\nFORÇA PÚBLICA → auxílio nas hipóteses do art. 200.\nDÍVIDA ATIVA → crédito tributário regularmente inscrito após o prazo legal.\nINSCRIÇÃO REGULAR → presunção relativa de certeza e liquidez.\nCND → prova de regularidade nas condições legais.\nCPEN → créditos não vencidos, garantidos por penhora em execução ou com exigibilidade suspensa, nas hipóteses do art. 206.",
+      "mapaId": "direito-tributario-aula-017-b18"
+    },
+    {
+      "id": "direito-tributario-aula-017-b19",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO NESTA ETAPA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-017-q-001",
+        "direito-tributario-aula-017-q-002",
+        "direito-tributario-aula-017-q-003",
+        "direito-tributario-aula-017-q-004",
+        "direito-tributario-aula-017-q-005",
+        "direito-tributario-aula-017-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-017-b20",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
+    },
+    {
+      "id": "direito-tributario-aula-017-b21",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO; INADIMPLEMENTO NAS CONDIÇÕES LEGAIS PODE LEVAR À INSCRIÇÃO EM DÍVIDA ATIVA. INSCRIÇÃO REGULAR GERA PRESUNÇÃO RELATIVA DE CERTEZA E LIQUIDEZ. CRÉDITO EXISTENTE NEM SEMPRE IMPEDE EFEITOS DE CERTIDÃO NEGATIVA: LEMBRE O ART. 206."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-017-q-001",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 1,
+      "question": "A dívida ativa tributária corresponde, nos termos do CTN, em essência:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ao simples nascimento da obrigação com o fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "ao crédito tributário regularmente inscrito na repartição competente após esgotado o prazo legal para pagamento, observadas as condições legais."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente à multa criminal transitada em julgado."
+        },
+        {
+          "id": "D",
+          "text": "a qualquer valor estimado pelo fiscal antes do lançamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    },
+    {
+      "id": "direito-tributario-aula-017-q-002",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a dívida regularmente inscrita goza de presunção de certeza e liquidez."
+        },
+        {
+          "id": "B",
+          "text": "essa presunção pode ser ilidida por prova inequívoca nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "a presunção decorrente da inscrição é absoluta e jamais admite prova em contrário."
+        },
+        {
+          "id": "D",
+          "text": "a inscrição deve observar requisitos legais."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    },
+    {
+      "id": "direito-tributario-aula-017-q-003",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 3,
+      "question": "Um contribuinte possui crédito tributário cuja exigibilidade está suspensa. Quanto à certidão, o CTN prevê que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "jamais poderá existir certidão com efeitos de negativa."
+        },
+        {
+          "id": "B",
+          "text": "a situação pode permitir certidão positiva com efeitos de negativa, nos termos do art. 206."
+        },
+        {
+          "id": "C",
+          "text": "o crédito é automaticamente extinto."
+        },
+        {
+          "id": "D",
+          "text": "a suspensão transforma o crédito em isenção."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    },
+    {
+      "id": "direito-tributario-aula-017-q-004",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 4,
+      "question": "Sobre sigilo fiscal, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o servidor pode divulgar livremente informações econômicas obtidas em razão do ofício."
+        },
+        {
+          "id": "B",
+          "text": "a regra é a proteção das informações obtidas em razão do ofício, ressalvadas hipóteses legais de divulgação/intercâmbio."
+        },
+        {
+          "id": "C",
+          "text": "nenhuma informação pode ser compartilhada em hipótese alguma."
+        },
+        {
+          "id": "D",
+          "text": "sigilo fiscal existe apenas para impostos federais."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    },
+    {
+      "id": "direito-tributario-aula-017-q-005",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 5,
+      "question": "Considere: I. Fato gerador faz nascer a obrigação. II. Lançamento constitui o crédito. III. Inscrição em dívida ativa é sinônimo de lançamento. IV. Dívida ativa regularmente inscrita possui presunção relativa de certeza e liquidez.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, II e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II, III e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    },
+    {
+      "id": "direito-tributario-aula-017-q-006",
+      "lessonId": "direito-tributario-aula-017",
+      "numero": 6,
+      "question": "TESTE INTERCALADO. Qual associação está correta?",
+      "options": [
+        {
+          "id": "A",
+          "text": "parcelamento → extinção; remissão → suspensão."
+        },
+        {
+          "id": "B",
+          "text": "taxa de serviço → serviço específico e divisível; contribuição de melhoria → obra pública + valorização imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "ISS → valor venal do imóvel; IPTU → preço do serviço."
+        },
+        {
+          "id": "D",
+          "text": "ITBI → transmissão causa mortis gratuita. Não há gabarito nesta etapa. Como não existem respostas do aluno registradas para as baterias pendentes de ITBI, ISS, taxas e contribuição de melhoria, esses temas permanecem NÃO DOMINADOS e continuarão intercalados. Esta aula também só será considerada dominada após retenção posterior em questões misturadas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-017-b20",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-017-b18",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "FISCALIZAÇÃO",
+        "poderes definidos pela legislação",
+        "DOCUMENTOS/LIVROS",
+        "exame e conservação nos termos do CTN",
+        "INFORMAÇÕES DE TERCEIROS",
+        "dever nas hipóteses legais + atenção ao sigilo profissional",
+        "SIGILO FISCAL",
+        "regra de não divulgação + exceções legais",
+        "FORÇA PÚBLICA",
+        "auxílio nas hipóteses do art. 200",
+        "DÍVIDA ATIVA",
+        "crédito tributário regularmente inscrito após o prazo legal",
+        "INSCRIÇÃO REGULAR",
+        "presunção relativa de certeza e liquidez",
+        "CND",
+        "prova de regularidade nas condições legais",
+        "CPEN",
+        "créditos não vencidos, garantidos por penhora em execução ou com exigibilidade suspensa, nas hipóteses do art. 206"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "e47cdc515af7bc3f"
+}

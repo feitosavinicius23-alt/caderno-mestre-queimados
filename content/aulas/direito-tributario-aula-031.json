@@ -1,0 +1,38 @@
+{
+  "id": "direito-tributario-aula-031",
+  "numero": 31,
+  "titulo": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+  "slug": "contribuicao-de-melhoria-obra-publica-valorizacao-e-limites-aula-31",
+  "disciplina": "Direito Tributário",
+  "assunto": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+  "ordem": 31,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-031-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 30. Fórmula central: OBRA PÚBLICA + VALORIZAÇÃO IMOBILIÁRIA DELA DECORRENTE → CONTRIBUIÇÃO DE MELHORIA. Não basta existir obra pública; deve haver nexo entre a obra e a valorização do imóvel.\nNão confunda com taxa: TAXA → poder de polícia ou serviço específico/divisível. CONTRIBUIÇÃO DE MELHORIA → obra pública + valorização imobiliária. Também não é imposto, pois está vinculada a uma atuação estatal específica.\nDOIS LIMITES CLÁSSICOS: LIMITE TOTAL → despesa realizada com a obra. LIMITE INDIVIDUAL → acréscimo de valor que a obra produzir para cada imóvel beneficiado. Ex.: obra de R$ 2 milhões; imóvel valorizou R$ 20 mil por causa dela. O limite individual é a valorização de R$ 20 mil, não o valor total do imóvel nem o custo global da obra.\nA valorização precisa decorrer da obra. Valorização puramente mercadológica, sem nexo com a intervenção pública, não satisfaz por si só o pressuposto. A disciplina legal também exige procedimento e publicidade dos elementos relevantes da obra e da cobrança; não é cobrança surpresa nem valor escolhido livremente pelo fiscal.\nPAVIMENTAÇÃO NÃO GERA AUTOMATICAMENTE CONTRIBUIÇÃO: pergunte se é obra pública, se houve valorização decorrente dela e se os requisitos legais foram observados.\nMAPA: IPTU → imóvel urbano/valor venal. ITBI → transmissão inter vivos onerosa/situação do imóvel. ISS → serviço da lista/preço. TAXA → polícia ou serviço específico e divisível. CONTRIBUIÇÃO DE MELHORIA → obra + valorização. MULTA → infração, não tributo. TARIFA → não tributo.\nPEGADINHAS IAN: “toda obra gera contribuição”; “limite individual é o valor total do imóvel”; “contribuição decorre de poder de polícia”; “basta valorização do mercado”; “não há limite global”; “cobrança independe de procedimento”. Atenção a TODO, BASTA, SEMPRE, AUTOMATICAMENTE."
+    },
+    {
+      "id": "direito-tributario-aula-031-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE SEM GABARITO ANTECIPADO",
+      "texto": "1. Núcleo da contribuição de melhoria: A serviço da LC 116 B poder de polícia C obra pública da qual decorra valorização imobiliária D transmissão onerosa.\n2. INCORRETO: A obra isolada não basta B deve haver nexo obra-valorização C limite individual liga-se ao acréscimo de valor D limite individual é necessariamente o valor total do imóvel.\n3. Obra de R$5 mi; imóvel valorizou R$30 mil: limite individual relaciona-se A R$5 mi B valor total atual C acréscimo decorrente da obra D faturamento do proprietário.\n4. Associação correta: A taxa→obra+valorização B contribuição de melhoria→obra+valorização C ISS→valor venal D IPTU→preço.\n5. Valorização apenas por aquecimento do mercado, sem nexo com obra: A gera necessariamente contribuição B não satisfaz o requisito de valorização decorrente de obra C gera taxa D gera IPTU progressivo no tempo.\n6. Taxa de serviço exige: A geral/indivisível B específico/divisível C obra pública D transmissão.\n7. Base geral do ISS: A valor venal B preço do serviço C valor transmitido D custo da obra.\n8. ITBI: A causa mortis gratuito B inter vivos oneroso C bens móveis D serviço.\n9. Parcelamento, remissão, anistia: A suspensão/extinção/exclusão B extinção/suspensão/exclusão C exclusão/extinção/suspensão D três suspensões.\n10. Sequência correta: A IPTU→preço; ISS→venal; taxa→obra B IPTU→venal; ISS→preço; contribuição→obra+valorização C ITBI→serviço; taxa→herança; ISS→imóvel D contribuição→polícia; IPTU→faturamento; ISS→herança.\n\nSem respostas registradas, o tema permanece EM APRENDIZAGEM. FRASE FINAL: CONTRIBUIÇÃO DE MELHORIA NÃO NASCE DA OBRA SOZINHA. EXIGE OBRA PÚBLICA + VALORIZAÇÃO DELA DECORRENTE; TOTAL LIMITADO PELO CUSTO DA OBRA E INDIVIDUAL LIMITADO PELO ACRÉSCIMO DE VALOR DO IMÓVEL."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "8c19971f101e18aa"
+}

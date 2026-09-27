@@ -1,0 +1,38 @@
+{
+  "id": "direito-tributario-aula-032",
+  "numero": 32,
+  "titulo": "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
+  "slug": "obrigacao-tributaria-principal-acessoria-fato-gerador-e-sujeito-passivo",
+  "disciplina": "Direito Tributário",
+  "assunto": "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
+  "ordem": 32,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-032-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Sequência central: FATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO. Obrigação principal surge com o fato gerador e tem por objeto pagamento de TRIBUTO OU PENALIDADE PECUNIÁRIA. MULTA NÃO É TRIBUTO, mas pagar multa tributária pode integrar obrigação principal.\nOBRIGAÇÃO ACESSÓRIA → fazer ou não fazer em interesse da arrecadação/fiscalização: emitir documento, declarar, escriturar, cadastrar-se, conservar documentos. “Acessória” não significa opcional. Pode existir mesmo sem tributo a pagar. Descumprida, converte-se em obrigação principal relativamente à penalidade pecuniária: ACESSÓRIA DESCUMPRIDA → MULTA → PRINCIPAL QUANTO À PENALIDADE.\nFATO GERADOR faz nascer a obrigação. LANÇAMENTO constitui o crédito. Não troque os verbos.\nSUJEITO ATIVO → pessoa jurídica de direito público titular da competência para exigir a obrigação. SUJEITO PASSIVO da principal → contribuinte ou responsável. CONTRIBUINTE tem relação pessoal e direta com o fato gerador. RESPONSÁVEL responde por disposição expressa de lei sem ser contribuinte.\nCONVENÇÕES PARTICULARES: contrato entre particulares não redefine, por si só, o sujeito passivo perante a Fazenda, salvo disposição legal em contrário. Ex.: cláusula de locação atribuindo IPTU ao inquilino pode produzir efeitos entre as partes, mas não reescreve automaticamente a lei tributária perante o Fisco.\nCAPACIDADE TRIBUTÁRIA PASSIVA não depende necessariamente da plena capacidade civil. SOLIDARIEDADE tributária não comporta benefício de ordem. DOMICÍLIO tributário eleito pode ser recusado pela Administração quando impossibilite ou dificulte arrecadação/fiscalização, conforme a lei.\nROTEIRO DO FISCAL: qual fato? qual obrigação? principal ou acessória? sujeito ativo? sujeito passivo? contribuinte ou responsável? houve descumprimento? há penalidade legal? há crédito a constituir? qual lançamento?\nPEGADINHAS IAN: “principal só paga tributo”; “multa é tributo”; “acessória só existe se houver imposto”; “lançamento faz nascer obrigação”; “responsável=contribuinte”; “contrato particular muda livremente sujeito passivo”; “incapaz civil nunca é sujeito passivo”; “solidariedade sempre tem benefício de ordem”."
+    },
+    {
+      "id": "direito-tributario-aula-032-b2",
+      "tipo": "teoria",
+      "titulo": "TESTE SEM GABARITO ANTECIPADO",
+      "texto": "1. Principal tem por objeto: A só imposto B tributo ou penalidade pecuniária C só dever documental D só nota fiscal.\n2. INCORRETO: A multa não é tributo B penalidade pode ser objeto da principal C acessória é dever instrumental D acessória só existe se houver tributo devido.\n3. Descumprimento de acessória com multa: A multa vira tributo B pode gerar principal quanto à penalidade C nenhuma consequência D vira imposto.\n4. Correta: A fato gerador constitui crédito B lançamento cria fato gerador C fato gerador→obrigação; lançamento→crédito D arrecadação cria competência.\n5. Tomador retém ISS por lei: A vira necessariamente contribuinte B pode ser responsável C torna-se Município D só responde se quiser.\n6. Contrato põe IPTU no locatário: A redefine sempre sujeito passivo B não altera por si só definição legal perante Fisco, salvo lei C extingue IPTU D vira taxa.\n7. Solidariedade: A sempre benefício de ordem B sem benefício de ordem C só PJ D sempre contrato.\n8. Contribuição de melhoria: A obra+valorização B só obra C só valorização de mercado D polícia.\n9. Taxa: A propriedade B polícia regular ou serviço específico/divisível C qualquer serviço geral D herança.\n10. Base ISS: A venal B preço do serviço C imóvel D patrimônio.\n\nSem respostas, obrigação tributária permanece EM APRENDIZAGEM. FRASE FINAL: FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO. PRINCIPAL PAGA TRIBUTO OU PENALIDADE; ACESSÓRIA É DEVER INSTRUMENTAL. CONTRIBUINTE LIGA-SE AO FATO; RESPONSÁVEL LIGA-SE À LEI."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "4a95204689a79f1e"
+}

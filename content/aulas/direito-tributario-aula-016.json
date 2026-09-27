@@ -1,0 +1,327 @@
+{
+  "id": "direito-tributario-aula-016",
+  "numero": 16,
+  "titulo": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+  "slug": "contribuicao-de-melhoria-obra-publica-valorizacao-e-limites",
+  "disciplina": "Direito Tributário",
+  "assunto": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+  "ordem": 16,
+  "data": "2026-09-27",
+  "tempoEstimadoMin": 4,
+  "resumo": "TAXA OLHA POLÍCIA OU SERVIÇO ESPECÍFICO E DIVISÍVEL. CONTRIBUIÇÃO DE MELHORIA OLHA OBRA PÚBLICA + VALORIZAÇÃO. NO CTN: O TOTAL NÃO PASSA DA DESPESA DA OBRA; O INDIVIDUAL NÃO PASSA DA VALORIZAÇÃO DO IMÓVEL.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-016-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Seguimos exatamente da Aula 15. Depois de impostos e taxas, aprofundamos a CONTRIBUIÇÃO DE MELHORIA, espécie tributária diretamente ligada a uma obra pública que produza valorização imobiliária. O foco continua EXCLUSIVAMENTE no cargo de AGENTE FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-016-b2",
+      "tipo": "memorize",
+      "titulo": "MEMÓRIA CENTRAL",
+      "texto": "OBRA PÚBLICA + VALORIZAÇÃO IMOBILIÁRIA → CONTRIBUIÇÃO DE MELHORIA."
+    },
+    {
+      "id": "direito-tributario-aula-016-b3",
+      "tipo": "teoria",
+      "titulo": "1. FUNDAMENTO — CF, ART. 145, III, E CTN, ARTS. 81 E 82",
+      "texto": "A União, os Estados, o Distrito Federal e os Municípios podem instituir contribuição de melhoria decorrente de obras públicas. No CTN, a cobrança tem como pressuposto a valorização imobiliária decorrente da obra.\nNão basta existir obra pública. Para a contribuição de melhoria, procure o NEXO entre a obra e a valorização do imóvel beneficiado."
+    },
+    {
+      "id": "direito-tributario-aula-016-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: “Toda obra pública autoriza automaticamente contribuição de melhoria.” ERRADO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-016-b5",
+      "tipo": "teoria",
+      "titulo": "2. DOIS LIMITES DO CTN",
+      "texto": "O art. 81 trabalha com dois limites clássicos:\nLIMITE TOTAL → a despesa realizada com a obra.\nLIMITE INDIVIDUAL → o acréscimo de valor que da obra resultar para cada imóvel beneficiado.\nMemória de prova:\nTOTAL = CUSTO DA OBRA.\nINDIVIDUAL = VALORIZAÇÃO DO IMÓVEL.\nExemplo: uma obra custou R$ 2 milhões. Um imóvel valorizou R$ 30 mil por causa dela. A contribuição atribuída àquele imóvel não pode simplesmente ultrapassar sua valorização individual; e a arrecadação total deve respeitar o limite global legal."
+    },
+    {
+      "id": "direito-tributario-aula-016-b6",
+      "tipo": "teoria",
+      "titulo": "3. NÃO CONFUNDA COM TAXA",
+      "texto": "TAXA → exercício regular do poder de polícia OU serviço público específico e divisível, nas condições legais.\nCONTRIBUIÇÃO DE MELHORIA → obra pública + valorização imobiliária.\nA existência de uma obra não transforma a cobrança em taxa. Da mesma forma, um serviço público específico e divisível não se transforma em contribuição de melhoria apenas porque gera benefício econômico ao usuário."
+    },
+    {
+      "id": "direito-tributario-aula-016-b7",
+      "tipo": "teoria",
+      "titulo": "4. NÃO CONFUNDA COM IMPOSTO",
+      "texto": "IMPOSTO → fato gerador independe de atividade estatal específica relativa ao contribuinte.\nCONTRIBUIÇÃO DE MELHORIA → existe vinculação concreta à obra pública que valoriza o imóvel.\nLogo, contribuição de melhoria é tributo VINCULADO a uma atuação estatal específica."
+    },
+    {
+      "id": "direito-tributario-aula-016-b8",
+      "tipo": "teoria",
+      "titulo": "5. REQUISITOS DE PUBLICIDADE — CTN, ART. 82",
+      "texto": "O CTN exige publicação prévia de elementos relevantes, entre eles: memorial descritivo do projeto; orçamento do custo da obra; determinação da parcela do custo a ser financiada pela contribuição; delimitação da zona beneficiada; e determinação do fator de absorção do benefício da valorização para toda a zona ou para cada área diferenciada nela contida.\nTambém há disciplina para impugnação pelos interessados e regulamentação do processo administrativo correspondente.\nPara a prova, não tente decorar a redação inteira agora. Fixe a lógica:\nPROJETO + CUSTO + PARCELA FINANCIADA + ZONA BENEFICIADA + CRITÉRIO DE ABSORÇÃO DA VALORIZAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-016-b9",
+      "tipo": "teoria",
+      "titulo": "6. LANÇAMENTO E NOTIFICAÇÃO",
+      "texto": "A contribuição de melhoria deve ser individualizada conforme a valorização atribuível ao imóvel e os critérios legais. O contribuinte deve ser cientificado do montante, forma e prazos de pagamento e dos elementos que integram o cálculo, conforme a disciplina aplicável.\nPegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
+    },
+    {
+      "id": "direito-tributario-aula-016-b10",
+      "tipo": "exemplo",
+      "titulo": "7. EXEMPLO DE AGENTE FISCAL",
+      "texto": "O Município executa obra de urbanização que custa R$ 4 milhões. A obra valoriza imóveis da área em intensidades diferentes. O imóvel A valorizou R$ 15 mil; o imóvel B, R$ 40 mil.\nO raciocínio correto não é “cada imóvel paga a mesma parcela”. A valorização individual é limite relevante. O tributo busca recuperar, nos limites legais, parte do benefício imobiliário produzido pela obra."
+    },
+    {
+      "id": "direito-tributario-aula-016-b11",
+      "tipo": "pegadinha",
+      "titulo": "8. COMO A IAN PODE TENTAR ENGANAR",
+      "texto": "Trocar “valorização imobiliária” por mera existência da obra; dizer que toda obra gera automaticamente o tributo; inverter limite total e individual; afirmar que o limite individual é o custo total da obra; confundir contribuição de melhoria com taxa de serviço; dizer que somente Municípios podem instituí-la; ou usar “independentemente de valorização”, “sempre” e “automaticamente”."
+    },
+    {
+      "id": "direito-tributario-aula-016-b12",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "texto": "CONTRIBUIÇÃO DE MELHORIA → tributo vinculado.\nFATO CENTRAL → obra pública que produz valorização imobiliária.\nLIMITE TOTAL → despesa da obra.\nLIMITE INDIVIDUAL → valorização de cada imóvel.\nCOMPETÊNCIA → União, Estados, DF e Municípios, no âmbito constitucional.\nART. 82 → publicidade prévia de projeto, custo, parcela financiada, zona beneficiada e critério de absorção do benefício.\nTAXA ≠ contribuição de melhoria.\nIMPOSTO ≠ contribuição de melhoria.",
+      "mapaId": "direito-tributario-aula-016-b12"
+    },
+    {
+      "id": "direito-tributario-aula-016-b13",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO NESTA ETAPA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-016-q-001",
+        "direito-tributario-aula-016-q-002",
+        "direito-tributario-aula-016-q-003",
+        "direito-tributario-aula-016-q-004",
+        "direito-tributario-aula-016-q-005",
+        "direito-tributario-aula-016-q-006"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-016-b14",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Taxa de polícia: qual expressão-chave? Taxa de serviço: quais duas características? Contribuição de melhoria: quais dois elementos centrais? Qual o limite total? Qual o limite individual? ISS: qual a base? IPTU: qual a base? ITBI: inter vivos e oneroso ou causa mortis e gratuito? Parcelamento: suspende ou extingue?"
+    },
+    {
+      "id": "direito-tributario-aula-016-b15",
+      "tipo": "fechamento",
+      "titulo": "FRASE FINAL",
+      "texto": "TAXA OLHA POLÍCIA OU SERVIÇO ESPECÍFICO E DIVISÍVEL. CONTRIBUIÇÃO DE MELHORIA OLHA OBRA PÚBLICA + VALORIZAÇÃO. NO CTN: O TOTAL NÃO PASSA DA DESPESA DA OBRA; O INDIVIDUAL NÃO PASSA DA VALORIZAÇÃO DO IMÓVEL."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-016-q-001",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 1,
+      "question": "A contribuição de melhoria pode ser instituída em razão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "de qualquer obra pública, ainda que nenhum imóvel seja valorizado."
+        },
+        {
+          "id": "B",
+          "text": "de obra pública da qual decorra valorização imobiliária, observados os requisitos legais."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente da utilização potencial de serviço público divisível."
+        },
+        {
+          "id": "D",
+          "text": "de qualquer aumento espontâneo do preço de mercado dos imóveis."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    },
+    {
+      "id": "direito-tributario-aula-016-q-002",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 2,
+      "question": "É INCORRETO afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o limite total relaciona-se à despesa realizada com a obra."
+        },
+        {
+          "id": "B",
+          "text": "o limite individual relaciona-se ao acréscimo de valor resultante para cada imóvel beneficiado."
+        },
+        {
+          "id": "C",
+          "text": "a contribuição de melhoria é espécie tributária vinculada a obra pública e valorização imobiliária."
+        },
+        {
+          "id": "D",
+          "text": "o limite individual corresponde necessariamente ao custo integral da obra dividido igualmente entre todos os imóveis."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    },
+    {
+      "id": "direito-tributario-aula-016-q-003",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 3,
+      "question": "Uma obra pública custou R$ 10 milhões e determinado imóvel valorizou R$ 25 mil em razão dela. Para esse imóvel, o CTN trabalha como limite individual com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a valorização imobiliária decorrente da obra."
+        },
+        {
+          "id": "B",
+          "text": "todo o custo da obra."
+        },
+        {
+          "id": "C",
+          "text": "o valor venal anterior do imóvel, sem relação com a valorização."
+        },
+        {
+          "id": "D",
+          "text": "qualquer valor definido livremente pelo fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    },
+    {
+      "id": "direito-tributario-aula-016-q-004",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 4,
+      "question": "Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "taxa de serviço → obra pública + valorização imobiliária."
+        },
+        {
+          "id": "B",
+          "text": "contribuição de melhoria → obra pública + valorização imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "imposto → atuação estatal específica obrigatoriamente dirigida ao contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "tarifa → espécie tributária prevista no art. 145 da Constituição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    },
+    {
+      "id": "direito-tributario-aula-016-q-005",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 5,
+      "question": "Considere: I. A contribuição de melhoria pode ser instituída pelo Município. II. A mera realização de obra, sem valorização imobiliária, basta automaticamente para sua cobrança. III. O CTN prevê limite total e limite individual. IV. O art. 82 exige publicidade prévia de elementos da obra e da cobrança.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I e II apenas."
+        },
+        {
+          "id": "B",
+          "text": "I, III e IV apenas."
+        },
+        {
+          "id": "C",
+          "text": "II e IV apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II, III e IV."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    },
+    {
+      "id": "direito-tributario-aula-016-q-006",
+      "lessonId": "direito-tributario-aula-016",
+      "numero": 6,
+      "question": "TESTE INTERCALADO. Um serviço público específico, divisível, compulsório e efetivamente colocado à disposição do contribuinte corresponde, em tese, ao campo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "taxa de serviço, admitida utilização potencial nas condições legais."
+        },
+        {
+          "id": "B",
+          "text": "contribuição de melhoria, independentemente de obra."
+        },
+        {
+          "id": "C",
+          "text": "imposto, necessariamente."
+        },
+        {
+          "id": "D",
+          "text": "ITBI. Não há gabarito nesta etapa. As respostas deverão ser aferidas antes de considerar o tema dominado. Como não há respostas registradas do aluno para as baterias pendentes de ITBI, ISS e taxas, esses três temas também permanecem NÃO DOMINADOS e voltarão em testes misturados."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-016-b14",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — SEM CONSULTA",
+      "texto": "Taxa de polícia: qual expressão-chave? Taxa de serviço: quais duas características? Contribuição de melhoria: quais dois elementos centrais? Qual o limite total? Qual o limite individual? ISS: qual a base? IPTU: qual a base? ITBI: inter vivos e oneroso ou causa mortis e gratuito? Parcelamento: suspende ou extingue?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-016-b12",
+      "titulo": "MAPA DE 60 SEGUNDOS",
+      "nos": [
+        "CONTRIBUIÇÃO DE MELHORIA",
+        "tributo vinculado",
+        "FATO CENTRAL",
+        "obra pública que produz valorização imobiliária",
+        "LIMITE TOTAL",
+        "despesa da obra",
+        "LIMITE INDIVIDUAL",
+        "valorização de cada imóvel",
+        "COMPETÊNCIA",
+        "União, Estados, DF e Municípios, no âmbito constitucional",
+        "ART. 82",
+        "publicidade prévia de projeto, custo, parcela financiada, zona beneficiada e critério de absorção do benefício",
+        "TAXA ≠ contribuição de melhoria",
+        "IMPOSTO ≠ contribuição de melhoria"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-27",
+  "contentHash": "1545937320f94354"
+}
