@@ -269,7 +269,7 @@ describe('parser do Caderno Mestre', () => {
       'A) constitui necessariamente imposto.',
       'B) constitui necessariamente taxa de polícia.',
       'C) não se caracteriza como tributo se sua natureza for de sanção por ato ilícito.',
-      'D) será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública.',
+      'D) será contribuição de melhoria caso o valor arrecadado seja utilizado em obra pública. Questão 6 Uma nova pergunta começa aqui.',
       'Responda sem voltar na matéria: 1?, 2?, 3?, 4?, 5?',
     ]);
     expect(q).toHaveLength(1);
