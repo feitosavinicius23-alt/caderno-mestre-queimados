@@ -4,6 +4,7 @@ import { NavLink, useLocation } from 'react-router-dom';
 import { manifest, metadata } from '@/services/content';
 import { useStore } from '@/hooks/useStore';
 import { formatarDataHora } from './ui';
+import { DriveSyncButton } from './DriveSyncButton';
 
 const MENU = [
   { to: '/', rotulo: 'Dashboard', icone: '🏠', fim: true },
@@ -103,6 +104,7 @@ export function Layout({ children }: { children: ReactNode }) {
           <span className="topo__titulo">{metadata.titulo}</span>
           <span className="topo__sub">{metadata.subtitulo}</span>
         </div>
+        <DriveSyncButton />
         <button
           type="button"
           className="icone-btn"
