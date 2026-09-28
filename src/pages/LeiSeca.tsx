@@ -14,24 +14,13 @@ const legislacoesEdital = [
       { titulo: 'Edital de Abertura nº 01/2026', descricao: 'Documento oficial do concurso disponibilizado pela banca IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/b69dd1da66c2379238309f5d3e733110.pdf' },
       { titulo: 'Lei nº 1.060/2011 — Estatuto dos Servidores', descricao: 'Texto disponibilizado diretamente pela IAN na página do concurso.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/ec4f1719dbe96475ce2b52090642ea41.pdf' },
       { titulo: 'Lei Orgânica Municipal — versão revisada até a Emenda 041/2018', descricao: 'Versão oficial disponibilizada diretamente pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/d4603894b39e3fa2c249ffe0e1804532.pdf' },
-      { titulo: 'Emendas recentes da Lei Orgânica — 042 a 046', descricao: 'Acesse a página oficial da IAN para consultar os PDFs individuais das emendas disponibilizadas pela banca.', url: 'https://portal.ian.org.br/edital/ver/53' },
-    ],
-  },
-  {
-    grupo: 'Conteúdo tributário previsto no edital',
-    itens: [
-      { titulo: 'Constituição Federal de 1988', descricao: 'Sistema Tributário Nacional, limitações ao poder de tributar e repartição de receitas. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
-      { titulo: 'Código Tributário Nacional — Lei nº 5.172/1966', descricao: 'Obrigação, crédito, lançamento, fiscalização, garantias, infrações, decadência e prescrição. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
-      { titulo: 'Lei de Execução Fiscal — Lei nº 6.830/1980', descricao: 'Cobrança judicial da dívida ativa e execução fiscal. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
-      { titulo: 'Lei de Responsabilidade Fiscal — LC nº 101/2000', descricao: 'Gestão fiscal, receitas públicas, planejamento e transparência. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
-      { titulo: 'Código Tributário Municipal — LC nº 001/1995', descricao: 'IPTU, ISS, ITBI, taxas, fiscalização, lançamento e cobrança. A página oficial da IAN indica os materiais do concurso.', url: 'https://portal.ian.org.br/edital/ver/53' },
-    ],
-  },
-  {
-    grupo: 'ISS e regimes tributários',
-    itens: [
-      { titulo: 'ISS — Lei Complementar nº 116/2003', descricao: 'Lista de serviços, local de incidência, retenção e conflitos entre municípios. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
-      { titulo: 'Simples Nacional — Lei Complementar nº 123/2006', descricao: 'Regime simplificado e fiscalização do ISS no Simples Nacional. Consulte a referência na página oficial da IAN.', url: 'https://portal.ian.org.br/edital/ver/53' },
+      { titulo: 'Emenda à Lei Orgânica nº 046/2022', descricao: 'Diário Oficial — página 16. Documento disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/74eb38522d1365e0f832fe5d184a86c8.pdf' },
+      { titulo: 'Emenda à Lei Orgânica nº 045/2022', descricao: 'Diário Oficial — página 10. Documento disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/0c0939dfdbcbe6e986cfffca810ca13a.pdf' },
+      { titulo: 'Emenda à Lei Orgânica nº 044/2021', descricao: 'Diário Oficial — página 70. Documento disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/9420ec7b07364eb30f5635ba6a7516b3.pdf' },
+      { titulo: 'Emenda à Lei Orgânica nº 043/2021', descricao: 'Diário Oficial — página 08. Documento disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/42e33f1ee5a537096a73811b7a8a1039.pdf' },
+      { titulo: 'Emenda à Lei Orgânica nº 042/2021', descricao: 'Diário Oficial — página 36. Documento disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/d7de84a361799295138b93c836a8f300.pdf' },
+      { titulo: 'Lei Orgânica do Município de Queimados — 2018', descricao: 'Versão publicada pela banca IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/b78bdf14650749c02481da92776dadf9.pdf' },
+      { titulo: '1ª Lei Orgânica de Queimados — 1993', descricao: 'Texto promulgado em 23 de outubro de 1993 e disponibilizado pela IAN.', url: 'https://ian.org.br/arquivo.php?file=edital/1/53/9df59336594e2eb52b3582c530228876.pdf' },
     ],
   },
 ] as const;
@@ -71,7 +60,7 @@ export default function LeiSeca() {
             Ver materiais da IAN
           </a>
         </div>
-        <p className="lei-edital__intro">Acesse os materiais publicados pela banca IAN e estude na ordem dos temas cobrados para Agente Fiscal. Quando a banca não oferece um PDF separado, o link abre a página oficial do concurso para consulta.</p>
+        <p className="lei-edital__intro">Acesse diretamente os documentos publicados pela banca IAN e estude na ordem da legislação municipal indicada no concurso.</p>
         <div className="lei-edital__grupos">
           {legislacoesEdital.map((grupo) => (
             <div key={grupo.grupo}>
