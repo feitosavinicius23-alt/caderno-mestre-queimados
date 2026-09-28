@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 25,
-    "totalQuestoes": 132,
-    "tempoEstimadoMin": 109,
+    "totalAulas": 26,
+    "totalQuestoes": 142,
+    "tempoEstimadoMin": 113,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -30,7 +30,8 @@
       "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
       "Decadência e prescrição tributárias: os dois relógios de 5 anos",
       "Crédito tributário: suspensão, extinção e exclusão",
-      "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
+      "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
+      "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     ],
     "aulas": [
       {
@@ -182,6 +183,12 @@
         "numero": 37,
         "titulo": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
         "slug": "credito-tributario-revisao-ativa-e-discriminacao-entre-suspensao-extincao-e-excl"
+      },
+      {
+        "id": "direito-tributario-aula-038",
+        "numero": 38,
+        "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+        "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar"
       }
     ]
   },

@@ -1,0 +1,447 @@
+{
+  "id": "direito-tributario-aula-038",
+  "numero": 38,
+  "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+  "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+  "disciplina": "Direito Tributário",
+  "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+  "ordem": 38,
+  "data": "2026-09-28",
+  "tempoEstimadoMin": 4,
+  "resumo": "CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-038-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO DA AULA",
+      "texto": "Depois de dominar a formação e o destino do crédito tributário, avançamos para uma pergunta central para o Agente Fiscal: quem responde pelo tributo? Esta aula trabalha a lógica dos arts. 121, 128 e seguintes do CTN, com foco em distinções que geram distratores de prova."
+    },
+    {
+      "id": "direito-tributario-aula-038-b2",
+      "tipo": "teoria",
+      "titulo": "1. CONTRIBUINTE X RESPONSÁVEL",
+      "texto": "O sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento do tributo ou da penalidade pecuniária.\nCONTRIBUINTE: possui relação pessoal e direta com a situação que constitui o fato gerador.\nRESPONSÁVEL: sem revestir a condição de contribuinte, sua obrigação decorre de disposição expressa de lei.\nRegra mental:\nCONTRIBUINTE → ligação DIRETA com o fato gerador.\nRESPONSÁVEL → LEI atribui a obrigação.\nPegadinha: não basta contrato particular entre duas pessoas para alterar, perante o Fisco, quem a lei definiu como sujeito passivo. Convenções particulares relativas à responsabilidade pelo pagamento não podem ser opostas à Fazenda para modificar a definição legal do sujeito passivo, salvo disposição legal em contrário."
+    },
+    {
+      "id": "direito-tributario-aula-038-b3",
+      "tipo": "teoria",
+      "titulo": "2. ART. 128 — RESPONSABILIDADE ATRIBUÍDA POR LEI",
+      "texto": "A lei pode atribuir expressamente a responsabilidade pelo crédito tributário a terceira pessoa vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter total ou parcial.\nPalavras de prova: LEI + TERCEIRO VINCULADO + RESPONSABILIDADE.\nCuidado com o distrator: “A autoridade fiscal pode escolher livremente terceiro sem vínculo e transformá-lo em responsável.” Errado. A responsabilidade tributária depende de fundamento legal."
+    },
+    {
+      "id": "direito-tributario-aula-038-b4",
+      "tipo": "teoria",
+      "titulo": "3. SUCESSÃO — IDEIA CENTRAL",
+      "texto": "Há situações em que fatos posteriores fazem outra pessoa responder por crédito tributário. Para esta etapa, fixe a lógica, sem decorar isoladamente:\nSUCESSÃO → mudança juridicamente relevante → a lei disciplina quem passa a responder.\nExemplos de temas que serão aprofundados: aquisição de imóvel, sucessão causa mortis, reorganizações societárias e aquisição de estabelecimento."
+    },
+    {
+      "id": "direito-tributario-aula-038-b5",
+      "tipo": "teoria",
+      "titulo": "4. IMÓVEIS — REGRA DE PROVA",
+      "texto": "Nos créditos relativos a impostos cujo fato gerador seja a propriedade, domínio útil ou posse de bens imóveis, e também taxas relacionadas a esses bens e contribuição de melhoria, o adquirente pode sub-rogar-se nos créditos correspondentes, salvo quando conste do título prova de quitação, conforme o CTN.\nNão transforme isso em regra genérica para qualquer tributo. A banca pode ampliar indevidamente a hipótese."
+    },
+    {
+      "id": "direito-tributario-aula-038-b6",
+      "tipo": "teoria",
+      "titulo": "5. AQUISIÇÃO DE ESTABELECIMENTO",
+      "texto": "Quem adquire fundo de comércio ou estabelecimento comercial, industrial ou profissional e continua a exploração pode responder pelos tributos relativos ao estabelecimento adquirido, observadas as condições do CTN.\nPonto de atenção: a extensão da responsabilidade varia conforme o alienante cesse a exploração ou prossiga/inicie atividade dentro do período legal. Não memorize “comprou = sempre responde integralmente”; essa simplificação produz erro."
+    },
+    {
+      "id": "direito-tributario-aula-038-b7",
+      "tipo": "teoria",
+      "titulo": "6. RESPONSABILIDADE DE TERCEIROS",
+      "texto": "O CTN prevê hipóteses específicas envolvendo terceiros, como pais, tutores/curadores, administradores de bens de terceiros, inventariante, síndico/comissário e outros agentes, dentro dos pressupostos legais.\nPegadinha: responsabilidade tributária de terceiro NÃO nasce automaticamente do simples cargo ou parentesco em qualquer situação. A questão deve ser confrontada com os requisitos legais."
+    },
+    {
+      "id": "direito-tributario-aula-038-b8",
+      "tipo": "teoria",
+      "titulo": "7. RESPONSABILIDADE PESSOAL POR INFRAÇÕES — ART. 135",
+      "texto": "Tema de altíssima utilidade prática: determinadas pessoas podem responder pessoalmente pelos créditos correspondentes a obrigações resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.\nMemória:"
+    },
+    {
+      "id": "direito-tributario-aula-038-b9",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 135 → EXCESSO DE PODERES / INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    },
+    {
+      "id": "direito-tributario-aula-038-b10",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Não confunda mero inadimplemento da pessoa jurídica com, automaticamente, responsabilidade pessoal do administrador. A prova costuma tentar fazer essa passagem sem apresentar o requisito jurídico necessário."
+    },
+    {
+      "id": "direito-tributario-aula-038-b11",
+      "tipo": "mapa-mental",
+      "titulo": "8. MAPA DE DECISÃO",
+      "texto": "Pergunta 1: a pessoa tem relação pessoal e direta com o fato gerador?\n→ Pense em CONTRIBUINTE.\n\nPergunta 2: não é contribuinte, mas lei expressa atribui obrigação?\n→ Pense em RESPONSÁVEL.\n\nPergunta 3: houve aquisição/sucessão?\n→ Verifique as regras específicas de RESPONSABILIDADE POR SUCESSÃO.\n\nPergunta 4: administrador praticou ato com excesso de poderes ou infração de lei/contrato/estatuto?\n→ Investigue ART. 135.",
+      "mapaId": "direito-tributario-aula-038-b11"
+    },
+    {
+      "id": "direito-tributario-aula-038-b12",
+      "tipo": "teoria",
+      "titulo": "9. INTERCALAÇÃO COM AULAS ANTERIORES",
+      "texto": "Fato gerador faz nascer a obrigação. O lançamento constitui o crédito. Depois, esse crédito pode ter exigibilidade suspensa, ser extinto ou ser excluído nas hipóteses legais. Agora acrescentamos outra dimensão: identificar QUEM é sujeito passivo e QUEM pode responder pelo crédito.\nFluxo mental:\nFATO GERADOR → OBRIGAÇÃO → SUJEITO PASSIVO → LANÇAMENTO → CRÉDITO → COBRANÇA/CAUSAS MODIFICADORAS."
+    },
+    {
+      "id": "direito-tributario-aula-038-b13",
+      "tipo": "questao",
+      "titulo": "10. TESTE ATIVO — NÃO CONSULTAR O MATERIAL",
+      "texto": "Não há resposta antecipada. Responda primeiro; a correção será feita após a resposta do aluno.",
+      "questionIds": [
+        "direito-tributario-aula-038-q-001",
+        "direito-tributario-aula-038-q-002",
+        "direito-tributario-aula-038-q-003",
+        "direito-tributario-aula-038-q-004",
+        "direito-tributario-aula-038-q-005",
+        "direito-tributario-aula-038-q-006",
+        "direito-tributario-aula-038-q-007",
+        "direito-tributario-aula-038-q-008",
+        "direito-tributario-aula-038-q-009",
+        "direito-tributario-aula-038-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-038-b14",
+      "tipo": "teoria",
+      "titulo": "STATUS DE DOMÍNIO",
+      "texto": "Responsabilidade tributária: EM APRENDIZAGEM.\nSuspensão/extinção/exclusão: EM RETENÇÃO — aguarda resposta em mistura posterior.\nLançamento: EM RETENÇÃO.\nInterpretação/inferência: EM RETENÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-038-b15",
+      "tipo": "caderno-de-erros",
+      "titulo": "CADERNO DE ERROS",
+      "texto": "Sem resposta do aluno nesta execução: nenhum erro novo pode ser diagnosticado. Após as respostas, registrar erro, causa provável, regra correta, pegadinha e revisão futura."
+    },
+    {
+      "id": "direito-tributario-aula-038-b16",
+      "tipo": "fechamento",
+      "titulo": "REGRA FINAL DA AULA",
+      "texto": "CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-038-q-001",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 1,
+      "question": "É contribuinte a pessoa que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é escolhida livremente pelo fiscal."
+        },
+        {
+          "id": "B",
+          "text": "possui relação pessoal e direta com a situação que constitui o fato gerador."
+        },
+        {
+          "id": "C",
+          "text": "apenas celebrou contrato particular assumindo dívida de terceiro."
+        },
+        {
+          "id": "D",
+          "text": "sempre administra pessoa jurídica."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-002",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 2,
+      "question": "O responsável tributário, em sentido estrito:",
+      "options": [
+        {
+          "id": "A",
+          "text": "necessariamente praticou pessoalmente o fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "somente pode existir por decisão judicial."
+        },
+        {
+          "id": "C",
+          "text": "tem sua obrigação decorrente de disposição expressa de lei, sem revestir a condição de contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "é sinônimo de contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-003",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 3,
+      "question": "Sobre convenções particulares relativas ao pagamento de tributos, assinale a correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sempre alteram o sujeito passivo perante a Fazenda."
+        },
+        {
+          "id": "B",
+          "text": "nunca possuem qualquer efeito entre particulares."
+        },
+        {
+          "id": "C",
+          "text": "em regra, não podem ser opostas à Fazenda para modificar a definição legal do sujeito passivo, ressalvada disposição legal em contrário."
+        },
+        {
+          "id": "D",
+          "text": "substituem automaticamente a lei tributária."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-004",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 4,
+      "question": "A responsabilidade prevista no art. 135 do CTN está especialmente associada a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "qualquer atraso de pagamento, isoladamente."
+        },
+        {
+          "id": "B",
+          "text": "excesso de poderes ou infração de lei, contrato social ou estatutos."
+        },
+        {
+          "id": "C",
+          "text": "isenção."
+        },
+        {
+          "id": "D",
+          "text": "parcelamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-005",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 5,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "contribuinte possui relação pessoal e direta com o fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "responsável pode ter obrigação atribuída expressamente por lei."
+        },
+        {
+          "id": "C",
+          "text": "qualquer terceiro sem vínculo pode ser escolhido livremente pelo fiscal como responsável."
+        },
+        {
+          "id": "D",
+          "text": "existem regras específicas de responsabilidade por sucessão."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-006",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 6,
+      "question": "Recuperação da Aula 36: parcelamento é hipótese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "extinção."
+        },
+        {
+          "id": "B",
+          "text": "exclusão."
+        },
+        {
+          "id": "C",
+          "text": "suspensão da exigibilidade."
+        },
+        {
+          "id": "D",
+          "text": "imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-007",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 7,
+      "question": "Recuperação da Aula 36: remissão é hipótese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "extinção."
+        },
+        {
+          "id": "B",
+          "text": "suspensão."
+        },
+        {
+          "id": "C",
+          "text": "imunidade."
+        },
+        {
+          "id": "D",
+          "text": "lançamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-008",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 8,
+      "question": "Recuperação da Aula 33: o lançamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "constitui o crédito tributário."
+        },
+        {
+          "id": "B",
+          "text": "cria a competência tributária."
+        },
+        {
+          "id": "C",
+          "text": "é sempre judicial."
+        },
+        {
+          "id": "D",
+          "text": "extingue automaticamente a obrigação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-009",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 9,
+      "question": "Português — inferência. Leia: “Alguns responsáveis foram notificados após a fiscalização.” É possível afirmar que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "todos os responsáveis foram notificados."
+        },
+        {
+          "id": "B",
+          "text": "pelo menos parte dos responsáveis mencionados foi notificada."
+        },
+        {
+          "id": "C",
+          "text": "nenhum responsável foi notificado."
+        },
+        {
+          "id": "D",
+          "text": "todos foram autuados."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    },
+    {
+      "id": "direito-tributario-aula-038-q-010",
+      "lessonId": "direito-tributario-aula-038",
+      "numero": 10,
+      "question": "EXCETO — todas as associações estão adequadas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "contribuinte — relação pessoal e direta com o fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "responsável — obrigação decorrente de lei."
+        },
+        {
+          "id": "C",
+          "text": "art. 135 — excesso de poderes ou infração de lei/contrato/estatuto."
+        },
+        {
+          "id": "D",
+          "text": "parcelamento — extinção do crédito."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-038-b11",
+      "titulo": "8. MAPA DE DECISÃO",
+      "nos": [
+        "Pergunta 1: a pessoa tem relação pessoal e direta com o fato gerador?",
+        "Pense em CONTRIBUINTE",
+        "Pergunta 2: não é contribuinte, mas lei expressa atribui obrigação?",
+        "Pense em RESPONSÁVEL",
+        "Pergunta 3: houve aquisição/sucessão?",
+        "Verifique as regras específicas de RESPONSABILIDADE POR SUCESSÃO",
+        "Pergunta 4: administrador praticou ato com excesso de poderes ou infração de lei/contrato/estatuto?",
+        "Investigue ART. 135"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-038-b9",
+      "titulo": "7. RESPONSABILIDADE PESSOAL POR INFRAÇÕES — ART. 135",
+      "texto": "ART. 135 → EXCESSO DE PODERES / INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-28",
+  "contentHash": "5c60e8406eef257a"
+}

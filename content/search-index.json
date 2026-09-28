@@ -1,7 +1,7 @@
 {
-  "contentVersion": 8,
-  "geradoEm": "2026-09-27T18:15:51.782Z",
-  "total": 687,
+  "contentVersion": 9,
+  "geradoEm": "2026-09-28T00:40:29.668Z",
+  "total": 715,
   "documentos": [
     {
       "tipo": "aula",
@@ -6354,6 +6354,302 @@
       "assunto": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
       "slug": "credito-tributario-revisao-ativa-e-discriminacao-entre-suspensao-extincao-e-excl",
       "texto": "Antes de reler qualquer regra, tente completar mentalmente:\n• Parcelamento → ______ da exigibilidade.\n• Remissão → ______ do crédito.\n• Isenção e anistia → ______ do crédito.\n• Decadência → prazo ligado à ______ do crédito.\n• Prescrição → prazo ligado à ______ judicial.\n• Lançamento → ______ o crédito tributário.\n\nA cadeia lógica continua sendo:\nFATO GERADOR → OBRIGAÇÃO → LANÇAMENTO → CRÉDITO TRIB"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-038",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b1",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "OBJETIVO DA AULA",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO DA AULA Depois de dominar a formação e o destino do crédito tributário, avançamos para uma pergunta central para o Agente Fiscal: quem responde pelo tributo? Esta aula trabalha a lógica dos arts. 121, 128 e seguintes do CTN, com foco em distinções que geram distratores de prova."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b2",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "1. CONTRIBUINTE X RESPONSÁVEL",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "1. CONTRIBUINTE X RESPONSÁVEL O sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento do tributo ou da penalidade pecuniária.\nCONTRIBUINTE: possui relação pessoal e direta com a situação que constitui o fato gerador.\nRESPONSÁVEL: sem revestir a condição de contribuinte, sua obrigação decorre de disposição expressa de lei.\nRegra mental:\nCONTRIBUINTE → ligação DIRETA com o fato ger"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b3",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "2. ART. 128 — RESPONSABILIDADE ATRIBUÍDA POR LEI",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 128 — RESPONSABILIDADE ATRIBUÍDA POR LEI A lei pode atribuir expressamente a responsabilidade pelo crédito tributário a terceira pessoa vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter total ou parcial.\nPalavras de prova: LEI + TERCEIRO VINCULADO + RESPONSABILIDADE.\nCuidado com o distrator: “A autoridade fisca"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b4",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "3. SUCESSÃO — IDEIA CENTRAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "3. SUCESSÃO — IDEIA CENTRAL Há situações em que fatos posteriores fazem outra pessoa responder por crédito tributário. Para esta etapa, fixe a lógica, sem decorar isoladamente:\nSUCESSÃO → mudança juridicamente relevante → a lei disciplina quem passa a responder.\nExemplos de temas que serão aprofundados: aquisição de imóvel, sucessão causa mortis, reorganizações societárias e aquisição de estabelec"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b5",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "4. IMÓVEIS — REGRA DE PROVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "4. IMÓVEIS — REGRA DE PROVA Nos créditos relativos a impostos cujo fato gerador seja a propriedade, domínio útil ou posse de bens imóveis, e também taxas relacionadas a esses bens e contribuição de melhoria, o adquirente pode sub-rogar-se nos créditos correspondentes, salvo quando conste do título prova de quitação, conforme o CTN.\nNão transforme isso em regra genérica para qualquer tributo. A ban"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b6",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "5. AQUISIÇÃO DE ESTABELECIMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "5. AQUISIÇÃO DE ESTABELECIMENTO Quem adquire fundo de comércio ou estabelecimento comercial, industrial ou profissional e continua a exploração pode responder pelos tributos relativos ao estabelecimento adquirido, observadas as condições do CTN.\nPonto de atenção: a extensão da responsabilidade varia conforme o alienante cesse a exploração ou prossiga/inicie atividade dentro do período legal. Não m"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b7",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "6. RESPONSABILIDADE DE TERCEIROS",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "6. RESPONSABILIDADE DE TERCEIROS O CTN prevê hipóteses específicas envolvendo terceiros, como pais, tutores/curadores, administradores de bens de terceiros, inventariante, síndico/comissário e outros agentes, dentro dos pressupostos legais.\nPegadinha: responsabilidade tributária de terceiro NÃO nasce automaticamente do simples cargo ou parentesco em qualquer situação. A questão deve ser confrontad"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b8",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "7. RESPONSABILIDADE PESSOAL POR INFRAÇÕES — ART. 135",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "7. RESPONSABILIDADE PESSOAL POR INFRAÇÕES — ART. 135 Tema de altíssima utilidade prática: determinadas pessoas podem responder pessoalmente pelos créditos correspondentes a obrigações resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.\nMemória:"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-038-b9",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 135 → EXCESSO DE PODERES / INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b10",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "Não confunda mero inadimplemento da pessoa jurídica com, automaticamente, responsabilidade pessoal do administrador. A prova costuma tentar fazer essa passagem sem apresentar o requisito jurídico necessário."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b11",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "8. MAPA DE DECISÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "mapa-mental",
+      "texto": "8. MAPA DE DECISÃO Pergunta 1: a pessoa tem relação pessoal e direta com o fato gerador?\n→ Pense em CONTRIBUINTE.\n\nPergunta 2: não é contribuinte, mas lei expressa atribui obrigação?\n→ Pense em RESPONSÁVEL.\n\nPergunta 3: houve aquisição/sucessão?\n→ Verifique as regras específicas de RESPONSABILIDADE POR SUCESSÃO.\n\nPergunta 4: administrador praticou ato com excesso de poderes ou infração de lei/cont"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b12",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "9. INTERCALAÇÃO COM AULAS ANTERIORES",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "9. INTERCALAÇÃO COM AULAS ANTERIORES Fato gerador faz nascer a obrigação. O lançamento constitui o crédito. Depois, esse crédito pode ter exigibilidade suspensa, ser extinto ou ser excluído nas hipóteses legais. Agora acrescentamos outra dimensão: identificar QUEM é sujeito passivo e QUEM pode responder pelo crédito.\nFluxo mental:\nFATO GERADOR → OBRIGAÇÃO → SUJEITO PASSIVO → LANÇAMENTO → CRÉDITO →"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b13",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "10. TESTE ATIVO — NÃO CONSULTAR O MATERIAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "questao",
+      "texto": "10. TESTE ATIVO — NÃO CONSULTAR O MATERIAL Não há resposta antecipada. Responda primeiro; a correção será feita após a resposta do aluno."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b14",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "STATUS DE DOMÍNIO",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "teoria",
+      "texto": "STATUS DE DOMÍNIO Responsabilidade tributária: EM APRENDIZAGEM.\nSuspensão/extinção/exclusão: EM RETENÇÃO — aguarda resposta em mistura posterior.\nLançamento: EM RETENÇÃO.\nInterpretação/inferência: EM RETENÇÃO."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b15",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "CADERNO DE ERROS",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "caderno-de-erros",
+      "texto": "CADERNO DE ERROS Sem resposta do aluno nesta execução: nenhum erro novo pode ser diagnosticado. Após as respostas, registrar erro, causa provável, regra correta, pegadinha e revisão futura."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-038-b16",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "REGRA FINAL DA AULA",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "blocoTipo": "fechamento",
+      "texto": "REGRA FINAL DA AULA CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS."
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-001",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 1 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "É contribuinte a pessoa que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-002",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 2 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "O responsável tributário, em sentido estrito:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-003",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 3 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Sobre convenções particulares relativas ao pagamento de tributos, assinale a correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-004",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 4 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "A responsabilidade prevista no art. 135 do CTN está especialmente associada a:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-005",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 5 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "É INCORRETO afirmar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-006",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 6 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Recuperação da Aula 36: parcelamento é hipótese de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-007",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 7 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Recuperação da Aula 36: remissão é hipótese de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-008",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 8 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Recuperação da Aula 33: o lançamento:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-009",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 9 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Português — inferência. Leia: “Alguns responsáveis foram notificados após a fiscalização.” É possível afirmar que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-038-q-010",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "Questão 10 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "EXCETO — todas as associações estão adequadas, EXCETO:"
+    },
+    {
+      "tipo": "mapa",
+      "id": "direito-tributario-aula-038-b11",
+      "lessonId": "direito-tributario-aula-038",
+      "titulo": "8. MAPA DE DECISÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar",
+      "texto": "Pergunta 1: a pessoa tem relação pessoal e direta com o fato gerador? → Pense em CONTRIBUINTE → Pergunta 2: não é contribuinte, mas lei expressa atribui obrigação? → Pense em RESPONSÁVEL → Pergunta 3: houve aquisição/sucessão? → Verifique as regras específicas de RESPONSABILIDADE POR SUCESSÃO → Pergunta 4: administrador praticou ato com excesso de poderes ou infração de lei/contrato/estatuto? → In"
     },
     {
       "tipo": "aula",

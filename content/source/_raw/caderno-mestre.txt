@@ -7005,3 +7005,194 @@ Acertar hoje não significa domínio. Este bloco deverá reaparecer misturado co
 
 REGRA FINAL DA AULA
 PARCELAMENTO PAUSA; REMISSÃO TERMINA; ISENÇÃO E ANISTIA EXCLUEM. DECADÊNCIA OLHA PARA A CONSTITUIÇÃO; PRESCRIÇÃO, PARA A COBRANÇA.
+
+
+
+
+AULA 38 — RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR
+
+
+OBJETIVO DA AULA
+Depois de dominar a formação e o destino do crédito tributário, avançamos para uma pergunta central para o Agente Fiscal: quem responde pelo tributo? Esta aula trabalha a lógica dos arts. 121, 128 e seguintes do CTN, com foco em distinções que geram distratores de prova.
+
+
+1. CONTRIBUINTE X RESPONSÁVEL
+O sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento do tributo ou da penalidade pecuniária.
+
+
+CONTRIBUINTE: possui relação pessoal e direta com a situação que constitui o fato gerador.
+RESPONSÁVEL: sem revestir a condição de contribuinte, sua obrigação decorre de disposição expressa de lei.
+
+
+Regra mental:
+CONTRIBUINTE → ligação DIRETA com o fato gerador.
+RESPONSÁVEL → LEI atribui a obrigação.
+
+
+Pegadinha: não basta contrato particular entre duas pessoas para alterar, perante o Fisco, quem a lei definiu como sujeito passivo. Convenções particulares relativas à responsabilidade pelo pagamento não podem ser opostas à Fazenda para modificar a definição legal do sujeito passivo, salvo disposição legal em contrário.
+
+
+2. ART. 128 — RESPONSABILIDADE ATRIBUÍDA POR LEI
+A lei pode atribuir expressamente a responsabilidade pelo crédito tributário a terceira pessoa vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter total ou parcial.
+
+
+Palavras de prova: LEI + TERCEIRO VINCULADO + RESPONSABILIDADE.
+
+
+Cuidado com o distrator: “A autoridade fiscal pode escolher livremente terceiro sem vínculo e transformá-lo em responsável.” Errado. A responsabilidade tributária depende de fundamento legal.
+
+
+3. SUCESSÃO — IDEIA CENTRAL
+Há situações em que fatos posteriores fazem outra pessoa responder por crédito tributário. Para esta etapa, fixe a lógica, sem decorar isoladamente:
+
+
+SUCESSÃO → mudança juridicamente relevante → a lei disciplina quem passa a responder.
+
+
+Exemplos de temas que serão aprofundados: aquisição de imóvel, sucessão causa mortis, reorganizações societárias e aquisição de estabelecimento.
+
+
+4. IMÓVEIS — REGRA DE PROVA
+Nos créditos relativos a impostos cujo fato gerador seja a propriedade, domínio útil ou posse de bens imóveis, e também taxas relacionadas a esses bens e contribuição de melhoria, o adquirente pode sub-rogar-se nos créditos correspondentes, salvo quando conste do título prova de quitação, conforme o CTN.
+
+
+Não transforme isso em regra genérica para qualquer tributo. A banca pode ampliar indevidamente a hipótese.
+
+
+5. AQUISIÇÃO DE ESTABELECIMENTO
+Quem adquire fundo de comércio ou estabelecimento comercial, industrial ou profissional e continua a exploração pode responder pelos tributos relativos ao estabelecimento adquirido, observadas as condições do CTN.
+
+
+Ponto de atenção: a extensão da responsabilidade varia conforme o alienante cesse a exploração ou prossiga/inicie atividade dentro do período legal. Não memorize “comprou = sempre responde integralmente”; essa simplificação produz erro.
+
+
+6. RESPONSABILIDADE DE TERCEIROS
+O CTN prevê hipóteses específicas envolvendo terceiros, como pais, tutores/curadores, administradores de bens de terceiros, inventariante, síndico/comissário e outros agentes, dentro dos pressupostos legais.
+
+
+Pegadinha: responsabilidade tributária de terceiro NÃO nasce automaticamente do simples cargo ou parentesco em qualquer situação. A questão deve ser confrontada com os requisitos legais.
+
+
+7. RESPONSABILIDADE PESSOAL POR INFRAÇÕES — ART. 135
+Tema de altíssima utilidade prática: determinadas pessoas podem responder pessoalmente pelos créditos correspondentes a obrigações resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+
+
+Memória:
+ART. 135 → EXCESSO DE PODERES / INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.
+
+
+Não confunda mero inadimplemento da pessoa jurídica com, automaticamente, responsabilidade pessoal do administrador. A prova costuma tentar fazer essa passagem sem apresentar o requisito jurídico necessário.
+
+
+8. MAPA DE DECISÃO
+Pergunta 1: a pessoa tem relação pessoal e direta com o fato gerador?
+→ Pense em CONTRIBUINTE.
+
+
+Pergunta 2: não é contribuinte, mas lei expressa atribui obrigação?
+→ Pense em RESPONSÁVEL.
+
+
+Pergunta 3: houve aquisição/sucessão?
+→ Verifique as regras específicas de RESPONSABILIDADE POR SUCESSÃO.
+
+
+Pergunta 4: administrador praticou ato com excesso de poderes ou infração de lei/contrato/estatuto?
+→ Investigue ART. 135.
+
+
+9. INTERCALAÇÃO COM AULAS ANTERIORES
+Fato gerador faz nascer a obrigação. O lançamento constitui o crédito. Depois, esse crédito pode ter exigibilidade suspensa, ser extinto ou ser excluído nas hipóteses legais. Agora acrescentamos outra dimensão: identificar QUEM é sujeito passivo e QUEM pode responder pelo crédito.
+
+
+Fluxo mental:
+FATO GERADOR → OBRIGAÇÃO → SUJEITO PASSIVO → LANÇAMENTO → CRÉDITO → COBRANÇA/CAUSAS MODIFICADORAS.
+
+
+10. TESTE ATIVO — NÃO CONSULTAR O MATERIAL
+Não há resposta antecipada. Responda primeiro; a correção será feita após a resposta do aluno.
+
+
+1. É contribuinte a pessoa que:
+A) é escolhida livremente pelo fiscal.
+B) possui relação pessoal e direta com a situação que constitui o fato gerador.
+C) apenas celebrou contrato particular assumindo dívida de terceiro.
+D) sempre administra pessoa jurídica.
+
+
+2. O responsável tributário, em sentido estrito:
+A) necessariamente praticou pessoalmente o fato gerador.
+B) somente pode existir por decisão judicial.
+C) tem sua obrigação decorrente de disposição expressa de lei, sem revestir a condição de contribuinte.
+D) é sinônimo de contribuinte.
+
+
+3. Sobre convenções particulares relativas ao pagamento de tributos, assinale a correta:
+A) sempre alteram o sujeito passivo perante a Fazenda.
+B) nunca possuem qualquer efeito entre particulares.
+C) em regra, não podem ser opostas à Fazenda para modificar a definição legal do sujeito passivo, ressalvada disposição legal em contrário.
+D) substituem automaticamente a lei tributária.
+
+
+4. A responsabilidade prevista no art. 135 do CTN está especialmente associada a:
+A) qualquer atraso de pagamento, isoladamente.
+B) excesso de poderes ou infração de lei, contrato social ou estatutos.
+C) isenção.
+D) parcelamento.
+
+
+5. É INCORRETO afirmar:
+A) contribuinte possui relação pessoal e direta com o fato gerador.
+B) responsável pode ter obrigação atribuída expressamente por lei.
+C) qualquer terceiro sem vínculo pode ser escolhido livremente pelo fiscal como responsável.
+D) existem regras específicas de responsabilidade por sucessão.
+
+
+6. Recuperação da Aula 36: parcelamento é hipótese de:
+A) extinção.
+B) exclusão.
+C) suspensão da exigibilidade.
+D) imunidade.
+
+
+7. Recuperação da Aula 36: remissão é hipótese de:
+A) extinção.
+B) suspensão.
+C) imunidade.
+D) lançamento.
+
+
+8. Recuperação da Aula 33: o lançamento:
+A) constitui o crédito tributário.
+B) cria a competência tributária.
+C) é sempre judicial.
+D) extingue automaticamente a obrigação.
+
+
+9. Português — inferência. Leia: “Alguns responsáveis foram notificados após a fiscalização.” É possível afirmar que:
+A) todos os responsáveis foram notificados.
+B) pelo menos parte dos responsáveis mencionados foi notificada.
+C) nenhum responsável foi notificado.
+D) todos foram autuados.
+
+
+10. EXCETO — todas as associações estão adequadas, EXCETO:
+A) contribuinte — relação pessoal e direta com o fato gerador.
+B) responsável — obrigação decorrente de lei.
+C) art. 135 — excesso de poderes ou infração de lei/contrato/estatuto.
+D) parcelamento — extinção do crédito.
+
+
+STATUS DE DOMÍNIO
+Responsabilidade tributária: EM APRENDIZAGEM.
+Suspensão/extinção/exclusão: EM RETENÇÃO — aguarda resposta em mistura posterior.
+Lançamento: EM RETENÇÃO.
+Interpretação/inferência: EM RETENÇÃO.
+
+
+CADERNO DE ERROS
+Sem resposta do aluno nesta execução: nenhum erro novo pode ser diagnosticado. Após as respostas, registrar erro, causa provável, regra correta, pegadinha e revisão futura.
+
+
+REGRA FINAL DA AULA
+CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.
