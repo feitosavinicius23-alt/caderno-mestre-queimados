@@ -224,6 +224,34 @@ a:hover { text-decoration: underline; }
 }
 .rotulo-secao:first-child { margin-top: 0; }
 
+/* Roteiro de legislação do edital */
+.lei-edital {
+  margin: 22px 0 24px;
+  padding: 18px;
+  border: 1px solid var(--borda-forte);
+  border-top: 4px solid var(--acento);
+  border-radius: var(--raio);
+  background: linear-gradient(135deg, var(--azul-100), var(--bg-elev) 44%);
+  box-shadow: var(--sombra-sm);
+}
+.lei-edital__cabecalho { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.lei-edital__rotulo { color: var(--acento); font-size: 0.68rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
+.lei-edital h2 { margin: 3px 0 0; font-size: 1.12rem; }
+.lei-edital__intro { margin: 10px 0 18px; color: var(--texto-suave); font-size: 0.9rem; }
+.lei-edital__grupos { display: grid; gap: 18px; }
+.lei-edital h3 { margin: 0 0 8px; font-size: 0.82rem; color: var(--texto-suave); }
+.lei-edital__lista { display: grid; gap: 8px; }
+.lei-edital__item {
+  display: flex; flex-direction: column; gap: 3px; padding: 11px 13px;
+  border: 1px solid var(--borda); border-radius: var(--raio-sm);
+  background: var(--bg-elev); color: var(--texto); text-decoration: none;
+  transition: var(--transicao);
+}
+.lei-edital__item:hover { border-color: var(--acento); transform: translateY(-1px); text-decoration: none; }
+.lei-edital__item-titulo { color: var(--acento); font-weight: 700; font-size: 0.9rem; }
+.lei-edital__item-titulo span { font-size: 0.8rem; }
+.lei-edital__item-descricao { color: var(--texto-suave); font-size: 0.78rem; line-height: 1.4; }
+
 /* ---------------- Botões ---------------- */
 
 .botao {
@@ -451,6 +479,8 @@ textarea.campo { min-height: 96px; resize: vertical; font-family: inherit; }
 }
 
 @media (max-width: 520px) {
+  .lei-edital__cabecalho { flex-direction: column; }
+  .lei-edital__edital { width: 100%; }
   .botao--sync { padding: 8px; font-size: 0; }
   .botao--sync > span:first-child { font-size: 1rem; }
   .sync-drive__resultado { right: -48px; }
