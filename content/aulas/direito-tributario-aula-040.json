@@ -1,0 +1,341 @@
+{
+  "id": "direito-tributario-aula-040",
+  "numero": 40,
+  "titulo": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+  "slug": "responsabilidade-tributaria-de-terceiros-infracoes-e-denuncia-espontanea",
+  "disciplina": "Direito Tributário",
+  "assunto": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+  "ordem": 40,
+  "data": "2026-09-28",
+  "tempoEstimadoMin": 2,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-040-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Na Aula 39 fechamos a responsabilidade por sucessão (arts. 130 a 133). Agora concluímos o bloco de responsabilidade tributária do edital de Agente Fiscal com os arts. 134 a 138 do CTN. Este bloco é muito propício a questões de literalidade, troca de palavras e situações concretas. O edital inclui responsabilidade tributária dentro de obrigação tributária (CTN, arts. 113 a 138). Regra de estudo: não basta decorar quem responde; é preciso identificar QUAL tipo de responsabilidade a situação descreve.\n1. Art. 134 — responsabilidade de terceiros\nO art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis.\nExpressão-chave para prova:\nIMPOSSIBILIDADE DE EXIGIR DO CONTRIBUINTE + ATO/OMISSÃO DO TERCEIRO.\nO rol envolve, nas situações previstas no CTN: pais pelos tributos devidos por filhos menores; tutores e curadores pelos tutelados ou curatelados; administradores de bens de terceiros; inventariante pelo espólio; síndico e comissário nas hipóteses legais; tabeliães, escrivães e demais serventuários de ofício pelos tributos devidos sobre atos praticados por eles ou perante eles em razão do ofício; e sócios, no caso de liquidação de sociedade de pessoas.\nPegadinha: não transforme o art. 134 em responsabilidade automática e irrestrita de qualquer terceiro. O próprio dispositivo traz condições.\n2. Art. 135 — responsabilidade pessoal\nAqui a banca pode trocar a lógica do art. 134 pela do art. 135.\nSão pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com:"
+    },
+    {
+      "id": "direito-tributario-aula-040-b2",
+      "tipo": "questao",
+      "titulo": "EXCESSO DE PODERES",
+      "texto": "ou\nINFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.\nO dispositivo alcança as pessoas referidas no artigo anterior, mandatários, prepostos e empregados, e diretores, gerentes ou representantes de pessoas jurídicas de direito privado, nas condições legais.\nMacete:\n134 → impossibilidade + intervenção/omissão.\n135 → excesso de poderes ou infração.\nLogo, a frase “a empresa não pagou, então o administrador responde pessoalmente em qualquer caso” está errada como regra geral. É preciso enquadramento jurídico na hipótese legal.",
+      "questionIds": [
+        "direito-tributario-aula-040-q-001",
+        "direito-tributario-aula-040-q-002",
+        "direito-tributario-aula-040-q-003",
+        "direito-tributario-aula-040-q-004",
+        "direito-tributario-aula-040-q-005",
+        "direito-tributario-aula-040-q-006",
+        "direito-tributario-aula-040-q-007",
+        "direito-tributario-aula-040-q-008",
+        "direito-tributario-aula-040-q-009",
+        "direito-tributario-aula-040-q-010"
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-040-q-001",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 3,
+      "question": "Art. 136 — responsabilidade por infrações Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato. A palavra de prova é: INDEPENDE DA INTENÇÃO. A IAN pode construir um distrator dizendo que toda infração tributária exige comprovação de dolo. Isso contraria a regra geral do art. 136. Mas cuidado com absolutismos: o próprio artigo começa com “salvo disposição de lei em contrário”. Portanto, não transforme a regra em “jamais se considera intenção”. 4. Art. 137 — responsabilidade pessoal do agente O CTN prevê hipóteses em que a responsabilidade é pessoal ao agente, especialmente quando a infração é conceituada por lei como crime ou contravenção, ressalvadas as situações previstas no próprio dispositivo; quando há dolo específico do agente; e nas hipóteses legais envolvendo determinadas pessoas contra aqueles por quem respondem. Para a prova, a distinção central é: 136 → regra geral sobre responsabilidade por infrações. 137 → hipóteses de responsabilidade pessoal do agente. 5. Art. 138 — denúncia espontânea Este artigo é extremamente importante. A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, quando for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa quando o montante depender de apuração. Mas existe uma trava decisiva: NÃO se considera espontânea a denúncia apresentada APÓS O INÍCIO de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração. Macete: ANTES DA FISCALIZAÇÃO → pode haver espontaneidade, preenchidos os requisitos. DEPOIS DE INICIADA A FISCALIZAÇÃO RELACIONADA → perdeu a espontaneidade. Não confunda denúncia espontânea com anistia. ANISTIA → exclusão do crédito tributário, nos termos do art. 175, relacionada às infrações abrangidas pela lei. DENÚNCIA ESPONTÂNEA → exclusão da responsabilidade pela infração nas condições do art. 138. 6. Mapa cumulativo dos arts. 128 a 138 128 → lei pode atribuir responsabilidade a terceiro vinculado ao fato gerador. 130 → imóveis. 131 → sucessão pessoal/espólio. 132 → fusão, transformação e incorporação. 133 → aquisição de estabelecimento. 134 → terceiros: impossibilidade + ato/omissão. 135 → responsabilidade pessoal: excesso de poderes/infração. 136 → infração: regra geral independe da intenção. 137 → responsabilidade pessoal do agente em hipóteses legais. 138 → denúncia espontânea. 7. Recuperação espaçada Sem olhar para trás, complete mentalmente: Parcelamento → __________ da exigibilidade. Remissão → __________ do crédito. Isenção e anistia → __________ do crédito. Decadência → prazo ligado à __________. Prescrição → prazo ligado à __________. Art. 133 → aquisição de __________. Art. 135 → excesso de poderes ou __________. 8. Teste cumulativo — NÃO consultar o material e NÃO ver resposta antes de responder 1. O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:",
+      "options": [
+        {
+          "id": "A",
+          "text": "simples existência de parentesco em qualquer grau."
+        },
+        {
+          "id": "B",
+          "text": "impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte e aos atos/omissões previstos em lei."
+        },
+        {
+          "id": "C",
+          "text": "existência obrigatória de crime tributário."
+        },
+        {
+          "id": "D",
+          "text": "concessão de parcelamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-002",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 2,
+      "question": "A responsabilidade pessoal do art. 135 está especialmente ligada a atos praticados com:",
+      "options": [
+        {
+          "id": "A",
+          "text": "excesso de poderes ou infração de lei, contrato social ou estatutos."
+        },
+        {
+          "id": "B",
+          "text": "simples atraso no pagamento, em qualquer situação."
+        },
+        {
+          "id": "C",
+          "text": "isenção."
+        },
+        {
+          "id": "D",
+          "text": "moratória."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-003",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 3,
+      "question": "Segundo a regra geral do art. 136, a responsabilidade por infrações da legislação tributária:",
+      "options": [
+        {
+          "id": "A",
+          "text": "depende sempre de dolo."
+        },
+        {
+          "id": "B",
+          "text": "depende sempre do prejuízo efetivo ao Fisco."
+        },
+        {
+          "id": "C",
+          "text": "independe da intenção do agente ou responsável, salvo disposição de lei em contrário."
+        },
+        {
+          "id": "D",
+          "text": "só existe após condenação criminal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-004",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 4,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o art. 136 contém ressalva a disposição de lei em contrário."
+        },
+        {
+          "id": "B",
+          "text": "o art. 135 trata de hipóteses de responsabilidade pessoal."
+        },
+        {
+          "id": "C",
+          "text": "toda infração tributária exige necessariamente intenção comprovada."
+        },
+        {
+          "id": "D",
+          "text": "o art. 138 disciplina denúncia espontânea."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-005",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 5,
+      "question": "Um contribuinte procura espontaneamente a Administração antes de qualquer procedimento fiscal relacionado à infração e satisfaz os requisitos do art. 138. O instituto relevante é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "denúncia espontânea."
+        },
+        {
+          "id": "B",
+          "text": "decadência."
+        },
+        {
+          "id": "C",
+          "text": "imunidade."
+        },
+        {
+          "id": "D",
+          "text": "moratória."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-006",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 6,
+      "question": "O contribuinte apresenta a denúncia somente depois de iniciado procedimento de fiscalização relacionado à infração. Para fins do art. 138:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a denúncia é necessariamente espontânea."
+        },
+        {
+          "id": "B",
+          "text": "não se considera espontânea."
+        },
+        {
+          "id": "C",
+          "text": "ocorre automaticamente remissão."
+        },
+        {
+          "id": "D",
+          "text": "ocorre automaticamente anistia."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-007",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 7,
+      "question": "Assinale a associação correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 133 — aquisição de estabelecimento."
+        },
+        {
+          "id": "B",
+          "text": "art. 135 — parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "art. 136 — isenção."
+        },
+        {
+          "id": "D",
+          "text": "art. 138 — decadência."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-008",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 8,
+      "question": "Recuperação: parcelamento é hipótese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusão."
+        },
+        {
+          "id": "B",
+          "text": "extinção."
+        },
+        {
+          "id": "C",
+          "text": "suspensão da exigibilidade."
+        },
+        {
+          "id": "D",
+          "text": "imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-009",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 9,
+      "question": "Recuperação: remissão é hipótese de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "suspensão."
+        },
+        {
+          "id": "B",
+          "text": "extinção."
+        },
+        {
+          "id": "C",
+          "text": "imunidade."
+        },
+        {
+          "id": "D",
+          "text": "lançamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    },
+    {
+      "id": "direito-tributario-aula-040-q-010",
+      "lessonId": "direito-tributario-aula-040",
+      "numero": 10,
+      "question": "EXCETO — todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "130 — imóveis."
+        },
+        {
+          "id": "B",
+          "text": "133 — estabelecimento."
+        },
+        {
+          "id": "C",
+          "text": "135 — excesso de poderes/infração."
+        },
+        {
+          "id": "D",
+          "text": "138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-28",
+  "contentHash": "b4cac921c73fece7"
+}

@@ -1,0 +1,407 @@
+{
+  "id": "direito-tributario-aula-039",
+  "numero": 39,
+  "titulo": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+  "slug": "responsabilidade-tributaria-por-sucessao",
+  "disciplina": "Direito Tributário",
+  "assunto": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+  "ordem": 39,
+  "data": "2026-09-28",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-039-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO",
+      "texto": "Consolidar a diferença entre contribuinte e responsável e avançar nas regras do CTN sobre sucessão tributária, com foco nas pegadinhas de literalidade e em situações práticas de fiscalização."
+    },
+    {
+      "id": "direito-tributario-aula-039-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA DA AULA ANTERIOR",
+      "texto": "Sem consultar: contribuinte é quem possui relação pessoal e direta com a situação que constitui o fato gerador. Responsável é quem, sem revestir a condição de contribuinte, tem obrigação decorrente de disposição expressa de lei. No art. 135 do CTN, procure atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos."
+    },
+    {
+      "id": "direito-tributario-aula-039-b3",
+      "tipo": "teoria",
+      "titulo": "2. SUCESSÃO E BENS IMÓVEIS — CTN, ART. 130",
+      "texto": "Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, bem como taxas pela prestação de serviços referentes a esses bens e contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.\nPegadinha: não transforme a regra em “todo tributo do vendedor passa ao comprador”. O art. 130 delimita os créditos relacionados ao imóvel e prevê a ressalva da prova de quitação no título.\nNa arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço. Essa troca — adquirente versus preço — é excelente ponto de prova."
+    },
+    {
+      "id": "direito-tributario-aula-039-b4",
+      "tipo": "teoria",
+      "titulo": "3. SUCESSÃO PESSOAL — CTN, ART. 131",
+      "texto": "São pessoalmente responsáveis, nos termos do CTN, entre outros: o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos; o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação, limitada a responsabilidade ao montante do quinhão, legado ou meação; e o espólio, pelos tributos devidos pelo de cujus até a abertura da sucessão.\nMapa temporal:\nANTES da abertura da sucessão → atenção ao espólio.\nATÉ partilha/adjudicação → atenção ao sucessor e ao meeiro, observados os limites legais."
+    },
+    {
+      "id": "direito-tributario-aula-039-b5",
+      "tipo": "teoria",
+      "titulo": "4. FUSÃO, TRANSFORMAÇÃO E INCORPORAÇÃO — CTN, ART. 132",
+      "texto": "A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas envolvidas, conforme o CTN.\nA regra também se aplica, nas condições do parágrafo único do art. 132, quando pessoa jurídica de direito privado cessa suas atividades e a exploração continua por sócio remanescente ou espólio, sob a mesma ou outra razão social ou firma individual."
+    },
+    {
+      "id": "direito-tributario-aula-039-b6",
+      "tipo": "teoria",
+      "titulo": "5. AQUISIÇÃO DE FUNDO DE COMÉRCIO OU ESTABELECIMENTO — CTN, ART. 133",
+      "texto": "Quem adquire fundo de comércio ou estabelecimento comercial, industrial ou profissional e continua a respectiva exploração responde pelos tributos relativos ao fundo ou estabelecimento, devidos até a data do ato.\nA intensidade da responsabilidade depende da situação do alienante:\n— integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade;\n— subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar, dentro de seis meses, nova atividade no mesmo ou em outro ramo."
+    },
+    {
+      "id": "direito-tributario-aula-039-b7",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA CENTRAL: o prazo é de 6 MESES e a nova atividade pode ser no MESMO OU EM OUTRO RAMO.",
+      "texto": "O CTN também prevê exceções ligadas à alienação judicial em processo de falência e em processo de recuperação judicial, observadas as condições legais. Portanto, evite absolutismos como “todo adquirente sempre responde”."
+    },
+    {
+      "id": "direito-tributario-aula-039-b8",
+      "tipo": "teoria",
+      "titulo": "6. QUADRO DE DISCRIMINAÇÃO",
+      "texto": "Imóvel adquirido → art. 130; examine sub-rogação e prova de quitação.\nSucessão causa mortis → art. 131; examine espólio, sucessor/meeiro e limites.\nFusão/transformação/incorporação → art. 132.\nAquisição de estabelecimento com continuidade → art. 133; examine se o alienante cessou, continuou ou retomou atividade dentro de 6 meses.\nAdministrador com excesso de poderes ou infração → art. 135, tema diferente."
+    },
+    {
+      "id": "direito-tributario-aula-039-b9",
+      "tipo": "teoria",
+      "titulo": "7. INTERCALAÇÃO COM AULA 36",
+      "texto": "Parcelamento → suspensão da exigibilidade.\nRemissão → extinção.\nIsenção e anistia → exclusão.\nNão confunda REMISSÃO, que extingue crédito, com a figura do REMITENTE mencionada em sucessão de bens."
+    },
+    {
+      "id": "direito-tributario-aula-039-b10",
+      "tipo": "questao",
+      "titulo": "8. TESTE CUMULATIVO — RESPONDA SEM CONSULTAR",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-039-q-001",
+        "direito-tributario-aula-039-q-002",
+        "direito-tributario-aula-039-q-003",
+        "direito-tributario-aula-039-q-004",
+        "direito-tributario-aula-039-q-005",
+        "direito-tributario-aula-039-q-006",
+        "direito-tributario-aula-039-q-007",
+        "direito-tributario-aula-039-q-008",
+        "direito-tributario-aula-039-q-009",
+        "direito-tributario-aula-039-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-039-b11",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "IMÓVEL: ART. 130. SUCESSÃO PESSOAL: 131. REORGANIZAÇÃO EMPRESARIAL: 132. ESTABELECIMENTO: 133. EXCESSO DE PODERES/INFRAÇÃO: 135."
+    },
+    {
+      "id": "direito-tributario-aula-039-b12",
+      "tipo": "teoria",
+      "titulo": "STATUS",
+      "texto": "Responsabilidade tributária por sucessão: EM APRENDIZAGEM. Responsabilidade de terceiros, suspensão/extinção/exclusão e interpretação: EM RETENÇÃO. Nenhum tema é considerado dominado sem acerto posterior em questões misturadas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-039-q-001",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 1,
+      "question": "Na aquisição de imóvel, os créditos abrangidos pelo art. 130 do CTN, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "desaparecem automaticamente."
+        },
+        {
+          "id": "B",
+          "text": "sub-rogam-se na pessoa do adquirente, ressalvada a hipótese legal de prova de quitação no título."
+        },
+        {
+          "id": "C",
+          "text": "tornam-se sempre responsabilidade pessoal do prefeito."
+        },
+        {
+          "id": "D",
+          "text": "são necessariamente anistiados."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-002",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 2,
+      "question": "Na arrematação em hasta pública, a sub-rogação prevista no art. 130 ocorre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sobre o respectivo preço."
+        },
+        {
+          "id": "B",
+          "text": "sempre sobre o arrematante, sem exceção."
+        },
+        {
+          "id": "C",
+          "text": "sobre o antigo proprietário exclusivamente."
+        },
+        {
+          "id": "D",
+          "text": "apenas após parcelamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-003",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 3,
+      "question": "O espólio responde, nos termos do art. 131 do CTN, pelos tributos devidos pelo de cujus:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente após a partilha."
+        },
+        {
+          "id": "B",
+          "text": "até a abertura da sucessão."
+        },
+        {
+          "id": "C",
+          "text": "somente após cinco anos."
+        },
+        {
+          "id": "D",
+          "text": "apenas se houver infração penal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-004",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 4,
+      "question": "A pessoa jurídica resultante de fusão, transformação ou incorporação pode responder pelos tributos devidos, até a data do ato, pelas pessoas jurídicas envolvidas. Essa regra está associada ao:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 132 do CTN."
+        },
+        {
+          "id": "B",
+          "text": "art. 151 do CTN."
+        },
+        {
+          "id": "C",
+          "text": "art. 175 do CTN."
+        },
+        {
+          "id": "D",
+          "text": "art. 135 exclusivamente."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-005",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 5,
+      "question": "Um empresário vende seu estabelecimento e cessa a exploração da atividade. O adquirente continua a exploração. À luz da regra geral do art. 133, a responsabilidade do adquirente pelos tributos relativos ao estabelecimento devidos até a data do ato será:",
+      "options": [
+        {
+          "id": "A",
+          "text": "inexistente."
+        },
+        {
+          "id": "B",
+          "text": "integral, observadas as regras legais."
+        },
+        {
+          "id": "C",
+          "text": "apenas subsidiária em qualquer hipótese."
+        },
+        {
+          "id": "D",
+          "text": "convertida em isenção."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-006",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 6,
+      "question": "Se o alienante prosseguir na exploração ou iniciar, dentro de seis meses, nova atividade, a responsabilidade do adquirente prevista no art. 133 será, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "subsidiária com o alienante."
+        },
+        {
+          "id": "B",
+          "text": "excluída por anistia."
+        },
+        {
+          "id": "C",
+          "text": "sempre integral."
+        },
+        {
+          "id": "D",
+          "text": "inexistente."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-007",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 7,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o art. 133 considera a continuidade da exploração pelo adquirente."
+        },
+        {
+          "id": "B",
+          "text": "o prazo relevante previsto no art. 133 é de seis meses."
+        },
+        {
+          "id": "C",
+          "text": "a nova atividade do alienante precisa necessariamente ser do mesmo ramo."
+        },
+        {
+          "id": "D",
+          "text": "existem regras específicas para aquisição de estabelecimento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-008",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 8,
+      "question": "Assinale a associação correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "parcelamento — extinção."
+        },
+        {
+          "id": "B",
+          "text": "remissão — extinção."
+        },
+        {
+          "id": "C",
+          "text": "anistia — suspensão."
+        },
+        {
+          "id": "D",
+          "text": "isenção — prescrição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-009",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 9,
+      "question": "“Alguns adquirentes responderam pelos tributos do estabelecimento.” A única conclusão necessariamente autorizada pela frase é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "todos os adquirentes responderam."
+        },
+        {
+          "id": "B",
+          "text": "nenhum adquirente respondeu."
+        },
+        {
+          "id": "C",
+          "text": "pelo menos parte dos adquirentes mencionados respondeu."
+        },
+        {
+          "id": "D",
+          "text": "todos os tributos foram pagos."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    },
+    {
+      "id": "direito-tributario-aula-039-q-010",
+      "lessonId": "direito-tributario-aula-039",
+      "numero": 10,
+      "question": "EXCETO: todas as associações abaixo estão adequadas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 130 — sucessão relacionada a imóveis."
+        },
+        {
+          "id": "B",
+          "text": "art. 132 — fusão, transformação e incorporação."
+        },
+        {
+          "id": "C",
+          "text": "art. 133 — aquisição de fundo de comércio ou estabelecimento."
+        },
+        {
+          "id": "D",
+          "text": "art. 135 — parcelamento do crédito tributário. Não consulte o"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-039-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA DA AULA ANTERIOR",
+      "texto": "Sem consultar: contribuinte é quem possui relação pessoal e direta com a situação que constitui o fato gerador. Responsável é quem, sem revestir a condição de contribuinte, tem obrigação decorrente de disposição expressa de lei. No art. 135 do CTN, procure atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-28",
+  "contentHash": "dd80b4918d139151"
+}

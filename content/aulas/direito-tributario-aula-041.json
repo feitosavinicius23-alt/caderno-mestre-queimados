@@ -1,0 +1,491 @@
+{
+  "id": "direito-tributario-aula-041",
+  "numero": 41,
+  "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+  "slug": "garantias-e-privilegios-do-credito-tributario-ctn-arts-183-a-193",
+  "disciplina": "Direito Tributário",
+  "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+  "ordem": 41,
+  "data": "2026-09-28",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-041-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO DA AULA",
+      "texto": "Depois de fechar responsabilidade tributária (arts. 128 a 138), avançamos para garantias e privilégios do crédito tributário. O foco é distinguir: (1) alcance das garantias; (2) responsabilidade patrimonial; (3) presunção de fraude na alienação; (4) preferência do crédito tributário; e (5) prova de quitação tributária em situações específicas."
+    },
+    {
+      "id": "direito-tributario-aula-041-b2",
+      "tipo": "teoria",
+      "titulo": "1. GARANTIAS NÃO SÃO LISTA FECHADA",
+      "texto": "O art. 183 do CTN deixa claro que a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo."
+    },
+    {
+      "id": "direito-tributario-aula-041-b3",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: afirmar que o CTN contém rol absolutamente fechado de garantias do crédito tributário.",
+      "texto": "Regra prática: GARANTIAS DO CTN ≠ ROL NECESSARIAMENTE EXAUSTIVO."
+    },
+    {
+      "id": "direito-tributario-aula-041-b4",
+      "tipo": "teoria",
+      "titulo": "2. RESPONSABILIDADE PATRIMONIAL — ART. 184",
+      "texto": "Sem prejuízo dos privilégios especiais sobre determinados bens, responde pelo pagamento do crédito tributário a totalidade dos bens e rendas do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, qualquer que seja a data de constituição do ônus ou da cláusula, ressalvados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis."
+    },
+    {
+      "id": "direito-tributario-aula-041-b5",
+      "tipo": "atencao",
+      "titulo": "Atenção à palavra-chave: TOTALIDADE, com a ressalva legal dos absolutamente impenhoráveis.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-041-b6",
+      "tipo": "teoria",
+      "titulo": "3. FRAUDE NA ALIENAÇÃO — ART. 185",
+      "texto": "Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por sujeito passivo em débito para com a Fazenda Pública por crédito tributário regularmente inscrito como dívida ativa, salvo se tiver reservado bens ou rendas suficientes ao total pagamento da dívida inscrita."
+    },
+    {
+      "id": "direito-tributario-aula-041-b7",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "ART. 185 = DÍVIDA ATIVA + ALIENAÇÃO/ONERAÇÃO + PRESUNÇÃO, ressalvada reserva patrimonial suficiente."
+    },
+    {
+      "id": "direito-tributario-aula-041-b8",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha de literalidade: trocar “regularmente inscrito como dívida ativa” por qualquer débito ainda não inscrito.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-041-b9",
+      "tipo": "teoria",
+      "titulo": "4. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO — ART. 186",
+      "texto": "O crédito tributário prefere a qualquer outro, qualquer que seja a natureza ou o tempo de constituição deste, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho.\nNa falência, existem regras específicas de classificação e preferência. Portanto, não transforme a frase geral “crédito tributário prefere a qualquer outro” em regra sem exceções."
+    },
+    {
+      "id": "direito-tributario-aula-041-b10",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "TRIBUTÁRIO TEM PREFERÊNCIA, MAS HÁ RESSALVAS LEGAIS."
+    },
+    {
+      "id": "direito-tributario-aula-041-b11",
+      "tipo": "teoria",
+      "titulo": "5. CONCURSO DE PREFERÊNCIAS ENTRE PESSOAS JURÍDICAS DE DIREITO PÚBLICO — ART. 187",
+      "texto": "A cobrança judicial do crédito tributário não se sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento. O CTN disciplina ainda o concurso de preferência entre pessoas jurídicas de direito público.\nPara primeira volta, retenha a estrutura: COBRANÇA TRIBUTÁRIA POSSUI REGIME PRIVILEGIADO E REGRAS PRÓPRIAS."
+    },
+    {
+      "id": "direito-tributario-aula-041-b12",
+      "tipo": "teoria",
+      "titulo": "6. QUITAÇÃO TRIBUTÁRIA EM SITUAÇÕES ESPECÍFICAS",
+      "texto": "Os arts. 191 a 193 trazem exigências de prova de quitação em situações determinadas."
+    },
+    {
+      "id": "direito-tributario-aula-041-b13",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 191: a extinção das obrigações do falido requer prova de quitação de todos os tributos."
+    },
+    {
+      "id": "direito-tributario-aula-041-b14",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 192: nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação de todos os tributos relativos aos bens do espólio ou às suas rendas."
+    },
+    {
+      "id": "direito-tributario-aula-041-b15",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 193: salvo quando expressamente autorizado por lei, nenhum departamento da administração pública da União, Estados, Distrito Federal ou Municípios, ou suas autarquias, celebrará contrato ou aceitará proposta em concorrência pública sem que o contratante ou proponente faça prova da quitação dos tributos devidos à Fazenda Pública interessada, relativos à atividade em cujo exercício contrata ou concorre."
+    },
+    {
+      "id": "direito-tributario-aula-041-b16",
+      "tipo": "mapa-mental",
+      "titulo": "7. MAPA DE MEMORIZAÇÃO",
+      "texto": "183 → garantias não excluem outras previstas em lei.\n184 → patrimônio responde; ressalva dos absolutamente impenhoráveis.\n185 → alienação/oneração + dívida ativa = presunção de fraude, salvo reserva suficiente.\n186 → preferência do crédito tributário, com ressalvas legais.\n187 → cobrança judicial não se submete ao concurso comum de credores.\n191–193 → prova de quitação em situações específicas.",
+      "mapaId": "direito-tributario-aula-041-b16"
+    },
+    {
+      "id": "direito-tributario-aula-041-b17",
+      "tipo": "revisao",
+      "titulo": "8. RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar, recupere mentalmente:\n130 → imóvel.\n133 → estabelecimento.\n135 → excesso de poderes/infração.\n136 → responsabilidade por infrações, em regra, independe da intenção.\n138 → denúncia espontânea.\n151 → suspensão da exigibilidade.\n156 → extinção.\n175 → exclusão."
+    },
+    {
+      "id": "direito-tributario-aula-041-b18",
+      "tipo": "questao",
+      "titulo": "9. TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-041-q-001",
+        "direito-tributario-aula-041-q-002",
+        "direito-tributario-aula-041-q-003",
+        "direito-tributario-aula-041-q-004",
+        "direito-tributario-aula-041-q-005",
+        "direito-tributario-aula-041-q-006",
+        "direito-tributario-aula-041-q-007",
+        "direito-tributario-aula-041-q-008",
+        "direito-tributario-aula-041-q-009",
+        "direito-tributario-aula-041-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-041-b19",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "183 = GARANTIAS NÃO FECHAM O SISTEMA.\n184 = PATRIMÔNIO RESPONDE, SALVO ABSOLUTAMENTE IMPENHORÁVEIS.\n185 = DÍVIDA ATIVA + ALIENAÇÃO/ONERAÇÃO: ATENÇÃO À PRESUNÇÃO DE FRAUDE.\n186 = PREFERÊNCIA, MAS NÃO SEM RESSALVAS."
+    },
+    {
+      "id": "direito-tributario-aula-041-b20",
+      "tipo": "teoria",
+      "titulo": "STATUS DE DOMÍNIO",
+      "texto": "Garantias e privilégios: EM APRENDIZAGEM.\nResponsabilidade tributária: EM RETENÇÃO.\nSuspensão/extinção/exclusão: EM RETENÇÃO.\nNenhum tema é considerado dominado sem acerto posterior em questões intercaladas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-041-q-001",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 1,
+      "question": "Segundo o CTN, a enumeração das garantias do crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclui qualquer outra garantia criada por lei."
+        },
+        {
+          "id": "B",
+          "text": "não exclui outras garantias expressamente previstas em lei."
+        },
+        {
+          "id": "C",
+          "text": "somente pode ser ampliada pela Constituição."
+        },
+        {
+          "id": "D",
+          "text": "limita-se aos bens imóveis."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-002",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 2,
+      "question": "Em regra, pelo art. 184, responde pelo crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente dinheiro em conta corrente."
+        },
+        {
+          "id": "B",
+          "text": "apenas bens adquiridos depois do lançamento."
+        },
+        {
+          "id": "C",
+          "text": "a totalidade dos bens e rendas, observada a ressalva legal dos absolutamente impenhoráveis."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente bens imóveis."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-003",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 3,
+      "question": "A presunção do art. 185 está relacionada, em sua configuração legal, a crédito tributário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas lançado, ainda que não inscrito."
+        },
+        {
+          "id": "B",
+          "text": "regularmente inscrito como dívida ativa."
+        },
+        {
+          "id": "C",
+          "text": "necessariamente parcelado."
+        },
+        {
+          "id": "D",
+          "text": "excluído por isenção."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-004",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 4,
+      "question": "A presunção de fraude do art. 185 não se aplica quando o devedor reserva bens ou rendas suficientes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ao pagamento de metade da dívida."
+        },
+        {
+          "id": "B",
+          "text": "ao total pagamento da dívida inscrita."
+        },
+        {
+          "id": "C",
+          "text": "apenas às multas."
+        },
+        {
+          "id": "D",
+          "text": "apenas aos juros."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-005",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 5,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o crédito tributário possui preferência legal."
+        },
+        {
+          "id": "B",
+          "text": "há ressalvas legais à preferência tributária."
+        },
+        {
+          "id": "C",
+          "text": "créditos trabalhistas são irrelevantes para o art. 186."
+        },
+        {
+          "id": "D",
+          "text": "a disciplina da falência possui regras específicas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-006",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 6,
+      "question": "Recuperação: o art. 135 relaciona-se especialmente a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "excesso de poderes ou infração de lei, contrato social ou estatutos."
+        },
+        {
+          "id": "B",
+          "text": "parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "anistia."
+        },
+        {
+          "id": "D",
+          "text": "decadência."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-007",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 7,
+      "question": "Recuperação: a denúncia apresentada depois do início de fiscalização relacionada à infração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é sempre espontânea."
+        },
+        {
+          "id": "B",
+          "text": "não é considerada espontânea para o art. 138."
+        },
+        {
+          "id": "C",
+          "text": "extingue o crédito automaticamente."
+        },
+        {
+          "id": "D",
+          "text": "gera imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-008",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 8,
+      "question": "Recuperação: parcelamento corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "suspensão da exigibilidade."
+        },
+        {
+          "id": "B",
+          "text": "extinção."
+        },
+        {
+          "id": "C",
+          "text": "exclusão."
+        },
+        {
+          "id": "D",
+          "text": "imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-009",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 9,
+      "question": "Português + Tributário: “Alguns bens foram alienados após a inscrição em dívida ativa.” A frase permite concluir necessariamente que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "todos os bens foram alienados."
+        },
+        {
+          "id": "B",
+          "text": "nenhum bem foi alienado."
+        },
+        {
+          "id": "C",
+          "text": "pelo menos parte dos bens mencionados foi alienada."
+        },
+        {
+          "id": "D",
+          "text": "todos os créditos foram extintos."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    },
+    {
+      "id": "direito-tributario-aula-041-q-010",
+      "lessonId": "direito-tributario-aula-041",
+      "numero": 10,
+      "question": "EXCETO: todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 184 — responsabilidade patrimonial."
+        },
+        {
+          "id": "B",
+          "text": "art. 185 — presunção de fraude em hipótese legal."
+        },
+        {
+          "id": "C",
+          "text": "art. 186 — preferência do crédito tributário."
+        },
+        {
+          "id": "D",
+          "text": "art. 138 — parcelamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-041-b17",
+      "titulo": "8. RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar, recupere mentalmente:\n130 → imóvel.\n133 → estabelecimento.\n135 → excesso de poderes/infração.\n136 → responsabilidade por infrações, em regra, independe da intenção.\n138 → denúncia espontânea.\n151 → suspensão da exigibilidade.\n156 → extinção.\n175 → exclusão."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-041-b16",
+      "titulo": "7. MAPA DE MEMORIZAÇÃO",
+      "nos": [
+        "183",
+        "garantias não excluem outras previstas em lei",
+        "184",
+        "patrimônio responde; ressalva dos absolutamente impenhoráveis",
+        "185",
+        "alienação/oneração + dívida ativa = presunção de fraude, salvo reserva suficiente",
+        "186",
+        "preferência do crédito tributário, com ressalvas legais",
+        "187",
+        "cobrança judicial não se submete ao concurso comum de credores",
+        "191–193",
+        "prova de quitação em situações específicas"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-041-b13",
+      "titulo": "6. QUITAÇÃO TRIBUTÁRIA EM SITUAÇÕES ESPECÍFICAS",
+      "texto": "Art. 191: a extinção das obrigações do falido requer prova de quitação de todos os tributos."
+    },
+    {
+      "id": "direito-tributario-aula-041-b14",
+      "titulo": "6. QUITAÇÃO TRIBUTÁRIA EM SITUAÇÕES ESPECÍFICAS",
+      "texto": "Art. 192: nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação de todos os tributos relativos aos bens do espólio ou às suas rendas."
+    },
+    {
+      "id": "direito-tributario-aula-041-b15",
+      "titulo": "6. QUITAÇÃO TRIBUTÁRIA EM SITUAÇÕES ESPECÍFICAS",
+      "texto": "Art. 193: salvo quando expressamente autorizado por lei, nenhum departamento da administração pública da União, Estados, Distrito Federal ou Municípios, ou suas autarquias, celebrará contrato ou aceitará proposta em concorrência pública sem que o contratante ou proponente faça prova da quitação dos tributos devidos à Fazenda Pública interessada, relativos à atividade em cujo exercício contrata ou concorre."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-28",
+  "contentHash": "70e111b441cc6899"
+}

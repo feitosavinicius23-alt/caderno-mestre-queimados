@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 9,
+  "contentVersion": 10,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-28T00:40:29.668Z",
-  "contentHashGlobal": "1cc36293fee9a92f",
-  "totalAulas": 38,
-  "totalQuestoes": 158,
+  "ultimaSincronizacao": "2026-09-28T18:05:08.658Z",
+  "contentHashGlobal": "9a2c42b5466fdeb2",
+  "totalAulas": 41,
+  "totalQuestoes": 188,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -317,6 +317,42 @@
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
       "arquivo": "aulas/direito-tributario-aula-038.json",
       "hash": "5c60e8406eef257a",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-28"
+    },
+    {
+      "id": "direito-tributario-aula-039",
+      "numero": 39,
+      "titulo": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+      "slug": "responsabilidade-tributaria-por-sucessao",
+      "disciplina": "Direito Tributário",
+      "assunto": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+      "arquivo": "aulas/direito-tributario-aula-039.json",
+      "hash": "dd80b4918d139151",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-28"
+    },
+    {
+      "id": "direito-tributario-aula-040",
+      "numero": 40,
+      "titulo": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+      "slug": "responsabilidade-tributaria-de-terceiros-infracoes-e-denuncia-espontanea",
+      "disciplina": "Direito Tributário",
+      "assunto": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+      "arquivo": "aulas/direito-tributario-aula-040.json",
+      "hash": "b4cac921c73fece7",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-28"
+    },
+    {
+      "id": "direito-tributario-aula-041",
+      "numero": 41,
+      "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+      "slug": "garantias-e-privilegios-do-credito-tributario-ctn-arts-183-a-193",
+      "disciplina": "Direito Tributário",
+      "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+      "arquivo": "aulas/direito-tributario-aula-041.json",
+      "hash": "70e111b441cc6899",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-09-28"
     },

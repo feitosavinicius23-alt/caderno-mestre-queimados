@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 26,
-    "totalQuestoes": 142,
-    "tempoEstimadoMin": 113,
+    "totalAulas": 29,
+    "totalQuestoes": 172,
+    "tempoEstimadoMin": 122,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -31,7 +31,10 @@
       "Decadência e prescrição tributárias: os dois relógios de 5 anos",
       "Crédito tributário: suspensão, extinção e exclusão",
       "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
+      "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
+      "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+      "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+      "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     ],
     "aulas": [
       {
@@ -189,6 +192,24 @@
         "numero": 38,
         "titulo": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
         "slug": "responsabilidade-tributaria-quem-pode-ser-chamado-a-pagar"
+      },
+      {
+        "id": "direito-tributario-aula-039",
+        "numero": 39,
+        "titulo": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
+        "slug": "responsabilidade-tributaria-por-sucessao"
+      },
+      {
+        "id": "direito-tributario-aula-040",
+        "numero": 40,
+        "titulo": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+        "slug": "responsabilidade-tributaria-de-terceiros-infracoes-e-denuncia-espontanea"
+      },
+      {
+        "id": "direito-tributario-aula-041",
+        "numero": 41,
+        "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+        "slug": "garantias-e-privilegios-do-credito-tributario-ctn-arts-183-a-193"
       }
     ]
   },

@@ -7196,3 +7196,565 @@ Sem resposta do aluno nesta execução: nenhum erro novo pode ser diagnosticado.
 
 REGRA FINAL DA AULA
 CONTRIBUINTE TEM LIGAÇÃO DIRETA COM O FATO GERADOR; RESPONSÁVEL ENTRA POR LEI. ART. 135: PROCURE EXCESSO DE PODERES OU INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.
+
+
+
+
+AULA 39 — RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO
+
+
+OBJETIVO
+Consolidar a diferença entre contribuinte e responsável e avançar nas regras do CTN sobre sucessão tributária, com foco nas pegadinhas de literalidade e em situações práticas de fiscalização.
+
+
+1. RECUPERAÇÃO ATIVA DA AULA ANTERIOR
+Sem consultar: contribuinte é quem possui relação pessoal e direta com a situação que constitui o fato gerador. Responsável é quem, sem revestir a condição de contribuinte, tem obrigação decorrente de disposição expressa de lei. No art. 135 do CTN, procure atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+
+
+2. SUCESSÃO E BENS IMÓVEIS — CTN, ART. 130
+Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, bem como taxas pela prestação de serviços referentes a esses bens e contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.
+
+
+Pegadinha: não transforme a regra em “todo tributo do vendedor passa ao comprador”. O art. 130 delimita os créditos relacionados ao imóvel e prevê a ressalva da prova de quitação no título.
+
+
+Na arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço. Essa troca — adquirente versus preço — é excelente ponto de prova.
+
+
+3. SUCESSÃO PESSOAL — CTN, ART. 131
+São pessoalmente responsáveis, nos termos do CTN, entre outros: o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos; o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação, limitada a responsabilidade ao montante do quinhão, legado ou meação; e o espólio, pelos tributos devidos pelo de cujus até a abertura da sucessão.
+
+
+Mapa temporal:
+ANTES da abertura da sucessão → atenção ao espólio.
+ATÉ partilha/adjudicação → atenção ao sucessor e ao meeiro, observados os limites legais.
+
+
+4. FUSÃO, TRANSFORMAÇÃO E INCORPORAÇÃO — CTN, ART. 132
+A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas envolvidas, conforme o CTN.
+
+
+A regra também se aplica, nas condições do parágrafo único do art. 132, quando pessoa jurídica de direito privado cessa suas atividades e a exploração continua por sócio remanescente ou espólio, sob a mesma ou outra razão social ou firma individual.
+
+
+5. AQUISIÇÃO DE FUNDO DE COMÉRCIO OU ESTABELECIMENTO — CTN, ART. 133
+Quem adquire fundo de comércio ou estabelecimento comercial, industrial ou profissional e continua a respectiva exploração responde pelos tributos relativos ao fundo ou estabelecimento, devidos até a data do ato.
+
+
+A intensidade da responsabilidade depende da situação do alienante:
+— integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade;
+— subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar, dentro de seis meses, nova atividade no mesmo ou em outro ramo.
+
+
+PEGADINHA CENTRAL: o prazo é de 6 MESES e a nova atividade pode ser no MESMO OU EM OUTRO RAMO.
+
+
+O CTN também prevê exceções ligadas à alienação judicial em processo de falência e em processo de recuperação judicial, observadas as condições legais. Portanto, evite absolutismos como “todo adquirente sempre responde”.
+
+
+6. QUADRO DE DISCRIMINAÇÃO
+Imóvel adquirido → art. 130; examine sub-rogação e prova de quitação.
+Sucessão causa mortis → art. 131; examine espólio, sucessor/meeiro e limites.
+Fusão/transformação/incorporação → art. 132.
+Aquisição de estabelecimento com continuidade → art. 133; examine se o alienante cessou, continuou ou retomou atividade dentro de 6 meses.
+Administrador com excesso de poderes ou infração → art. 135, tema diferente.
+
+
+7. INTERCALAÇÃO COM AULA 36
+Parcelamento → suspensão da exigibilidade.
+Remissão → extinção.
+Isenção e anistia → exclusão.
+Não confunda REMISSÃO, que extingue crédito, com a figura do REMITENTE mencionada em sucessão de bens.
+
+
+8. TESTE CUMULATIVO — RESPONDA SEM CONSULTAR
+1. Na aquisição de imóvel, os créditos abrangidos pelo art. 130 do CTN, em regra:
+A) desaparecem automaticamente.
+B) sub-rogam-se na pessoa do adquirente, ressalvada a hipótese legal de prova de quitação no título.
+C) tornam-se sempre responsabilidade pessoal do prefeito.
+D) são necessariamente anistiados.
+
+
+2. Na arrematação em hasta pública, a sub-rogação prevista no art. 130 ocorre:
+A) sobre o respectivo preço.
+B) sempre sobre o arrematante, sem exceção.
+C) sobre o antigo proprietário exclusivamente.
+D) apenas após parcelamento.
+
+
+3. O espólio responde, nos termos do art. 131 do CTN, pelos tributos devidos pelo de cujus:
+A) somente após a partilha.
+B) até a abertura da sucessão.
+C) somente após cinco anos.
+D) apenas se houver infração penal.
+
+
+4. A pessoa jurídica resultante de fusão, transformação ou incorporação pode responder pelos tributos devidos, até a data do ato, pelas pessoas jurídicas envolvidas. Essa regra está associada ao:
+A) art. 132 do CTN.
+B) art. 151 do CTN.
+C) art. 175 do CTN.
+D) art. 135 exclusivamente.
+
+
+5. Um empresário vende seu estabelecimento e cessa a exploração da atividade. O adquirente continua a exploração. À luz da regra geral do art. 133, a responsabilidade do adquirente pelos tributos relativos ao estabelecimento devidos até a data do ato será:
+A) inexistente.
+B) integral, observadas as regras legais.
+C) apenas subsidiária em qualquer hipótese.
+D) convertida em isenção.
+
+
+6. Se o alienante prosseguir na exploração ou iniciar, dentro de seis meses, nova atividade, a responsabilidade do adquirente prevista no art. 133 será, em regra:
+A) subsidiária com o alienante.
+B) excluída por anistia.
+C) sempre integral.
+D) inexistente.
+
+
+7. É INCORRETO afirmar:
+A) o art. 133 considera a continuidade da exploração pelo adquirente.
+B) o prazo relevante previsto no art. 133 é de seis meses.
+C) a nova atividade do alienante precisa necessariamente ser do mesmo ramo.
+D) existem regras específicas para aquisição de estabelecimento.
+
+
+8. Assinale a associação correta:
+A) parcelamento — extinção.
+B) remissão — extinção.
+C) anistia — suspensão.
+D) isenção — prescrição.
+
+
+9. “Alguns adquirentes responderam pelos tributos do estabelecimento.” A única conclusão necessariamente autorizada pela frase é:
+A) todos os adquirentes responderam.
+B) nenhum adquirente respondeu.
+C) pelo menos parte dos adquirentes mencionados respondeu.
+D) todos os tributos foram pagos.
+
+
+10. EXCETO: todas as associações abaixo estão adequadas, EXCETO:
+A) art. 130 — sucessão relacionada a imóveis.
+B) art. 132 — fusão, transformação e incorporação.
+C) art. 133 — aquisição de fundo de comércio ou estabelecimento.
+D) art. 135 — parcelamento do crédito tributário.
+
+
+Não consulte o gabarito agora: nesta metodologia, as respostas serão corrigidas somente depois da tentativa do aluno, alternativa por alternativa.
+
+
+REGRA DE RETENÇÃO
+IMÓVEL: ART. 130. SUCESSÃO PESSOAL: 131. REORGANIZAÇÃO EMPRESARIAL: 132. ESTABELECIMENTO: 133. EXCESSO DE PODERES/INFRAÇÃO: 135.
+
+
+STATUS
+Responsabilidade tributária por sucessão: EM APRENDIZAGEM. Responsabilidade de terceiros, suspensão/extinção/exclusão e interpretação: EM RETENÇÃO. Nenhum tema é considerado dominado sem acerto posterior em questões misturadas.
+
+
+
+
+Aula 40 — Responsabilidade tributária de terceiros, infrações e denúncia espontânea
+
+
+Na Aula 39 fechamos a responsabilidade por sucessão (arts. 130 a 133). Agora concluímos o bloco de responsabilidade tributária do edital de Agente Fiscal com os arts. 134 a 138 do CTN. Este bloco é muito propício a questões de literalidade, troca de palavras e situações concretas. O edital inclui responsabilidade tributária dentro de obrigação tributária (CTN, arts. 113 a 138). Regra de estudo: não basta decorar quem responde; é preciso identificar QUAL tipo de responsabilidade a situação descreve.
+
+
+1. Art. 134 — responsabilidade de terceiros
+
+
+O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis.
+
+
+Expressão-chave para prova:
+
+
+IMPOSSIBILIDADE DE EXIGIR DO CONTRIBUINTE + ATO/OMISSÃO DO TERCEIRO.
+
+
+O rol envolve, nas situações previstas no CTN: pais pelos tributos devidos por filhos menores; tutores e curadores pelos tutelados ou curatelados; administradores de bens de terceiros; inventariante pelo espólio; síndico e comissário nas hipóteses legais; tabeliães, escrivães e demais serventuários de ofício pelos tributos devidos sobre atos praticados por eles ou perante eles em razão do ofício; e sócios, no caso de liquidação de sociedade de pessoas.
+
+
+Pegadinha: não transforme o art. 134 em responsabilidade automática e irrestrita de qualquer terceiro. O próprio dispositivo traz condições.
+
+
+2. Art. 135 — responsabilidade pessoal
+
+
+Aqui a banca pode trocar a lógica do art. 134 pela do art. 135.
+
+
+São pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com:
+
+
+EXCESSO DE PODERES
+ou
+INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS.
+
+
+O dispositivo alcança as pessoas referidas no artigo anterior, mandatários, prepostos e empregados, e diretores, gerentes ou representantes de pessoas jurídicas de direito privado, nas condições legais.
+
+
+Macete:
+
+
+134 → impossibilidade + intervenção/omissão.
+135 → excesso de poderes ou infração.
+
+
+Logo, a frase “a empresa não pagou, então o administrador responde pessoalmente em qualquer caso” está errada como regra geral. É preciso enquadramento jurídico na hipótese legal.
+
+
+3. Art. 136 — responsabilidade por infrações
+
+
+Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+
+
+A palavra de prova é:
+
+
+INDEPENDE DA INTENÇÃO.
+
+
+A IAN pode construir um distrator dizendo que toda infração tributária exige comprovação de dolo. Isso contraria a regra geral do art. 136.
+
+
+Mas cuidado com absolutismos: o próprio artigo começa com “salvo disposição de lei em contrário”. Portanto, não transforme a regra em “jamais se considera intenção”.
+
+
+4. Art. 137 — responsabilidade pessoal do agente
+
+
+O CTN prevê hipóteses em que a responsabilidade é pessoal ao agente, especialmente quando a infração é conceituada por lei como crime ou contravenção, ressalvadas as situações previstas no próprio dispositivo; quando há dolo específico do agente; e nas hipóteses legais envolvendo determinadas pessoas contra aqueles por quem respondem.
+
+
+Para a prova, a distinção central é:
+
+
+136 → regra geral sobre responsabilidade por infrações.
+137 → hipóteses de responsabilidade pessoal do agente.
+
+
+5. Art. 138 — denúncia espontânea
+
+
+Este artigo é extremamente importante.
+
+
+A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, quando for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa quando o montante depender de apuração.
+
+
+Mas existe uma trava decisiva:
+
+
+NÃO se considera espontânea a denúncia apresentada APÓS O INÍCIO de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração.
+
+
+Macete:
+
+
+ANTES DA FISCALIZAÇÃO → pode haver espontaneidade, preenchidos os requisitos.
+DEPOIS DE INICIADA A FISCALIZAÇÃO RELACIONADA → perdeu a espontaneidade.
+
+
+Não confunda denúncia espontânea com anistia.
+
+
+ANISTIA → exclusão do crédito tributário, nos termos do art. 175, relacionada às infrações abrangidas pela lei.
+DENÚNCIA ESPONTÂNEA → exclusão da responsabilidade pela infração nas condições do art. 138.
+
+
+6. Mapa cumulativo dos arts. 128 a 138
+
+
+128 → lei pode atribuir responsabilidade a terceiro vinculado ao fato gerador.
+130 → imóveis.
+131 → sucessão pessoal/espólio.
+132 → fusão, transformação e incorporação.
+133 → aquisição de estabelecimento.
+134 → terceiros: impossibilidade + ato/omissão.
+135 → responsabilidade pessoal: excesso de poderes/infração.
+136 → infração: regra geral independe da intenção.
+137 → responsabilidade pessoal do agente em hipóteses legais.
+138 → denúncia espontânea.
+
+
+7. Recuperação espaçada
+
+
+Sem olhar para trás, complete mentalmente:
+
+
+Parcelamento → __________ da exigibilidade.
+Remissão → __________ do crédito.
+Isenção e anistia → __________ do crédito.
+Decadência → prazo ligado à __________.
+Prescrição → prazo ligado à __________.
+Art. 133 → aquisição de __________.
+Art. 135 → excesso de poderes ou __________.
+
+
+8. Teste cumulativo — NÃO consultar o material e NÃO ver resposta antes de responder
+
+
+1. O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:
+A) simples existência de parentesco em qualquer grau.
+B) impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte e aos atos/omissões previstos em lei.
+C) existência obrigatória de crime tributário.
+D) concessão de parcelamento.
+
+
+2. A responsabilidade pessoal do art. 135 está especialmente ligada a atos praticados com:
+A) excesso de poderes ou infração de lei, contrato social ou estatutos.
+B) simples atraso no pagamento, em qualquer situação.
+C) isenção.
+D) moratória.
+
+
+3. Segundo a regra geral do art. 136, a responsabilidade por infrações da legislação tributária:
+A) depende sempre de dolo.
+B) depende sempre do prejuízo efetivo ao Fisco.
+C) independe da intenção do agente ou responsável, salvo disposição de lei em contrário.
+D) só existe após condenação criminal.
+
+
+4. É INCORRETO afirmar:
+A) o art. 136 contém ressalva a disposição de lei em contrário.
+B) o art. 135 trata de hipóteses de responsabilidade pessoal.
+C) toda infração tributária exige necessariamente intenção comprovada.
+D) o art. 138 disciplina denúncia espontânea.
+
+
+5. Um contribuinte procura espontaneamente a Administração antes de qualquer procedimento fiscal relacionado à infração e satisfaz os requisitos do art. 138. O instituto relevante é:
+A) denúncia espontânea.
+B) decadência.
+C) imunidade.
+D) moratória.
+
+
+6. O contribuinte apresenta a denúncia somente depois de iniciado procedimento de fiscalização relacionado à infração. Para fins do art. 138:
+A) a denúncia é necessariamente espontânea.
+B) não se considera espontânea.
+C) ocorre automaticamente remissão.
+D) ocorre automaticamente anistia.
+
+
+7. Assinale a associação correta:
+A) art. 133 — aquisição de estabelecimento.
+B) art. 135 — parcelamento.
+C) art. 136 — isenção.
+D) art. 138 — decadência.
+
+
+8. Recuperação: parcelamento é hipótese de:
+A) exclusão.
+B) extinção.
+C) suspensão da exigibilidade.
+D) imunidade.
+
+
+9. Recuperação: remissão é hipótese de:
+A) suspensão.
+B) extinção.
+C) imunidade.
+D) lançamento.
+
+
+10. EXCETO — todas as associações estão corretas, EXCETO:
+A) 130 — imóveis.
+B) 133 — estabelecimento.
+C) 135 — excesso de poderes/infração.
+D) 138 — parcelamento.
+
+
+As respostas ficam ocultas nesta etapa. Após a resposta do aluno, corrigir alternativa por alternativa, identificar o mecanismo do distrator e registrar eventual erro no caderno de erros.
+
+
+Regra de retenção da Aula 40
+
+
+134 = IMPOSSIBILIDADE + ATO/OMISSÃO.
+135 = EXCESSO/INFRAÇÃO.
+136 = REGRA GERAL INDEPENDE DA INTENÇÃO.
+138 = ESPONTÂNEA SOMENTE ANTES DO PROCEDIMENTO/FISCALIZAÇÃO RELACIONADO.
+
+
+Situação de domínio
+
+
+Responsabilidade tributária: EM APRENDIZAGEM/RETENÇÃO. Não considerar dominada até reaparecer corretamente em questões misturadas posteriores.
+Suspensão/extinção/exclusão: EM RETENÇÃO.
+Lançamento, decadência e prescrição: EM RETENÇÃO.
+Português/interpretação: manter intercalação nas próximas aulas.
+
+
+
+
+AULA 41 — GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)
+
+
+OBJETIVO DA AULA
+Depois de fechar responsabilidade tributária (arts. 128 a 138), avançamos para garantias e privilégios do crédito tributário. O foco é distinguir: (1) alcance das garantias; (2) responsabilidade patrimonial; (3) presunção de fraude na alienação; (4) preferência do crédito tributário; e (5) prova de quitação tributária em situações específicas.
+
+
+1. GARANTIAS NÃO SÃO LISTA FECHADA
+O art. 183 do CTN deixa claro que a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo.
+
+
+Pegadinha: afirmar que o CTN contém rol absolutamente fechado de garantias do crédito tributário.
+
+
+Regra prática: GARANTIAS DO CTN ≠ ROL NECESSARIAMENTE EXAUSTIVO.
+
+
+2. RESPONSABILIDADE PATRIMONIAL — ART. 184
+Sem prejuízo dos privilégios especiais sobre determinados bens, responde pelo pagamento do crédito tributário a totalidade dos bens e rendas do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, qualquer que seja a data de constituição do ônus ou da cláusula, ressalvados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis.
+
+
+Atenção à palavra-chave: TOTALIDADE, com a ressalva legal dos absolutamente impenhoráveis.
+
+
+3. FRAUDE NA ALIENAÇÃO — ART. 185
+Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por sujeito passivo em débito para com a Fazenda Pública por crédito tributário regularmente inscrito como dívida ativa, salvo se tiver reservado bens ou rendas suficientes ao total pagamento da dívida inscrita.
+
+
+Pegadinha de literalidade: trocar “regularmente inscrito como dívida ativa” por qualquer débito ainda não inscrito.
+
+
+Memória: ART. 185 = DÍVIDA ATIVA + ALIENAÇÃO/ONERAÇÃO + PRESUNÇÃO, ressalvada reserva patrimonial suficiente.
+
+
+4. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO — ART. 186
+O crédito tributário prefere a qualquer outro, qualquer que seja a natureza ou o tempo de constituição deste, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho.
+
+
+Na falência, existem regras específicas de classificação e preferência. Portanto, não transforme a frase geral “crédito tributário prefere a qualquer outro” em regra sem exceções.
+
+
+Memória: TRIBUTÁRIO TEM PREFERÊNCIA, MAS HÁ RESSALVAS LEGAIS.
+
+
+5. CONCURSO DE PREFERÊNCIAS ENTRE PESSOAS JURÍDICAS DE DIREITO PÚBLICO — ART. 187
+A cobrança judicial do crédito tributário não se sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento. O CTN disciplina ainda o concurso de preferência entre pessoas jurídicas de direito público.
+
+
+Para primeira volta, retenha a estrutura: COBRANÇA TRIBUTÁRIA POSSUI REGIME PRIVILEGIADO E REGRAS PRÓPRIAS.
+
+
+6. QUITAÇÃO TRIBUTÁRIA EM SITUAÇÕES ESPECÍFICAS
+Os arts. 191 a 193 trazem exigências de prova de quitação em situações determinadas.
+
+
+Art. 191: a extinção das obrigações do falido requer prova de quitação de todos os tributos.
+
+
+Art. 192: nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da quitação de todos os tributos relativos aos bens do espólio ou às suas rendas.
+
+
+Art. 193: salvo quando expressamente autorizado por lei, nenhum departamento da administração pública da União, Estados, Distrito Federal ou Municípios, ou suas autarquias, celebrará contrato ou aceitará proposta em concorrência pública sem que o contratante ou proponente faça prova da quitação dos tributos devidos à Fazenda Pública interessada, relativos à atividade em cujo exercício contrata ou concorre.
+
+
+7. MAPA DE MEMORIZAÇÃO
+183 → garantias não excluem outras previstas em lei.
+184 → patrimônio responde; ressalva dos absolutamente impenhoráveis.
+185 → alienação/oneração + dívida ativa = presunção de fraude, salvo reserva suficiente.
+186 → preferência do crédito tributário, com ressalvas legais.
+187 → cobrança judicial não se submete ao concurso comum de credores.
+191–193 → prova de quitação em situações específicas.
+
+
+8. RECUPERAÇÃO ESPAÇADA
+Sem consultar, recupere mentalmente:
+130 → imóvel.
+133 → estabelecimento.
+135 → excesso de poderes/infração.
+136 → responsabilidade por infrações, em regra, independe da intenção.
+138 → denúncia espontânea.
+151 → suspensão da exigibilidade.
+156 → extinção.
+175 → exclusão.
+
+
+9. TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO
+
+
+1. Segundo o CTN, a enumeração das garantias do crédito tributário:
+A) exclui qualquer outra garantia criada por lei.
+B) não exclui outras garantias expressamente previstas em lei.
+C) somente pode ser ampliada pela Constituição.
+D) limita-se aos bens imóveis.
+
+
+2. Em regra, pelo art. 184, responde pelo crédito tributário:
+A) somente dinheiro em conta corrente.
+B) apenas bens adquiridos depois do lançamento.
+C) a totalidade dos bens e rendas, observada a ressalva legal dos absolutamente impenhoráveis.
+D) exclusivamente bens imóveis.
+
+
+3. A presunção do art. 185 está relacionada, em sua configuração legal, a crédito tributário:
+A) apenas lançado, ainda que não inscrito.
+B) regularmente inscrito como dívida ativa.
+C) necessariamente parcelado.
+D) excluído por isenção.
+
+
+4. A presunção de fraude do art. 185 não se aplica quando o devedor reserva bens ou rendas suficientes:
+A) ao pagamento de metade da dívida.
+B) ao total pagamento da dívida inscrita.
+C) apenas às multas.
+D) apenas aos juros.
+
+
+5. É INCORRETO afirmar:
+A) o crédito tributário possui preferência legal.
+B) há ressalvas legais à preferência tributária.
+C) créditos trabalhistas são irrelevantes para o art. 186.
+D) a disciplina da falência possui regras específicas.
+
+
+6. Recuperação: o art. 135 relaciona-se especialmente a:
+A) excesso de poderes ou infração de lei, contrato social ou estatutos.
+B) parcelamento.
+C) anistia.
+D) decadência.
+
+
+7. Recuperação: a denúncia apresentada depois do início de fiscalização relacionada à infração:
+A) é sempre espontânea.
+B) não é considerada espontânea para o art. 138.
+C) extingue o crédito automaticamente.
+D) gera imunidade.
+
+
+8. Recuperação: parcelamento corresponde a:
+A) suspensão da exigibilidade.
+B) extinção.
+C) exclusão.
+D) imunidade.
+
+
+9. Português + Tributário: “Alguns bens foram alienados após a inscrição em dívida ativa.” A frase permite concluir necessariamente que:
+A) todos os bens foram alienados.
+B) nenhum bem foi alienado.
+C) pelo menos parte dos bens mencionados foi alienada.
+D) todos os créditos foram extintos.
+
+
+10. EXCETO: todas as associações estão corretas, EXCETO:
+A) art. 184 — responsabilidade patrimonial.
+B) art. 185 — presunção de fraude em hipótese legal.
+C) art. 186 — preferência do crédito tributário.
+D) art. 138 — parcelamento.
+
+
+REGRA DE RETENÇÃO
+183 = GARANTIAS NÃO FECHAM O SISTEMA.
+184 = PATRIMÔNIO RESPONDE, SALVO ABSOLUTAMENTE IMPENHORÁVEIS.
+185 = DÍVIDA ATIVA + ALIENAÇÃO/ONERAÇÃO: ATENÇÃO À PRESUNÇÃO DE FRAUDE.
+186 = PREFERÊNCIA, MAS NÃO SEM RESSALVAS.
+
+
+STATUS DE DOMÍNIO
+Garantias e privilégios: EM APRENDIZAGEM.
+Responsabilidade tributária: EM RETENÇÃO.
+Suspensão/extinção/exclusão: EM RETENÇÃO.
+Nenhum tema é considerado dominado sem acerto posterior em questões intercaladas.
