@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 10,
+  "contentVersion": 11,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-28T18:05:08.658Z",
-  "contentHashGlobal": "9a2c42b5466fdeb2",
-  "totalAulas": 41,
-  "totalQuestoes": 188,
+  "ultimaSincronizacao": "2026-09-28T23:12:20.918Z",
+  "contentHashGlobal": "5ee70d397b927fb4",
+  "totalAulas": 42,
+  "totalQuestoes": 198,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -353,6 +353,18 @@
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
       "arquivo": "aulas/direito-tributario-aula-041.json",
       "hash": "70e111b441cc6899",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-28"
+    },
+    {
+      "id": "direito-tributario-aula-042",
+      "numero": 42,
+      "titulo": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
+      "slug": "administracao-tributaria-fiscalizacao-divida-ativa-e-certidoes-ctn-arts-194-a-20",
+      "disciplina": "Direito Tributário",
+      "assunto": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
+      "arquivo": "aulas/direito-tributario-aula-042.json",
+      "hash": "1e882a4d41218941",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-09-28"
     },

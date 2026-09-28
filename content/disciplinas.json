@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 29,
-    "totalQuestoes": 172,
-    "tempoEstimadoMin": 122,
+    "totalAulas": 30,
+    "totalQuestoes": 182,
+    "tempoEstimadoMin": 127,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -34,7 +34,8 @@
       "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
       "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
       "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
+      "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
+      "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     ],
     "aulas": [
       {
@@ -210,6 +211,12 @@
         "numero": 41,
         "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
         "slug": "garantias-e-privilegios-do-credito-tributario-ctn-arts-183-a-193"
+      },
+      {
+        "id": "direito-tributario-aula-042",
+        "numero": 42,
+        "titulo": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
+        "slug": "administracao-tributaria-fiscalizacao-divida-ativa-e-certidoes-ctn-arts-194-a-20"
       }
     ]
   },

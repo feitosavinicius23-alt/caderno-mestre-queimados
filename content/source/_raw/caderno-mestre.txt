@@ -7758,3 +7758,205 @@ Garantias e privilégios: EM APRENDIZAGEM.
 Responsabilidade tributária: EM RETENÇÃO.
 Suspensão/extinção/exclusão: EM RETENÇÃO.
 Nenhum tema é considerado dominado sem acerto posterior em questões intercaladas.
+
+
+
+
+AULA 42 — ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)
+
+
+OBJETIVO
+Fechar a primeira volta do bloco geral do CTN aprendendo três ferramentas diretamente ligadas ao trabalho do Agente Fiscal: fiscalização, inscrição em dívida ativa e certidões tributárias. O foco é literalidade + distinções que viram distratores.
+
+
+1. FISCALIZAÇÃO — ARTS. 194 A 200
+A legislação tributária, observadas as regras do CTN, disciplina a competência e os poderes das autoridades administrativas em matéria de fiscalização. O ponto central para prova é não confundir poder de fiscalizar com poder arbitrário: a atuação fiscal existe nos limites legais.
+
+
+Art. 195 — livros e documentos
+Para os efeitos da legislação tributária, não têm aplicação disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos comerciantes, industriais ou produtores, nem da obrigação destes de exibi-los, observada a disciplina legal.
+
+
+Ponto de memória: DOCUMENTO FISCAL RELEVANTE NÃO FICA FORA DO ALCANCE DA FISCALIZAÇÃO SÓ POR UMA ALEGAÇÃO GENÉRICA DE SIGILO PRIVADO.
+
+
+Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles efetuados devem ser conservados até que ocorra a prescrição dos créditos tributários decorrentes das operações a que se refiram.
+
+
+Pegadinha: trocar “prescrição” por “decadência” na literalidade do art. 195, parágrafo único.
+
+
+Art. 196 — termo de fiscalização
+A autoridade que proceder ou presidir diligências de fiscalização deve lavrar os termos necessários para documentar o início do procedimento, na forma da legislação aplicável, fixando prazo máximo para sua conclusão quando cabível.
+
+
+Conexão com a Aula 40: iniciado procedimento administrativo ou medida de fiscalização relacionado à infração, a denúncia posterior não é espontânea para fins do art. 138.
+
+
+Art. 197 — informações de terceiros
+O CTN prevê pessoas e entidades obrigadas, mediante intimação escrita, a prestar informações de que disponham sobre bens, negócios ou atividades de terceiros, dentro das hipóteses legais. Não transforme isso em autorização ilimitada para exigir qualquer informação de qualquer pessoa.
+
+
+Art. 198 — sigilo fiscal
+Regra: é vedada a divulgação, pela Fazenda Pública ou seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades, sem prejuízo das exceções legais.
+
+
+Memória: FISCAL PODE ACESSAR NOS LIMITES DA LEI ≠ FISCAL PODE DIVULGAR LIVREMENTE.
+
+
+Art. 200 — auxílio da força pública
+As autoridades administrativas federais podem requisitar auxílio da força pública federal, estadual ou municipal, e reciprocamente as autoridades estaduais ou municipais, quando vítimas de embaraço ou desacato no exercício de suas funções ou quando necessário à efetivação de medida prevista na legislação tributária, ainda que não se configure fato definido em lei como crime ou contravenção.
+
+
+2. DÍVIDA ATIVA — ARTS. 201 A 204
+Depois de constituído definitivamente e não pago no prazo, o crédito pode seguir para inscrição em dívida ativa, observadas as regras legais.
+
+
+Art. 201: constitui dívida ativa tributária a proveniente de crédito dessa natureza, regularmente inscrita na repartição administrativa competente depois de esgotado o prazo fixado para pagamento pela lei ou por decisão final em processo regular.
+
+
+Não confunda:
+LANÇAMENTO → constitui o crédito.
+INSCRIÇÃO EM DÍVIDA ATIVA → etapa posterior relativa ao crédito já constituído e não pago, nas condições legais.
+
+
+Art. 202 — termo de inscrição
+O termo deve conter os elementos exigidos pelo CTN, como identificação do devedor e corresponsáveis quando conhecidos, quantia devida e forma de cálculo dos juros, origem e natureza do crédito com indicação da disposição legal, data da inscrição e, quando for o caso, número do processo administrativo.
+
+
+Art. 203 — omissão/erro
+A omissão de requisitos ou erro a eles relativo pode acarretar nulidade da inscrição e do processo de cobrança dela decorrente, admitida a substituição da certidão até a decisão de primeira instância, nos termos do CTN, com devolução do prazo de defesa quanto à parte modificada.
+
+
+Art. 204 — presunção
+A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem efeito de prova pré-constituída. Essa presunção é RELATIVA, podendo ser ilidida por prova inequívoca a cargo do sujeito passivo ou terceiro a quem aproveite.
+
+
+Pegadinha máxima: “presunção absoluta”. ERRADO.
+
+
+3. CERTIDÕES — ARTS. 205 A 208
+Art. 205: a lei pode exigir prova da quitação de determinado tributo por certidão negativa, expedida à vista de requerimento do interessado e contendo as informações necessárias à sua identificação e ao objeto.
+
+
+Art. 206 — CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA (CPEN)
+Tem os mesmos efeitos da certidão negativa a certidão da qual conste existência de créditos:
+• não vencidos;
+• em curso de cobrança executiva em que tenha sido efetivada a penhora;
+• cuja exigibilidade esteja suspensa.
+
+
+Conexão essencial:
+PARCELAMENTO → suspende exigibilidade → pode permitir CPEN, preenchidos os requisitos legais.
+
+
+Não diga que o débito desapareceu. Ele existe; a certidão recebe efeitos de negativa nas hipóteses legais.
+
+
+Art. 207: independentemente de disposição legal permissiva, pode ser dispensada a prova de quitação quando se tratar de prática de ato indispensável para evitar a caducidade de direito, respondendo os participantes pelo tributo, juros e penalidades, salvo as exceções legais.
+
+
+Art. 208: certidão negativa expedida com dolo ou fraude que contenha erro contra a Fazenda responsabiliza pessoalmente o funcionário que a expedir pelo crédito tributário e juros de mora, sem excluir responsabilidade criminal e funcional cabível.
+
+
+MAPA DE PROVA
+194–200 → FISCALIZAÇÃO
+201–204 → DÍVIDA ATIVA
+205–208 → CERTIDÕES
+195 → exame + conservação documental
+198 → sigilo fiscal
+200 → força pública
+201 → conceito de dívida ativa tributária
+204 → certeza/liquidez, presunção RELATIVA
+205 → CND
+206 → CPEN
+208 → responsabilidade por certidão dolosa/fraudulenta
+
+
+RECUPERAÇÃO ESPAÇADA
+Sem consultar: 135 = excesso de poderes/infração; 138 = denúncia espontânea; 151 = suspensão; 156 = extinção; 175 = exclusão; 185 = alienação/oneração após inscrição em dívida ativa, nos termos legais.
+
+
+TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO
+1. Segundo o CTN, os livros obrigatórios e comprovantes devem ser conservados, em regra, até:
+A) a decadência de qualquer tributo municipal.
+B) a prescrição dos créditos tributários decorrentes das operações respectivas.
+C) o encerramento do exercício seguinte.
+D) a inscrição em dívida ativa.
+
+
+2. Sobre sigilo fiscal, assinale a CORRETA:
+A) toda informação obtida pelo fiscal pode ser divulgada.
+B) a regra é a vedação de divulgação das informações protegidas, ressalvadas hipóteses legais.
+C) o sigilo impede toda fiscalização.
+D) somente informações bancárias são protegidas.
+
+
+3. A inscrição em dívida ativa:
+A) cria o fato gerador.
+B) substitui o lançamento em qualquer hipótese.
+C) recai, nas condições legais, sobre crédito já constituído.
+D) equivale à anistia.
+
+
+4. A dívida regularmente inscrita possui presunção de certeza e liquidez:
+A) absoluta.
+B) relativa, podendo ser afastada por prova inequívoca nos termos do CTN.
+C) inexistente.
+D) apenas após pagamento.
+
+
+5. É hipótese expressamente relacionada à CPEN:
+A) crédito com exigibilidade suspensa.
+B) crédito remitido, exclusivamente.
+C) qualquer débito ocultado pelo contribuinte.
+D) crédito inexistente apenas.
+
+
+6. Um crédito regularmente parcelado, preenchidos os demais requisitos legais, relaciona-se à CPEN porque o parcelamento:
+A) extingue o crédito.
+B) suspende sua exigibilidade.
+C) concede imunidade.
+D) gera anistia.
+
+
+7. É INCORRETO afirmar:
+A) lançamento constitui o crédito tributário.
+B) inscrição em dívida ativa é etapa posterior nas hipóteses legais.
+C) a presunção do art. 204 é absoluta e jamais admite prova contrária.
+D) o CTN disciplina certidões tributárias.
+
+
+8. A denúncia apresentada após o início de fiscalização relacionada à infração:
+A) é necessariamente espontânea.
+B) não é espontânea para os fins do art. 138.
+C) extingue o crédito.
+D) gera CPEN automaticamente.
+
+
+9. Português + Tributário: “Alguns créditos inscritos possuem exigibilidade suspensa.” A frase permite concluir necessariamente que:
+A) todos os créditos estão suspensos.
+B) nenhum crédito está suspenso.
+C) pelo menos parte dos créditos mencionados possui exigibilidade suspensa.
+D) todos foram extintos.
+
+
+10. EXCETO — todas as associações estão corretas, EXCETO:
+A) art. 198 — sigilo fiscal.
+B) art. 204 — presunção relativa de certeza e liquidez.
+C) art. 206 — CPEN.
+D) art. 151 — extinção do crédito.
+
+
+REGRA DE RETENÇÃO
+LANÇAMENTO CONSTITUI → DÍVIDA ATIVA INSCREVE → CDA DOCUMENTA A COBRANÇA.
+ART. 204: PRESUNÇÃO RELATIVA.
+ART. 206: CRÉDITO PODE EXISTIR E, AINDA ASSIM, HAVER CERTIDÃO COM EFEITOS DE NEGATIVA NAS HIPÓTESES LEGAIS.
+
+
+STATUS
+Administração tributária: EM APRENDIZAGEM.
+Responsabilidade tributária: EM RETENÇÃO.
+Suspensão/extinção/exclusão: EM RETENÇÃO.
+Garantias e privilégios: EM RETENÇÃO.
+Nenhum bloco é considerado dominado sem acerto posterior em questões intercaladas.
