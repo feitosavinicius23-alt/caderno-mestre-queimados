@@ -60,13 +60,13 @@ jobs:
 
       - name: Commit das alterações de conteúdo
         run: |
-          if [ -z "$(git status --porcelain content/)" ]; then
-            echo "Nenhuma alteração de conteúdo. Nada a publicar."
+          if [ -z "$(git status --porcelain content/ public/sitemap.xml public/sync-source.json)" ]; then
+            echo "Nenhuma alteração no conteúdo ou nos arquivos gerados. Nada a publicar."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/
+          git add content/ public/sitemap.xml public/sync-source.json
           AULAS=$(node -e "console.log(require('./content/manifest.json').totalAulas)")
           git commit -m "chore(content): sync do Caderno Mestre — ${AULAS} aulas"
           git push
