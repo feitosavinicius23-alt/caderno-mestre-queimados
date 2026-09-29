@@ -1,7 +1,7 @@
 {
-  "contentVersion": 11,
-  "geradoEm": "2026-09-29T14:56:06.874Z",
-  "total": 893,
+  "contentVersion": 12,
+  "geradoEm": "2026-09-29T19:23:03.045Z",
+  "total": 914,
   "documentos": [
     {
       "tipo": "aula",
@@ -8227,6 +8227,225 @@
       "assunto": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
       "slug": "ctm-de-queimados-inicio-do-procedimento-notificacao-preliminar-e-auto-de-infraca",
       "texto": "Sem consultar:\nArt. 121 → competência de fiscalização.\nArt. 122 → fiscalização alcança inclusive imunes/isentos.\nArt. 123 → informações de terceiros.\nArt. 124 → sigilo.\nArt. 126 → termo circunstanciado.\nCTN 204 → presunção relativa.\nCTN 206 → CPEN.\nCTN 138 → denúncia espontânea.\n\nObserve a intercalação: o art. 138 do CTN não é o art. 138 do Código Municipal. No CTN, denúncia espontânea; no CTM est"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-045",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153) CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b1",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "Depois de estudar notificação preliminar, autuação, apreensão e intimação, avançamos para a reação formal à infração e ao lançamento: representação, impugnação e defesa."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b2",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "1. REPRESENTAÇÃO — ARTS. 143 A 145",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "1. REPRESENTAÇÃO — ARTS. 143 A 145 Quando o agente da Secretaria de Economia e Finanças estiver impossibilitado de notificar preliminarmente ou de autuar, ele DEVE representar ao titular da Secretaria contra ação ou omissão contrária ao Código ou às demais normas fiscais. O Código também estabelece que qualquer pessoa PODE representar.\nMemória:\nAGENTE IMPOSSIBILITADO → DEVE REPRESENTAR.\nQUALQUER P"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b3",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "2. IMPUGNAÇÃO DO LANÇAMENTO — ARTS. 146 A 151",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "2. IMPUGNAÇÃO DO LANÇAMENTO — ARTS. 146 A 151 O contribuinte que não concordar com o LANÇAMENTO poderá impugná-lo por petição no prazo de 30 DIAS, contados da publicação no órgão oficial, da afixação do edital ou do recebimento da notificação.\nIMPUGNAÇÃO DO LANÇAMENTO = 30 DIAS.\nO art. 147 traz uma expressão de prova: a impugnação INSTAURA A FASE CONTRADITÓRIA do procedimento.\nA petição deve menci"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b4",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "3. DEFESA — ARTS. 152 E 153",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "3. DEFESA — ARTS. 152 E 153 Aqui está uma distinção de alto valor:\nIMPUGNAÇÃO DO LANÇAMENTO → 30 DIAS.\nDEFESA CONTRA AUTO DE INFRAÇÃO OU AUTO DE APREENSÃO → 15 DIAS DA INTIMAÇÃO.\nO autuado que não concordar com o auto de infração ou auto de apreensão apresenta defesa no prazo de 15 dias. A defesa é apresentada por petição à repartição por onde corre o processo, contra recibo.\nCuidado com a Aula 44"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b5",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "4. MAPA NUMÉRICO CUMULATIVO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "4. MAPA NUMÉRICO CUMULATIVO Notificação preliminar (art. 128) → 30 dias.\nAuto de infração, literalidade do art. 137 → 10 dias.\nImpugnação do lançamento (art. 146) → 30 dias.\nServidor instrui a impugnação (art. 149) → 15 dias.\nRestituição após impugnação procedente (art. 151) → 30 dias.\nDefesa do auto de infração/apreensão (art. 152) → 15 dias."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b6",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "5. RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "revisao",
+      "texto": "5. RECUPERAÇÃO ATIVA Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b7",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "TESTE CUMULATIVO — NÃO CONSULTE O GABARITO; AS RESPOSTAS SERÃO CORRIGIDAS APÓS A TENTATIVA.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "questao",
+      "texto": "TESTE CUMULATIVO — NÃO CONSULTE O GABARITO; AS RESPOSTAS SERÃO CORRIGIDAS APÓS A TENTATIVA."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b8",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "REGRA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "REGRA DE RETENÇÃO 143–145 = REPRESENTAÇÃO. 146 = IMPUGNAÇÃO DO LANÇAMENTO, 30 DIAS. 147 = FASE CONTRADITÓRIA. 149 = INSTRUÇÃO, 15 DIAS. 151 = RESTITUIÇÃO, 30 DIAS. 152 = DEFESA, 15 DIAS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-045-b9",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "STATUS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "blocoTipo": "teoria",
+      "texto": "STATUS Procedimento fiscal municipal: EM APRENDIZAGEM.\nFiscalização municipal: EM RETENÇÃO.\nAdministração Tributária do CTN: EM RETENÇÃO.\nResponsabilidade tributária: EM RETENÇÃO.\nNenhum bloco é considerado dominado sem retenção posterior em questões intercaladas."
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-001",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 1 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "Quando impossibilitado de notificar preliminarmente ou autuar, o agente da Secretaria de Economia e Finanças:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-002",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 2 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "Segundo o art. 143, qualquer pessoa:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-003",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 3 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "Recebida a representação, a autoridade competente:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-004",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 4 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "O prazo para impugnar o lançamento é de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-005",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 5 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "A impugnação do lançamento:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-006",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 6 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "O servidor responsável pelo lançamento terá para instruir o processo, a partir do recebimento:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-007",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 7 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "Julgada procedente a impugnação, importâncias acaso depositadas serão restituídas, segundo o art. 151, em:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-008",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 8 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "O art. 152 prevê para a defesa contra auto de infração ou auto de apreensão prazo de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-009",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 9 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "É INCORRETO afirmar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-045-q-010",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "Questão 10 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "EXCETO: todas as associações estão corretas, EXCETO:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-045-b6",
+      "lessonId": "direito-tributario-aula-045",
+      "titulo": "5. RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "texto": "Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?."
     },
     {
       "tipo": "aula",

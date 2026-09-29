@@ -8430,3 +8430,179 @@ Fiscalização municipal: EM RETENÇÃO.
 Administração Tributária do CTN: EM RETENÇÃO.
 Responsabilidade tributária: EM RETENÇÃO.
 Nenhum bloco é considerado dominado sem retenção posterior em questões intercaladas.
+
+
+
+
+Aula 45 — CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)
+
+
+Depois de estudar notificação preliminar, autuação, apreensão e intimação, avançamos para a reação formal à infração e ao lançamento: representação, impugnação e defesa.
+
+
+1. REPRESENTAÇÃO — ARTS. 143 A 145
+
+
+Quando o agente da Secretaria de Economia e Finanças estiver impossibilitado de notificar preliminarmente ou de autuar, ele DEVE representar ao titular da Secretaria contra ação ou omissão contrária ao Código ou às demais normas fiscais. O Código também estabelece que qualquer pessoa PODE representar.
+
+
+Memória:
+AGENTE IMPOSSIBILITADO → DEVE REPRESENTAR.
+QUALQUER PESSOA → PODE REPRESENTAR.
+
+
+A representação é feita por petição assinada, com nome, profissão e endereço do autor, acompanhada das provas ou indicação de seus elementos e dos meios ou circunstâncias pelos quais a infração se tornou conhecida.
+
+
+Pegadinha: o art. 144 não admite representação de quem tenha sido sócio, diretor, preposto ou empregado do contribuinte quando relativa a fatos anteriores à data em que perdeu essa qualidade.
+
+
+Recebida a representação, a autoridade competente verifica sua veracidade mediante diligências e, conforme o caso, pode notificar preliminarmente o infrator, autuá-lo ou arquivar a representação.
+
+
+Mapa: 143 = quem representa; 144 = forma/requisitos; 145 = diligência e destino.
+
+
+2. IMPUGNAÇÃO DO LANÇAMENTO — ARTS. 146 A 151
+
+
+O contribuinte que não concordar com o LANÇAMENTO poderá impugná-lo por petição no prazo de 30 DIAS, contados da publicação no órgão oficial, da afixação do edital ou do recebimento da notificação.
+
+
+IMPUGNAÇÃO DO LANÇAMENTO = 30 DIAS.
+
+
+O art. 147 traz uma expressão de prova: a impugnação INSTAURA A FASE CONTRADITÓRIA do procedimento.
+
+
+A petição deve mencionar: autoridade julgadora; qualificação do interessado e endereço para intimação; motivos de fato e de direito; diligências pretendidas com justificativa; objetivo visado; e documentos comprobatórios, se for o caso.
+
+
+O impugnador pode ser notificado do despacho no próprio processo mediante assinatura, por via postal registrada ou por edital quando estiver em local incerto ou não sabido.
+
+
+O servidor responsável pelo lançamento tem 15 DIAS para instruir o processo a partir do recebimento.
+
+
+Se a impugnação for julgada improcedente, tributos e penalidades impugnados serão atualizados e acrescidos, quando cabíveis, de multa e juros de mora desde os respectivos vencimentos. O sujeito passivo pode evitar os acréscimos na forma do art. 150 mediante prévio depósito administrativo. Julgada improcedente, também arca com as custas processuais que houver.
+
+
+Se a impugnação for PROCEDENTE, as importâncias eventualmente depositadas serão restituídas ao sujeito passivo em 30 DIAS contados do despacho ou decisão, atualizadas desde a data do depósito.
+
+
+3. DEFESA — ARTS. 152 E 153
+
+
+Aqui está uma distinção de alto valor:
+
+
+IMPUGNAÇÃO DO LANÇAMENTO → 30 DIAS.
+DEFESA CONTRA AUTO DE INFRAÇÃO OU AUTO DE APREENSÃO → 15 DIAS DA INTIMAÇÃO.
+
+
+O autuado que não concordar com o auto de infração ou auto de apreensão apresenta defesa no prazo de 15 dias. A defesa é apresentada por petição à repartição por onde corre o processo, contra recibo.
+
+
+Cuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado.
+
+
+4. MAPA NUMÉRICO CUMULATIVO
+
+
+Notificação preliminar (art. 128) → 30 dias.
+Auto de infração, literalidade do art. 137 → 10 dias.
+Impugnação do lançamento (art. 146) → 30 dias.
+Servidor instrui a impugnação (art. 149) → 15 dias.
+Restituição após impugnação procedente (art. 151) → 30 dias.
+Defesa do auto de infração/apreensão (art. 152) → 15 dias.
+
+
+5. RECUPERAÇÃO ATIVA
+
+
+Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?.
+
+
+TESTE CUMULATIVO — NÃO CONSULTE O GABARITO; AS RESPOSTAS SERÃO CORRIGIDAS APÓS A TENTATIVA.
+
+
+1. Quando impossibilitado de notificar preliminarmente ou autuar, o agente da Secretaria de Economia e Finanças:
+A) pode ignorar a ocorrência.
+B) deve representar ao titular da Secretaria.
+C) deve arquivar automaticamente.
+D) deve remeter obrigatoriamente ao Judiciário.
+
+
+2. Segundo o art. 143, qualquer pessoa:
+A) é proibida de representar.
+B) pode representar nas condições legais.
+C) somente representa com autorização judicial.
+D) precisa ser servidor municipal.
+
+
+3. Recebida a representação, a autoridade competente:
+A) aplica sempre a multa sem diligência.
+B) providencia diligências para verificar a veracidade e dá o destino cabível.
+C) arquiva necessariamente.
+D) converte-a automaticamente em dívida ativa.
+
+
+4. O prazo para impugnar o lançamento é de:
+A) 10 dias.
+B) 15 dias.
+C) 30 dias.
+D) 60 dias.
+
+
+5. A impugnação do lançamento:
+A) instaura a fase contraditória.
+B) extingue automaticamente o crédito.
+C) equivale à anistia.
+D) dispensa fundamentação.
+
+
+6. O servidor responsável pelo lançamento terá para instruir o processo, a partir do recebimento:
+A) 5 dias.
+B) 10 dias.
+C) 15 dias.
+D) 30 dias.
+
+
+7. Julgada procedente a impugnação, importâncias acaso depositadas serão restituídas, segundo o art. 151, em:
+A) 10 dias.
+B) 15 dias.
+C) 30 dias.
+D) 90 dias.
+
+
+8. O art. 152 prevê para a defesa contra auto de infração ou auto de apreensão prazo de:
+A) 5 dias.
+B) 10 dias.
+C) 15 dias.
+D) 30 dias.
+
+
+9. É INCORRETO afirmar:
+A) a representação possui requisitos formais.
+B) a impugnação pode indicar diligências justificadas.
+C) a defesa é apresentada por petição à repartição por onde corre o processo, contra recibo.
+D) a impugnação do lançamento tem prazo de 15 dias.
+
+
+10. EXCETO: todas as associações estão corretas, EXCETO:
+A) 143 — representação.
+B) 146 — impugnação em 30 dias.
+C) 149 — instrução em 15 dias.
+D) 152 — defesa em 30 dias.
+
+
+REGRA DE RETENÇÃO
+143–145 = REPRESENTAÇÃO. 146 = IMPUGNAÇÃO DO LANÇAMENTO, 30 DIAS. 147 = FASE CONTRADITÓRIA. 149 = INSTRUÇÃO, 15 DIAS. 151 = RESTITUIÇÃO, 30 DIAS. 152 = DEFESA, 15 DIAS.
+
+
+STATUS
+Procedimento fiscal municipal: EM APRENDIZAGEM.
+Fiscalização municipal: EM RETENÇÃO.
+Administração Tributária do CTN: EM RETENÇÃO.
+Responsabilidade tributária: EM RETENÇÃO.
+Nenhum bloco é considerado dominado sem retenção posterior em questões intercaladas.

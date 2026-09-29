@@ -1,0 +1,389 @@
+{
+  "id": "direito-tributario-aula-045",
+  "numero": 45,
+  "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+  "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+  "disciplina": "Direito Tributário",
+  "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+  "ordem": 45,
+  "data": "2026-09-29",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-045-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Depois de estudar notificação preliminar, autuação, apreensão e intimação, avançamos para a reação formal à infração e ao lançamento: representação, impugnação e defesa."
+    },
+    {
+      "id": "direito-tributario-aula-045-b2",
+      "tipo": "teoria",
+      "titulo": "1. REPRESENTAÇÃO — ARTS. 143 A 145",
+      "texto": "Quando o agente da Secretaria de Economia e Finanças estiver impossibilitado de notificar preliminarmente ou de autuar, ele DEVE representar ao titular da Secretaria contra ação ou omissão contrária ao Código ou às demais normas fiscais. O Código também estabelece que qualquer pessoa PODE representar.\nMemória:\nAGENTE IMPOSSIBILITADO → DEVE REPRESENTAR.\nQUALQUER PESSOA → PODE REPRESENTAR.\nA representação é feita por petição assinada, com nome, profissão e endereço do autor, acompanhada das provas ou indicação de seus elementos e dos meios ou circunstâncias pelos quais a infração se tornou conhecida.\nPegadinha: o art. 144 não admite representação de quem tenha sido sócio, diretor, preposto ou empregado do contribuinte quando relativa a fatos anteriores à data em que perdeu essa qualidade.\nRecebida a representação, a autoridade competente verifica sua veracidade mediante diligências e, conforme o caso, pode notificar preliminarmente o infrator, autuá-lo ou arquivar a representação.\nMapa: 143 = quem representa; 144 = forma/requisitos; 145 = diligência e destino."
+    },
+    {
+      "id": "direito-tributario-aula-045-b3",
+      "tipo": "teoria",
+      "titulo": "2. IMPUGNAÇÃO DO LANÇAMENTO — ARTS. 146 A 151",
+      "texto": "O contribuinte que não concordar com o LANÇAMENTO poderá impugná-lo por petição no prazo de 30 DIAS, contados da publicação no órgão oficial, da afixação do edital ou do recebimento da notificação.\nIMPUGNAÇÃO DO LANÇAMENTO = 30 DIAS.\nO art. 147 traz uma expressão de prova: a impugnação INSTAURA A FASE CONTRADITÓRIA do procedimento.\nA petição deve mencionar: autoridade julgadora; qualificação do interessado e endereço para intimação; motivos de fato e de direito; diligências pretendidas com justificativa; objetivo visado; e documentos comprobatórios, se for o caso.\nO impugnador pode ser notificado do despacho no próprio processo mediante assinatura, por via postal registrada ou por edital quando estiver em local incerto ou não sabido.\nO servidor responsável pelo lançamento tem 15 DIAS para instruir o processo a partir do recebimento.\nSe a impugnação for julgada improcedente, tributos e penalidades impugnados serão atualizados e acrescidos, quando cabíveis, de multa e juros de mora desde os respectivos vencimentos. O sujeito passivo pode evitar os acréscimos na forma do art. 150 mediante prévio depósito administrativo. Julgada improcedente, também arca com as custas processuais que houver.\nSe a impugnação for PROCEDENTE, as importâncias eventualmente depositadas serão restituídas ao sujeito passivo em 30 DIAS contados do despacho ou decisão, atualizadas desde a data do depósito."
+    },
+    {
+      "id": "direito-tributario-aula-045-b4",
+      "tipo": "teoria",
+      "titulo": "3. DEFESA — ARTS. 152 E 153",
+      "texto": "Aqui está uma distinção de alto valor:\nIMPUGNAÇÃO DO LANÇAMENTO → 30 DIAS.\nDEFESA CONTRA AUTO DE INFRAÇÃO OU AUTO DE APREENSÃO → 15 DIAS DA INTIMAÇÃO.\nO autuado que não concordar com o auto de infração ou auto de apreensão apresenta defesa no prazo de 15 dias. A defesa é apresentada por petição à repartição por onde corre o processo, contra recibo.\nCuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado."
+    },
+    {
+      "id": "direito-tributario-aula-045-b5",
+      "tipo": "teoria",
+      "titulo": "4. MAPA NUMÉRICO CUMULATIVO",
+      "texto": "Notificação preliminar (art. 128) → 30 dias.\nAuto de infração, literalidade do art. 137 → 10 dias.\nImpugnação do lançamento (art. 146) → 30 dias.\nServidor instrui a impugnação (art. 149) → 15 dias.\nRestituição após impugnação procedente (art. 151) → 30 dias.\nDefesa do auto de infração/apreensão (art. 152) → 15 dias."
+    },
+    {
+      "id": "direito-tributario-aula-045-b6",
+      "tipo": "revisao",
+      "titulo": "5. RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?."
+    },
+    {
+      "id": "direito-tributario-aula-045-b7",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — NÃO CONSULTE O GABARITO; AS RESPOSTAS SERÃO CORRIGIDAS APÓS A TENTATIVA.",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-045-q-001",
+        "direito-tributario-aula-045-q-002",
+        "direito-tributario-aula-045-q-003",
+        "direito-tributario-aula-045-q-004",
+        "direito-tributario-aula-045-q-005",
+        "direito-tributario-aula-045-q-006",
+        "direito-tributario-aula-045-q-007",
+        "direito-tributario-aula-045-q-008",
+        "direito-tributario-aula-045-q-009",
+        "direito-tributario-aula-045-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-045-b8",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "143–145 = REPRESENTAÇÃO. 146 = IMPUGNAÇÃO DO LANÇAMENTO, 30 DIAS. 147 = FASE CONTRADITÓRIA. 149 = INSTRUÇÃO, 15 DIAS. 151 = RESTITUIÇÃO, 30 DIAS. 152 = DEFESA, 15 DIAS."
+    },
+    {
+      "id": "direito-tributario-aula-045-b9",
+      "tipo": "teoria",
+      "titulo": "STATUS",
+      "texto": "Procedimento fiscal municipal: EM APRENDIZAGEM.\nFiscalização municipal: EM RETENÇÃO.\nAdministração Tributária do CTN: EM RETENÇÃO.\nResponsabilidade tributária: EM RETENÇÃO.\nNenhum bloco é considerado dominado sem retenção posterior em questões intercaladas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-045-q-001",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 1,
+      "question": "Quando impossibilitado de notificar preliminarmente ou autuar, o agente da Secretaria de Economia e Finanças:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pode ignorar a ocorrência."
+        },
+        {
+          "id": "B",
+          "text": "deve representar ao titular da Secretaria."
+        },
+        {
+          "id": "C",
+          "text": "deve arquivar automaticamente."
+        },
+        {
+          "id": "D",
+          "text": "deve remeter obrigatoriamente ao Judiciário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-002",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 2,
+      "question": "Segundo o art. 143, qualquer pessoa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é proibida de representar."
+        },
+        {
+          "id": "B",
+          "text": "pode representar nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "somente representa com autorização judicial."
+        },
+        {
+          "id": "D",
+          "text": "precisa ser servidor municipal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-003",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 3,
+      "question": "Recebida a representação, a autoridade competente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "aplica sempre a multa sem diligência."
+        },
+        {
+          "id": "B",
+          "text": "providencia diligências para verificar a veracidade e dá o destino cabível."
+        },
+        {
+          "id": "C",
+          "text": "arquiva necessariamente."
+        },
+        {
+          "id": "D",
+          "text": "converte-a automaticamente em dívida ativa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-004",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 4,
+      "question": "O prazo para impugnar o lançamento é de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "15 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "60 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-005",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 5,
+      "question": "A impugnação do lançamento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "instaura a fase contraditória."
+        },
+        {
+          "id": "B",
+          "text": "extingue automaticamente o crédito."
+        },
+        {
+          "id": "C",
+          "text": "equivale à anistia."
+        },
+        {
+          "id": "D",
+          "text": "dispensa fundamentação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-006",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 6,
+      "question": "O servidor responsável pelo lançamento terá para instruir o processo, a partir do recebimento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-007",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 7,
+      "question": "Julgada procedente a impugnação, importâncias acaso depositadas serão restituídas, segundo o art. 151, em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "15 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "90 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-008",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 8,
+      "question": "O art. 152 prevê para a defesa contra auto de infração ou auto de apreensão prazo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-009",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 9,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a representação possui requisitos formais."
+        },
+        {
+          "id": "B",
+          "text": "a impugnação pode indicar diligências justificadas."
+        },
+        {
+          "id": "C",
+          "text": "a defesa é apresentada por petição à repartição por onde corre o processo, contra recibo."
+        },
+        {
+          "id": "D",
+          "text": "a impugnação do lançamento tem prazo de 15 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    },
+    {
+      "id": "direito-tributario-aula-045-q-010",
+      "lessonId": "direito-tributario-aula-045",
+      "numero": 10,
+      "question": "EXCETO: todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "143 — representação."
+        },
+        {
+          "id": "B",
+          "text": "146 — impugnação em 30 dias."
+        },
+        {
+          "id": "C",
+          "text": "149 — instrução em 15 dias."
+        },
+        {
+          "id": "D",
+          "text": "152 — defesa em 30 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-045-b6",
+      "titulo": "5. RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-29",
+  "contentHash": "1e402f0598a9196b"
+}

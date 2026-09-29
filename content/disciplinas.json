@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 31,
-    "totalQuestoes": 192,
-    "tempoEstimadoMin": 133,
+    "totalAulas": 32,
+    "totalQuestoes": 202,
+    "tempoEstimadoMin": 136,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -36,7 +36,8 @@
       "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
       "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
       "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+      "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+      "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     ],
     "aulas": [
       {
@@ -224,6 +225,12 @@
         "numero": 44,
         "titulo": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
         "slug": "ctm-de-queimados-inicio-do-procedimento-notificacao-preliminar-e-auto-de-infraca"
+      },
+      {
+        "id": "direito-tributario-aula-045",
+        "numero": 45,
+        "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+        "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153"
       }
     ]
   },

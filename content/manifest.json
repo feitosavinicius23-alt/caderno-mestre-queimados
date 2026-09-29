@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 11,
+  "contentVersion": 12,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-29T14:56:06.874Z",
-  "contentHashGlobal": "7c2d3606d917fba8",
-  "totalAulas": 44,
-  "totalQuestoes": 218,
+  "ultimaSincronizacao": "2026-09-29T19:23:03.045Z",
+  "contentHashGlobal": "e39b257a05d67563",
+  "totalAulas": 45,
+  "totalQuestoes": 228,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -377,6 +377,18 @@
       "assunto": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
       "arquivo": "aulas/direito-tributario-aula-044.json",
       "hash": "8a3676f7feb246f9",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-29"
+    },
+    {
+      "id": "direito-tributario-aula-045",
+      "numero": 45,
+      "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "arquivo": "aulas/direito-tributario-aula-045.json",
+      "hash": "1e402f0598a9196b",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-09-29"
     },
