@@ -7960,3 +7960,473 @@ Responsabilidade tributária: EM RETENÇÃO.
 Suspensão/extinção/exclusão: EM RETENÇÃO.
 Garantias e privilégios: EM RETENÇÃO.
 Nenhum bloco é considerado dominado sem acerto posterior em questões intercaladas.
+
+
+
+
+AULA 43 — CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)
+
+
+PONTO DE PARTIDA
+Na Aula 42 fechamos a primeira passagem pela Administração Tributária do CTN. Agora fazemos a ponte para a legislação local, prioridade máxima para Agente Fiscal: a fiscalização no Código Tributário do Município de Queimados.
+
+
+1. COMPETÊNCIA PARA FISCALIZAR — ART. 121
+O art. 121 atribui à Secretaria de Economia e Finanças a fiscalização do cumprimento das normas da legislação tributária.
+
+
+Regra de prova:
+ART. 121 → SECRETARIA DE ECONOMIA E FINANÇAS → FISCALIZAÇÃO DA LEGISLAÇÃO TRIBUTÁRIA.
+
+
+A banca pode trocar o órgão ou afirmar que a competência pertence exclusivamente ao Prefeito. Leia o sujeito da frase com atenção.
+
+
+2. QUEM ESTÁ SUJEITO À FISCALIZAÇÃO — ART. 122
+A fiscalização é exercida sobre todas as pessoas sujeitas ao cumprimento de obrigações tributárias, inclusive as imunes ou isentas.
+
+
+Pegadinha central:
+IMUNE OU ISENTO ≠ FORA DA FISCALIZAÇÃO.
+
+
+Isso conversa com o que já estudamos: ausência ou exclusão do crédito em determinada situação não elimina automaticamente obrigações acessórias nem o poder fiscalizatório previsto em lei.
+
+
+O Código também estabelece que as atribuições do Agente Fiscal são definidas pela legislação tributária e pelas regulamentações necessárias.
+
+
+3. PODERES DE FISCALIZAÇÃO
+A autoridade fiscal possui ampla faculdade de fiscalização nos limites do Código. Entre as medidas expressamente mencionadas estão:
+
+
+• exigir do sujeito passivo a exibição de livros comerciais e fiscais e documentos em geral;
+• solicitar comparecimento à repartição competente para informações ou declarações;
+• apreender livros e documentos fiscais nas condições e formas definidas no Código;
+• realizar inspeções, vistorias, levantamentos e avaliações nos locais e estabelecimentos com atividades passíveis de tributação ou nos bens que constituam matéria tributável.
+
+
+Atenção ao mecanismo de questão: a banca pode transformar uma faculdade legal em proibição ou dizer que livros comerciais nunca podem ser examinados pelo Fisco.
+
+
+4. INFORMAÇÕES DE TERCEIROS — ART. 123
+Mediante intimação escrita, o Código obriga determinadas pessoas e entidades a prestar à autoridade fiscal informações de que disponham sobre bens, negócios ou atividades de terceiros.
+
+
+A lista inclui tabeliães, escrivães e outros serventuários de ofício; bancos, caixas econômicas e outras instituições financeiras; empresas de administração de bens; corretores, leiloeiros e despachantes oficiais; inventariantes; síndicos, comissários e liquidatários; e outras pessoas ou entidades que, em razão de cargo, ofício, função, ministério, atividade ou profissão, detenham informações necessárias ao Fisco.
+
+
+Mas existe uma trava importante:
+SEGREDO LEGALMENTE PROTEGIDO → a obrigação do art. 123 não alcança os fatos sobre os quais o informante esteja legalmente obrigado a guardar segredo.
+
+
+5. SIGILO MUNICIPAL — ART. 124
+É vedada, pelos prepostos do Município, a divulgação para quaisquer fins de informações obtidas em razão do ofício sobre a situação econômico-financeira e sobre a natureza e o estado dos negócios ou atividades das pessoas fiscalizadas, ressalvadas as hipóteses legais previstas no próprio Código.
+
+
+Entre as exceções indicadas estão requisições da autoridade judiciária e situações de assistência fiscal e permuta de informações entre órgãos e entes públicos nos termos do dispositivo.
+
+
+O § 2º é forte para prova: a divulgação indevida das informações obtidas no exame de contas e documentos constitui falta grave sujeita às penalidades pertinentes.
+
+
+Conexão com a Aula 42:
+CTN ART. 198 → SIGILO FISCAL.
+CTM QUEIMADOS ART. 124 → SIGILO NA FISCALIZAÇÃO MUNICIPAL.
+
+
+6. AUXÍLIO DE FORÇA PÚBLICA — ART. 125
+O Código prevê requisição de auxílio de força pública nas situações legalmente estabelecidas, incluindo embaraço ou desacato no exercício das funções fiscais e necessidade de efetivação das medidas previstas na legislação tributária.
+
+
+Não transforme isso em autorização para uso arbitrário de força. A atuação continua vinculada às hipóteses e procedimentos legais.
+
+
+7. TERMO CIRCUNSTANCIADO — ART. 126
+O agente fiscal que presidir ou proceder a exames e diligências deve lavrar, sob sua assinatura, termo circunstanciado do que apurar.
+
+
+Entre os elementos expressamente destacados estão:
+• datas inicial e final do período fiscalizado;
+• relação dos livros e documentos examinados;
+• demais elementos relevantes à apuração;
+• ciência à autoridade fiscal, nos termos do Código.
+
+
+Memória:
+EXAME/DILIGÊNCIA → TERMO CIRCUNSTANCIADO.
+
+
+8. MAPA MENTAL LOCAL
+121 → QUEM FISCALIZA: Secretaria de Economia e Finanças.
+122 → QUEM PODE SER FISCALIZADO: todos sujeitos a obrigações, inclusive imunes/isentos.
+123 → INFORMAÇÕES DE TERCEIROS mediante intimação escrita + ressalva de segredo legal.
+124 → SIGILO DAS INFORMAÇÕES FISCAIS.
+125 → AUXÍLIO DE FORÇA PÚBLICA nas hipóteses legais.
+126 → TERMO CIRCUNSTANCIADO dos exames/diligências.
+
+
+9. RECUPERAÇÃO ESPAÇADA
+Sem consultar:
+Art. 198 do CTN → qual tema?
+Art. 204 do CTN → a presunção da dívida ativa é absoluta ou relativa?
+Art. 206 do CTN → qual certidão estudamos?
+Art. 138 do CTN → qual instituto?
+Art. 135 do CTN → quais palavras-chave?
+
+
+10. TESTE CUMULATIVO — NÃO CONSULTE O GABARITO, POIS ELE NÃO É MOSTRADO ANTES DA SUA RESPOSTA
+
+
+1. Segundo o Código Tributário de Queimados, a fiscalização do cumprimento das normas da legislação tributária compete:
+A) exclusivamente à Câmara Municipal.
+B) à Secretaria de Economia e Finanças.
+C) exclusivamente ao Poder Judiciário.
+D) ao contribuinte.
+
+
+2. A fiscalização municipal alcança:
+A) apenas contribuintes que efetivamente tenham imposto a pagar.
+B) somente empresas privadas não beneficiadas por qualquer regra tributária.
+C) as pessoas sujeitas ao cumprimento de obrigações tributárias, inclusive imunes ou isentas.
+D) apenas pessoas previamente inscritas em dívida ativa.
+
+
+3. É compatível com as faculdades fiscalizatórias previstas no Código:
+A) exigir exibição de livros comerciais e fiscais e documentos em geral.
+B) impedir qualquer inspeção em estabelecimento tributável.
+C) proibir levantamento e avaliação de matéria tributável.
+D) dispensar sempre o sujeito passivo de prestar informações.
+
+
+4. O art. 123 prevê prestação de informações de terceiros:
+A) somente mediante sentença penal.
+B) mediante intimação escrita, nas hipóteses legais.
+C) exclusivamente por vontade espontânea do informante.
+D) apenas depois da inscrição em dívida ativa.
+
+
+5. É INCORRETO afirmar:
+A) tabeliães e serventuários aparecem entre os sujeitos mencionados no art. 123.
+B) instituições financeiras aparecem no dispositivo.
+C) a obrigação de informar ignora até mesmo segredo que a lei obrigue o informante a guardar.
+D) inventariantes aparecem entre os sujeitos mencionados.
+
+
+6. Sobre o art. 124, assinale a correta:
+A) informações econômico-financeiras obtidas em razão do ofício podem ser divulgadas livremente.
+B) há regra de sigilo, com exceções previstas no próprio Código.
+C) o sigilo impede toda cooperação entre entes públicos.
+D) a divulgação indevida nunca produz consequência funcional.
+
+
+7. O agente que procede a exames e diligências deve, nos termos do art. 126:
+A) limitar-se a comunicação verbal.
+B) lavrar termo circunstanciado do que apurar.
+C) aguardar necessariamente decisão judicial para registrar o exame.
+D) destruir a relação de documentos examinados.
+
+
+8. Recuperação do CTN: a dívida regularmente inscrita possui presunção de certeza e liquidez:
+A) absoluta.
+B) relativa.
+C) inexistente.
+D) apenas penal.
+
+
+9. Recuperação: o parcelamento é hipótese de:
+A) extinção.
+B) exclusão.
+C) suspensão da exigibilidade.
+D) imunidade.
+
+
+10. EXCETO — todas as associações estão corretas, EXCETO:
+A) art. 121 do CTM — competência fiscalizatória da Secretaria de Economia e Finanças.
+B) art. 122 do CTM — fiscalização inclusive de imunes e isentos.
+C) art. 124 do CTM — sigilo fiscal municipal.
+D) art. 126 do CTM — isenção tributária.
+
+
+REGRA DE RETENÇÃO
+IMUNE OU ISENTO TAMBÉM PODE SER FISCALIZADO.
+121 = COMPETÊNCIA.
+123 = INFORMAÇÃO DE TERCEIROS.
+124 = SIGILO.
+126 = TERMO CIRCUNSTANCIADO.
+
+
+STATUS
+Fiscalização no CTM de Queimados: EM APRENDIZAGEM.
+Administração tributária do CTN: EM RETENÇÃO.
+Responsabilidade tributária: EM RETENÇÃO.
+Nenhum bloco é considerado dominado sem retenção posterior em questões intercaladas.
+
+
+
+
+AULA 44 — CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO
+
+
+OBJETIVO
+Continuar exatamente da Aula 43. Agora saímos das regras gerais de fiscalização e entramos no procedimento fiscal-administrativo municipal. Este bloco é de altíssima utilidade prática para Agente Fiscal e tem forte potencial de cobrança literal: início do procedimento, notificação preliminar, hipóteses de autuação imediata, apreensão e requisitos do auto de infração.
+
+
+1. ART. 127 — QUANDO SE INICIA O PROCEDIMENTO FISCAL-ADMINISTRATIVO
+
+
+O Código considera iniciado o procedimento:
+I — com a impugnação, pelo sujeito passivo, de lançamento ou ato administrativo dele decorrente;
+II — com a lavratura da notificação preliminar ou a intimação escrita para apresentar livros comerciais ou fiscais e outros documentos de interesse da Fazenda Municipal;
+III — com a lavratura do auto de apreensão;
+IV — com a lavratura de auto de infração;
+V — com qualquer ato escrito de agente do Fisco que caracterize o início do procedimento para apuração de infração fiscal, de conhecimento prévio do fiscalizado.
+
+
+Atenção à distinção criada pelo § 1º: para efeito do Código, considera-se AÇÃO FISCAL o procedimento indicado no caput, EXCETO o inciso I, desde que haja ciência do contribuinte.
+
+
+Pegadinha: procedimento fiscal-administrativo e “ação fiscal”, para essa regra municipal, não são expressões perfeitamente intercambiáveis.
+
+
+Memória:
+127 = PORTA DE ENTRADA DO PROCEDIMENTO.
+
+
+2. ART. 128 — NOTIFICAÇÃO PRELIMINAR
+
+
+Verificada omissão NÃO DOLOSA de pagamento de tributo ou infração de lei/regulamento de que possa resultar evasão de receita, expede-se notificação preliminar para que o infrator regularize a situação em 30 DIAS.
+
+
+Palavras-chave:
+OMISSÃO NÃO DOLOSA → NOTIFICAÇÃO PRELIMINAR → 30 DIAS.
+
+
+A autoridade fiscal também deve emitir termo de intimação escrita para apresentação da documentação necessária à apuração da regularidade fiscal. O termo deve trazer:
+a) nome dos intimados;
+b) local e data;
+c) documentação solicitada;
+d) prazo para entrega;
+e) local da entrega.
+
+
+Esgotado o prazo sem regularização → lavra-se AUTO DE INFRAÇÃO.
+
+
+Recusa do contribuinte em tomar conhecimento da notificação preliminar → também se lavra AUTO DE INFRAÇÃO.
+
+
+3. ART. 129 — ELEMENTOS DA NOTIFICAÇÃO PRELIMINAR
+
+
+A notificação preliminar conterá:
+I — nome do notificado;
+II — local, dia e hora da lavratura;
+III — descrição do fato que a motivou e indicação do dispositivo legal de fiscalização, quando couber;
+IV — valor do tributo e da multa devidos;
+V — assinatura do notificante.
+
+
+Não confunda os requisitos da notificação preliminar com os requisitos do auto de infração.
+
+
+4. ARTS. 130 E 131 — QUANDO NÃO HÁ ESPAÇO PARA NOTIFICAÇÃO PRELIMINAR
+
+
+Art. 130: considera-se convencido do débito fiscal o contribuinte que pagar o tributo mediante notificação preliminar da qual não caiba recurso ou defesa.
+
+
+Art. 131: NÃO CABERÁ notificação preliminar; o contribuinte será IMEDIATAMENTE AUTUADO:
+I — exercício de atividade tributável sem prévia inscrição;
+II — provas de tentativa de eximir-se ou furtar-se do pagamento do tributo;
+III — manifesto ânimo de sonegar;
+IV — nova falta da qual poderia resultar evasão de receita antes de decorrido 1 ANO da última notificação preliminar.
+
+
+Mapa decisório:
+omissão não dolosa → notificação preliminar → 30 dias.
+situação do art. 131 → autuação imediata.
+
+
+Pegadinha IAN provável: trocar “1 ano” por “2 anos”, ou dizer que manifesto ânimo de sonegar exige notificação preliminar.
+
+
+5. ARTS. 132 A 136 — APREENSÃO
+
+
+Podem ser apreendidas coisas móveis, inclusive mercadorias e documentos, quando constituam prova material de infração tributária nas condições do Código.
+
+
+Residência particular ou lugar utilizado como moradia: havendo prova ou fundada suspeita de que as coisas ali estejam, o Código prevê busca e apreensão JUDICIAL, sem prejuízo das medidas necessárias para evitar remoção clandestina.
+
+
+Da apreensão lavra-se AUTO. Ele deve conter, entre outros elementos, descrição das coisas/documentos apreendidos, lugar do depósito e assinatura do depositário.
+
+
+Documentos podem, a requerimento do autuado, ser devolvidos, ficando no processo cópia integral ou da parte probatória, se o original não for indispensável.
+
+
+As coisas apreendidas são restituídas, a requerimento, mediante depósito das quantias exigíveis e cumprimento das exigências legais, podendo permanecer retidos os espécimes necessários à prova até decisão final.
+
+
+6. ART. 137 — AUTO DE INFRAÇÃO
+
+
+O auto deve ser lavrado com PRECISÃO E CLAREZA, sem entrelinhas, emendas ou rasuras.
+
+
+Deve:
+I — mencionar local, dia e hora da lavratura;
+II — conter nome do autuado, endereço e atividade, quando existir;
+III — indicar nome e endereço das testemunhas, se houver;
+IV — descrever o fato infracional e circunstâncias pertinentes, indicar o dispositivo legal/regulamentar violado e fazer referência ao auto de fiscalização ou à notificação preliminar quando for o caso;
+V — intimar o autuado para, em 10 DIAS, pagar tributos e multas ou apresentar DEFESA E PROVAS.
+
+
+Prazo que precisa ficar automático:
+NOTIFICAÇÃO PRELIMINAR → 30 DIAS.
+AUTO DE INFRAÇÃO → 10 DIAS para pagar ou defender-se.
+
+
+O § 1º traz pegadinha importante: omissões ou incorreções do auto NÃO acarretam nulidade quando o processo contém elementos suficientes para determinar a infração e o infrator.
+
+
+A assinatura do autuado NÃO implica confissão; a recusa NÃO agrava a pena. Se o autuado ou representante não puder ou não quiser assinar, registra-se a circunstância, com indicação obrigatória de 2 TESTEMUNHAS devidamente identificadas.
+
+
+7. ARTS. 138 A 142 — INTIMAÇÃO E REDUÇÃO
+
+
+O auto de infração pode ser lavrado cumulativamente com o auto de apreensão e, nesse caso, também conterá os elementos deste.
+
+
+A intimação do auto pode ocorrer:
+— pessoalmente, sempre que possível;
+— por carta com cópia do auto e AR;
+— por edital, com prazo de 30 dias, se desconhecido o domicílio tributário.
+
+
+Presunção da intimação:
+pessoal → data do recibo; havendo recusa, regra específica ligada à juntada do auto ao processo.
+carta → data do recibo de volta; se omitida, 15 dias após a entrada da carta no Correio.
+edital → término do prazo contado da afixação/publicação.
+
+
+Art. 142: se o autuado se conformar com o despacho da autoridade administrativa e pagar as importâncias exigidas dentro do prazo para defesa, o valor das multas será reduzido em 50%, arquivando-se o procedimento tributário.
+
+
+Memória numérica:
+30 = notificação preliminar.
+10 = auto: pagar ou defender.
+2 = testemunhas na recusa/impossibilidade de assinatura.
+30 = edital.
+15 = carta sem data do recibo de volta.
+50% = redução da multa na hipótese do art. 142.
+
+
+8. RECUPERAÇÃO ESPAÇADA
+
+
+Sem consultar:
+Art. 121 → competência de fiscalização.
+Art. 122 → fiscalização alcança inclusive imunes/isentos.
+Art. 123 → informações de terceiros.
+Art. 124 → sigilo.
+Art. 126 → termo circunstanciado.
+CTN 204 → presunção relativa.
+CTN 206 → CPEN.
+CTN 138 → denúncia espontânea.
+
+
+Observe a intercalação: o art. 138 do CTN não é o art. 138 do Código Municipal. No CTN, denúncia espontânea; no CTM estudado agora, possibilidade de auto de infração cumulativo com auto de apreensão. Número igual, diploma diferente.
+
+
+9. TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO
+
+
+1. Pela regra municipal, a omissão não dolosa de pagamento que possa resultar evasão de receita conduz, inicialmente, a:
+A) anistia.
+B) notificação preliminar para regularização em 30 dias.
+C) auto de infração obrigatório sem etapa preliminar em qualquer caso.
+D) inscrição imediata em dívida ativa.
+
+
+2. NÃO cabe notificação preliminar quando:
+A) houver manifesto ânimo de sonegar.
+B) existir mera omissão não dolosa regularizável.
+C) a documentação for apresentada tempestivamente.
+D) não houver qualquer infração.
+
+
+3. O exercício de atividade tributável sem prévia inscrição:
+A) exige sempre notificação preliminar.
+B) é hipótese de autuação imediata prevista no art. 131.
+C) gera automaticamente isenção.
+D) suspende o crédito.
+
+
+4. O auto de infração deve intimar o autuado para pagar ou apresentar defesa e provas no prazo de:
+A) 5 dias.
+B) 10 dias.
+C) 15 dias.
+D) 30 dias.
+
+
+5. É INCORRETO afirmar:
+A) o auto deve descrever o fato infracional.
+B) deve indicar o dispositivo violado.
+C) toda omissão formal do auto gera nulidade automática, ainda que o processo permita determinar infração e infrator.
+D) deve mencionar local, dia e hora.
+
+
+6. A assinatura do autuado no auto:
+A) implica necessariamente confissão.
+B) não implica confissão.
+C) extingue o crédito.
+D) impede defesa.
+
+
+7. Se o autuado não quiser assinar o auto, a recusa:
+A) agrava necessariamente a pena.
+B) extingue o procedimento.
+C) deve ser mencionada, com a indicação obrigatória de duas testemunhas devidamente identificadas.
+D) transforma o auto em notificação preliminar.
+
+
+8. O auto de infração:
+A) jamais pode ser cumulativo com auto de apreensão.
+B) pode ser lavrado cumulativamente com auto de apreensão, contendo também os elementos deste.
+C) só pode existir após decisão judicial.
+D) equivale à certidão negativa.
+
+
+9. Recuperação: a fiscalização municipal alcança:
+A) somente contribuintes sem benefício fiscal.
+B) inclusive pessoas imunes ou isentas sujeitas a obrigações tributárias.
+C) somente inscritos em dívida ativa.
+D) apenas pessoas jurídicas.
+
+
+10. EXCETO: todas as associações estão corretas, EXCETO:
+A) art. 127 — início do procedimento.
+B) art. 128 — notificação preliminar.
+C) art. 131 — hipóteses de autuação imediata.
+D) art. 137 — certidão negativa.
+
+
+REGRA DE RETENÇÃO
+127 = INÍCIO.
+128 = NÃO DOLOSA + NOTIFICAÇÃO + 30 DIAS.
+131 = AUTUAÇÃO IMEDIATA.
+137 = AUTO DE INFRAÇÃO + 10 DIAS.
+RECUSA EM ASSINAR ≠ CONFISSÃO NEM AGRAVAMENTO; REGISTRA-SE E INDICAM-SE 2 TESTEMUNHAS.
+142 = PAGAMENTO NO PRAZO DE DEFESA, NAS CONDIÇÕES LEGAIS → MULTA -50%.
+
+
+STATUS
+Procedimento fiscal municipal: EM APRENDIZAGEM.
+Fiscalização municipal: EM RETENÇÃO.
+Administração Tributária do CTN: EM RETENÇÃO.
+Responsabilidade tributária: EM RETENÇÃO.
+Nenhum bloco é considerado dominado sem retenção posterior em questões intercaladas.

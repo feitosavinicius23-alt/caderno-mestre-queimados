@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 30,
-    "totalQuestoes": 182,
-    "tempoEstimadoMin": 127,
+    "totalAulas": 31,
+    "totalQuestoes": 192,
+    "tempoEstimadoMin": 133,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -35,7 +35,8 @@
       "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
       "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
       "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
+      "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
+      "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     ],
     "aulas": [
       {
@@ -217,6 +218,12 @@
         "numero": 42,
         "titulo": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
         "slug": "administracao-tributaria-fiscalizacao-divida-ativa-e-certidoes-ctn-arts-194-a-20"
+      },
+      {
+        "id": "direito-tributario-aula-044",
+        "numero": 44,
+        "titulo": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+        "slug": "ctm-de-queimados-inicio-do-procedimento-notificacao-preliminar-e-auto-de-infraca"
       }
     ]
   },
@@ -224,16 +231,17 @@
     "id": "legislacao-tributaria-de-queimados",
     "slug": "legislacao-tributaria-de-queimados",
     "nome": "Legislação Tributária de Queimados",
-    "totalAulas": 6,
-    "totalQuestoes": 8,
-    "tempoEstimadoMin": 24,
+    "totalAulas": 7,
+    "totalQuestoes": 18,
+    "tempoEstimadoMin": 28,
     "assuntos": [
       "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
       "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
       "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
       "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
       "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
-      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     ],
     "aulas": [
       {
@@ -271,6 +279,12 @@
         "numero": 30,
         "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
         "slug": "codigo-tributario-de-queimados-taxas-municipais-poder-de-policia-e-servicos-publ"
+      },
+      {
+        "id": "legislacao-tributaria-de-queimados-aula-043",
+        "numero": 43,
+        "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)",
+        "slug": "codigo-tributario-de-queimados-fiscalizacao-municipal-arts-121-a-126"
       }
     ]
   },

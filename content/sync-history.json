@@ -1,9 +1,13 @@
 {
   "registros": [
     {
-      "data": "2026-09-29T01:53:41.371Z",
-      "contentVersion": 12,
-      "novasAulas": [],
+      "data": "2026-09-29T14:56:06.931Z",
+      "contentVersion": 11,
+      "novasAulas": [
+        "direito-tributario-aula-042",
+        "direito-tributario-aula-044",
+        "legislacao-tributaria-de-queimados-aula-043"
+      ],
       "aulasModificadas": [
         "direito-tributario-aula-001",
         "direito-tributario-aula-002",
@@ -34,7 +38,6 @@
         "direito-tributario-aula-039",
         "direito-tributario-aula-040",
         "direito-tributario-aula-041",
-        "direito-tributario-aula-042",
         "legislacao-tributaria-de-queimados-aula-025",
         "legislacao-tributaria-de-queimados-aula-026",
         "legislacao-tributaria-de-queimados-aula-027",
@@ -49,19 +52,7 @@
         "receitas-publicas-aula-024"
       ],
       "aulasRemovidas": [],
-      "questoesAdicionadas": 0,
-      "arquivosAlterados": 3,
-      "status": "success"
-    },
-    {
-      "data": "2026-09-28T23:12:20.927Z",
-      "contentVersion": 11,
-      "novasAulas": [
-        "direito-tributario-aula-042"
-      ],
-      "aulasModificadas": [],
-      "aulasRemovidas": [],
-      "questoesAdicionadas": 10,
+      "questoesAdicionadas": 30,
       "arquivosAlterados": 4,
       "status": "success"
     },

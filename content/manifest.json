@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 12,
+  "contentVersion": 11,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-29T01:53:41.359Z",
-  "contentHashGlobal": "2522dbb998d86b45",
-  "totalAulas": 42,
-  "totalQuestoes": 198,
+  "ultimaSincronizacao": "2026-09-29T14:56:06.874Z",
+  "contentHashGlobal": "7c2d3606d917fba8",
+  "totalAulas": 44,
+  "totalQuestoes": 218,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -369,6 +369,18 @@
       "ultimaAtualizacao": "2026-09-29"
     },
     {
+      "id": "direito-tributario-aula-044",
+      "numero": 44,
+      "titulo": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+      "slug": "ctm-de-queimados-inicio-do-procedimento-notificacao-preliminar-e-auto-de-infraca",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+      "arquivo": "aulas/direito-tributario-aula-044.json",
+      "hash": "8a3676f7feb246f9",
+      "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-29"
+    },
+    {
       "id": "legislacao-tributaria-de-queimados-aula-025",
       "numero": 25,
       "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
@@ -438,6 +450,18 @@
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-030.json",
       "hash": "5d8110dd8104ac24",
       "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-09-29"
+    },
+    {
+      "id": "legislacao-tributaria-de-queimados-aula-043",
+      "numero": 43,
+      "titulo": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)",
+      "slug": "codigo-tributario-de-queimados-fiscalizacao-municipal-arts-121-a-126",
+      "disciplina": "Legislação Tributária de Queimados",
+      "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)",
+      "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-043.json",
+      "hash": "7a30567b78d191fd",
+      "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-09-29"
     },
     {

@@ -1,0 +1,472 @@
+{
+  "id": "direito-tributario-aula-044",
+  "numero": 44,
+  "titulo": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+  "slug": "ctm-de-queimados-inicio-do-procedimento-notificacao-preliminar-e-auto-de-infraca",
+  "disciplina": "Direito Tributário",
+  "assunto": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
+  "ordem": 44,
+  "data": "2026-09-29",
+  "tempoEstimadoMin": 6,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-044-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO",
+      "texto": "Continuar exatamente da Aula 43. Agora saímos das regras gerais de fiscalização e entramos no procedimento fiscal-administrativo municipal. Este bloco é de altíssima utilidade prática para Agente Fiscal e tem forte potencial de cobrança literal: início do procedimento, notificação preliminar, hipóteses de autuação imediata, apreensão e requisitos do auto de infração."
+    },
+    {
+      "id": "direito-tributario-aula-044-b2",
+      "tipo": "teoria",
+      "titulo": "1. ART. 127 — QUANDO SE INICIA O PROCEDIMENTO FISCAL-ADMINISTRATIVO",
+      "texto": "O Código considera iniciado o procedimento:\nI — com a impugnação, pelo sujeito passivo, de lançamento ou ato administrativo dele decorrente;\nII — com a lavratura da notificação preliminar ou a intimação escrita para apresentar livros comerciais ou fiscais e outros documentos de interesse da Fazenda Municipal;\nIII — com a lavratura do auto de apreensão;\nIV — com a lavratura de auto de infração;\nV — com qualquer ato escrito de agente do Fisco que caracterize o início do procedimento para apuração de infração fiscal, de conhecimento prévio do fiscalizado.\nAtenção à distinção criada pelo § 1º: para efeito do Código, considera-se AÇÃO FISCAL o procedimento indicado no caput, EXCETO o inciso I, desde que haja ciência do contribuinte.\nPegadinha: procedimento fiscal-administrativo e “ação fiscal”, para essa regra municipal, não são expressões perfeitamente intercambiáveis.\nMemória:\n127 = PORTA DE ENTRADA DO PROCEDIMENTO."
+    },
+    {
+      "id": "direito-tributario-aula-044-b3",
+      "tipo": "teoria",
+      "titulo": "2. ART. 128 — NOTIFICAÇÃO PRELIMINAR",
+      "texto": "Verificada omissão NÃO DOLOSA de pagamento de tributo ou infração de lei/regulamento de que possa resultar evasão de receita, expede-se notificação preliminar para que o infrator regularize a situação em 30 DIAS.\nPalavras-chave:\nOMISSÃO NÃO DOLOSA → NOTIFICAÇÃO PRELIMINAR → 30 DIAS.\nA autoridade fiscal também deve emitir termo de intimação escrita para apresentação da documentação necessária à apuração da regularidade fiscal. O termo deve trazer:\na) nome dos intimados;\nb) local e data;\nc) documentação solicitada;\nd) prazo para entrega;\ne) local da entrega.\nEsgotado o prazo sem regularização → lavra-se AUTO DE INFRAÇÃO.\nRecusa do contribuinte em tomar conhecimento da notificação preliminar → também se lavra AUTO DE INFRAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-044-b4",
+      "tipo": "teoria",
+      "titulo": "3. ART. 129 — ELEMENTOS DA NOTIFICAÇÃO PRELIMINAR",
+      "texto": "A notificação preliminar conterá:\nI — nome do notificado;\nII — local, dia e hora da lavratura;\nIII — descrição do fato que a motivou e indicação do dispositivo legal de fiscalização, quando couber;\nIV — valor do tributo e da multa devidos;\nV — assinatura do notificante.\nNão confunda os requisitos da notificação preliminar com os requisitos do auto de infração."
+    },
+    {
+      "id": "direito-tributario-aula-044-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 130: considera-se convencido do débito fiscal o contribuinte que pagar o tributo mediante notificação preliminar da qual não caiba recurso ou defesa."
+    },
+    {
+      "id": "direito-tributario-aula-044-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 131: NÃO CABERÁ notificação preliminar; o contribuinte será IMEDIATAMENTE AUTUADO:"
+    },
+    {
+      "id": "direito-tributario-aula-044-b7",
+      "tipo": "teoria",
+      "titulo": "4. ARTS. 130 E 131 — QUANDO NÃO HÁ ESPAÇO PARA NOTIFICAÇÃO PRELIMINAR",
+      "texto": "I — exercício de atividade tributável sem prévia inscrição;\nII — provas de tentativa de eximir-se ou furtar-se do pagamento do tributo;\nIII — manifesto ânimo de sonegar;\nIV — nova falta da qual poderia resultar evasão de receita antes de decorrido 1 ANO da última notificação preliminar."
+    },
+    {
+      "id": "direito-tributario-aula-044-b8",
+      "tipo": "mapa-mental",
+      "titulo": "Mapa decisório:",
+      "texto": "omissão não dolosa → notificação preliminar → 30 dias.\nsituação do art. 131 → autuação imediata.",
+      "mapaId": "direito-tributario-aula-044-b8"
+    },
+    {
+      "id": "direito-tributario-aula-044-b9",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha IAN provável: trocar “1 ano” por “2 anos”, ou dizer que manifesto ânimo de sonegar exige notificação preliminar.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-044-b10",
+      "tipo": "teoria",
+      "titulo": "5. ARTS. 132 A 136 — APREENSÃO",
+      "texto": "Podem ser apreendidas coisas móveis, inclusive mercadorias e documentos, quando constituam prova material de infração tributária nas condições do Código.\nResidência particular ou lugar utilizado como moradia: havendo prova ou fundada suspeita de que as coisas ali estejam, o Código prevê busca e apreensão JUDICIAL, sem prejuízo das medidas necessárias para evitar remoção clandestina.\nDa apreensão lavra-se AUTO. Ele deve conter, entre outros elementos, descrição das coisas/documentos apreendidos, lugar do depósito e assinatura do depositário.\nDocumentos podem, a requerimento do autuado, ser devolvidos, ficando no processo cópia integral ou da parte probatória, se o original não for indispensável.\nAs coisas apreendidas são restituídas, a requerimento, mediante depósito das quantias exigíveis e cumprimento das exigências legais, podendo permanecer retidos os espécimes necessários à prova até decisão final."
+    },
+    {
+      "id": "direito-tributario-aula-044-b11",
+      "tipo": "teoria",
+      "titulo": "6. ART. 137 — AUTO DE INFRAÇÃO",
+      "texto": "O auto deve ser lavrado com PRECISÃO E CLAREZA, sem entrelinhas, emendas ou rasuras.\nDeve:\nI — mencionar local, dia e hora da lavratura;\nII — conter nome do autuado, endereço e atividade, quando existir;\nIII — indicar nome e endereço das testemunhas, se houver;\nIV — descrever o fato infracional e circunstâncias pertinentes, indicar o dispositivo legal/regulamentar violado e fazer referência ao auto de fiscalização ou à notificação preliminar quando for o caso;\nV — intimar o autuado para, em 10 DIAS, pagar tributos e multas ou apresentar DEFESA E PROVAS.\nPrazo que precisa ficar automático:\nNOTIFICAÇÃO PRELIMINAR → 30 DIAS.\nAUTO DE INFRAÇÃO → 10 DIAS para pagar ou defender-se.\nO § 1º traz pegadinha importante: omissões ou incorreções do auto NÃO acarretam nulidade quando o processo contém elementos suficientes para determinar a infração e o infrator.\nA assinatura do autuado NÃO implica confissão; a recusa NÃO agrava a pena. Se o autuado ou representante não puder ou não quiser assinar, registra-se a circunstância, com indicação obrigatória de 2 TESTEMUNHAS devidamente identificadas."
+    },
+    {
+      "id": "direito-tributario-aula-044-b12",
+      "tipo": "teoria",
+      "titulo": "7. ARTS. 138 A 142 — INTIMAÇÃO E REDUÇÃO",
+      "texto": "O auto de infração pode ser lavrado cumulativamente com o auto de apreensão e, nesse caso, também conterá os elementos deste.\nA intimação do auto pode ocorrer:\n— pessoalmente, sempre que possível;\n— por carta com cópia do auto e AR;\n— por edital, com prazo de 30 dias, se desconhecido o domicílio tributário.\nPresunção da intimação:\npessoal → data do recibo; havendo recusa, regra específica ligada à juntada do auto ao processo.\ncarta → data do recibo de volta; se omitida, 15 dias após a entrada da carta no Correio.\nedital → término do prazo contado da afixação/publicação."
+    },
+    {
+      "id": "direito-tributario-aula-044-b13",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 142: se o autuado se conformar com o despacho da autoridade administrativa e pagar as importâncias exigidas dentro do prazo para defesa, o valor das multas será reduzido em 50%, arquivando-se o procedimento tributário."
+    },
+    {
+      "id": "direito-tributario-aula-044-b14",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Memória numérica:\n30 = notificação preliminar.\n10 = auto: pagar ou defender.\n2 = testemunhas na recusa/impossibilidade de assinatura.\n30 = edital.\n15 = carta sem data do recibo de volta.\n50% = redução da multa na hipótese do art. 142."
+    },
+    {
+      "id": "direito-tributario-aula-044-b15",
+      "tipo": "revisao",
+      "titulo": "8. RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar:\nArt. 121 → competência de fiscalização.\nArt. 122 → fiscalização alcança inclusive imunes/isentos.\nArt. 123 → informações de terceiros.\nArt. 124 → sigilo.\nArt. 126 → termo circunstanciado.\nCTN 204 → presunção relativa.\nCTN 206 → CPEN.\nCTN 138 → denúncia espontânea.\n\nObserve a intercalação: o art. 138 do CTN não é o art. 138 do Código Municipal. No CTN, denúncia espontânea; no CTM estudado agora, possibilidade de auto de infração cumulativo com auto de apreensão. Número igual, diploma diferente."
+    },
+    {
+      "id": "direito-tributario-aula-044-b16",
+      "tipo": "questao",
+      "titulo": "9. TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-044-q-001",
+        "direito-tributario-aula-044-q-002",
+        "direito-tributario-aula-044-q-003",
+        "direito-tributario-aula-044-q-004",
+        "direito-tributario-aula-044-q-005",
+        "direito-tributario-aula-044-q-006",
+        "direito-tributario-aula-044-q-007",
+        "direito-tributario-aula-044-q-008",
+        "direito-tributario-aula-044-q-009",
+        "direito-tributario-aula-044-q-010"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-044-b17",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "127 = INÍCIO.\n128 = NÃO DOLOSA + NOTIFICAÇÃO + 30 DIAS.\n131 = AUTUAÇÃO IMEDIATA.\n137 = AUTO DE INFRAÇÃO + 10 DIAS.\nRECUSA EM ASSINAR ≠ CONFISSÃO NEM AGRAVAMENTO; REGISTRA-SE E INDICAM-SE 2 TESTEMUNHAS.\n142 = PAGAMENTO NO PRAZO DE DEFESA, NAS CONDIÇÕES LEGAIS → MULTA -50%."
+    },
+    {
+      "id": "direito-tributario-aula-044-b18",
+      "tipo": "teoria",
+      "titulo": "STATUS",
+      "texto": "Procedimento fiscal municipal: EM APRENDIZAGEM.\nFiscalização municipal: EM RETENÇÃO.\nAdministração Tributária do CTN: EM RETENÇÃO.\nResponsabilidade tributária: EM RETENÇÃO.\nNenhum bloco é considerado dominado sem retenção posterior em questões intercaladas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-044-q-001",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 1,
+      "question": "Pela regra municipal, a omissão não dolosa de pagamento que possa resultar evasão de receita conduz, inicialmente, a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "anistia."
+        },
+        {
+          "id": "B",
+          "text": "notificação preliminar para regularização em 30 dias."
+        },
+        {
+          "id": "C",
+          "text": "auto de infração obrigatório sem etapa preliminar em qualquer caso."
+        },
+        {
+          "id": "D",
+          "text": "inscrição imediata em dívida ativa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-002",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 2,
+      "question": "NÃO cabe notificação preliminar quando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "houver manifesto ânimo de sonegar."
+        },
+        {
+          "id": "B",
+          "text": "existir mera omissão não dolosa regularizável."
+        },
+        {
+          "id": "C",
+          "text": "a documentação for apresentada tempestivamente."
+        },
+        {
+          "id": "D",
+          "text": "não houver qualquer infração."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-003",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 3,
+      "question": "O exercício de atividade tributável sem prévia inscrição:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exige sempre notificação preliminar."
+        },
+        {
+          "id": "B",
+          "text": "é hipótese de autuação imediata prevista no art. 131."
+        },
+        {
+          "id": "C",
+          "text": "gera automaticamente isenção."
+        },
+        {
+          "id": "D",
+          "text": "suspende o crédito."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-004",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 4,
+      "question": "O auto de infração deve intimar o autuado para pagar ou apresentar defesa e provas no prazo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-005",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 5,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o auto deve descrever o fato infracional."
+        },
+        {
+          "id": "B",
+          "text": "deve indicar o dispositivo violado."
+        },
+        {
+          "id": "C",
+          "text": "toda omissão formal do auto gera nulidade automática, ainda que o processo permita determinar infração e infrator."
+        },
+        {
+          "id": "D",
+          "text": "deve mencionar local, dia e hora."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-006",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 6,
+      "question": "A assinatura do autuado no auto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "implica necessariamente confissão."
+        },
+        {
+          "id": "B",
+          "text": "não implica confissão."
+        },
+        {
+          "id": "C",
+          "text": "extingue o crédito."
+        },
+        {
+          "id": "D",
+          "text": "impede defesa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-007",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 7,
+      "question": "Se o autuado não quiser assinar o auto, a recusa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "agrava necessariamente a pena."
+        },
+        {
+          "id": "B",
+          "text": "extingue o procedimento."
+        },
+        {
+          "id": "C",
+          "text": "deve ser mencionada, com a indicação obrigatória de duas testemunhas devidamente identificadas."
+        },
+        {
+          "id": "D",
+          "text": "transforma o auto em notificação preliminar."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-008",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 8,
+      "question": "O auto de infração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "jamais pode ser cumulativo com auto de apreensão."
+        },
+        {
+          "id": "B",
+          "text": "pode ser lavrado cumulativamente com auto de apreensão, contendo também os elementos deste."
+        },
+        {
+          "id": "C",
+          "text": "só pode existir após decisão judicial."
+        },
+        {
+          "id": "D",
+          "text": "equivale à certidão negativa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-009",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 9,
+      "question": "Recuperação: a fiscalização municipal alcança:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente contribuintes sem benefício fiscal."
+        },
+        {
+          "id": "B",
+          "text": "inclusive pessoas imunes ou isentas sujeitas a obrigações tributárias."
+        },
+        {
+          "id": "C",
+          "text": "somente inscritos em dívida ativa."
+        },
+        {
+          "id": "D",
+          "text": "apenas pessoas jurídicas."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    },
+    {
+      "id": "direito-tributario-aula-044-q-010",
+      "lessonId": "direito-tributario-aula-044",
+      "numero": 10,
+      "question": "EXCETO: todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 127 — início do procedimento."
+        },
+        {
+          "id": "B",
+          "text": "art. 128 — notificação preliminar."
+        },
+        {
+          "id": "C",
+          "text": "art. 131 — hipóteses de autuação imediata."
+        },
+        {
+          "id": "D",
+          "text": "art. 137 — certidão negativa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-044-b15",
+      "titulo": "8. RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar:\nArt. 121 → competência de fiscalização.\nArt. 122 → fiscalização alcança inclusive imunes/isentos.\nArt. 123 → informações de terceiros.\nArt. 124 → sigilo.\nArt. 126 → termo circunstanciado.\nCTN 204 → presunção relativa.\nCTN 206 → CPEN.\nCTN 138 → denúncia espontânea.\n\nObserve a intercalação: o art. 138 do CTN não é o art. 138 do Código Municipal. No CTN, denúncia espontânea; no CTM estudado agora, possibilidade de auto de infração cumulativo com auto de apreensão. Número igual, diploma diferente."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-044-b8",
+      "titulo": "Mapa decisório:",
+      "nos": [
+        "omissão não dolosa",
+        "notificação preliminar",
+        "30 dias",
+        "situação do art. 131",
+        "autuação imediata"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-044-b5",
+      "titulo": "4. ARTS. 130 E 131 — QUANDO NÃO HÁ ESPAÇO PARA NOTIFICAÇÃO PRELIMINAR",
+      "texto": "Art. 130: considera-se convencido do débito fiscal o contribuinte que pagar o tributo mediante notificação preliminar da qual não caiba recurso ou defesa."
+    },
+    {
+      "id": "direito-tributario-aula-044-b6",
+      "titulo": "4. ARTS. 130 E 131 — QUANDO NÃO HÁ ESPAÇO PARA NOTIFICAÇÃO PRELIMINAR",
+      "texto": "Art. 131: NÃO CABERÁ notificação preliminar; o contribuinte será IMEDIATAMENTE AUTUADO:"
+    },
+    {
+      "id": "direito-tributario-aula-044-b13",
+      "titulo": "7. ARTS. 138 A 142 — INTIMAÇÃO E REDUÇÃO",
+      "texto": "Art. 142: se o autuado se conformar com o despacho da autoridade administrativa e pagar as importâncias exigidas dentro do prazo para defesa, o valor das multas será reduzido em 50%, arquivando-se o procedimento tributário."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-29",
+  "contentHash": "8a3676f7feb246f9"
+}
