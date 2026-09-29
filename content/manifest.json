@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 11,
+  "contentVersion": 12,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-28T23:12:20.918Z",
-  "contentHashGlobal": "5ee70d397b927fb4",
+  "ultimaSincronizacao": "2026-09-29T01:53:41.359Z",
+  "contentHashGlobal": "2522dbb998d86b45",
   "totalAulas": 42,
   "totalQuestoes": 198,
   "totalDisciplinas": 4,
@@ -16,9 +16,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "arquivo": "aulas/direito-tributario-aula-001.json",
-      "hash": "fd14b1f47bf6ad8e",
+      "hash": "3503f32791f84c32",
       "totalQuestoes": 11,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-002",
@@ -28,9 +28,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito Tributário e Lançamento",
       "arquivo": "aulas/direito-tributario-aula-002.json",
-      "hash": "d6030682381ecd88",
+      "hash": "f6071e6056028950",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-003",
@@ -40,9 +40,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-003.json",
-      "hash": "a2d4efe12be42264",
+      "hash": "0f291209f3a41d10",
       "totalQuestoes": 5,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-004",
@@ -52,9 +52,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-004.json",
-      "hash": "fd4e3f06a7badd70",
+      "hash": "cd7881317521ff1e",
       "totalQuestoes": 5,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-005",
@@ -64,9 +64,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Exclusão do Crédito Tributário",
       "arquivo": "aulas/direito-tributario-aula-005.json",
-      "hash": "627a4e012c7d8402",
+      "hash": "03383100ff53d423",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-006",
@@ -76,9 +76,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-006.json",
-      "hash": "880b5ffe3b2d2425",
+      "hash": "e7dde1d8b1c982b5",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-007",
@@ -88,9 +88,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
       "arquivo": "aulas/direito-tributario-aula-007.json",
-      "hash": "60cd90131423b40a",
+      "hash": "cc9699530b3eb830",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-008",
@@ -100,9 +100,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
       "arquivo": "aulas/direito-tributario-aula-008.json",
-      "hash": "64f7007458d368c9",
+      "hash": "4f8270ca4cbdec9a",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-009",
@@ -112,9 +112,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
       "arquivo": "aulas/direito-tributario-aula-009.json",
-      "hash": "c0142e4a309964d5",
+      "hash": "b0606355345175c6",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-010",
@@ -124,9 +124,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
       "arquivo": "aulas/direito-tributario-aula-010.json",
-      "hash": "ac24d434cbc373b8",
+      "hash": "d1e99e6b8d1ab5ba",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-011",
@@ -136,9 +136,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
       "arquivo": "aulas/direito-tributario-aula-011.json",
-      "hash": "28c63a0982fbd584",
+      "hash": "09cbefbb04dbfd67",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-012",
@@ -148,9 +148,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
       "arquivo": "aulas/direito-tributario-aula-012.json",
-      "hash": "6502bbdda979455c",
+      "hash": "a2faa2afe579a6bd",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-013",
@@ -160,9 +160,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
       "arquivo": "aulas/direito-tributario-aula-013.json",
-      "hash": "953e5c0400f8b5c5",
+      "hash": "d9cf5797b177c328",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-014",
@@ -172,9 +172,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
       "arquivo": "aulas/direito-tributario-aula-014.json",
-      "hash": "25339135025c948c",
+      "hash": "180587aeac91680c",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-015",
@@ -184,9 +184,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
       "arquivo": "aulas/direito-tributario-aula-015.json",
-      "hash": "d7df6418ed48e0b4",
+      "hash": "144ca05fb4108d07",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-016",
@@ -196,9 +196,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
       "arquivo": "aulas/direito-tributario-aula-016.json",
-      "hash": "93d9b8949af54e30",
+      "hash": "408987e06f0a09e0",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-017",
@@ -208,9 +208,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
       "arquivo": "aulas/direito-tributario-aula-017.json",
-      "hash": "49f1674cd8b938b8",
+      "hash": "9f17c31185de80b5",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-018",
@@ -220,9 +220,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO",
       "arquivo": "aulas/direito-tributario-aula-018.json",
-      "hash": "ecdd02619eff00d2",
+      "hash": "7b042a220f3ca501",
       "totalQuestoes": 6,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-019",
@@ -232,9 +232,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "REVISÃO CUMULATIVA DE DIREITO TRIBUTÁRIO MUNICIPAL",
       "arquivo": "aulas/direito-tributario-aula-019.json",
-      "hash": "d3fc548be9ac11f6",
+      "hash": "738e9120a74ae6c8",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-031",
@@ -244,9 +244,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
       "arquivo": "aulas/direito-tributario-aula-031.json",
-      "hash": "e8e99f795fd3697c",
+      "hash": "c2645f53d73f8dec",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-032",
@@ -256,9 +256,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "OBRIGAÇÃO TRIBUTÁRIA: PRINCIPAL, ACESSÓRIA, FATO GERADOR E SUJEITO PASSIVO",
       "arquivo": "aulas/direito-tributario-aula-032.json",
-      "hash": "0d3b6758805f8f8e",
+      "hash": "1a91730aa7dfb67e",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-033",
@@ -268,9 +268,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "LANÇAMENTO TRIBUTÁRIO NA FISCALIZAÇÃO: CONSTITUIÇÃO, REVISÃO E MODALIDADES",
       "arquivo": "aulas/direito-tributario-aula-033.json",
-      "hash": "59f6a0d5913624ea",
+      "hash": "ebb46fd99d638f22",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-034",
@@ -280,9 +280,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
       "arquivo": "aulas/direito-tributario-aula-034.json",
-      "hash": "f84c57e47e783b90",
+      "hash": "a5aef0883e8c1fb8",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-036",
@@ -292,9 +292,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito tributário: suspensão, extinção e exclusão",
       "arquivo": "aulas/direito-tributario-aula-036.json",
-      "hash": "9ec3ceb274b7ad6b",
+      "hash": "231251865993479d",
       "totalQuestoes": 1,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-037",
@@ -304,9 +304,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
       "arquivo": "aulas/direito-tributario-aula-037.json",
-      "hash": "49e64965e940286e",
+      "hash": "bc5d4a9ebaa6b803",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-038",
@@ -316,9 +316,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
       "arquivo": "aulas/direito-tributario-aula-038.json",
-      "hash": "5c60e8406eef257a",
+      "hash": "8b9a1396418525aa",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-039",
@@ -328,9 +328,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
       "arquivo": "aulas/direito-tributario-aula-039.json",
-      "hash": "dd80b4918d139151",
+      "hash": "f4e51c726e5ba932",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-040",
@@ -340,9 +340,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
       "arquivo": "aulas/direito-tributario-aula-040.json",
-      "hash": "b4cac921c73fece7",
+      "hash": "f86feab14e61bb2f",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-041",
@@ -352,9 +352,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
       "arquivo": "aulas/direito-tributario-aula-041.json",
-      "hash": "70e111b441cc6899",
+      "hash": "3bf2698c949f98e6",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "direito-tributario-aula-042",
@@ -364,9 +364,9 @@
       "disciplina": "Direito Tributário",
       "assunto": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
       "arquivo": "aulas/direito-tributario-aula-042.json",
-      "hash": "1e882a4d41218941",
+      "hash": "ce912e3a89f79058",
       "totalQuestoes": 10,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-025",
@@ -376,9 +376,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ESTRUTURA LOCAL, LEGALIDADE E CONEXÃO COM A FISCALIZAÇÃO",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-025.json",
-      "hash": "f7a6bad97b0aa620",
+      "hash": "3141b4a925632ad2",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-026",
@@ -388,9 +388,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: IPTU LOCAL — INCIDÊNCIA, CADASTRO, VALOR VENAL E LANÇAMENTO",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-026.json",
-      "hash": "225cc3d6c459870b",
+      "hash": "d17271b42c65f9d7",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-027",
@@ -400,9 +400,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ITBI LOCAL — TRANSMISSÃO, CONTRIBUINTE, BASE E FISCALIZAÇÃO",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-027.json",
-      "hash": "2ec50531038c1c87",
+      "hash": "74b2837ea2475977",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-028",
@@ -412,9 +412,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: ISS LOCAL — INCIDÊNCIA, LOCAL, RESPONSABILIDADE E FISCALIZAÇÃO",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-028.json",
-      "hash": "e0485e86d0d7dfcd",
+      "hash": "94517b766c9d0e7d",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-029",
@@ -424,9 +424,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-029.json",
-      "hash": "1f3e3b7db6a35c25",
+      "hash": "24a5859b208f3335",
       "totalQuestoes": 8,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "legislacao-tributaria-de-queimados-aula-030",
@@ -436,9 +436,9 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: TAXAS MUNICIPAIS, PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-030.json",
-      "hash": "b64b646d25224202",
+      "hash": "5d8110dd8104ac24",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "lingua-portuguesa-aula-035",
@@ -448,9 +448,9 @@
       "disciplina": "Língua Portuguesa",
       "assunto": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
       "arquivo": "aulas/lingua-portuguesa-aula-035.json",
-      "hash": "5a64c5ef8adabeba",
+      "hash": "5a3118c2fde28f11",
       "totalQuestoes": 8,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "receitas-publicas-aula-020",
@@ -460,9 +460,9 @@
       "disciplina": "Receitas Públicas",
       "assunto": "RECEITAS PÚBLICAS: CONCEITO, CLASSIFICAÇÃO E RECEITAS TRIBUTÁRIAS MUNICIPAIS",
       "arquivo": "aulas/receitas-publicas-aula-020.json",
-      "hash": "38647d08f91ea235",
+      "hash": "a157d38fe7150b46",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "receitas-publicas-aula-021",
@@ -472,9 +472,9 @@
       "disciplina": "Receitas Públicas",
       "assunto": "RECEITAS PÚBLICAS II: CORRENTES, DE CAPITAL E TRANSFERÊNCIAS",
       "arquivo": "aulas/receitas-publicas-aula-021.json",
-      "hash": "b6cad26915ba75e1",
+      "hash": "c1a3f7bd8a1efec3",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "receitas-publicas-aula-022",
@@ -484,9 +484,9 @@
       "disciplina": "Receitas Públicas",
       "assunto": "RECEITAS PÚBLICAS III: ESTÁGIOS DA RECEITA — PREVISÃO, LANÇAMENTO, ARRECADAÇÃO E RECOLHIMENTO",
       "arquivo": "aulas/receitas-publicas-aula-022.json",
-      "hash": "a850017343a1878a",
+      "hash": "6432c6ea325b6355",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "receitas-publicas-aula-023",
@@ -496,9 +496,9 @@
       "disciplina": "Receitas Públicas",
       "assunto": "RECEITAS PÚBLICAS IV: RENÚNCIA DE RECEITA E RESPONSABILIDADE FISCAL",
       "arquivo": "aulas/receitas-publicas-aula-023.json",
-      "hash": "f0c76d0fb7463825",
+      "hash": "f36ef92931bebd86",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     },
     {
       "id": "receitas-publicas-aula-024",
@@ -508,9 +508,9 @@
       "disciplina": "Receitas Públicas",
       "assunto": "RESPONSABILIDADE FISCAL NA RECEITA: INSTITUIÇÃO, PREVISÃO, ARRECADAÇÃO E COMBATE À EVASÃO",
       "arquivo": "aulas/receitas-publicas-aula-024.json",
-      "hash": "dc350a8c28122256",
+      "hash": "c2100beef20fb13b",
       "totalQuestoes": 0,
-      "ultimaAtualizacao": "2026-09-28"
+      "ultimaAtualizacao": "2026-09-29"
     }
   ]
 }
