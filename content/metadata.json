@@ -1,8 +1,8 @@
 {
   "titulo": "Caderno Mestre",
   "subtitulo": "Agente Fiscal — Queimados/RJ — 2026",
-  "contentVersion": 12,
-  "atualizadoEm": "2026-09-29T19:23:03.045Z",
+  "contentVersion": 13,
+  "atualizadoEm": "2026-09-30T01:16:52.968Z",
   "totalAulas": 45,
   "totalQuestoes": 228,
   "totalDisciplinas": 4,
@@ -16,70 +16,70 @@
       "titulo": "Direito Tributário",
       "disciplina": "Direito Tributário",
       "slug": "direito-tributario",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-002",
       "titulo": "Crédito Tributário e Lançamento",
       "disciplina": "Direito Tributário",
       "slug": "credito-tributario-e-lancamento",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-003",
       "titulo": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "disciplina": "Direito Tributário",
       "slug": "suspensao-da-exigibilidade-do-credito-tributario",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-004",
       "titulo": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "disciplina": "Direito Tributário",
       "slug": "extincao-do-credito-tributario",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-005",
       "titulo": "Exclusão do Crédito Tributário",
       "disciplina": "Direito Tributário",
       "slug": "exclusao-do-credito-tributario",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-006",
       "titulo": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
       "disciplina": "Direito Tributário",
       "slug": "garantias-e-privilegios-do-credito-tributario",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-007",
       "titulo": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
       "disciplina": "Direito Tributário",
       "slug": "infracoes-sancoes-e-penalidades-tributarias",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-008",
       "titulo": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
       "disciplina": "Direito Tributário",
       "slug": "responsabilidade-tributaria-contribuinte-responsavel-sucessores-e-terceiros",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-009",
       "titulo": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
       "disciplina": "Direito Tributário",
       "slug": "prescricao-e-decadencia-em-profundidade",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     },
     {
       "id": "direito-tributario-aula-010",
       "titulo": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
       "disciplina": "Direito Tributário",
       "slug": "sistema-tributario-na-constituicao-principios-e-limitacoes-ao-poder-de-tributar",
-      "ultimaAtualizacao": "2026-09-29"
+      "ultimaAtualizacao": "2026-09-30"
     }
   ]
 }
