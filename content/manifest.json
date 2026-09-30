@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 15,
+  "contentVersion": 16,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-30T19:14:06.948Z",
-  "contentHashGlobal": "8cfdfcb398485a5e",
-  "totalAulas": 47,
+  "ultimaSincronizacao": "2026-09-30T22:10:05.133Z",
+  "contentHashGlobal": "fe2c1cdc14b8e6c2",
+  "totalAulas": 48,
   "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
@@ -414,6 +414,18 @@
       "arquivo": "aulas/direito-tributario-aula-047.json",
       "hash": "897a5e0fd2e6388e",
       "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-09-30"
+    },
+    {
+      "id": "direito-tributario-aula-048",
+      "numero": 48,
+      "titulo": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "arquivo": "aulas/direito-tributario-aula-048.json",
+      "hash": "a6570ef4859b27b7",
+      "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-09-30"
     },
     {

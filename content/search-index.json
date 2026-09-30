@@ -1,7 +1,7 @@
 {
-  "contentVersion": 15,
-  "geradoEm": "2026-09-30T19:14:06.948Z",
-  "total": 977,
+  "contentVersion": 16,
+  "geradoEm": "2026-09-30T22:10:05.133Z",
+  "total": 986,
   "documentos": [
     {
       "tipo": "aula",
@@ -9110,6 +9110,104 @@
       "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
       "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
       "texto": "Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-048",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "texto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187) CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b1",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "ART. 184 — FRAÇÃO IDEAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "ART. 184 — FRAÇÃO IDEAL Quando houver mais de uma unidade autônoma edificada no mesmo imóvel: FI = T × U / C. FI=fração ideal; T=área total do terreno; U=área da unidade; C=área total construída. Exemplo: T=600, U=100, C=400 → FI=150 m²."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b2",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "ART. 185 — ALÍQUOTAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "ART. 185 — ALÍQUOTAS Terreno: até 200 m²=1,0%; 201–360=1,1%; 361–500=1,2%; 501–750=1,3%; 751–1.500=1,4%; 1.501–2.000=1,6%; 2.001–3.000=1,8%; acima de 3.001=2,0%.\nResidencial: até 90 m²=0,8%; 91–150=0,9%; acima de 151=1,0%.\nServiços/comércio: até 50 m²=0,9%; 51–120=1,0%; acima de 121=1,1%.\nIndustrial: até 5.000 m²=0,9%; 5.001–12.000=1,0%; acima de 12.001=1,1%."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-048-b3",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "lei-seca",
+      "texto": "§1º: imóvel sem aceite de obras: 1,5%."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-048-b4",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "lei-seca",
+      "texto": "§2º: imóvel edificado em via com calçamento, guias e sarjetas, sem passeio e muro em bom estado, sofre acréscimo de 20% na alíquota aplicada em relação a cada melhoramento referido, até restauração/construção."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b5",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "ART. 186 — PROGRESSIVIDADE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "ART. 186 — PROGRESSIVIDADE Imóvel em área incluída no plano diretor, não edificado, subutilizado ou não utilizado: progressividade da alíquota à razão de 30% ao ano, até edificação ou destinação conforme função social. Regularizada a situação, volta a alíquota original no exercício financeiro seguinte."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b6",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "ART. 187 — LANÇAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "ART. 187 — LANÇAMENTO Lançamento anual, considerando a situação da unidade na época do fato gerador e em nome do contribuinte do cadastro. Fato gerador: 1º de janeiro. Lançamento distinto para cada bem imóvel edificado, conforme Cadastro Imobiliário.\nMAPA: 184=T×U/C; 185=faixas/usos; 186=30% ao ano; 187=anual + 1º de janeiro."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b7",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "TESTE — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "TESTE — SEM GABARITO ANTECIPADO 1. FI é: A)T+C/U B)T×U/C C)C×U/T D)T/U."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-048-b8",
+      "lessonId": "direito-tributario-aula-048",
+      "titulo": "2. T=600, U=100, C=400. FI: A)100 B)150 C)200 D)240.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
+      "blocoTipo": "teoria",
+      "texto": "2. T=600, U=100, C=400. FI: A)100 B)150 C)200 D)240. 3. Terreno até 200 m²: A)0,8% B)1,0% C)1,5% D)2,0%.\n4. Residencial até 90 m²: A)0,8% B)0,9% C)1,0% D)1,1%.\n5. INCORRETA: A)residencial acima de 151=1,0% B)serviços/comércio acima de 121=1,1% C)industrial até 5.000=0,9% D)todo terreno usa 1,0%.\n6. Sem aceite de obras: A)0,5% B)1,0% C)1,5% D)2,5%.\n7. Art. 186: A)10%/ano B)20%/ano C)30%/ano D)50%/a"
     },
     {
       "tipo": "aula",
