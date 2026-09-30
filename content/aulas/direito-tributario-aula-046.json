@@ -1,0 +1,515 @@
+{
+  "id": "direito-tributario-aula-046",
+  "numero": 46,
+  "titulo": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+  "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+  "disciplina": "Direito Tributário",
+  "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+  "ordem": 46,
+  "data": "2026-09-30",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-046-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO DA AULA",
+      "texto": "Continuar exatamente da Aula 45 e fechar o rito do processo fiscal previsto no Código Tributário Municipal de Queimados. Nesta aula, o foco é literalidade, prazos, competências e sequência procedimental — pontos especialmente adequados ao padrão IAN de alternativas CORRETA/INCORRETA/EXCETO e troca de números."
+    },
+    {
+      "id": "direito-tributario-aula-046-b2",
+      "tipo": "teoria",
+      "titulo": "1. ART. 154 — CONTEÚDO DA DEFESA",
+      "texto": "Na defesa, o autuado alegará a matéria que entender útil, indicará e requererá as provas que pretenda produzir, juntará desde logo as provas documentais e, se for o caso, arrolará testemunhas.\nNÚMERO-CHAVE: máximo de 3 testemunhas."
+    },
+    {
+      "id": "direito-tributario-aula-046-b3",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: trocar 3 por 2, 5 ou número ilimitado.",
+      "texto": "Regra prática:\nDEFESA = ALEGAÇÕES + PROVAS + DOCUMENTOS + ATÉ 3 TESTEMUNHAS."
+    },
+    {
+      "id": "direito-tributario-aula-046-b4",
+      "tipo": "teoria",
+      "titulo": "2. ART. 155 — CONCORDÂNCIA PARCIAL COM A AUTUAÇÃO",
+      "texto": "O sujeito passivo pode concordar com apenas parte da autuação. Nesse caso, pode recolher os valores relativos à parte com a qual concorda ou cumprir o que foi determinado pela autoridade fiscal, enquanto contesta o restante.\nIsso destrói uma alternativa do tipo:\n“Se o contribuinte discordar de parte da autuação, necessariamente deverá impugnar a autuação inteira.”\nERRADO.\nRegra:\nCONCORDA COM PARTE → CUMPRE/PAGA ESSA PARTE → CONTESTA O RESTANTE."
+    },
+    {
+      "id": "direito-tributario-aula-046-b5",
+      "tipo": "teoria",
+      "titulo": "3. ART. 156 — INSTRUÇÃO PELO AUTUANTE",
+      "texto": "Apresentada a defesa, o autuante tem 15 dias, contados do recebimento, para instruir o processo.\nNão confunda com o art. 149, em que o servidor responsável pelo lançamento também tem 15 dias para instruir o processo de impugnação ao lançamento.\nMapa:\nIMPUGNAÇÃO AO LANÇAMENTO → art. 149 → servidor responsável pelo lançamento → 15 dias.\nDEFESA DO AUTO → art. 156 → autuante → 15 dias."
+    },
+    {
+      "id": "direito-tributario-aula-046-b6",
+      "tipo": "teoria",
+      "titulo": "4. ART. 157 — QUEM DECIDE",
+      "texto": "Segundo a literalidade do Código Tributário Municipal consolidado, as impugnações a lançamentos, as defesas de autos de infração e de apreensão, bem como o cancelamento e arquivamento desses autos, serão decididos pelo PREFEITO."
+    },
+    {
+      "id": "direito-tributario-aula-046-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 157 → PREFEITO."
+    },
+    {
+      "id": "direito-tributario-aula-046-b8",
+      "tipo": "atencao",
+      "titulo": "Atenção máxima:",
+      "texto": "A banca pode trocar “Prefeito” por Secretário, agente autuante, Procurador ou comissão."
+    },
+    {
+      "id": "direito-tributario-aula-046-b9",
+      "tipo": "teoria",
+      "titulo": "5. ART. 158 — DILIGÊNCIAS E PROVAS",
+      "texto": "Quando diligências forem tempestivamente solicitadas pelo impugnador e provas forem requeridas pelo autuado, a autoridade competente deferirá sua realização no prazo de 15 dias, desde que não sejam claramente inúteis ou protelatórias.\nA autoridade também pode ordenar outras provas que entender necessárias.\nO prazo fixado para realização dessas diligências/provas não pode ser superior a 30 dias.\nDois números:\nDEFERIMENTO → 15 dias.\nREALIZAÇÃO → prazo fixado, máximo de 30 dias."
+    },
+    {
+      "id": "direito-tributario-aula-046-b10",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA IAN:",
+      "texto": "“Qualquer diligência requerida deve obrigatoriamente ser deferida.”\nERRADO. O Código afasta as claramente inúteis ou protelatórias."
+    },
+    {
+      "id": "direito-tributario-aula-046-b11",
+      "tipo": "teoria",
+      "titulo": "6. ARTS. 159 A 162 — PERÍCIA, TESTEMUNHAS E PARTICIPAÇÃO",
+      "texto": "As perícias deferidas competem ao perito designado pela autoridade competente.\nA autoridade ou perito que proceder aos exames e diligências lavra termo circunstanciado do que apurar. O autuado ou impugnador recebe cópia autenticada contra recibo; a recusa do recibo, declarada pela autoridade, não lhe traz proveito nem o prejudica.\nO art. 160 permite sucessivamente ao autuado e ao autuante reinquirir testemunhas; regra semelhante alcança impugnador e impugnado nas reclamações contra lançamento.\nO art. 161 permite ao autuado e ao impugnador participar das diligências. Suas alegações serão juntadas ao processo ou constarão do termo para apreciação no julgamento.\nO art. 162 traz restrição probatória: não se admite prova fundada em exame de livros ou arquivos das repartições do Município ou em depoimento pessoal de seus representantes ou funcionários."
+    },
+    {
+      "id": "direito-tributario-aula-046-b12",
+      "tipo": "teoria",
+      "titulo": "7. ART. 163 — PRAZO PARA JULGAR",
+      "texto": "Perempto o direito de defesa ou encerradas as diligências e a produção de provas, o processo vai à autoridade julgadora.\nPRAZO PARA DECISÃO → 15 dias.\nA autoridade não fica presa às alegações das partes: julga de acordo com as provas produzidas no processo.\nSe não se considerar habilitada a decidir:\nJULGAMENTO → pode ser convertido em DILIGÊNCIA.\nNOVAS PROVAS → prazo máximo de 15 dias.\nDEPOIS → novo prazo de 15 dias para decidir.\nMemória:\n163 = 15 → se precisar, diligência 15 → decisão 15."
+    },
+    {
+      "id": "direito-tributario-aula-046-b13",
+      "tipo": "teoria",
+      "titulo": "8. ART. 164 — DECISÃO DEFINITIVA",
+      "texto": "A decisão definitiva concluirá pela PROCEDÊNCIA ou IMPROCEDÊNCIA do auto ou da impugnação ao lançamento e definirá expressamente seus efeitos.\nNão invente terceira categoria que a lei não traz nesse dispositivo."
+    },
+    {
+      "id": "direito-tributario-aula-046-b14",
+      "tipo": "teoria",
+      "titulo": "9. ART. 165 — EXECUÇÃO DAS DECISÕES FISCAIS",
+      "texto": "As decisões definitivas serão cumpridas:\nI — pela notificação do contribuinte e, quando for o caso, também do fiador, para, em 15 dias, satisfazer o pagamento do valor da condenação;\nII — pela liberação das mercadorias apreendidas e depositadas;\nIII — se os débitos do inciso I não forem satisfeitos no prazo, pela imediata inscrição como dívida ativa e consequente remessa de certidão à execução.\nFluxo:\nDECISÃO DEFINITIVA → NOTIFICAÇÃO → 15 DIAS PARA PAGAR → NÃO PAGOU → DÍVIDA ATIVA → CERTIDÃO → EXECUÇÃO.\nConexão com CTN:\nLANÇAMENTO constitui o crédito.\nINSCRIÇÃO EM DÍVIDA ATIVA não cria o fato gerador nem substitui o lançamento; é etapa posterior da cobrança."
+    },
+    {
+      "id": "direito-tributario-aula-046-b15",
+      "tipo": "teoria",
+      "titulo": "10. MAPA NUMÉRICO DE ALTA RETENÇÃO",
+      "texto": "128 → notificação preliminar → 30 dias.\n137 → literalidade do auto estudada → 10 dias.\n146 → impugnação do lançamento → 30 dias.\n149 → instrução da impugnação → 15 dias.\n151 → restituição → 30 dias.\n152 → defesa → 15 dias.\n154 → até 3 testemunhas.\n156 → autuante instrui → 15 dias.\n158 → deferimento de diligência/prova → 15 dias; realização → máximo 30 dias.\n163 → decisão → 15 dias; nova diligência → máximo 15; nova decisão → 15.\n165 → pagamento após decisão definitiva → 15 dias."
+    },
+    {
+      "id": "direito-tributario-aula-046-b16",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar:\nArt. 154 → máximo de quantas testemunhas?\nArt. 156 → quem instrui e em quantos dias?\nArt. 157 → quem decide?\nArt. 158 → qual o prazo para deferimento e qual o máximo para realização?\nArt. 163 → prazo da decisão?\nArt. 165 → prazo para pagamento após decisão definitiva?"
+    },
+    {
+      "id": "direito-tributario-aula-046-b17",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-046-q-001",
+        "direito-tributario-aula-046-q-002",
+        "direito-tributario-aula-046-q-003",
+        "direito-tributario-aula-046-q-004",
+        "direito-tributario-aula-046-q-005",
+        "direito-tributario-aula-046-q-006",
+        "direito-tributario-aula-046-q-007",
+        "direito-tributario-aula-046-q-008",
+        "direito-tributario-aula-046-q-009",
+        "direito-tributario-aula-046-q-010",
+        "direito-tributario-aula-046-q-011",
+        "direito-tributario-aula-046-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-046-b18",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "154 = DEFESA + ATÉ 3 TESTEMUNHAS.\n155 = PODE CONCORDAR COM PARTE.\n156 = AUTUANTE, 15.\n157 = PREFEITO.\n158 = DILIGÊNCIA: 15 PARA DEFERIR / ATÉ 30 PARA REALIZAR.\n163 = JULGAMENTO, 15.\n164 = PROCEDÊNCIA OU IMPROCEDÊNCIA.\n165 = DECISÃO DEFINITIVA + 15 PARA PAGAR; NÃO PAGOU → DÍVIDA ATIVA → EXECUÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-046-b19",
+      "tipo": "teoria",
+      "titulo": "STATUS",
+      "texto": "Procedimento fiscal municipal: EM APRENDIZAGEM/RETENÇÃO.\nFiscalização municipal: EM RETENÇÃO.\nAdministração Tributária do CTN: EM RETENÇÃO.\nResponsabilidade tributária: EM RETENÇÃO.\nNenhum bloco será considerado dominado antes de retenção posterior em questões intercaladas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-046-q-001",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 1,
+      "question": "Na defesa, o autuado poderá arrolar testemunhas até o máximo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2."
+        },
+        {
+          "id": "B",
+          "text": "3."
+        },
+        {
+          "id": "C",
+          "text": "5."
+        },
+        {
+          "id": "D",
+          "text": "número ilimitado."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-002",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 2,
+      "question": "Se o sujeito passivo concordar apenas com parte da autuação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "deve obrigatoriamente contestar tudo."
+        },
+        {
+          "id": "B",
+          "text": "pode recolher/cumprir a parte aceita e contestar o restante."
+        },
+        {
+          "id": "C",
+          "text": "perde automaticamente o direito de defesa."
+        },
+        {
+          "id": "D",
+          "text": "ocorre remissão do restante."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-003",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 3,
+      "question": "Apresentada a defesa, o autuante terá para instruir o processo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "15 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "60 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-004",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 4,
+      "question": "Segundo a literalidade do art. 157 do CTM consolidado, as impugnações a lançamentos e as defesas dos autos nele indicados serão decididas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pelo agente autuante."
+        },
+        {
+          "id": "B",
+          "text": "pelo Secretário de Fazenda."
+        },
+        {
+          "id": "C",
+          "text": "pelo Prefeito."
+        },
+        {
+          "id": "D",
+          "text": "pelo Poder Judiciário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-005",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 5,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "diligência claramente inútil pode deixar de ser deferida."
+        },
+        {
+          "id": "B",
+          "text": "diligência claramente protelatória pode deixar de ser deferida."
+        },
+        {
+          "id": "C",
+          "text": "toda diligência requerida deve ser obrigatoriamente deferida."
+        },
+        {
+          "id": "D",
+          "text": "a autoridade pode ordenar outras provas que entender necessárias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-006",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 6,
+      "question": "No art. 158, o prazo fixado para realização das diligências/provas deferidas não será superior a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "15 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "60 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-007",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 7,
+      "question": "Encerradas as diligências e a produção de provas, a autoridade julgadora, na regra do art. 163, proferirá decisão em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-008",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 8,
+      "question": "Se a autoridade não se considerar habilitada a decidir:",
+      "options": [
+        {
+          "id": "A",
+          "text": "deve arquivar o processo."
+        },
+        {
+          "id": "B",
+          "text": "pode converter o julgamento em diligência e determinar novas provas."
+        },
+        {
+          "id": "C",
+          "text": "deve remeter imediatamente ao Judiciário."
+        },
+        {
+          "id": "D",
+          "text": "deve considerar procedente a defesa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-009",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 9,
+      "question": "A decisão definitiva concluirá, segundo o art. 164:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas pela procedência."
+        },
+        {
+          "id": "B",
+          "text": "apenas pela improcedência."
+        },
+        {
+          "id": "C",
+          "text": "pela procedência ou improcedência do auto ou da impugnação, definindo seus efeitos."
+        },
+        {
+          "id": "D",
+          "text": "necessariamente pela inscrição em dívida ativa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-010",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 10,
+      "question": "EXCETO: todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "art. 154 — até 3 testemunhas."
+        },
+        {
+          "id": "B",
+          "text": "art. 156 — instrução pelo autuante em 15 dias."
+        },
+        {
+          "id": "C",
+          "text": "art. 157 — decisão pelo Prefeito."
+        },
+        {
+          "id": "D",
+          "text": "art. 165 — pagamento em 30 dias após decisão definitiva."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-011",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 11,
+      "question": "Uma decisão definitiva manteve a condenação e o contribuinte foi notificado. Pela literalidade do art. 165, o prazo para pagamento é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "15 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "45 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "id": "direito-tributario-aula-046-q-012",
+      "lessonId": "direito-tributario-aula-046",
+      "numero": 12,
+      "question": "Se o valor mantido definitivamente não for pago no prazo do art. 165:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ocorre anistia."
+        },
+        {
+          "id": "B",
+          "text": "ocorre remissão."
+        },
+        {
+          "id": "C",
+          "text": "segue-se a imediata inscrição em dívida ativa e a remessa da certidão à execução."
+        },
+        {
+          "id": "D",
+          "text": "o lançamento é cancelado."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-046-b16",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar:\nArt. 154 → máximo de quantas testemunhas?\nArt. 156 → quem instrui e em quantos dias?\nArt. 157 → quem decide?\nArt. 158 → qual o prazo para deferimento e qual o máximo para realização?\nArt. 163 → prazo da decisão?\nArt. 165 → prazo para pagamento após decisão definitiva?"
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-046-b7",
+      "titulo": "Atenção máxima:",
+      "texto": "ART. 157 → PREFEITO."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-30",
+  "contentHash": "8491c788f3a598dd"
+}

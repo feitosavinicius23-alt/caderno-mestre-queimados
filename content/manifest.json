@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 13,
+  "contentVersion": 14,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-30T01:16:52.968Z",
-  "contentHashGlobal": "0ead4756a8e5380a",
-  "totalAulas": 45,
-  "totalQuestoes": 228,
+  "ultimaSincronizacao": "2026-09-30T16:26:53.342Z",
+  "contentHashGlobal": "c6a750c931773b97",
+  "totalAulas": 46,
+  "totalQuestoes": 240,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -390,6 +390,18 @@
       "arquivo": "aulas/direito-tributario-aula-045.json",
       "hash": "b213205f5bc2ee0c",
       "totalQuestoes": 10,
+      "ultimaAtualizacao": "2026-09-30"
+    },
+    {
+      "id": "direito-tributario-aula-046",
+      "numero": 46,
+      "titulo": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "arquivo": "aulas/direito-tributario-aula-046.json",
+      "hash": "8491c788f3a598dd",
+      "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-09-30"
     },
     {

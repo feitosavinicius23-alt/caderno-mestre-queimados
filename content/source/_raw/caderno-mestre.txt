@@ -8606,3 +8606,277 @@ Fiscalização municipal: EM RETENÇÃO.
 Administração Tributária do CTN: EM RETENÇÃO.
 Responsabilidade tributária: EM RETENÇÃO.
 Nenhum bloco é considerado dominado sem retenção posterior em questões intercaladas.
+
+
+AULA 46 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165
+
+
+OBJETIVO DA AULA
+Continuar exatamente da Aula 45 e fechar o rito do processo fiscal previsto no Código Tributário Municipal de Queimados. Nesta aula, o foco é literalidade, prazos, competências e sequência procedimental — pontos especialmente adequados ao padrão IAN de alternativas CORRETA/INCORRETA/EXCETO e troca de números.
+
+
+1. ART. 154 — CONTEÚDO DA DEFESA
+Na defesa, o autuado alegará a matéria que entender útil, indicará e requererá as provas que pretenda produzir, juntará desde logo as provas documentais e, se for o caso, arrolará testemunhas.
+
+
+NÚMERO-CHAVE: máximo de 3 testemunhas.
+
+
+PEGADINHA: trocar 3 por 2, 5 ou número ilimitado.
+
+
+Regra prática:
+DEFESA = ALEGAÇÕES + PROVAS + DOCUMENTOS + ATÉ 3 TESTEMUNHAS.
+
+
+2. ART. 155 — CONCORDÂNCIA PARCIAL COM A AUTUAÇÃO
+O sujeito passivo pode concordar com apenas parte da autuação. Nesse caso, pode recolher os valores relativos à parte com a qual concorda ou cumprir o que foi determinado pela autoridade fiscal, enquanto contesta o restante.
+
+
+Isso destrói uma alternativa do tipo:
+“Se o contribuinte discordar de parte da autuação, necessariamente deverá impugnar a autuação inteira.”
+
+
+ERRADO.
+
+
+Regra:
+CONCORDA COM PARTE → CUMPRE/PAGA ESSA PARTE → CONTESTA O RESTANTE.
+
+
+3. ART. 156 — INSTRUÇÃO PELO AUTUANTE
+Apresentada a defesa, o autuante tem 15 dias, contados do recebimento, para instruir o processo.
+
+
+Não confunda com o art. 149, em que o servidor responsável pelo lançamento também tem 15 dias para instruir o processo de impugnação ao lançamento.
+
+
+Mapa:
+IMPUGNAÇÃO AO LANÇAMENTO → art. 149 → servidor responsável pelo lançamento → 15 dias.
+DEFESA DO AUTO → art. 156 → autuante → 15 dias.
+
+
+4. ART. 157 — QUEM DECIDE
+Segundo a literalidade do Código Tributário Municipal consolidado, as impugnações a lançamentos, as defesas de autos de infração e de apreensão, bem como o cancelamento e arquivamento desses autos, serão decididos pelo PREFEITO.
+
+
+Atenção máxima:
+ART. 157 → PREFEITO.
+
+
+A banca pode trocar “Prefeito” por Secretário, agente autuante, Procurador ou comissão.
+
+
+5. ART. 158 — DILIGÊNCIAS E PROVAS
+Quando diligências forem tempestivamente solicitadas pelo impugnador e provas forem requeridas pelo autuado, a autoridade competente deferirá sua realização no prazo de 15 dias, desde que não sejam claramente inúteis ou protelatórias.
+
+
+A autoridade também pode ordenar outras provas que entender necessárias.
+
+
+O prazo fixado para realização dessas diligências/provas não pode ser superior a 30 dias.
+
+
+Dois números:
+DEFERIMENTO → 15 dias.
+REALIZAÇÃO → prazo fixado, máximo de 30 dias.
+
+
+PEGADINHA IAN:
+“Qualquer diligência requerida deve obrigatoriamente ser deferida.”
+ERRADO. O Código afasta as claramente inúteis ou protelatórias.
+
+
+6. ARTS. 159 A 162 — PERÍCIA, TESTEMUNHAS E PARTICIPAÇÃO
+As perícias deferidas competem ao perito designado pela autoridade competente.
+
+
+A autoridade ou perito que proceder aos exames e diligências lavra termo circunstanciado do que apurar. O autuado ou impugnador recebe cópia autenticada contra recibo; a recusa do recibo, declarada pela autoridade, não lhe traz proveito nem o prejudica.
+
+
+O art. 160 permite sucessivamente ao autuado e ao autuante reinquirir testemunhas; regra semelhante alcança impugnador e impugnado nas reclamações contra lançamento.
+
+
+O art. 161 permite ao autuado e ao impugnador participar das diligências. Suas alegações serão juntadas ao processo ou constarão do termo para apreciação no julgamento.
+
+
+O art. 162 traz restrição probatória: não se admite prova fundada em exame de livros ou arquivos das repartições do Município ou em depoimento pessoal de seus representantes ou funcionários.
+
+
+7. ART. 163 — PRAZO PARA JULGAR
+Perempto o direito de defesa ou encerradas as diligências e a produção de provas, o processo vai à autoridade julgadora.
+
+
+PRAZO PARA DECISÃO → 15 dias.
+
+
+A autoridade não fica presa às alegações das partes: julga de acordo com as provas produzidas no processo.
+
+
+Se não se considerar habilitada a decidir:
+JULGAMENTO → pode ser convertido em DILIGÊNCIA.
+NOVAS PROVAS → prazo máximo de 15 dias.
+DEPOIS → novo prazo de 15 dias para decidir.
+
+
+Memória:
+163 = 15 → se precisar, diligência 15 → decisão 15.
+
+
+8. ART. 164 — DECISÃO DEFINITIVA
+A decisão definitiva concluirá pela PROCEDÊNCIA ou IMPROCEDÊNCIA do auto ou da impugnação ao lançamento e definirá expressamente seus efeitos.
+
+
+Não invente terceira categoria que a lei não traz nesse dispositivo.
+
+
+9. ART. 165 — EXECUÇÃO DAS DECISÕES FISCAIS
+As decisões definitivas serão cumpridas:
+
+
+I — pela notificação do contribuinte e, quando for o caso, também do fiador, para, em 15 dias, satisfazer o pagamento do valor da condenação;
+
+
+II — pela liberação das mercadorias apreendidas e depositadas;
+
+
+III — se os débitos do inciso I não forem satisfeitos no prazo, pela imediata inscrição como dívida ativa e consequente remessa de certidão à execução.
+
+
+Fluxo:
+DECISÃO DEFINITIVA → NOTIFICAÇÃO → 15 DIAS PARA PAGAR → NÃO PAGOU → DÍVIDA ATIVA → CERTIDÃO → EXECUÇÃO.
+
+
+Conexão com CTN:
+LANÇAMENTO constitui o crédito.
+INSCRIÇÃO EM DÍVIDA ATIVA não cria o fato gerador nem substitui o lançamento; é etapa posterior da cobrança.
+
+
+10. MAPA NUMÉRICO DE ALTA RETENÇÃO
+128 → notificação preliminar → 30 dias.
+137 → literalidade do auto estudada → 10 dias.
+146 → impugnação do lançamento → 30 dias.
+149 → instrução da impugnação → 15 dias.
+151 → restituição → 30 dias.
+152 → defesa → 15 dias.
+154 → até 3 testemunhas.
+156 → autuante instrui → 15 dias.
+158 → deferimento de diligência/prova → 15 dias; realização → máximo 30 dias.
+163 → decisão → 15 dias; nova diligência → máximo 15; nova decisão → 15.
+165 → pagamento após decisão definitiva → 15 dias.
+
+
+RECUPERAÇÃO ATIVA
+Sem consultar:
+Art. 154 → máximo de quantas testemunhas?
+Art. 156 → quem instrui e em quantos dias?
+Art. 157 → quem decide?
+Art. 158 → qual o prazo para deferimento e qual o máximo para realização?
+Art. 163 → prazo da decisão?
+Art. 165 → prazo para pagamento após decisão definitiva?
+
+
+TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO
+
+
+1. Na defesa, o autuado poderá arrolar testemunhas até o máximo de:
+A) 2.
+B) 3.
+C) 5.
+D) número ilimitado.
+
+
+2. Se o sujeito passivo concordar apenas com parte da autuação:
+A) deve obrigatoriamente contestar tudo.
+B) pode recolher/cumprir a parte aceita e contestar o restante.
+C) perde automaticamente o direito de defesa.
+D) ocorre remissão do restante.
+
+
+3. Apresentada a defesa, o autuante terá para instruir o processo:
+A) 10 dias.
+B) 15 dias.
+C) 30 dias.
+D) 60 dias.
+
+
+4. Segundo a literalidade do art. 157 do CTM consolidado, as impugnações a lançamentos e as defesas dos autos nele indicados serão decididas:
+A) pelo agente autuante.
+B) pelo Secretário de Fazenda.
+C) pelo Prefeito.
+D) pelo Poder Judiciário.
+
+
+5. É INCORRETO afirmar:
+A) diligência claramente inútil pode deixar de ser deferida.
+B) diligência claramente protelatória pode deixar de ser deferida.
+C) toda diligência requerida deve ser obrigatoriamente deferida.
+D) a autoridade pode ordenar outras provas que entender necessárias.
+
+
+6. No art. 158, o prazo fixado para realização das diligências/provas deferidas não será superior a:
+A) 10 dias.
+B) 15 dias.
+C) 30 dias.
+D) 60 dias.
+
+
+7. Encerradas as diligências e a produção de provas, a autoridade julgadora, na regra do art. 163, proferirá decisão em:
+A) 5 dias.
+B) 10 dias.
+C) 15 dias.
+D) 30 dias.
+
+
+8. Se a autoridade não se considerar habilitada a decidir:
+A) deve arquivar o processo.
+B) pode converter o julgamento em diligência e determinar novas provas.
+C) deve remeter imediatamente ao Judiciário.
+D) deve considerar procedente a defesa.
+
+
+9. A decisão definitiva concluirá, segundo o art. 164:
+A) apenas pela procedência.
+B) apenas pela improcedência.
+C) pela procedência ou improcedência do auto ou da impugnação, definindo seus efeitos.
+D) necessariamente pela inscrição em dívida ativa.
+
+
+10. EXCETO: todas as associações estão corretas, EXCETO:
+A) art. 154 — até 3 testemunhas.
+B) art. 156 — instrução pelo autuante em 15 dias.
+C) art. 157 — decisão pelo Prefeito.
+D) art. 165 — pagamento em 30 dias após decisão definitiva.
+
+
+11. Uma decisão definitiva manteve a condenação e o contribuinte foi notificado. Pela literalidade do art. 165, o prazo para pagamento é:
+A) 10 dias.
+B) 15 dias.
+C) 30 dias.
+D) 45 dias.
+
+
+12. Se o valor mantido definitivamente não for pago no prazo do art. 165:
+A) ocorre anistia.
+B) ocorre remissão.
+C) segue-se a imediata inscrição em dívida ativa e a remessa da certidão à execução.
+D) o lançamento é cancelado.
+
+
+REGRA DE RETENÇÃO
+154 = DEFESA + ATÉ 3 TESTEMUNHAS.
+155 = PODE CONCORDAR COM PARTE.
+156 = AUTUANTE, 15.
+157 = PREFEITO.
+158 = DILIGÊNCIA: 15 PARA DEFERIR / ATÉ 30 PARA REALIZAR.
+163 = JULGAMENTO, 15.
+164 = PROCEDÊNCIA OU IMPROCEDÊNCIA.
+165 = DECISÃO DEFINITIVA + 15 PARA PAGAR; NÃO PAGOU → DÍVIDA ATIVA → EXECUÇÃO.
+
+
+STATUS
+Procedimento fiscal municipal: EM APRENDIZAGEM/RETENÇÃO.
+Fiscalização municipal: EM RETENÇÃO.
+Administração Tributária do CTN: EM RETENÇÃO.
+Responsabilidade tributária: EM RETENÇÃO.
+Nenhum bloco será considerado dominado antes de retenção posterior em questões intercaladas.

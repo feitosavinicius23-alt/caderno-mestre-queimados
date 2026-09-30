@@ -1,7 +1,7 @@
 {
-  "contentVersion": 13,
-  "geradoEm": "2026-09-30T01:16:52.968Z",
-  "total": 914,
+  "contentVersion": 14,
+  "geradoEm": "2026-09-30T16:26:53.342Z",
+  "total": 947,
   "documentos": [
     {
       "tipo": "aula",
@@ -8446,6 +8446,355 @@
       "assunto": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
       "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153",
       "texto": "Sem consultar: art. 124 = ?; art. 126 = ?; art. 128 = ?; art. 131 = ?; art. 142 = ?."
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-046",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165 CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b1",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "OBJETIVO DA AULA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO DA AULA Continuar exatamente da Aula 45 e fechar o rito do processo fiscal previsto no Código Tributário Municipal de Queimados. Nesta aula, o foco é literalidade, prazos, competências e sequência procedimental — pontos especialmente adequados ao padrão IAN de alternativas CORRETA/INCORRETA/EXCETO e troca de números."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b2",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "1. ART. 154 — CONTEÚDO DA DEFESA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "1. ART. 154 — CONTEÚDO DA DEFESA Na defesa, o autuado alegará a matéria que entender útil, indicará e requererá as provas que pretenda produzir, juntará desde logo as provas documentais e, se for o caso, arrolará testemunhas.\nNÚMERO-CHAVE: máximo de 3 testemunhas."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b3",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "PEGADINHA: trocar 3 por 2, 5 ou número ilimitado.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: trocar 3 por 2, 5 ou número ilimitado. Regra prática:\nDEFESA = ALEGAÇÕES + PROVAS + DOCUMENTOS + ATÉ 3 TESTEMUNHAS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b4",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "2. ART. 155 — CONCORDÂNCIA PARCIAL COM A AUTUAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 155 — CONCORDÂNCIA PARCIAL COM A AUTUAÇÃO O sujeito passivo pode concordar com apenas parte da autuação. Nesse caso, pode recolher os valores relativos à parte com a qual concorda ou cumprir o que foi determinado pela autoridade fiscal, enquanto contesta o restante.\nIsso destrói uma alternativa do tipo:\n“Se o contribuinte discordar de parte da autuação, necessariamente deverá impugnar a au"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b5",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "3. ART. 156 — INSTRUÇÃO PELO AUTUANTE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "3. ART. 156 — INSTRUÇÃO PELO AUTUANTE Apresentada a defesa, o autuante tem 15 dias, contados do recebimento, para instruir o processo.\nNão confunda com o art. 149, em que o servidor responsável pelo lançamento também tem 15 dias para instruir o processo de impugnação ao lançamento.\nMapa:\nIMPUGNAÇÃO AO LANÇAMENTO → art. 149 → servidor responsável pelo lançamento → 15 dias.\nDEFESA DO AUTO → art. 156"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b6",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "4. ART. 157 — QUEM DECIDE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "4. ART. 157 — QUEM DECIDE Segundo a literalidade do Código Tributário Municipal consolidado, as impugnações a lançamentos, as defesas de autos de infração e de apreensão, bem como o cancelamento e arquivamento desses autos, serão decididos pelo PREFEITO."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-046-b7",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 157 → PREFEITO."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b8",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Atenção máxima:",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "atencao",
+      "texto": "Atenção máxima: A banca pode trocar “Prefeito” por Secretário, agente autuante, Procurador ou comissão."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b9",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "5. ART. 158 — DILIGÊNCIAS E PROVAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "5. ART. 158 — DILIGÊNCIAS E PROVAS Quando diligências forem tempestivamente solicitadas pelo impugnador e provas forem requeridas pelo autuado, a autoridade competente deferirá sua realização no prazo de 15 dias, desde que não sejam claramente inúteis ou protelatórias.\nA autoridade também pode ordenar outras provas que entender necessárias.\nO prazo fixado para realização dessas diligências/provas "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b10",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "PEGADINHA IAN:",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA IAN: “Qualquer diligência requerida deve obrigatoriamente ser deferida.”\nERRADO. O Código afasta as claramente inúteis ou protelatórias."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b11",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "6. ARTS. 159 A 162 — PERÍCIA, TESTEMUNHAS E PARTICIPAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "6. ARTS. 159 A 162 — PERÍCIA, TESTEMUNHAS E PARTICIPAÇÃO As perícias deferidas competem ao perito designado pela autoridade competente.\nA autoridade ou perito que proceder aos exames e diligências lavra termo circunstanciado do que apurar. O autuado ou impugnador recebe cópia autenticada contra recibo; a recusa do recibo, declarada pela autoridade, não lhe traz proveito nem o prejudica.\nO art. 160"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b12",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "7. ART. 163 — PRAZO PARA JULGAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "7. ART. 163 — PRAZO PARA JULGAR Perempto o direito de defesa ou encerradas as diligências e a produção de provas, o processo vai à autoridade julgadora.\nPRAZO PARA DECISÃO → 15 dias.\nA autoridade não fica presa às alegações das partes: julga de acordo com as provas produzidas no processo.\nSe não se considerar habilitada a decidir:\nJULGAMENTO → pode ser convertido em DILIGÊNCIA.\nNOVAS PROVAS → praz"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b13",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "8. ART. 164 — DECISÃO DEFINITIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "8. ART. 164 — DECISÃO DEFINITIVA A decisão definitiva concluirá pela PROCEDÊNCIA ou IMPROCEDÊNCIA do auto ou da impugnação ao lançamento e definirá expressamente seus efeitos.\nNão invente terceira categoria que a lei não traz nesse dispositivo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b14",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "9. ART. 165 — EXECUÇÃO DAS DECISÕES FISCAIS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "9. ART. 165 — EXECUÇÃO DAS DECISÕES FISCAIS As decisões definitivas serão cumpridas:\nI — pela notificação do contribuinte e, quando for o caso, também do fiador, para, em 15 dias, satisfazer o pagamento do valor da condenação;\nII — pela liberação das mercadorias apreendidas e depositadas;\nIII — se os débitos do inciso I não forem satisfeitos no prazo, pela imediata inscrição como dívida ativa e co"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b15",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "10. MAPA NUMÉRICO DE ALTA RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "10. MAPA NUMÉRICO DE ALTA RETENÇÃO 128 → notificação preliminar → 30 dias.\n137 → literalidade do auto estudada → 10 dias.\n146 → impugnação do lançamento → 30 dias.\n149 → instrução da impugnação → 15 dias.\n151 → restituição → 30 dias.\n152 → defesa → 15 dias.\n154 → até 3 testemunhas.\n156 → autuante instrui → 15 dias.\n158 → deferimento de diligência/prova → 15 dias; realização → máximo 30 dias.\n163 →"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b16",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO ATIVA Sem consultar:\nArt. 154 → máximo de quantas testemunhas?\nArt. 156 → quem instrui e em quantos dias?\nArt. 157 → quem decide?\nArt. 158 → qual o prazo para deferimento e qual o máximo para realização?\nArt. 163 → prazo da decisão?\nArt. 165 → prazo para pagamento após decisão definitiva?"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b17",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "questao",
+      "texto": "TESTE CUMULATIVO — NÃO HÁ GABARITO ANTECIPADO"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b18",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "REGRA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "REGRA DE RETENÇÃO 154 = DEFESA + ATÉ 3 TESTEMUNHAS.\n155 = PODE CONCORDAR COM PARTE.\n156 = AUTUANTE, 15.\n157 = PREFEITO.\n158 = DILIGÊNCIA: 15 PARA DEFERIR / ATÉ 30 PARA REALIZAR.\n163 = JULGAMENTO, 15.\n164 = PROCEDÊNCIA OU IMPROCEDÊNCIA.\n165 = DECISÃO DEFINITIVA + 15 PARA PAGAR; NÃO PAGOU → DÍVIDA ATIVA → EXECUÇÃO."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-046-b19",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "STATUS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "blocoTipo": "teoria",
+      "texto": "STATUS Procedimento fiscal municipal: EM APRENDIZAGEM/RETENÇÃO.\nFiscalização municipal: EM RETENÇÃO.\nAdministração Tributária do CTN: EM RETENÇÃO.\nResponsabilidade tributária: EM RETENÇÃO.\nNenhum bloco será considerado dominado antes de retenção posterior em questões intercaladas."
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-001",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 1 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Na defesa, o autuado poderá arrolar testemunhas até o máximo de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-002",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 2 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Se o sujeito passivo concordar apenas com parte da autuação:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-003",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 3 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Apresentada a defesa, o autuante terá para instruir o processo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-004",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 4 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Segundo a literalidade do art. 157 do CTM consolidado, as impugnações a lançamentos e as defesas dos autos nele indicados serão decididas:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-005",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 5 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "É INCORRETO afirmar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-006",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 6 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "No art. 158, o prazo fixado para realização das diligências/provas deferidas não será superior a:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-007",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 7 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Encerradas as diligências e a produção de provas, a autoridade julgadora, na regra do art. 163, proferirá decisão em:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-008",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 8 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Se a autoridade não se considerar habilitada a decidir:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-009",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 9 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "A decisão definitiva concluirá, segundo o art. 164:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-010",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 10 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "EXCETO: todas as associações estão corretas, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-011",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 11 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Uma decisão definitiva manteve a condenação e o contribuinte foi notificado. Pela literalidade do art. 165, o prazo para pagamento é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-046-q-012",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "Questão 12 — CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Se o valor mantido definitivamente não for pago no prazo do art. 165:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-046-b16",
+      "lessonId": "direito-tributario-aula-046",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+      "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
+      "texto": "Sem consultar:\nArt. 154 → máximo de quantas testemunhas?\nArt. 156 → quem instrui e em quantos dias?\nArt. 157 → quem decide?\nArt. 158 → qual o prazo para deferimento e qual o máximo para realização?\nArt. 163 → prazo da decisão?\nArt. 165 → prazo para pagamento após decisão definitiva?"
     },
     {
       "tipo": "aula",

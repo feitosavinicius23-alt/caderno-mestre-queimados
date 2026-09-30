@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 32,
-    "totalQuestoes": 202,
-    "tempoEstimadoMin": 136,
+    "totalAulas": 33,
+    "totalQuestoes": 214,
+    "tempoEstimadoMin": 141,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -37,7 +37,8 @@
       "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
       "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
       "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
-      "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
+      "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
+      "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165"
     ],
     "aulas": [
       {
@@ -231,6 +232,12 @@
         "numero": 45,
         "titulo": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
         "slug": "ctm-de-queimados-representacao-impugnacao-e-defesa-arts-143-a-153"
+      },
+      {
+        "id": "direito-tributario-aula-046",
+        "numero": 46,
+        "titulo": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
+        "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165"
       }
     ]
   },
