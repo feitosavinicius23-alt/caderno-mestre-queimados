@@ -1,0 +1,501 @@
+{
+  "id": "direito-tributario-aula-047",
+  "numero": 47,
+  "titulo": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+  "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+  "disciplina": "Direito Tributário",
+  "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+  "ordem": 47,
+  "data": "2026-09-30",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-047-b1",
+      "tipo": "teoria",
+      "titulo": "CONTINUIDADE",
+      "texto": "Após o procedimento fiscal municipal, avançamos no IPTU. Esta aula trabalha a incidência independentemente de irregularidades do imóvel, o caráter propter rem, o contribuinte, as hipóteses dos arts. 178-179 e o início da base de cálculo."
+    },
+    {
+      "id": "direito-tributario-aula-047-b2",
+      "tipo": "teoria",
+      "titulo": "1. ART. 175 — A INCIDÊNCIA INDEPENDE DE TRÊS FATORES",
+      "texto": "A incidência do IPTU independe: (I) da legitimidade do título de aquisição da propriedade, domínio útil ou posse; (II) do resultado financeiro da exploração econômica do imóvel; e (III) do cumprimento de exigências legais, regulamentares ou administrativas relativas ao imóvel.\nPegadinha: imóvel irregular não significa automaticamente imóvel fora do IPTU. Também não importa se a exploração deu lucro ou prejuízo.\nRegra prática: IRREGULARIDADE CIVIL/ADMINISTRATIVA ≠ NÃO INCIDÊNCIA DO IPTU."
+    },
+    {
+      "id": "direito-tributario-aula-047-b3",
+      "tipo": "teoria",
+      "titulo": "2. ART. 176 — ÔNUS QUE ACOMPANHA O IMÓVEL",
+      "texto": "O IPTU constitui ônus que acompanha o imóvel nos casos de transferência de propriedade ou de direitos reais relativos a ele.\nConexão com CTN art. 130: créditos relativos a impostos sobre propriedade, domínio útil ou posse de imóveis sub-rogam-se no adquirente, ressalvadas as hipóteses legais."
+    },
+    {
+      "id": "direito-tributario-aula-047-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: tratar IPTU como obrigação que necessariamente desaparece quando o imóvel é vendido.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-047-b5",
+      "tipo": "teoria",
+      "titulo": "3. ART. 177 — CONTRIBUINTE",
+      "texto": "Contribuinte do IPTU: proprietário, titular do domínio útil ou possuidor a qualquer título do bem imóvel.\nHavendo proprietário conhecido, o CTM dá preferência a ele na condição de sujeito passivo.\nNão confundir sujeito passivo com quem efetivamente ocupa fisicamente o imóvel."
+    },
+    {
+      "id": "direito-tributario-aula-047-b6",
+      "tipo": "teoria",
+      "titulo": "4. ART. 178 — ADQUIRENTE IMUNE OU ISENTO",
+      "texto": "Se o adquirente do domínio útil ou da propriedade de imóvel já lançado for pessoa imune ou isenta, vencem antecipadamente as prestações vincendas relativas ao imposto, respondendo por elas o alienante."
+    },
+    {
+      "id": "direito-tributario-aula-047-b7",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: concluir que a imunidade/isenção do adquirente apaga prestações anteriores vinculadas ao alienante.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-047-b8",
+      "tipo": "teoria",
+      "titulo": "5. ART. 179 — DESAPROPRIAÇÃO",
+      "texto": "Em imóvel declarado de utilidade pública para desapropriação, cessa o compromisso com a obrigação tributária a partir da data da imissão de posse pelo poder desapropriante.\nPalavra-chave: IMISSÃO NA POSSE."
+    },
+    {
+      "id": "direito-tributario-aula-047-b9",
+      "tipo": "teoria",
+      "titulo": "6. ART. 180 — BASE DE CÁLCULO",
+      "texto": "A base de cálculo do IPTU é o VALOR VENAL da unidade imobiliária: valor que ela alcançaria em compra e venda à vista, segundo condições de mercado.\nPegadinha: base de cálculo não é necessariamente o preço histórico de aquisição, valor declarado pelo contribuinte ou valor financiado.\nRegra: IPTU → VALOR VENAL."
+    },
+    {
+      "id": "direito-tributario-aula-047-b10",
+      "tipo": "teoria",
+      "titulo": "7. ARTS. 181-183 — AVALIAÇÃO E COMPOSIÇÃO DO VALOR VENAL",
+      "texto": "A avaliação para apuração do valor venal toma por base a Planta de Valores Imobiliários, conforme disciplina municipal. Há Comissão de Avaliação constituída por decreto. Os valores fixados pela Comissão somente produzem efeitos jurídicos após aprovação por decreto do Prefeito e publicação. O valor venal compõe-se do valor do terreno acrescido do valor da edificação, quando houver."
+    },
+    {
+      "id": "direito-tributario-aula-047-b11",
+      "tipo": "atencao",
+      "titulo": "Atenção: Comissão avalia; a produção de efeitos dos valores depende da aprovação/publicação prevista no Código.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-047-b12",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "175 = incidência independe de título legítimo, resultado econômico e regularidade administrativa.\n176 = IPTU acompanha o imóvel.\n177 = proprietário / domínio útil / possuidor.\n178 = adquirente imune/isento: antecipação das vincendas e responsabilidade do alienante.\n179 = desapropriação: imissão na posse.\n180 = valor venal.\n181-182 = Planta/Comissão + aprovação por decreto/publicação.\n183 = terreno + edificação, quando houver.",
+      "mapaId": "direito-tributario-aula-047-b12"
+    },
+    {
+      "id": "direito-tributario-aula-047-b13",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?"
+    },
+    {
+      "id": "direito-tributario-aula-047-b14",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-047-q-001",
+        "direito-tributario-aula-047-q-002",
+        "direito-tributario-aula-047-q-003",
+        "direito-tributario-aula-047-q-004",
+        "direito-tributario-aula-047-q-005",
+        "direito-tributario-aula-047-q-006",
+        "direito-tributario-aula-047-q-007",
+        "direito-tributario-aula-047-q-008",
+        "direito-tributario-aula-047-q-009",
+        "direito-tributario-aula-047-q-010",
+        "direito-tributario-aula-047-q-011",
+        "direito-tributario-aula-047-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-047-b15",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO",
+      "texto": "175 = INDEPENDE. 176 = ACOMPANHA. 177 = PROPRIETÁRIO/DOMÍNIO ÚTIL/POSSE. 179 = IMISSÃO NA POSSE. 180 = VALOR VENAL.\nSTATUS: IPTU municipal EM APRENDIZAGEM; procedimento fiscal municipal EM RETENÇÃO. Não considerar dominado sem acerto posterior em questões misturadas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-047-q-001",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 1,
+      "question": "A incidência do IPTU, pelo art. 175, depende da legitimidade do título de aquisição?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sim, sempre."
+        },
+        {
+          "id": "B",
+          "text": "Não."
+        },
+        {
+          "id": "C",
+          "text": "Apenas na posse."
+        },
+        {
+          "id": "D",
+          "text": "Apenas no domínio útil."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-002",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 2,
+      "question": "O resultado financeiro da exploração econômica do imóvel:",
+      "options": [
+        {
+          "id": "A",
+          "text": "condiciona sempre o IPTU."
+        },
+        {
+          "id": "B",
+          "text": "não condiciona a incidência na regra estudada."
+        },
+        {
+          "id": "C",
+          "text": "substitui o valor venal."
+        },
+        {
+          "id": "D",
+          "text": "gera imunidade se negativo."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-003",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 3,
+      "question": "O IPTU constitui ônus que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "desaparece na transferência."
+        },
+        {
+          "id": "B",
+          "text": "acompanha o imóvel nas hipóteses legais."
+        },
+        {
+          "id": "C",
+          "text": "acompanha apenas o vendedor."
+        },
+        {
+          "id": "D",
+          "text": "depende de autorização judicial."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-004",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 4,
+      "question": "É contribuinte do IPTU:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas proprietário registrado."
+        },
+        {
+          "id": "B",
+          "text": "proprietário, titular do domínio útil ou possuidor a qualquer título."
+        },
+        {
+          "id": "C",
+          "text": "apenas locatário."
+        },
+        {
+          "id": "D",
+          "text": "apenas possuidor sem proprietário conhecido."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-005",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 5,
+      "question": "Conhecido o proprietário, o CTM dá preferência, como sujeito passivo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ao locatário."
+        },
+        {
+          "id": "B",
+          "text": "ao proprietário."
+        },
+        {
+          "id": "C",
+          "text": "ao corretor."
+        },
+        {
+          "id": "D",
+          "text": "ao tabelião."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-006",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 6,
+      "question": "No art. 178, sendo o adquirente de imóvel já lançado pessoa imune ou isenta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "desaparecem prestações anteriores."
+        },
+        {
+          "id": "B",
+          "text": "vencem antecipadamente as vincendas e por elas responde o alienante."
+        },
+        {
+          "id": "C",
+          "text": "o Município perde todo crédito."
+        },
+        {
+          "id": "D",
+          "text": "ocorre remissão automática."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-007",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 7,
+      "question": "Na desapropriação estudada, o marco relevante é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "simples intenção de desapropriar."
+        },
+        {
+          "id": "B",
+          "text": "imissão de posse pelo poder desapropriante."
+        },
+        {
+          "id": "C",
+          "text": "publicação de notícia."
+        },
+        {
+          "id": "D",
+          "text": "pagamento do IPTU seguinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-008",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 8,
+      "question": "A base de cálculo do IPTU é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "lucro do imóvel."
+        },
+        {
+          "id": "B",
+          "text": "valor venal da unidade imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "renda do proprietário."
+        },
+        {
+          "id": "D",
+          "text": "custo histórico obrigatório."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-009",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 9,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "irregularidade administrativa do imóvel não afasta, por si só, a incidência."
+        },
+        {
+          "id": "B",
+          "text": "prejuízo na exploração não afasta, por si só, a incidência."
+        },
+        {
+          "id": "C",
+          "text": "o valor venal relaciona-se às condições de mercado."
+        },
+        {
+          "id": "D",
+          "text": "somente título de aquisição perfeitamente legítimo permite incidência do IPTU."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-010",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 10,
+      "question": "Sobre os valores fixados pela Comissão de Avaliação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "produzem efeitos automaticamente antes de qualquer aprovação."
+        },
+        {
+          "id": "B",
+          "text": "dependem da aprovação por decreto do Prefeito e publicação, conforme o CTM."
+        },
+        {
+          "id": "C",
+          "text": "dispensam Planta de Valores."
+        },
+        {
+          "id": "D",
+          "text": "são definidos pelo contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-011",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 11,
+      "question": "EXCETO: todas as associações estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "175 — independência da incidência."
+        },
+        {
+          "id": "B",
+          "text": "176 — ônus acompanha imóvel."
+        },
+        {
+          "id": "C",
+          "text": "177 — contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "180 — base de cálculo é lucro anual."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "id": "direito-tributario-aula-047-q-012",
+      "lessonId": "direito-tributario-aula-047",
+      "numero": 12,
+      "question": "Recuperação: mantido débito definitivo e não pago no prazo do art. 165, segue-se, na regra estudada:",
+      "options": [
+        {
+          "id": "A",
+          "text": "remissão."
+        },
+        {
+          "id": "B",
+          "text": "anistia."
+        },
+        {
+          "id": "C",
+          "text": "dívida ativa e execução."
+        },
+        {
+          "id": "D",
+          "text": "imunidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-047-b13",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-047-b12",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "175 = incidência independe de título legítimo, resultado econômico e regularidade administrativa",
+        "176 = IPTU acompanha o imóvel",
+        "177 = proprietário / domínio útil / possuidor",
+        "178 = adquirente imune/isento: antecipação das vincendas e responsabilidade do alienante",
+        "179 = desapropriação: imissão na posse",
+        "180 = valor venal",
+        "181-182 = Planta/Comissão + aprovação por decreto/publicação",
+        "183 = terreno + edificação, quando houver"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-09-30",
+  "contentHash": "897a5e0fd2e6388e"
+}

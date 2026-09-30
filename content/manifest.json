@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 14,
+  "contentVersion": 15,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-09-30T16:26:53.342Z",
-  "contentHashGlobal": "c6a750c931773b97",
-  "totalAulas": 46,
-  "totalQuestoes": 240,
+  "ultimaSincronizacao": "2026-09-30T19:14:06.948Z",
+  "contentHashGlobal": "8cfdfcb398485a5e",
+  "totalAulas": 47,
+  "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -401,6 +401,18 @@
       "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
       "arquivo": "aulas/direito-tributario-aula-046.json",
       "hash": "8491c788f3a598dd",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-09-30"
+    },
+    {
+      "id": "direito-tributario-aula-047",
+      "numero": 47,
+      "titulo": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "arquivo": "aulas/direito-tributario-aula-047.json",
+      "hash": "897a5e0fd2e6388e",
       "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-09-30"
     },

@@ -8880,3 +8880,96 @@ Fiscalização municipal: EM RETENÇÃO.
 Administração Tributária do CTN: EM RETENÇÃO.
 Responsabilidade tributária: EM RETENÇÃO.
 Nenhum bloco será considerado dominado antes de retenção posterior em questões intercaladas.
+
+
+AULA 47 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)
+
+
+CONTINUIDADE
+Após o procedimento fiscal municipal, avançamos no IPTU. Esta aula trabalha a incidência independentemente de irregularidades do imóvel, o caráter propter rem, o contribuinte, as hipóteses dos arts. 178-179 e o início da base de cálculo.
+
+
+1. ART. 175 — A INCIDÊNCIA INDEPENDE DE TRÊS FATORES
+A incidência do IPTU independe: (I) da legitimidade do título de aquisição da propriedade, domínio útil ou posse; (II) do resultado financeiro da exploração econômica do imóvel; e (III) do cumprimento de exigências legais, regulamentares ou administrativas relativas ao imóvel.
+Pegadinha: imóvel irregular não significa automaticamente imóvel fora do IPTU. Também não importa se a exploração deu lucro ou prejuízo.
+Regra prática: IRREGULARIDADE CIVIL/ADMINISTRATIVA ≠ NÃO INCIDÊNCIA DO IPTU.
+
+
+2. ART. 176 — ÔNUS QUE ACOMPANHA O IMÓVEL
+O IPTU constitui ônus que acompanha o imóvel nos casos de transferência de propriedade ou de direitos reais relativos a ele.
+Conexão com CTN art. 130: créditos relativos a impostos sobre propriedade, domínio útil ou posse de imóveis sub-rogam-se no adquirente, ressalvadas as hipóteses legais.
+Pegadinha: tratar IPTU como obrigação que necessariamente desaparece quando o imóvel é vendido.
+
+
+3. ART. 177 — CONTRIBUINTE
+Contribuinte do IPTU: proprietário, titular do domínio útil ou possuidor a qualquer título do bem imóvel.
+Havendo proprietário conhecido, o CTM dá preferência a ele na condição de sujeito passivo.
+Não confundir sujeito passivo com quem efetivamente ocupa fisicamente o imóvel.
+
+
+4. ART. 178 — ADQUIRENTE IMUNE OU ISENTO
+Se o adquirente do domínio útil ou da propriedade de imóvel já lançado for pessoa imune ou isenta, vencem antecipadamente as prestações vincendas relativas ao imposto, respondendo por elas o alienante.
+Pegadinha: concluir que a imunidade/isenção do adquirente apaga prestações anteriores vinculadas ao alienante.
+
+
+5. ART. 179 — DESAPROPRIAÇÃO
+Em imóvel declarado de utilidade pública para desapropriação, cessa o compromisso com a obrigação tributária a partir da data da imissão de posse pelo poder desapropriante.
+Palavra-chave: IMISSÃO NA POSSE.
+
+
+6. ART. 180 — BASE DE CÁLCULO
+A base de cálculo do IPTU é o VALOR VENAL da unidade imobiliária: valor que ela alcançaria em compra e venda à vista, segundo condições de mercado.
+Pegadinha: base de cálculo não é necessariamente o preço histórico de aquisição, valor declarado pelo contribuinte ou valor financiado.
+Regra: IPTU → VALOR VENAL.
+
+
+7. ARTS. 181-183 — AVALIAÇÃO E COMPOSIÇÃO DO VALOR VENAL
+A avaliação para apuração do valor venal toma por base a Planta de Valores Imobiliários, conforme disciplina municipal. Há Comissão de Avaliação constituída por decreto. Os valores fixados pela Comissão somente produzem efeitos jurídicos após aprovação por decreto do Prefeito e publicação. O valor venal compõe-se do valor do terreno acrescido do valor da edificação, quando houver.
+Atenção: Comissão avalia; a produção de efeitos dos valores depende da aprovação/publicação prevista no Código.
+
+
+MAPA DE RETENÇÃO
+175 = incidência independe de título legítimo, resultado econômico e regularidade administrativa.
+176 = IPTU acompanha o imóvel.
+177 = proprietário / domínio útil / possuidor.
+178 = adquirente imune/isento: antecipação das vincendas e responsabilidade do alienante.
+179 = desapropriação: imissão na posse.
+180 = valor venal.
+181-182 = Planta/Comissão + aprovação por decreto/publicação.
+183 = terreno + edificação, quando houver.
+
+
+RECUPERAÇÃO ATIVA
+Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?
+
+
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
+1. A incidência do IPTU, pelo art. 175, depende da legitimidade do título de aquisição?
+A) Sim, sempre. B) Não. C) Apenas na posse. D) Apenas no domínio útil.
+2. O resultado financeiro da exploração econômica do imóvel:
+A) condiciona sempre o IPTU. B) não condiciona a incidência na regra estudada. C) substitui o valor venal. D) gera imunidade se negativo.
+3. O IPTU constitui ônus que:
+A) desaparece na transferência. B) acompanha o imóvel nas hipóteses legais. C) acompanha apenas o vendedor. D) depende de autorização judicial.
+4. É contribuinte do IPTU:
+A) apenas proprietário registrado. B) proprietário, titular do domínio útil ou possuidor a qualquer título. C) apenas locatário. D) apenas possuidor sem proprietário conhecido.
+5. Conhecido o proprietário, o CTM dá preferência, como sujeito passivo:
+A) ao locatário. B) ao proprietário. C) ao corretor. D) ao tabelião.
+6. No art. 178, sendo o adquirente de imóvel já lançado pessoa imune ou isenta:
+A) desaparecem prestações anteriores. B) vencem antecipadamente as vincendas e por elas responde o alienante. C) o Município perde todo crédito. D) ocorre remissão automática.
+7. Na desapropriação estudada, o marco relevante é:
+A) simples intenção de desapropriar. B) imissão de posse pelo poder desapropriante. C) publicação de notícia. D) pagamento do IPTU seguinte.
+8. A base de cálculo do IPTU é:
+A) lucro do imóvel. B) valor venal da unidade imobiliária. C) renda do proprietário. D) custo histórico obrigatório.
+9. É INCORRETO afirmar:
+A) irregularidade administrativa do imóvel não afasta, por si só, a incidência. B) prejuízo na exploração não afasta, por si só, a incidência. C) o valor venal relaciona-se às condições de mercado. D) somente título de aquisição perfeitamente legítimo permite incidência do IPTU.
+10. Sobre os valores fixados pela Comissão de Avaliação:
+A) produzem efeitos automaticamente antes de qualquer aprovação. B) dependem da aprovação por decreto do Prefeito e publicação, conforme o CTM. C) dispensam Planta de Valores. D) são definidos pelo contribuinte.
+11. EXCETO: todas as associações estão corretas, EXCETO:
+A) 175 — independência da incidência. B) 176 — ônus acompanha imóvel. C) 177 — contribuinte. D) 180 — base de cálculo é lucro anual.
+12. Recuperação: mantido débito definitivo e não pago no prazo do art. 165, segue-se, na regra estudada:
+A) remissão. B) anistia. C) dívida ativa e execução. D) imunidade.
+
+
+REGRA DE RETENÇÃO
+175 = INDEPENDE. 176 = ACOMPANHA. 177 = PROPRIETÁRIO/DOMÍNIO ÚTIL/POSSE. 179 = IMISSÃO NA POSSE. 180 = VALOR VENAL.
+STATUS: IPTU municipal EM APRENDIZAGEM; procedimento fiscal municipal EM RETENÇÃO. Não considerar dominado sem acerto posterior em questões misturadas.

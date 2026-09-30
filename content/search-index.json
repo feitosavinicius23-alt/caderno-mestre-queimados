@@ -1,7 +1,7 @@
 {
-  "contentVersion": 14,
-  "geradoEm": "2026-09-30T16:26:53.342Z",
-  "total": 947,
+  "contentVersion": 15,
+  "geradoEm": "2026-09-30T19:14:06.948Z",
+  "total": 977,
   "documentos": [
     {
       "tipo": "aula",
@@ -8795,6 +8795,321 @@
       "assunto": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
       "slug": "ctm-de-queimados-defesa-provas-julgamento-e-execucao-das-decisoes-arts-154-a-165",
       "texto": "Sem consultar:\nArt. 154 → máximo de quantas testemunhas?\nArt. 156 → quem instrui e em quantos dias?\nArt. 157 → quem decide?\nArt. 158 → qual o prazo para deferimento e qual o máximo para realização?\nArt. 163 → prazo da decisão?\nArt. 165 → prazo para pagamento após decisão definitiva?"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-047",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183) CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b1",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "CONTINUIDADE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "CONTINUIDADE Após o procedimento fiscal municipal, avançamos no IPTU. Esta aula trabalha a incidência independentemente de irregularidades do imóvel, o caráter propter rem, o contribuinte, as hipóteses dos arts. 178-179 e o início da base de cálculo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b2",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "1. ART. 175 — A INCIDÊNCIA INDEPENDE DE TRÊS FATORES",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "1. ART. 175 — A INCIDÊNCIA INDEPENDE DE TRÊS FATORES A incidência do IPTU independe: (I) da legitimidade do título de aquisição da propriedade, domínio útil ou posse; (II) do resultado financeiro da exploração econômica do imóvel; e (III) do cumprimento de exigências legais, regulamentares ou administrativas relativas ao imóvel.\nPegadinha: imóvel irregular não significa automaticamente imóvel fora"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b3",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "2. ART. 176 — ÔNUS QUE ACOMPANHA O IMÓVEL",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 176 — ÔNUS QUE ACOMPANHA O IMÓVEL O IPTU constitui ônus que acompanha o imóvel nos casos de transferência de propriedade ou de direitos reais relativos a ele.\nConexão com CTN art. 130: créditos relativos a impostos sobre propriedade, domínio útil ou posse de imóveis sub-rogam-se no adquirente, ressalvadas as hipóteses legais."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b4",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Pegadinha: tratar IPTU como obrigação que necessariamente desaparece quando o imóvel é vendido.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: tratar IPTU como obrigação que necessariamente desaparece quando o imóvel é vendido."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b5",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "3. ART. 177 — CONTRIBUINTE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "3. ART. 177 — CONTRIBUINTE Contribuinte do IPTU: proprietário, titular do domínio útil ou possuidor a qualquer título do bem imóvel.\nHavendo proprietário conhecido, o CTM dá preferência a ele na condição de sujeito passivo.\nNão confundir sujeito passivo com quem efetivamente ocupa fisicamente o imóvel."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b6",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "4. ART. 178 — ADQUIRENTE IMUNE OU ISENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "4. ART. 178 — ADQUIRENTE IMUNE OU ISENTO Se o adquirente do domínio útil ou da propriedade de imóvel já lançado for pessoa imune ou isenta, vencem antecipadamente as prestações vincendas relativas ao imposto, respondendo por elas o alienante."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b7",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Pegadinha: concluir que a imunidade/isenção do adquirente apaga prestações anteriores vinculadas ao alienante.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: concluir que a imunidade/isenção do adquirente apaga prestações anteriores vinculadas ao alienante."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b8",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "5. ART. 179 — DESAPROPRIAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "5. ART. 179 — DESAPROPRIAÇÃO Em imóvel declarado de utilidade pública para desapropriação, cessa o compromisso com a obrigação tributária a partir da data da imissão de posse pelo poder desapropriante.\nPalavra-chave: IMISSÃO NA POSSE."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b9",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "6. ART. 180 — BASE DE CÁLCULO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "6. ART. 180 — BASE DE CÁLCULO A base de cálculo do IPTU é o VALOR VENAL da unidade imobiliária: valor que ela alcançaria em compra e venda à vista, segundo condições de mercado.\nPegadinha: base de cálculo não é necessariamente o preço histórico de aquisição, valor declarado pelo contribuinte ou valor financiado.\nRegra: IPTU → VALOR VENAL."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b10",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "7. ARTS. 181-183 — AVALIAÇÃO E COMPOSIÇÃO DO VALOR VENAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "7. ARTS. 181-183 — AVALIAÇÃO E COMPOSIÇÃO DO VALOR VENAL A avaliação para apuração do valor venal toma por base a Planta de Valores Imobiliários, conforme disciplina municipal. Há Comissão de Avaliação constituída por decreto. Os valores fixados pela Comissão somente produzem efeitos jurídicos após aprovação por decreto do Prefeito e publicação. O valor venal compõe-se do valor do terreno acrescid"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b11",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Atenção: Comissão avalia; a produção de efeitos dos valores depende da aprovação/publicação prevista no Código.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "atencao",
+      "texto": "Atenção: Comissão avalia; a produção de efeitos dos valores depende da aprovação/publicação prevista no Código."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b12",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "MAPA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "mapa-mental",
+      "texto": "MAPA DE RETENÇÃO 175 = incidência independe de título legítimo, resultado econômico e regularidade administrativa.\n176 = IPTU acompanha o imóvel.\n177 = proprietário / domínio útil / possuidor.\n178 = adquirente imune/isento: antecipação das vincendas e responsabilidade do alienante.\n179 = desapropriação: imissão na posse.\n180 = valor venal.\n181-182 = Planta/Comissão + aprovação por decreto/publicaç"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b13",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO ATIVA Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b14",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "questao",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-047-b15",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "REGRA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "blocoTipo": "teoria",
+      "texto": "REGRA DE RETENÇÃO 175 = INDEPENDE. 176 = ACOMPANHA. 177 = PROPRIETÁRIO/DOMÍNIO ÚTIL/POSSE. 179 = IMISSÃO NA POSSE. 180 = VALOR VENAL.\nSTATUS: IPTU municipal EM APRENDIZAGEM; procedimento fiscal municipal EM RETENÇÃO. Não considerar dominado sem acerto posterior em questões misturadas."
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-001",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 1 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "A incidência do IPTU, pelo art. 175, depende da legitimidade do título de aquisição?"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-002",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 2 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "O resultado financeiro da exploração econômica do imóvel:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-003",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 3 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "O IPTU constitui ônus que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-004",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 4 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "É contribuinte do IPTU:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-005",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 5 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "Conhecido o proprietário, o CTM dá preferência, como sujeito passivo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-006",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 6 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "No art. 178, sendo o adquirente de imóvel já lançado pessoa imune ou isenta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-007",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 7 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "Na desapropriação estudada, o marco relevante é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-008",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 8 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "A base de cálculo do IPTU é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-009",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 9 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "É INCORRETO afirmar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-010",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 10 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "Sobre os valores fixados pela Comissão de Avaliação:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-011",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 11 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "EXCETO: todas as associações estão corretas, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-047-q-012",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "Questão 12 — CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "Recuperação: mantido débito definitivo e não pago no prazo do art. 165, segue-se, na regra estudada:"
+    },
+    {
+      "tipo": "mapa",
+      "id": "direito-tributario-aula-047-b12",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "MAPA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "175 = incidência independe de título legítimo, resultado econômico e regularidade administrativa → 176 = IPTU acompanha o imóvel → 177 = proprietário / domínio útil / possuidor → 178 = adquirente imune/isento: antecipação das vincendas e responsabilidade do alienante → 179 = desapropriação: imissão na posse → 180 = valor venal → 181-182 = Planta/Comissão + aprovação por decreto/publicação → 183 = "
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-047-b13",
+      "lessonId": "direito-tributario-aula-047",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
+      "slug": "ctm-de-queimados-iptu-incidencia-contribuinte-e-base-de-calculo-arts-175-a-183",
+      "texto": "Sem consultar: 157 = quem decide? 163 = prazo de julgamento? 165 = prazo para pagar? 175 = três independências? 177 = três possíveis contribuintes? 180 = qual base de cálculo?"
     },
     {
       "tipo": "aula",
