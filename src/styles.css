@@ -513,7 +513,25 @@ textarea.campo { min-height: 96px; resize: vertical; font-family: inherit; }
   .aula-impressao__cabecalho h1 { margin: 5px 0; }
   .aula-impressao__rodape { margin-top: 28px; padding-top: 8px; border-top: 1px solid var(--borda); color: var(--texto-fraco); font-size: 0.72rem; text-align: center; }
   .bloco, .questao, .tabela-wrap, .missao { break-inside: avoid; }
-  .bloco-destaque, .lei-seca, .gabarito, .missao { box-shadow: none !important; }
+  /* PDF limpo: preserva a organização, sem fundos coloridos ou sombras. */
+  .print-course, .print-course * { background: transparent !important; box-shadow: none !important; }
+  .print-course { color: #14202e !important; }
+  .print-course .bloco-destaque,
+  .print-course .lei-seca,
+  .print-course .gabarito,
+  .print-course .missao,
+  .print-course .questao,
+  .print-course .alternativa,
+  .print-course .mapa__no,
+  .print-course .tabela-wrap { border-color: #cbd5e1 !important; }
+  .print-course .bloco-destaque { border-left-color: #64748b !important; }
+  .print-course .lei-seca { border-left-color: #64748b !important; }
+  .print-course .bloco-destaque__rotulo,
+  .print-course .lei-seca__rotulo,
+  .print-course .print-course__marca { color: #334155 !important; }
+  .print-course table.tabela th { background: transparent !important; color: #334155 !important; }
+  .print-course .alternativa--correta { border-color: #64748b !important; }
+  .print-course .alternativa--correta .alternativa__letra { background: transparent !important; color: #14202e !important; border-color: #64748b !important; }
   .missao__item--impressao { display: flex; cursor: default; }
   .print-course .questao__cabecalho button, .print-course .questao .botao { display: none !important; }
   a { color: inherit; text-decoration: none; }
