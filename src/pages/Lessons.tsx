@@ -52,6 +52,11 @@ export default function Lessons() {
       <p className="suave" style={{ marginTop: -6 }}>
         {manifest.totalAulas} aulas · {manifest.totalQuestoes} questões
       </p>
+      <div className="linha mt">
+        <Link className="botao" to="/curso/imprimir">
+          🖨️ Imprimir curso em PDF
+        </Link>
+      </div>
 
       <label className="rotulo-secao" htmlFor="filtro-disciplina">Disciplina</label>
       <select

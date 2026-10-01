@@ -12,6 +12,7 @@ import { Skeleton } from '@/components/ui';
 
 const Dashboard = lazy(() => import('@/pages/Dashboard'));
 const Lessons = lazy(() => import('@/pages/Lessons'));
+const PrintCourse = lazy(() => import('@/pages/PrintCourse'));
 const LessonPage = lazy(() => import('@/pages/LessonPage'));
 const SubjectsList = lazy(() => import('@/pages/Subjects'));
 const SubjectPage = lazy(() => import('@/pages/Subjects').then((m) => ({ default: m.SubjectPage })));
@@ -39,6 +40,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/aulas" element={<Lessons />} />
+            <Route path="/curso/imprimir" element={<PrintCourse />} />
             <Route path="/aulas/:disciplina/:slug" element={<LessonPage />} />
             <Route path="/disciplinas" element={<SubjectsList />} />
             <Route path="/disciplinas/:slug" element={<SubjectPage />} />

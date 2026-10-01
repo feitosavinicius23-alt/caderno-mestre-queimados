@@ -74,9 +74,40 @@ interface Props {
   lessonId: string;
   disciplina: string;
   assunto: string;
+  modoImpressao?: boolean;
 }
 
-export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina, assunto }: Props) {
+function PrintQuestionCard({ question }: { question: Question }) {
+  return (
+    <article className="questao" id={question.id}>
+      <header className="questao__cabecalho">
+        <span className="questao__numero">Questão {question.numero}</span>
+      </header>
+      <p className="questao__enunciado">{question.question}</p>
+      <div className="alternativas" aria-label={`Alternativas da questão ${question.numero}`}>
+        {question.options.map((option) => (
+          <div
+            key={option.id}
+            className={`alternativa${option.id === question.correctAnswer ? ' alternativa--correta' : ''}`}
+          >
+            <span className="alternativa__letra" aria-hidden="true">{option.id}</span>
+            <span>{option.text}</span>
+          </div>
+        ))}
+      </div>
+      <div className="gabarito">
+        <div className="gabarito__rotulo">Gabarito comentado</div>
+        <p style={{ marginBottom: question.explanation ? '0.7em' : 0 }}>
+          <strong>{question.correctAnswer ? `Alternativa correta: ${question.correctAnswer}` : 'Gabarito ainda não disponível'}</strong>
+        </p>
+        {question.explanation ? <p style={{ margin: 0 }}>{question.explanation}</p> : null}
+        {question.topic ? <p className="fraco" style={{ margin: '0.7em 0 0' }}>Assunto: {question.topic}</p> : null}
+      </div>
+    </article>
+  );
+}
+
+export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina, assunto, modoImpressao = false }: Props) {
   const texto = bloco.texto?.trim() ?? '';
 
   // Mapa mental: componente visual dedicado (requisito 69).
@@ -94,13 +125,11 @@ export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina,
       <section className="bloco" id={bloco.id} aria-label="Questões">
         <h3 className="bloco__titulo">{bloco.titulo || 'Questões'}</h3>
         {doBloco.map((question) => (
-          <QuestionCard
-            key={question.id}
-            question={question}
-            lessonId={lessonId}
-            disciplina={disciplina}
-            assunto={assunto}
-          />
+          modoImpressao ? (
+            <PrintQuestionCard key={question.id} question={question} />
+          ) : (
+            <QuestionCard key={question.id} question={question} lessonId={lessonId} disciplina={disciplina} assunto={assunto} />
+          )
         ))}
       </section>
     );
