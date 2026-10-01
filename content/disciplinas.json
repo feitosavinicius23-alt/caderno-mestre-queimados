@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 37,
+    "totalAulas": 38,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 154,
+    "tempoEstimadoMin": 158,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -42,7 +42,8 @@
       "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
       "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
       "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
-      "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206"
+      "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207"
     ],
     "aulas": [
       {
@@ -266,6 +267,12 @@
         "numero": 50,
         "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
         "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206"
+      },
+      {
+        "id": "direito-tributario-aula-051",
+        "numero": 51,
+        "titulo": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+        "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207"
       }
     ]
   },

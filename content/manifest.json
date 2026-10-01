@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 18,
+  "contentVersion": 19,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-01T17:04:02.930Z",
-  "contentHashGlobal": "32d478cdc24e8b3d",
-  "totalAulas": 50,
+  "ultimaSincronizacao": "2026-10-01T22:37:27.763Z",
+  "contentHashGlobal": "842cc48fefa7111a",
+  "totalAulas": 51,
   "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
@@ -448,7 +448,19 @@
       "disciplina": "Direito Tributário",
       "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
       "arquivo": "aulas/direito-tributario-aula-050.json",
-      "hash": "35bc74bcbf755bd4",
+      "hash": "d90b80bd04519976",
+      "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-01"
+    },
+    {
+      "id": "direito-tributario-aula-051",
+      "numero": 51,
+      "titulo": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "arquivo": "aulas/direito-tributario-aula-051.json",
+      "hash": "05d388088c9ac42b",
       "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-01"
     },

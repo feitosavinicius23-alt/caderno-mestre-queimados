@@ -1,7 +1,7 @@
 {
-  "contentVersion": 18,
-  "geradoEm": "2026-10-01T17:04:02.930Z",
-  "total": 1007,
+  "contentVersion": 19,
+  "geradoEm": "2026-10-01T22:37:27.763Z",
+  "total": 1022,
   "documentos": [
     {
       "tipo": "aula",
@@ -9436,6 +9436,168 @@
       "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
       "blocoTipo": "teoria",
       "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO 1. Imóvel particular cedido gratuitamente e integralmente para uso exclusivo de ente indicado no art. 200: A) nunca isento B) pode ser isento enquanto durar a cessão, cumpridas exigências C) torna-se imune D) é desapropriado.\n2. Redação consolidada mais recente do inciso III: renda do aposentado/pensionista até A)1 B)2 C)3 D)5 salários mínimos.\n3. Comprov"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-051",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "texto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207 IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b1",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO: fechar a primeira passagem pelo IPTU dominando a associação entre conduta, percentual, prazo e espécie de penalidade. O art. 207 prevê sanções independentemente das demais cominações ou penalidades do Código."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b2",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "1) OMISSÃO CADASTRAL — 30%",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "1) OMISSÃO CADASTRAL — 30% Não comparecer à Prefeitura no prazo para solicitar inscrição do imóvel ou anotar alterações cadastrais: multa de 30% do imposto devido no exercício da infração.\nMACETE: OMISSÃO CADASTRAL = 30%."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b3",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "2) DOLO OU FALSIDADE CADASTRAL — 100%",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "2) DOLO OU FALSIDADE CADASTRAL — 100% Erro ou omissão dolosos e falsidade nas informações prestadas para inscrição ou alteração cadastral: multa de 100% do imposto devido no exercício da infração.\nCONTRASTE: simples falta cadastral = 30%; dolo/falsidade = 100%."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b4",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "PEGADINHA IAN: trocar 30 por 100 mantendo o restante do enunciado correto.",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA IAN: trocar 30 por 100 mantendo o restante do enunciado correto."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b5",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "3) CONSTRUÇÃO CLANDESTINA/NÃO LEGALIZADA — 130,1600 UFIR",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "3) CONSTRUÇÃO CLANDESTINA/NÃO LEGALIZADA — 130,1600 UFIR A manutenção de construção clandestina ou não legalizada sujeita o infrator à multa de 130,1600 UFIR. Aqui a sanção não é percentual do IPTU.\nMACETE: CONSTRUÇÃO CLANDESTINA = UFIR."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b6",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "4) TABELIÃO OU ESCRIVÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "4) TABELIÃO OU ESCRIVÃO Tabelião ou escrivão que lavrar, registrar, inscrever ou averbar escritura pública ou contrato relativo a imóvel sem prova de quitação dos tributos municipais correspondentes sujeita-se à multa correspondente ao valor dos tributos devidos em relação ao imóvel."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b7",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "PEGADINHA: não inventar percentual; a referência é o VALOR DOS TRIBUTOS DEVIDOS.",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: não inventar percentual; a referência é o VALOR DOS TRIBUTOS DEVIDOS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b8",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "5) AQUISIÇÃO NÃO COMUNICADA — 60 DIAS + 20%",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "5) AQUISIÇÃO NÃO COMUNICADA — 60 DIAS + 20% Aquisição de imóvel não comunicada ao cadastro fiscal no prazo legal: prazo de 60 dias e multa de 20% do valor anual do imposto devido pelo imóvel.\nMACETE: AQUISIÇÃO = 60 + 20."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b9",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "6) ATRASO DO IPTU — 10% + JUROS DE 1% AO MÊS",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "6) ATRASO DO IPTU — 10% + JUROS DE 1% AO MÊS O atraso no pagamento acarreta multa de 10%, cobrada conforme a regra temporal do Código, tomando como data-base o vencimento da cota única sem desconto. O parágrafo único prevê juros de mora de 1% ao mês.\nMACETE: ATRASO = 10% + 1% AO MÊS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b10",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "MAPA DE RETENÇÃO DO ART. 207",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "mapa-mental",
+      "texto": "MAPA DE RETENÇÃO DO ART. 207 30% = omissão cadastral.\n100% = dolo/falsidade cadastral.\n130,1600 UFIR = construção clandestina/não legalizada.\nValor dos tributos devidos = tabelião/escrivão.\n60 dias + 20% = aquisição não comunicada.\n10% + juros de 1% ao mês = atraso no IPTU."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b11",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO ESPAÇADA 186 = 30% ao ano.\n187 = lançamento anual + 1º de janeiro.\n193 = pro indiviso: qualquer um; pro diviso: cada um proporcionalmente.\n198 = lançamento de IPTU não reconhece propriedade.\n199 = cota única: desconto de até 60%.\n201 = imune/isento também se cadastra.\n204 = regra de 30 dias; demolição/desabamento/incêndio/ruína = 60 dias.\n205 = desmembramento/remembramento = 90 dias."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-051-b12",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO 1. A falta de solicitação tempestiva da inscrição do imóvel ou da anotação de alteração cadastral sujeita o contribuinte a multa de: A)10% B)20% C)30% D)100%.\n2. Erro ou omissão dolosos, bem como falsidade em informação cadastral: A)20% B)30% C)50% D)100%.\n3. A manutenção de construção clandestina ou não legalizada sujeita o infrator a: A)30% do IPTU B)13"
+    },
+    {
+      "tipo": "mapa",
+      "id": "direito-tributario-aula-051-b10",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "MAPA DE RETENÇÃO DO ART. 207",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "texto": "30% = omissão cadastral → 100% = dolo/falsidade cadastral → 130,1600 UFIR = construção clandestina/não legalizada → Valor dos tributos devidos = tabelião/escrivão → 60 dias + 20% = aquisição não comunicada → 10% + juros de 1% ao mês = atraso no IPTU"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-051-b11",
+      "lessonId": "direito-tributario-aula-051",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207",
+      "texto": "186 = 30% ao ano.\n187 = lançamento anual + 1º de janeiro.\n193 = pro indiviso: qualquer um; pro diviso: cada um proporcionalmente.\n198 = lançamento de IPTU não reconhece propriedade.\n199 = cota única: desconto de até 60%.\n201 = imune/isento também se cadastra.\n204 = regra de 30 dias; demolição/desabamento/incêndio/ruína = 60 dias.\n205 = desmembramento/remembramento = 90 dias."
     },
     {
       "tipo": "aula",

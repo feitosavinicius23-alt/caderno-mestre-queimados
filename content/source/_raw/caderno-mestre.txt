@@ -9111,4 +9111,82 @@ TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
 11. Desmembramento/remembramento: A)30 B)60 C)90 D)180 dias.
 12. EXCETO: A)200 isenções B)201 cadastro inclusive imunes/isentos C)204 eventos especiais 60 dias D)205 desmembramento/remembramento 30 dias.
 REGRA DE RETENÇÃO: 200=ISENÇÕES+4 EM 4+CONFUSÃO; 201=IMUNE/ISENTO TAMBÉM SE INSCREVE; 202/203/204=30 DIAS; 204 EXCEÇÃO=60; 205=90. STATUS: IPTU EM APRENDIZAGEM/RETENÇÃO. Próximo bloco: infrações e penalidades do IPTU.
+
+
+
+
+AULA 51 — IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207
+
+
+OBJETIVO: fechar a primeira passagem pelo IPTU dominando a associação entre conduta, percentual, prazo e espécie de penalidade. O art. 207 prevê sanções independentemente das demais cominações ou penalidades do Código.
+
+
+1) OMISSÃO CADASTRAL — 30%
+Não comparecer à Prefeitura no prazo para solicitar inscrição do imóvel ou anotar alterações cadastrais: multa de 30% do imposto devido no exercício da infração.
+MACETE: OMISSÃO CADASTRAL = 30%.
+
+
+2) DOLO OU FALSIDADE CADASTRAL — 100%
+Erro ou omissão dolosos e falsidade nas informações prestadas para inscrição ou alteração cadastral: multa de 100% do imposto devido no exercício da infração.
+CONTRASTE: simples falta cadastral = 30%; dolo/falsidade = 100%.
+PEGADINHA IAN: trocar 30 por 100 mantendo o restante do enunciado correto.
+
+
+3) CONSTRUÇÃO CLANDESTINA/NÃO LEGALIZADA — 130,1600 UFIR
+A manutenção de construção clandestina ou não legalizada sujeita o infrator à multa de 130,1600 UFIR. Aqui a sanção não é percentual do IPTU.
+MACETE: CONSTRUÇÃO CLANDESTINA = UFIR.
+
+
+4) TABELIÃO OU ESCRIVÃO
+Tabelião ou escrivão que lavrar, registrar, inscrever ou averbar escritura pública ou contrato relativo a imóvel sem prova de quitação dos tributos municipais correspondentes sujeita-se à multa correspondente ao valor dos tributos devidos em relação ao imóvel.
+PEGADINHA: não inventar percentual; a referência é o VALOR DOS TRIBUTOS DEVIDOS.
+
+
+5) AQUISIÇÃO NÃO COMUNICADA — 60 DIAS + 20%
+Aquisição de imóvel não comunicada ao cadastro fiscal no prazo legal: prazo de 60 dias e multa de 20% do valor anual do imposto devido pelo imóvel.
+MACETE: AQUISIÇÃO = 60 + 20.
+
+
+6) ATRASO DO IPTU — 10% + JUROS DE 1% AO MÊS
+O atraso no pagamento acarreta multa de 10%, cobrada conforme a regra temporal do Código, tomando como data-base o vencimento da cota única sem desconto. O parágrafo único prevê juros de mora de 1% ao mês.
+MACETE: ATRASO = 10% + 1% AO MÊS.
+
+
+MAPA DE RETENÇÃO DO ART. 207
+30% = omissão cadastral.
+100% = dolo/falsidade cadastral.
+130,1600 UFIR = construção clandestina/não legalizada.
+Valor dos tributos devidos = tabelião/escrivão.
+60 dias + 20% = aquisição não comunicada.
+10% + juros de 1% ao mês = atraso no IPTU.
+
+
+RECUPERAÇÃO ESPAÇADA
+186 = 30% ao ano.
+187 = lançamento anual + 1º de janeiro.
+193 = pro indiviso: qualquer um; pro diviso: cada um proporcionalmente.
+198 = lançamento de IPTU não reconhece propriedade.
+199 = cota única: desconto de até 60%.
+201 = imune/isento também se cadastra.
+204 = regra de 30 dias; demolição/desabamento/incêndio/ruína = 60 dias.
+205 = desmembramento/remembramento = 90 dias.
+
+
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
+1. A falta de solicitação tempestiva da inscrição do imóvel ou da anotação de alteração cadastral sujeita o contribuinte a multa de: A)10% B)20% C)30% D)100%.
+2. Erro ou omissão dolosos, bem como falsidade em informação cadastral: A)20% B)30% C)50% D)100%.
+3. A manutenção de construção clandestina ou não legalizada sujeita o infrator a: A)30% do IPTU B)130,1600 UFIR C)100% do IPTU D)20% do IPTU.
+4. Tabelião ou escrivão enquadrado no inciso IV sujeita-se à multa: A)fixa de 10% B)fixa de 20% C)correspondente ao valor dos tributos devidos em relação ao imóvel D)130,1600 UFIR.
+5. A aquisição do imóvel não comunicada ao cadastro no prazo legal corresponde à combinação: A)30 dias + 30% B)60 dias + 20% C)90 dias + 10% D)60 dias + 100%.
+6. O atraso no pagamento do IPTU acarreta multa de: A)1% B)10% C)20% D)30%.
+7. Sobre o valor do imposto devido, o parágrafo único prevê juros de mora de: A)0,5% ao mês B)1% ao mês C)2% ao mês D)10% ao mês.
+8. É INCORRETO afirmar: A)omissão cadastral simples e falsidade dolosa recebem percentuais diferentes B)construção clandestina possui sanção expressa em UFIR C)aquisição não comunicada envolve prazo de 60 dias D)falsidade cadastral gera multa de 30%.
+9. EXCETO: todas as associações estão corretas, EXCETO: A)30%—omissão cadastral B)100%—dolo/falsidade C)20%—aquisição não comunicada D)10%—desmembramento não inscrito em 90 dias.
+10. Recuperação: demolição, desabamento, incêndio ou ruína devem ser comunicados em: A)30 B)45 C)60 D)90 dias.
+11. Recuperação: desmembramento ou remembramento deve ser inscrito em: A)30 B)60 C)90 D)120 dias.
+12. Sobre imóvel imune ou isento, assinale a CORRETA: A)fica necessariamente dispensado do cadastro imobiliário B)continua sujeito à inscrição cadastral nas condições do CTM C)não pode ser fiscalizado D)nunca possui obrigação acessória.
+
+
+REGRA DE RETENÇÃO: ART. 207 = 30 / 100 / 130,1600 UFIR / VALOR DOS TRIBUTOS / 60+20 / 10+1% AO MÊS.
+STATUS: IPTU fecha a primeira passagem e entra em RETENÇÃO. Não considerar dominado até retenção posterior em questões misturadas. Próximo avanço: ITBI a partir do art. 208.
 .
