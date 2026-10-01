@@ -9025,3 +9025,90 @@ TESTE — SEM GABARITO ANTECIPADO
 
 REGRA DE RETENÇÃO: 184=T×U/C. 185=FAIXAS/USOS. 186=30% AO ANO. 187=ANUAL + 1º DE JANEIRO.
 STATUS: IPTU EM APRENDIZAGEM/RETENÇÃO; procedimento fiscal EM RETENÇÃO.
+
+
+
+
+AULA 49 — CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)
+
+
+ART. 188 — NOTIFICAÇÃO DO LANÇAMENTO
+O lançamento anual do IPTU é notificado ao sujeito passivo mediante apresentação das guias de cobrança, nas quais constam os prazos para pagamento e impugnação. Em caso de omissão ou extravio de guias remetidas, vencido o prazo, cabe ao órgão fazendário apurar os fatos e possibilitar o recolhimento sem ônus ao contribuinte em novo prazo. Pegadinha: extravio da guia não autoriza presumir remissão nem extingue automaticamente o crédito.
+
+
+ARTS. 189 A 191 — SITUAÇÃO REAL DO IMÓVEL E ARBITRAMENTO
+O lançamento considera a situação do bem imóvel. O art. 190 admite lançamento de ofício por arbitramento da base de cálculo quando houver omissão das informações necessárias à apuração do valor venal ou quando declarações, esclarecimentos e documentos do sujeito passivo não merecerem fé, sem prejuízo das penalidades cabíveis. O art. 191 determina que o lançamento de ofício utilize os elementos disponíveis à Administração, com arbitramento dos dados físicos do imóvel quando necessário.
+REGRA: FALTA DE INFORMAÇÃO OU INFORMAÇÃO SEM FÉ → ARBITRAMENTO; arbitramento não significa punição e não impede penalidade cabível.
+
+
+ART. 192 — EM NOME DE QUEM É LANÇADO
+O lançamento será feito em nome do proprietário, do titular do domínio útil ou do possuidor a qualquer título. Conexão com art. 177: a tríade reaparece.
+
+
+ART. 193 — CONDOMÍNIO
+Pro indiviso: lançamento em nome de qualquer coproprietário, titular do domínio útil ou possuidor. Pro diviso: em nome de cada condômino, proporcionalmente à sua parte. Proprietário desconhecido: em nome de quem esteja no uso e gozo do imóvel, com ou sem identificação do contribuinte.
+MACETE: INDIVISO = QUALQUER UM; DIVISO = CADA UM NA SUA PARTE.
+
+
+ARTS. 194 A 196 — LANÇAMENTOS ADITIVOS/COMPLEMENTARES, IMPUGNAÇÃO E ALTERAÇÃO
+Enquanto não extinto o direito da Fazenda Municipal, podem ser efetuados lançamentos aditivos ou complementares; os complementares, segundo a literalidade do dispositivo, somente quando decorrentes de erro de fato. Havendo impugnação, pode ser emitido novo carnê com os valores da parte não impugnada. Alterações justificadas por ato ou fato são feitas no curso do exercício mediante processo e despacho da autoridade competente.
+PEGADINHA: impugnar parte do lançamento não significa que a parcela não impugnada desaparece.
+
+
+ARTS. 197 E 198 — LOTEAMENTO IRREGULAR E AUSÊNCIA DE RECONHECIMENTO DOMINIAL
+Loteamento sem situação regularizada: lançamento em nome do proprietário. O lançamento do IPTU não implica reconhecimento da legitimidade da propriedade, do domínio útil ou da posse. Portanto, LANÇAR IPTU ≠ RECONHECER PROPRIEDADE.
+
+
+ART. 199 — PAGAMENTO
+O IPTU pode ser pago de uma vez ou parceladamente, na forma e nos prazos do regulamento. O Prefeito pode, por decreto, conceder desconto de até 60% para pagamento em cota única. Parcelas vincendas só podem ser pagas após as vencidas; pagar uma parcela não presume quitação das anteriores.
+MACETE: COTA ÚNICA = ATÉ 60%; PARCELA POSTERIOR NÃO QUITA ANTERIOR.
+
+
+RECUPERAÇÃO ESPAÇADA
+184 = FI=T×U/C. 185 = faixas de alíquotas. 186 = progressividade de 30% ao ano. 187 = lançamento anual + 1º de janeiro. 190 = arbitramento. 193 = condomínio. 198 = lançamento não reconhece domínio. 199 = pagamento e até 60% em cota única.
+
+
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
+1. A notificação do lançamento anual do IPTU ocorre, segundo o art. 188, mediante: A) sentença judicial B) apresentação das guias de cobrança C) auto de apreensão D) edital obrigatório em qualquer caso.
+2. O extravio de guia remetida: A) extingue automaticamente o IPTU B) gera remissão C) pode ensejar, após apuração, novo prazo para recolhimento sem ônus D) transforma IPTU em taxa.
+3. O arbitramento da base de cálculo pode ocorrer quando: A) sempre houver pagamento em cota única B) faltarem informações para apurar o valor venal ou os elementos fornecidos não merecerem fé C) o contribuinte pedir parcelamento D) existir habite-se.
+4. O arbitramento: A) impede qualquer penalidade B) pode coexistir com penalidades cabíveis C) equivale à isenção D) depende sempre de decisão judicial.
+5. O lançamento pode ser feito em nome: A) apenas do proprietário registral B) do proprietário, titular do domínio útil ou possuidor a qualquer título C) somente do possuidor D) apenas do locatário.
+6. Em condomínio pro indiviso, o lançamento pode ser feito: A) em nome de qualquer coproprietário nas condições legais B) obrigatoriamente em nome de todos simultaneamente C) apenas em nome do Município D) somente após divisão judicial.
+7. Em condomínio pro diviso: A) um condômino responde necessariamente por tudo no lançamento B) o lançamento é feito em nome de cada condômino na proporção de sua parte C) não há IPTU D) lança-se apenas no nome do ocupante mais antigo.
+8. É INCORRETO afirmar: A) a parte não impugnada pode constar de novo carnê B) alterações podem exigir processo e despacho competente C) o lançamento reconhece definitivamente a legitimidade da propriedade D) loteamento irregular pode ser lançado em nome do proprietário.
+9. O lançamento do IPTU: A) reconhece a propriedade B) não implica reconhecimento da legitimidade da propriedade, domínio útil ou posse C) substitui registro imobiliário D) cria domínio útil.
+10. Pagamento em cota única pode receber desconto: A) necessariamente de 60% B) de até 60%, mediante decreto do Prefeito C) somente de 10% D) sem necessidade de ato.
+11. Pagar uma parcela do IPTU: A) presume quitadas todas as anteriores B) não presume quitação das anteriores C) extingue parcelas futuras D) gera imunidade.
+12. Recuperação: a progressividade do art. 186 estudada é de: A)10% B)20% C)30% D)60% ao ano.
+
+
+REGRA DE RETENÇÃO: 188=GUIA/NOTIFICAÇÃO; 190=ARBITRAMENTO; 192=PROPRIETÁRIO/DOMÍNIO ÚTIL/POSSE; 193=INDIVISO QUALQUER UM, DIVISO CADA UM; 198=LANÇAR NÃO RECONHECE DOMÍNIO; 199=COTA ÚNICA ATÉ 60%.
+STATUS: IPTU EM APRENDIZAGEM/RETENÇÃO. Procedimento fiscal municipal EM RETENÇÃO. Não considerar dominado sem desempenho posterior em questões misturadas
+
+
+AULA 50 — IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206
+OBJETIVO: fechar o núcleo material do IPTU antes das infrações e penalidades.
+ART. 200 — ISENÇÕES. Cumpridas as exigências legais: imóvel particular cedido gratuitamente e integralmente para uso exclusivo da União, Estado, Município ou autarquias enquanto durar a cessão; imóvel declarado de utilidade pública para desapropriação a partir do período da imissão de posse/ocupação efetiva; imóvel unifamiliar de aposentado ou pensionista, renda até 2 salários mínimos e sem outro imóvel; e contribuinte enquadrado na LC 069/15. O consolidado exibe redações históricas do inciso III; para a redação mais recente exibida, considere a LC 089/19. §1º: comprovação do direito de 4 em 4 anos. §2º: caducado/revogado decreto de desapropriação, restaura-se a cobrança a partir desse marco nas condições legais. §3º: Município locatário = CONFUSÃO, extinguindo o crédito de IPTU pelo prazo da locação. §4º: benefício por período certo deve ser renovado antes do fim de cada período.
+ART. 201 — IMUNE OU ISENTO TAMBÉM SE INSCREVE. Imóveis da zona urbana, inclusive expansão/urbanizáveis, ainda que isentos ou imunes, devem ser inscritos no Cadastro Imobiliário Fiscal, separadamente por imóvel.
+ART. 202 — inscrição quando surgir unidade ou houver alteração. Prazo: 30 DIAS. Declarações podem ser revistas pelo Fisco a qualquer tempo. Uso misto: inscrição desdobrada para IPTU.
+ART. 203 — inscrição pelo proprietário, titular do domínio útil, representante ou possuidor; também de ofício nas hipóteses legais. Mudança de titularidade: título transcrito + prova de quitação; modificação em 30 DIAS da transcrição.
+ART. 204 — alteração que afete base de cálculo: 30 DIAS. Demolição, desabamento, incêndio ou ruína: 60 DIAS. Para IPTU, alteração cadastral produz efeito no EXERCÍCIO SEGUINTE. Cada unidade autônoma = uma inscrição.
+ARTS. 205-206 — desmembramento/remembramento: inscrição em 90 DIAS do registro. Imóveis públicos: inscrição pelas repartições de guarda/administração.
+MAPA: 4 EM 4 = comprovação; 30 = regra cadastral; 60 = demolição/desabamento/incêndio/ruína; 90 = desmembramento/remembramento.
+RECUPERAÇÃO: 186 = percentual anual? 193 = pro indiviso/pro diviso? 198 = lançamento reconhece domínio? 199 = desconto máximo? 201 = imune/isento se inscreve? 204 = 30 ou 60? 205 = 90 dias para quê?
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
+1. Imóvel particular cedido gratuitamente e integralmente para uso exclusivo de ente indicado no art. 200: A) nunca isento B) pode ser isento enquanto durar a cessão, cumpridas exigências C) torna-se imune D) é desapropriado.
+2. Redação consolidada mais recente do inciso III: renda do aposentado/pensionista até A)1 B)2 C)3 D)5 salários mínimos.
+3. Comprovação do §1º: A) anual B)2 em 2 C)4 em 4 D) uma vez.
+4. Município locatário: A) anistia B) confusão, extinguindo IPTU no prazo da locação C) remissão geral D) imunidade.
+5. É INCORRETO: A) imune pode ter cadastro obrigatório B) isento pode ter cadastro obrigatório C) isenção elimina necessariamente cadastro D) inscrição é separada por imóvel.
+6. Art. 202: prazo A)10 B)15 C)30 D)90 dias.
+7. Declarações cadastrais: A) imutáveis B) revisáveis pelo Fisco a qualquer tempo C) só judicialmente D) imutáveis após 30 dias.
+8. Utilização mista: A) cancela inscrição B) inscrição desdobrada C) imunidade D) proíbe lançamento.
+9. Demolição/desabamento/incêndio/ruína: A)30 B)45 C)60 D)90 dias.
+10. Alterações cadastrais para IPTU: A) retroativas B) efeito no exercício seguinte C) imediatas sempre D) após 5 anos.
+11. Desmembramento/remembramento: A)30 B)60 C)90 D)180 dias.
+12. EXCETO: A)200 isenções B)201 cadastro inclusive imunes/isentos C)204 eventos especiais 60 dias D)205 desmembramento/remembramento 30 dias.
+REGRA DE RETENÇÃO: 200=ISENÇÕES+4 EM 4+CONFUSÃO; 201=IMUNE/ISENTO TAMBÉM SE INSCREVE; 202/203/204=30 DIAS; 204 EXCEÇÃO=60; 205=90. STATUS: IPTU EM APRENDIZAGEM/RETENÇÃO. Próximo bloco: infrações e penalidades do IPTU.
+.

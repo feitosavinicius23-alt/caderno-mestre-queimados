@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 35,
+    "totalAulas": 37,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 146,
+    "tempoEstimadoMin": 154,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -40,7 +40,9 @@
       "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
       "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
       "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)",
-      "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)"
+      "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
+      "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206"
     ],
     "aulas": [
       {
@@ -252,6 +254,18 @@
         "numero": 48,
         "titulo": "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
         "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1"
+      },
+      {
+        "id": "direito-tributario-aula-049",
+        "numero": 49,
+        "titulo": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+        "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco"
+      },
+      {
+        "id": "direito-tributario-aula-050",
+        "numero": 50,
+        "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+        "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206"
       }
     ]
   },

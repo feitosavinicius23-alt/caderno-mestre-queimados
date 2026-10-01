@@ -1,7 +1,7 @@
 {
-  "contentVersion": 17,
-  "geradoEm": "2026-10-01T01:16:28.345Z",
-  "total": 986,
+  "contentVersion": 18,
+  "geradoEm": "2026-10-01T17:04:02.930Z",
+  "total": 1007,
   "documentos": [
     {
       "tipo": "aula",
@@ -9208,6 +9208,234 @@
       "slug": "ctm-de-queimados-iptu-fracao-ideal-aliquotas-progressividade-e-lancamento-arts-1",
       "blocoTipo": "teoria",
       "texto": "2. T=600, U=100, C=400. FI: A)100 B)150 C)200 D)240. 3. Terreno até 200 m²: A)0,8% B)1,0% C)1,5% D)2,0%.\n4. Residencial até 90 m²: A)0,8% B)0,9% C)1,0% D)1,1%.\n5. INCORRETA: A)residencial acima de 151=1,0% B)serviços/comércio acima de 121=1,1% C)industrial até 5.000=0,9% D)todo terreno usa 1,0%.\n6. Sem aceite de obras: A)0,5% B)1,0% C)1,5% D)2,5%.\n7. Art. 186: A)10%/ano B)20%/ano C)30%/ano D)50%/a"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-049",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "texto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199) CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b1",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ART. 188 — NOTIFICAÇÃO DO LANÇAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ART. 188 — NOTIFICAÇÃO DO LANÇAMENTO O lançamento anual do IPTU é notificado ao sujeito passivo mediante apresentação das guias de cobrança, nas quais constam os prazos para pagamento e impugnação. Em caso de omissão ou extravio de guias remetidas, vencido o prazo, cabe ao órgão fazendário apurar os fatos e possibilitar o recolhimento sem ônus ao contribuinte em novo prazo. Pegadinha: extravio da "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b2",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ARTS. 189 A 191 — SITUAÇÃO REAL DO IMÓVEL E ARBITRAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 189 A 191 — SITUAÇÃO REAL DO IMÓVEL E ARBITRAMENTO O lançamento considera a situação do bem imóvel. O art. 190 admite lançamento de ofício por arbitramento da base de cálculo quando houver omissão das informações necessárias à apuração do valor venal ou quando declarações, esclarecimentos e documentos do sujeito passivo não merecerem fé, sem prejuízo das penalidades cabíveis. O art. 191 dete"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b3",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ART. 192 — EM NOME DE QUEM É LANÇADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ART. 192 — EM NOME DE QUEM É LANÇADO O lançamento será feito em nome do proprietário, do titular do domínio útil ou do possuidor a qualquer título. Conexão com art. 177: a tríade reaparece."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b4",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ART. 193 — CONDOMÍNIO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ART. 193 — CONDOMÍNIO Pro indiviso: lançamento em nome de qualquer coproprietário, titular do domínio útil ou possuidor. Pro diviso: em nome de cada condômino, proporcionalmente à sua parte. Proprietário desconhecido: em nome de quem esteja no uso e gozo do imóvel, com ou sem identificação do contribuinte.\nMACETE: INDIVISO = QUALQUER UM; DIVISO = CADA UM NA SUA PARTE."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b5",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ARTS. 194 A 196 — LANÇAMENTOS ADITIVOS/COMPLEMENTARES, IMPUGNAÇÃO E ALTERAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 194 A 196 — LANÇAMENTOS ADITIVOS/COMPLEMENTARES, IMPUGNAÇÃO E ALTERAÇÃO Enquanto não extinto o direito da Fazenda Municipal, podem ser efetuados lançamentos aditivos ou complementares; os complementares, segundo a literalidade do dispositivo, somente quando decorrentes de erro de fato. Havendo impugnação, pode ser emitido novo carnê com os valores da parte não impugnada. Alterações justifica"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b6",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "PEGADINHA: impugnar parte do lançamento não significa que a parcela não impugnada desaparece.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: impugnar parte do lançamento não significa que a parcela não impugnada desaparece."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b7",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ARTS. 197 E 198 — LOTEAMENTO IRREGULAR E AUSÊNCIA DE RECONHECIMENTO DOMINIAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 197 E 198 — LOTEAMENTO IRREGULAR E AUSÊNCIA DE RECONHECIMENTO DOMINIAL Loteamento sem situação regularizada: lançamento em nome do proprietário. O lançamento do IPTU não implica reconhecimento da legitimidade da propriedade, do domínio útil ou da posse. Portanto, LANÇAR IPTU ≠ RECONHECER PROPRIEDADE."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b8",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "ART. 199 — PAGAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "ART. 199 — PAGAMENTO O IPTU pode ser pago de uma vez ou parceladamente, na forma e nos prazos do regulamento. O Prefeito pode, por decreto, conceder desconto de até 60% para pagamento em cota única. Parcelas vincendas só podem ser pagas após as vencidas; pagar uma parcela não presume quitação das anteriores.\nMACETE: COTA ÚNICA = ATÉ 60%; PARCELA POSTERIOR NÃO QUITA ANTERIOR."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b9",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO ESPAÇADA 184 = FI=T×U/C. 185 = faixas de alíquotas. 186 = progressividade de 30% ao ano. 187 = lançamento anual + 1º de janeiro. 190 = arbitramento. 193 = condomínio. 198 = lançamento não reconhece domínio. 199 = pagamento e até 60% em cota única."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-049-b10",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO 1. A notificação do lançamento anual do IPTU ocorre, segundo o art. 188, mediante: A) sentença judicial B) apresentação das guias de cobrança C) auto de apreensão D) edital obrigatório em qualquer caso.\n2. O extravio de guia remetida: A) extingue automaticamente o IPTU B) gera remissão C) pode ensejar, após apuração, novo prazo para recolhimento sem ônus "
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-049-b9",
+      "lessonId": "direito-tributario-aula-049",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+      "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+      "texto": "184 = FI=T×U/C. 185 = faixas de alíquotas. 186 = progressividade de 30% ao ano. 187 = lançamento anual + 1º de janeiro. 190 = arbitramento. 193 = condomínio. 198 = lançamento não reconhece domínio. 199 = pagamento e até 60% em cota única."
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-050",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "texto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206 IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-050-b1",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO: fechar o núcleo material do IPTU antes das infrações e penalidades."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-050-b2",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 200 — ISENÇÕES. Cumpridas as exigências legais: imóvel particular cedido gratuitamente e integralmente para uso exclusivo da União, Estado, Município ou autarquias enquanto durar a cessão; imóvel declarado de utilidade pública para desapropriação a partir do período da imissão de posse/ocupação efetiva; imóvel unifamiliar de aposentado ou pensionista, renda até 2 salários mínimos e sem outro "
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-050-b3",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 201 — IMUNE OU ISENTO TAMBÉM SE INSCREVE. Imóveis da zona urbana, inclusive expansão/urbanizáveis, ainda que isentos ou imunes, devem ser inscritos no Cadastro Imobiliário Fiscal, separadamente por imóvel."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-050-b4",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 202 — inscrição quando surgir unidade ou houver alteração. Prazo: 30 DIAS. Declarações podem ser revistas pelo Fisco a qualquer tempo. Uso misto: inscrição desdobrada para IPTU."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-050-b5",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 203 — inscrição pelo proprietário, titular do domínio útil, representante ou possuidor; também de ofício nas hipóteses legais. Mudança de titularidade: título transcrito + prova de quitação; modificação em 30 DIAS da transcrição."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-050-b6",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 204 — alteração que afete base de cálculo: 30 DIAS. Demolição, desabamento, incêndio ou ruína: 60 DIAS. Para IPTU, alteração cadastral produz efeito no EXERCÍCIO SEGUINTE. Cada unidade autônoma = uma inscrição."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-050-b7",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 205-206 — desmembramento/remembramento: inscrição em 90 DIAS do registro. Imóveis públicos: inscrição pelas repartições de guarda/administração.\nMAPA: 4 EM 4 = comprovação; 30 = regra cadastral; 60 = demolição/desabamento/incêndio/ruína; 90 = desmembramento/remembramento.\nRECUPERAÇÃO: 186 = percentual anual? 193 = pro indiviso/pro diviso? 198 = lançamento reconhece domínio? 199 = desconto má"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-050-b8",
+      "lessonId": "direito-tributario-aula-050",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
+      "slug": "iptu-de-queimados-isencoes-e-cadastro-fiscal-imobiliario-arts-200-a-206",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO 1. Imóvel particular cedido gratuitamente e integralmente para uso exclusivo de ente indicado no art. 200: A) nunca isento B) pode ser isento enquanto durar a cessão, cumpridas exigências C) torna-se imune D) é desapropriado.\n2. Redação consolidada mais recente do inciso III: renda do aposentado/pensionista até A)1 B)2 C)3 D)5 salários mínimos.\n3. Comprov"
     },
     {
       "tipo": "aula",

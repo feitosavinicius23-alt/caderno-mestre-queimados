@@ -1,0 +1,92 @@
+{
+  "id": "direito-tributario-aula-049",
+  "numero": 49,
+  "titulo": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+  "slug": "ctm-de-queimados-iptu-notificacao-do-lancamento-arbitramento-condominio-alteraco",
+  "disciplina": "Direito Tributário",
+  "assunto": "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
+  "ordem": 49,
+  "data": "2026-10-01",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-049-b1",
+      "tipo": "teoria",
+      "titulo": "ART. 188 — NOTIFICAÇÃO DO LANÇAMENTO",
+      "texto": "O lançamento anual do IPTU é notificado ao sujeito passivo mediante apresentação das guias de cobrança, nas quais constam os prazos para pagamento e impugnação. Em caso de omissão ou extravio de guias remetidas, vencido o prazo, cabe ao órgão fazendário apurar os fatos e possibilitar o recolhimento sem ônus ao contribuinte em novo prazo. Pegadinha: extravio da guia não autoriza presumir remissão nem extingue automaticamente o crédito."
+    },
+    {
+      "id": "direito-tributario-aula-049-b2",
+      "tipo": "teoria",
+      "titulo": "ARTS. 189 A 191 — SITUAÇÃO REAL DO IMÓVEL E ARBITRAMENTO",
+      "texto": "O lançamento considera a situação do bem imóvel. O art. 190 admite lançamento de ofício por arbitramento da base de cálculo quando houver omissão das informações necessárias à apuração do valor venal ou quando declarações, esclarecimentos e documentos do sujeito passivo não merecerem fé, sem prejuízo das penalidades cabíveis. O art. 191 determina que o lançamento de ofício utilize os elementos disponíveis à Administração, com arbitramento dos dados físicos do imóvel quando necessário.\nREGRA: FALTA DE INFORMAÇÃO OU INFORMAÇÃO SEM FÉ → ARBITRAMENTO; arbitramento não significa punição e não impede penalidade cabível."
+    },
+    {
+      "id": "direito-tributario-aula-049-b3",
+      "tipo": "teoria",
+      "titulo": "ART. 192 — EM NOME DE QUEM É LANÇADO",
+      "texto": "O lançamento será feito em nome do proprietário, do titular do domínio útil ou do possuidor a qualquer título. Conexão com art. 177: a tríade reaparece."
+    },
+    {
+      "id": "direito-tributario-aula-049-b4",
+      "tipo": "teoria",
+      "titulo": "ART. 193 — CONDOMÍNIO",
+      "texto": "Pro indiviso: lançamento em nome de qualquer coproprietário, titular do domínio útil ou possuidor. Pro diviso: em nome de cada condômino, proporcionalmente à sua parte. Proprietário desconhecido: em nome de quem esteja no uso e gozo do imóvel, com ou sem identificação do contribuinte.\nMACETE: INDIVISO = QUALQUER UM; DIVISO = CADA UM NA SUA PARTE."
+    },
+    {
+      "id": "direito-tributario-aula-049-b5",
+      "tipo": "teoria",
+      "titulo": "ARTS. 194 A 196 — LANÇAMENTOS ADITIVOS/COMPLEMENTARES, IMPUGNAÇÃO E ALTERAÇÃO",
+      "texto": "Enquanto não extinto o direito da Fazenda Municipal, podem ser efetuados lançamentos aditivos ou complementares; os complementares, segundo a literalidade do dispositivo, somente quando decorrentes de erro de fato. Havendo impugnação, pode ser emitido novo carnê com os valores da parte não impugnada. Alterações justificadas por ato ou fato são feitas no curso do exercício mediante processo e despacho da autoridade competente."
+    },
+    {
+      "id": "direito-tributario-aula-049-b6",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: impugnar parte do lançamento não significa que a parcela não impugnada desaparece.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-049-b7",
+      "tipo": "teoria",
+      "titulo": "ARTS. 197 E 198 — LOTEAMENTO IRREGULAR E AUSÊNCIA DE RECONHECIMENTO DOMINIAL",
+      "texto": "Loteamento sem situação regularizada: lançamento em nome do proprietário. O lançamento do IPTU não implica reconhecimento da legitimidade da propriedade, do domínio útil ou da posse. Portanto, LANÇAR IPTU ≠ RECONHECER PROPRIEDADE."
+    },
+    {
+      "id": "direito-tributario-aula-049-b8",
+      "tipo": "teoria",
+      "titulo": "ART. 199 — PAGAMENTO",
+      "texto": "O IPTU pode ser pago de uma vez ou parceladamente, na forma e nos prazos do regulamento. O Prefeito pode, por decreto, conceder desconto de até 60% para pagamento em cota única. Parcelas vincendas só podem ser pagas após as vencidas; pagar uma parcela não presume quitação das anteriores.\nMACETE: COTA ÚNICA = ATÉ 60%; PARCELA POSTERIOR NÃO QUITA ANTERIOR."
+    },
+    {
+      "id": "direito-tributario-aula-049-b9",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "184 = FI=T×U/C. 185 = faixas de alíquotas. 186 = progressividade de 30% ao ano. 187 = lançamento anual + 1º de janeiro. 190 = arbitramento. 193 = condomínio. 198 = lançamento não reconhece domínio. 199 = pagamento e até 60% em cota única."
+    },
+    {
+      "id": "direito-tributario-aula-049-b10",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO",
+      "texto": "1. A notificação do lançamento anual do IPTU ocorre, segundo o art. 188, mediante: A) sentença judicial B) apresentação das guias de cobrança C) auto de apreensão D) edital obrigatório em qualquer caso.\n2. O extravio de guia remetida: A) extingue automaticamente o IPTU B) gera remissão C) pode ensejar, após apuração, novo prazo para recolhimento sem ônus D) transforma IPTU em taxa.\n3. O arbitramento da base de cálculo pode ocorrer quando: A) sempre houver pagamento em cota única B) faltarem informações para apurar o valor venal ou os elementos fornecidos não merecerem fé C) o contribuinte pedir parcelamento D) existir habite-se.\n4. O arbitramento: A) impede qualquer penalidade B) pode coexistir com penalidades cabíveis C) equivale à isenção D) depende sempre de decisão judicial.\n5. O lançamento pode ser feito em nome: A) apenas do proprietário registral B) do proprietário, titular do domínio útil ou possuidor a qualquer título C) somente do possuidor D) apenas do locatário.\n6. Em condomínio pro indiviso, o lançamento pode ser feito: A) em nome de qualquer coproprietário nas condições legais B) obrigatoriamente em nome de todos simultaneamente C) apenas em nome do Município D) somente após divisão judicial.\n7. Em condomínio pro diviso: A) um condômino responde necessariamente por tudo no lançamento B) o lançamento é feito em nome de cada condômino na proporção de sua parte C) não há IPTU D) lança-se apenas no nome do ocupante mais antigo.\n8. É INCORRETO afirmar: A) a parte não impugnada pode constar de novo carnê B) alterações podem exigir processo e despacho competente C) o lançamento reconhece definitivamente a legitimidade da propriedade D) loteamento irregular pode ser lançado em nome do proprietário.\n9. O lançamento do IPTU: A) reconhece a propriedade B) não implica reconhecimento da legitimidade da propriedade, domínio útil ou posse C) substitui registro imobiliário D) cria domínio útil.\n10. Pagamento em cota única pode receber desconto: A) necessariamente de 60% B) de até 60%, mediante decreto do Prefeito C) somente de 10% D) sem necessidade de ato.\n11. Pagar uma parcela do IPTU: A) presume quitadas todas as anteriores B) não presume quitação das anteriores C) extingue parcelas futuras D) gera imunidade.\n12. Recuperação: a progressividade do art. 186 estudada é de: A)10% B)20% C)30% D)60% ao ano.\n\nREGRA DE RETENÇÃO: 188=GUIA/NOTIFICAÇÃO; 190=ARBITRAMENTO; 192=PROPRIETÁRIO/DOMÍNIO ÚTIL/POSSE; 193=INDIVISO QUALQUER UM, DIVISO CADA UM; 198=LANÇAR NÃO RECONHECE DOMÍNIO; 199=COTA ÚNICA ATÉ 60%.\nSTATUS: IPTU EM APRENDIZAGEM/RETENÇÃO. Procedimento fiscal municipal EM RETENÇÃO. Não considerar dominado sem desempenho posterior em questões misturadas"
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-049-b9",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "184 = FI=T×U/C. 185 = faixas de alíquotas. 186 = progressividade de 30% ao ano. 187 = lançamento anual + 1º de janeiro. 190 = arbitramento. 193 = condomínio. 198 = lançamento não reconhece domínio. 199 = pagamento e até 60% em cota única."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-01",
+  "contentHash": "0548309308cce3fd"
+}
