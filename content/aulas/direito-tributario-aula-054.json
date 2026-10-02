@@ -1,0 +1,122 @@
+{
+  "id": "direito-tributario-aula-054",
+  "numero": 54,
+  "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+  "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+  "disciplina": "Direito Tributário",
+  "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+  "ordem": 54,
+  "data": "2026-10-02",
+  "tempoEstimadoMin": 3,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-054-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "OBJETIVO: fechar a primeira volta do ITBI, dominando obrigações documentais e as penalidades 20%/10%/200%, com recuperação intercalada de IPTU e ITBI."
+    },
+    {
+      "id": "direito-tributario-aula-054-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.221 — O sujeito passivo é obrigado a apresentar à Secretaria de Economia e Finanças os documentos e informações necessários ao lançamento do ITBI, conforme regulamento. REGRA: ITBI não é apenas pagar; há obrigação acessória documental."
+    },
+    {
+      "id": "direito-tributario-aula-054-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.222 — Tabeliães e escrivães não podem lavrar instrumentos, escrituras ou termos judiciais sem que o imposto devido tenha sido pago e sem observar a situação dos tributos municipais do imóvel nos termos literais do Código. O parágrafo único remete o descumprimento à multa prevista no art.227. PEGADINHA: cartório não é mero espectador; possui deveres expressos."
+    },
+    {
+      "id": "direito-tributario-aula-054-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.223 — Tabeliães e escrivães devem transcrever a guia de recolhimento do imposto nos instrumentos, escrituras ou termos judiciais que lavrarem. MACETE: 222 = NÃO LAVRA sem requisitos; 223 = LAVROU, TRANSCRITA A GUIA."
+    },
+    {
+      "id": "direito-tributario-aula-054-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.224 — Quem adquirir bem ou direito cuja transmissão constitua ou possa constituir fato gerador deve apresentar o título à repartição fiscalizadora em 90 DIAS, contados da lavratura da escritura, carta de adjudicação/arrematação ou outro título representativo da transferência. MACETE: TÍTULO DO ITBI = 90 DIAS."
+    },
+    {
+      "id": "direito-tributario-aula-054-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.225 — ATENÇÃO À REDAÇÃO CONSOLIDADA: a redação mais recente, dada pela LC 062/2012, prevê multa de 20% SOBRE O VALOR DO IMPOSTO ao adquirente que não apresentar o título à Divisão de Cadastro Imobiliário no prazo legal. O consolidado também reproduz redação histórica anterior de 10% (LC 005/07); para literalidade atual, prevalece a redação mais recente exibida: 20%. REGRA: NÃO APRESENTOU TÍTULO = 20%."
+    },
+    {
+      "id": "direito-tributario-aula-054-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.226 — Não pagamento do ITBI nos prazos do Código: multa de 10% SOBRE O VALOR DO IMPOSTO DEVIDO, independentemente dos acréscimos moratórios e atualização. REGRA: NÃO PAGOU = 10%."
+    },
+    {
+      "id": "direito-tributario-aula-054-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.227 — Omissão ou inexatidão FRAUDULENTA de declaração sobre elementos capazes de influir no cálculo do ITBI: multa de 200% SOBRE O VALOR DO IMPOSTO SONEGADO, atualizado pelos índices oficiais vigentes. Igual multa alcança qualquer pessoa que intervenha no negócio jurídico ou declaração e seja conivente ou auxiliar na inexatidão/omissão. REGRA: FRAUDE = 200%. Não confundir com art.225 (20%) nem art.226 (10%)."
+    },
+    {
+      "id": "direito-tributario-aula-054-b9",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "MAPA NUMÉRICO: 224 = 90 DIAS; 225 = 20% por título não apresentado; 226 = 10% por não pagamento; 227 = 200% por fraude. Escada mental: 90 / 20 / 10 / 200.\nRECUPERAÇÃO ESPAÇADA: art.211 contribuinte = adquirente/cessionário; art.212 solidariedade = transmitente/cedente e serventuário nas condições legais; art.213 base = valor pactuado ou venal, se maior; art.214 = 0,5% na parcela financiada pelo SFH e 2% nas demais transmissões; art.215 = regra até o fato translativo, com exceções de 30 dias; IPTU art.207 = 30% omissão cadastral, 100% dolo/falsidade, 130,1600 UFIR construção clandestina, aquisição não comunicada 60 dias + 20%, atraso 10% + juros de 1% ao mês."
+    },
+    {
+      "id": "direito-tributario-aula-054-b10",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:",
+      "texto": "1. Art.221 obriga o sujeito passivo a: A apenas pagar B apresentar documentos/informações necessários ao lançamento C registrar empresa D pedir isenção.\n2. Tabeliães/escrivães, art.223: A dispensam guia B transcrevem guia nos atos que lavrarem C fixam alíquota D arbitram valor venal.\n3. Prazo do art.224: A30 B60 C90 D120 dias.\n4. Redação mais recente do art.225: A10% B20% C100% D200%.\n5. Art.226, não pagamento: A5% B10% C20% D200%.\n6. Art.227, omissão/inexatidão fraudulenta: A10% B20% C100% D200% do imposto sonegado.\n7. A multa do art.227 pode alcançar: A apenas adquirente B pessoa interveniente conivente/auxiliar C apenas Prefeito D apenas corretor, sempre.\n8. É INCORRETO: A art.224=90 dias B art.225=20% na redação mais recente C art.226=10% D art.227=20% por fraude.\n9. EXCETO: A 221 documentos/informações B 223 transcrição da guia C 224 título em 90 dias D 226 isenção por atraso.\n10. Recuperação: base geral ITBI: A sempre preço B pactuado ou venal se maior C valor contábil D IPTU.\n11. Recuperação: SFH, parcela financiada: A0,5% B1% C2% D5%.\n12. Recuperação IPTU: aquisição não comunicada: A30+30 B60 dias+20% C90+10 D60+100.\n\nREGRA DE RETENÇÃO: 221 DOCUMENTOS; 222 CARTÓRIO NÃO LAVRA SEM REQUISITOS; 223 TRANSCRITA A GUIA; 224=90 DIAS; 225=20%; 226=10%; 227=200% FRAUDE. STATUS: ITBI conclui a PRIMEIRA VOLTA e passa para RETENÇÃO, ainda não DOMINADO. Próximo avanço: ISSQN a partir do art.228, mantendo ITBI/IPTU em recuperação intercalada."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-054-b2",
+      "titulo": "",
+      "texto": "ART.221 — O sujeito passivo é obrigado a apresentar à Secretaria de Economia e Finanças os documentos e informações necessários ao lançamento do ITBI, conforme regulamento. REGRA: ITBI não é apenas pagar; há obrigação acessória documental."
+    },
+    {
+      "id": "direito-tributario-aula-054-b3",
+      "titulo": "",
+      "texto": "ART.222 — Tabeliães e escrivães não podem lavrar instrumentos, escrituras ou termos judiciais sem que o imposto devido tenha sido pago e sem observar a situação dos tributos municipais do imóvel nos termos literais do Código. O parágrafo único remete o descumprimento à multa prevista no art.227. PEGADINHA: cartório não é mero espectador; possui deveres expressos."
+    },
+    {
+      "id": "direito-tributario-aula-054-b4",
+      "titulo": "",
+      "texto": "ART.223 — Tabeliães e escrivães devem transcrever a guia de recolhimento do imposto nos instrumentos, escrituras ou termos judiciais que lavrarem. MACETE: 222 = NÃO LAVRA sem requisitos; 223 = LAVROU, TRANSCRITA A GUIA."
+    },
+    {
+      "id": "direito-tributario-aula-054-b5",
+      "titulo": "",
+      "texto": "ART.224 — Quem adquirir bem ou direito cuja transmissão constitua ou possa constituir fato gerador deve apresentar o título à repartição fiscalizadora em 90 DIAS, contados da lavratura da escritura, carta de adjudicação/arrematação ou outro título representativo da transferência. MACETE: TÍTULO DO ITBI = 90 DIAS."
+    },
+    {
+      "id": "direito-tributario-aula-054-b6",
+      "titulo": "",
+      "texto": "ART.225 — ATENÇÃO À REDAÇÃO CONSOLIDADA: a redação mais recente, dada pela LC 062/2012, prevê multa de 20% SOBRE O VALOR DO IMPOSTO ao adquirente que não apresentar o título à Divisão de Cadastro Imobiliário no prazo legal. O consolidado também reproduz redação histórica anterior de 10% (LC 005/07); para literalidade atual, prevalece a redação mais recente exibida: 20%. REGRA: NÃO APRESENTOU TÍTULO = 20%."
+    },
+    {
+      "id": "direito-tributario-aula-054-b7",
+      "titulo": "",
+      "texto": "ART.226 — Não pagamento do ITBI nos prazos do Código: multa de 10% SOBRE O VALOR DO IMPOSTO DEVIDO, independentemente dos acréscimos moratórios e atualização. REGRA: NÃO PAGOU = 10%."
+    },
+    {
+      "id": "direito-tributario-aula-054-b8",
+      "titulo": "",
+      "texto": "ART.227 — Omissão ou inexatidão FRAUDULENTA de declaração sobre elementos capazes de influir no cálculo do ITBI: multa de 200% SOBRE O VALOR DO IMPOSTO SONEGADO, atualizado pelos índices oficiais vigentes. Igual multa alcança qualquer pessoa que intervenha no negócio jurídico ou declaração e seja conivente ou auxiliar na inexatidão/omissão. REGRA: FRAUDE = 200%. Não confundir com art.225 (20%) nem art.226 (10%)."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-02",
+  "contentHash": "4583788e93604557"
+}

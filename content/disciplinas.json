@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 40,
+    "totalAulas": 41,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 161,
+    "tempoEstimadoMin": 164,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -45,7 +45,8 @@
       "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
       "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
       "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
-      "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220"
+      "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+      "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227"
     ],
     "aulas": [
       {
@@ -287,6 +288,12 @@
         "numero": 53,
         "titulo": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
         "slug": "itbi-de-queimados-base-de-calculo-aliquotas-arrecadacao-e-isencoes-arts-213-a-22"
+      },
+      {
+        "id": "direito-tributario-aula-054",
+        "numero": 54,
+        "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+        "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221"
       }
     ]
   },

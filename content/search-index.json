@@ -1,7 +1,7 @@
 {
-  "contentVersion": 21,
-  "geradoEm": "2026-10-02T16:18:15.301Z",
-  "total": 1041,
+  "contentVersion": 22,
+  "geradoEm": "2026-10-02T19:14:58.514Z",
+  "total": 1052,
   "documentos": [
     {
       "tipo": "aula",
@@ -9805,6 +9805,126 @@
       "slug": "itbi-de-queimados-base-de-calculo-aliquotas-arrecadacao-e-isencoes-arts-213-a-22",
       "blocoTipo": "teoria",
       "texto": "RECUPERAÇÃO: 208 inter vivos+oneroso; 210 não incidência; 211 adquirente/cessionário; 212 solidariedade; IPTU 207=30/100/130,1600 UFIR/60+20/10+1% mês.\nTESTE CUMULATIVO — SEM GABARITO: 1 base geral? A preço sempre B pactuado ou venal se maior C IPTU D contábil. 2 dívida do imóvel? A abate B não abate C zera D imuniza. 3 tornas: A todo patrimônio B excesso fração ideal C 30% D IPTU. 4 fideicomisso:"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-054",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "texto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227 ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-054-b1",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO: fechar a primeira volta do ITBI, dominando obrigações documentais e as penalidades 20%/10%/200%, com recuperação intercalada de IPTU e ITBI."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b2",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.221 — O sujeito passivo é obrigado a apresentar à Secretaria de Economia e Finanças os documentos e informações necessários ao lançamento do ITBI, conforme regulamento. REGRA: ITBI não é apenas pagar; há obrigação acessória documental."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b3",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.222 — Tabeliães e escrivães não podem lavrar instrumentos, escrituras ou termos judiciais sem que o imposto devido tenha sido pago e sem observar a situação dos tributos municipais do imóvel nos termos literais do Código. O parágrafo único remete o descumprimento à multa prevista no art.227. PEGADINHA: cartório não é mero espectador; possui deveres expressos."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b4",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.223 — Tabeliães e escrivães devem transcrever a guia de recolhimento do imposto nos instrumentos, escrituras ou termos judiciais que lavrarem. MACETE: 222 = NÃO LAVRA sem requisitos; 223 = LAVROU, TRANSCRITA A GUIA."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b5",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.224 — Quem adquirir bem ou direito cuja transmissão constitua ou possa constituir fato gerador deve apresentar o título à repartição fiscalizadora em 90 DIAS, contados da lavratura da escritura, carta de adjudicação/arrematação ou outro título representativo da transferência. MACETE: TÍTULO DO ITBI = 90 DIAS."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b6",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.225 — ATENÇÃO À REDAÇÃO CONSOLIDADA: a redação mais recente, dada pela LC 062/2012, prevê multa de 20% SOBRE O VALOR DO IMPOSTO ao adquirente que não apresentar o título à Divisão de Cadastro Imobiliário no prazo legal. O consolidado também reproduz redação histórica anterior de 10% (LC 005/07); para literalidade atual, prevalece a redação mais recente exibida: 20%. REGRA: NÃO APRESENTOU TÍTUL"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b7",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.226 — Não pagamento do ITBI nos prazos do Código: multa de 10% SOBRE O VALOR DO IMPOSTO DEVIDO, independentemente dos acréscimos moratórios e atualização. REGRA: NÃO PAGOU = 10%."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-054-b8",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.227 — Omissão ou inexatidão FRAUDULENTA de declaração sobre elementos capazes de influir no cálculo do ITBI: multa de 200% SOBRE O VALOR DO IMPOSTO SONEGADO, atualizado pelos índices oficiais vigentes. Igual multa alcança qualquer pessoa que intervenha no negócio jurídico ou declaração e seja conivente ou auxiliar na inexatidão/omissão. REGRA: FRAUDE = 200%. Não confundir com art.225 (20%) nem"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-054-b9",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "teoria",
+      "texto": "MAPA NUMÉRICO: 224 = 90 DIAS; 225 = 20% por título não apresentado; 226 = 10% por não pagamento; 227 = 200% por fraude. Escada mental: 90 / 20 / 10 / 200.\nRECUPERAÇÃO ESPAÇADA: art.211 contribuinte = adquirente/cessionário; art.212 solidariedade = transmitente/cedente e serventuário nas condições legais; art.213 base = valor pactuado ou venal, se maior; art.214 = 0,5% na parcela financiada pelo SF"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-054-b10",
+      "lessonId": "direito-tributario-aula-054",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO: 1. Art.221 obriga o sujeito passivo a: A apenas pagar B apresentar documentos/informações necessários ao lançamento C registrar empresa D pedir isenção.\n2. Tabeliães/escrivães, art.223: A dispensam guia B transcrevem guia nos atos que lavrarem C fixam alíquota D arbitram valor venal.\n3. Prazo do art.224: A30 B60 C90 D120 dias.\n4. Redação mais recente do "
     },
     {
       "tipo": "aula",

@@ -9220,3 +9220,50 @@ ART.220: isenções: planos habitacionais de baixa renda nas condições legais;
 RECUPERAÇÃO: 208 inter vivos+oneroso; 210 não incidência; 211 adquirente/cessionário; 212 solidariedade; IPTU 207=30/100/130,1600 UFIR/60+20/10+1% mês.
 TESTE CUMULATIVO — SEM GABARITO: 1 base geral? A preço sempre B pactuado ou venal se maior C IPTU D contábil. 2 dívida do imóvel? A abate B não abate C zera D imuniza. 3 tornas: A todo patrimônio B excesso fração ideal C 30% D IPTU. 4 fideicomisso: A30 B40 C70 D100. 5 direito real de uso: A30 B40 C70 D90. 6 SFH parcela financiada: A0,5 B1 C2 D5. 7 demais transmissões: A0,5 B1 C2 D10. 8 arrematação/adjudicação: A10 B15 C30 D90 dias. 9 redução após antecipação: A restitui B não restitui diferença C anula D imuniza. 10 CORRETA: A arrependimento sempre restitui B anulação judicial definitiva pode restituir C retrovenda sempre restitui D guia cartório. 11 guia: A Secretaria Economia e Finanças B Câmara C cartório D Judiciário. 12 EXCETO isenção art.220: A plano baixa renda B alienante Poder Público C reforma agrária D toda compra entre particulares.
 REGRA: 213=MAIOR NEGÓCIO/VENAL + 70/30/40/70; 214=0,5% SFH FINANCIADO/2% DEMAIS; 215=ATÉ FATO + EXCEÇÕES 30 DIAS; 216=ANTECIPAÇÃO; 217/218=NÃO RESTITUI×RESTITUI; 220=ISENÇÕES. STATUS: ITBI EM APRENDIZAGEM. Próximo: arts.221-227.
+AULA 54 — ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227
+OBJETIVO: fechar a primeira volta do ITBI, dominando obrigações documentais e as penalidades 20%/10%/200%, com recuperação intercalada de IPTU e ITBI.
+
+
+ART.221 — O sujeito passivo é obrigado a apresentar à Secretaria de Economia e Finanças os documentos e informações necessários ao lançamento do ITBI, conforme regulamento. REGRA: ITBI não é apenas pagar; há obrigação acessória documental.
+
+
+ART.222 — Tabeliães e escrivães não podem lavrar instrumentos, escrituras ou termos judiciais sem que o imposto devido tenha sido pago e sem observar a situação dos tributos municipais do imóvel nos termos literais do Código. O parágrafo único remete o descumprimento à multa prevista no art.227. PEGADINHA: cartório não é mero espectador; possui deveres expressos.
+
+
+ART.223 — Tabeliães e escrivães devem transcrever a guia de recolhimento do imposto nos instrumentos, escrituras ou termos judiciais que lavrarem. MACETE: 222 = NÃO LAVRA sem requisitos; 223 = LAVROU, TRANSCRITA A GUIA.
+
+
+ART.224 — Quem adquirir bem ou direito cuja transmissão constitua ou possa constituir fato gerador deve apresentar o título à repartição fiscalizadora em 90 DIAS, contados da lavratura da escritura, carta de adjudicação/arrematação ou outro título representativo da transferência. MACETE: TÍTULO DO ITBI = 90 DIAS.
+
+
+ART.225 — ATENÇÃO À REDAÇÃO CONSOLIDADA: a redação mais recente, dada pela LC 062/2012, prevê multa de 20% SOBRE O VALOR DO IMPOSTO ao adquirente que não apresentar o título à Divisão de Cadastro Imobiliário no prazo legal. O consolidado também reproduz redação histórica anterior de 10% (LC 005/07); para literalidade atual, prevalece a redação mais recente exibida: 20%. REGRA: NÃO APRESENTOU TÍTULO = 20%.
+
+
+ART.226 — Não pagamento do ITBI nos prazos do Código: multa de 10% SOBRE O VALOR DO IMPOSTO DEVIDO, independentemente dos acréscimos moratórios e atualização. REGRA: NÃO PAGOU = 10%.
+
+
+ART.227 — Omissão ou inexatidão FRAUDULENTA de declaração sobre elementos capazes de influir no cálculo do ITBI: multa de 200% SOBRE O VALOR DO IMPOSTO SONEGADO, atualizado pelos índices oficiais vigentes. Igual multa alcança qualquer pessoa que intervenha no negócio jurídico ou declaração e seja conivente ou auxiliar na inexatidão/omissão. REGRA: FRAUDE = 200%. Não confundir com art.225 (20%) nem art.226 (10%).
+
+
+MAPA NUMÉRICO: 224 = 90 DIAS; 225 = 20% por título não apresentado; 226 = 10% por não pagamento; 227 = 200% por fraude. Escada mental: 90 / 20 / 10 / 200.
+
+
+RECUPERAÇÃO ESPAÇADA: art.211 contribuinte = adquirente/cessionário; art.212 solidariedade = transmitente/cedente e serventuário nas condições legais; art.213 base = valor pactuado ou venal, se maior; art.214 = 0,5% na parcela financiada pelo SFH e 2% nas demais transmissões; art.215 = regra até o fato translativo, com exceções de 30 dias; IPTU art.207 = 30% omissão cadastral, 100% dolo/falsidade, 130,1600 UFIR construção clandestina, aquisição não comunicada 60 dias + 20%, atraso 10% + juros de 1% ao mês.
+
+
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:
+1. Art.221 obriga o sujeito passivo a: A apenas pagar B apresentar documentos/informações necessários ao lançamento C registrar empresa D pedir isenção.
+2. Tabeliães/escrivães, art.223: A dispensam guia B transcrevem guia nos atos que lavrarem C fixam alíquota D arbitram valor venal.
+3. Prazo do art.224: A30 B60 C90 D120 dias.
+4. Redação mais recente do art.225: A10% B20% C100% D200%.
+5. Art.226, não pagamento: A5% B10% C20% D200%.
+6. Art.227, omissão/inexatidão fraudulenta: A10% B20% C100% D200% do imposto sonegado.
+7. A multa do art.227 pode alcançar: A apenas adquirente B pessoa interveniente conivente/auxiliar C apenas Prefeito D apenas corretor, sempre.
+8. É INCORRETO: A art.224=90 dias B art.225=20% na redação mais recente C art.226=10% D art.227=20% por fraude.
+9. EXCETO: A 221 documentos/informações B 223 transcrição da guia C 224 título em 90 dias D 226 isenção por atraso.
+10. Recuperação: base geral ITBI: A sempre preço B pactuado ou venal se maior C valor contábil D IPTU.
+11. Recuperação: SFH, parcela financiada: A0,5% B1% C2% D5%.
+12. Recuperação IPTU: aquisição não comunicada: A30+30 B60 dias+20% C90+10 D60+100.
+
+
+REGRA DE RETENÇÃO: 221 DOCUMENTOS; 222 CARTÓRIO NÃO LAVRA SEM REQUISITOS; 223 TRANSCRITA A GUIA; 224=90 DIAS; 225=20%; 226=10%; 227=200% FRAUDE. STATUS: ITBI conclui a PRIMEIRA VOLTA e passa para RETENÇÃO, ainda não DOMINADO. Próximo avanço: ISSQN a partir do art.228, mantendo ITBI/IPTU em recuperação intercalada.
