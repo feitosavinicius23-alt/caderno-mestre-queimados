@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 20,
+  "contentVersion": 21,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-02T01:39:32.063Z",
-  "contentHashGlobal": "8586b9363889f0f9",
-  "totalAulas": 51,
+  "ultimaSincronizacao": "2026-10-02T16:18:15.301Z",
+  "contentHashGlobal": "12b8f8a9b2463c90",
+  "totalAulas": 53,
   "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
@@ -461,6 +461,30 @@
       "assunto": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
       "arquivo": "aulas/direito-tributario-aula-051.json",
       "hash": "097993120549a826",
+      "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-02"
+    },
+    {
+      "id": "direito-tributario-aula-052",
+      "numero": 52,
+      "titulo": "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+      "slug": "itbi-de-queimados-incidencia-mutacoes-nao-incidencia-e-responsabilidade-arts-208",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+      "arquivo": "aulas/direito-tributario-aula-052.json",
+      "hash": "403708c34797630c",
+      "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-02"
+    },
+    {
+      "id": "direito-tributario-aula-053",
+      "numero": 53,
+      "titulo": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+      "slug": "itbi-de-queimados-base-de-calculo-aliquotas-arrecadacao-e-isencoes-arts-213-a-22",
+      "disciplina": "Direito Tributário",
+      "assunto": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+      "arquivo": "aulas/direito-tributario-aula-053.json",
+      "hash": "9d4c37aa8bb9c1e8",
       "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-02"
     },

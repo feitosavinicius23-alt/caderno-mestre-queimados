@@ -1,0 +1,94 @@
+{
+  "id": "direito-tributario-aula-052",
+  "numero": 52,
+  "titulo": "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+  "slug": "itbi-de-queimados-incidencia-mutacoes-nao-incidencia-e-responsabilidade-arts-208",
+  "disciplina": "Direito Tributário",
+  "assunto": "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+  "ordem": 52,
+  "data": "2026-10-02",
+  "tempoEstimadoMin": 1,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-052-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "OBJETIVO: iniciar o ITBI dominando incidência, mutações, não incidência e sujeito passivo."
+    },
+    {
+      "id": "direito-tributario-aula-052-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.208: transmissão inter vivos e onerosa da propriedade/domínio útil; direitos reais sobre imóveis, EXCETO garantia; cessão onerosa dos direitos. MACETE: INTER VIVOS + ONEROSO + EXCETO GARANTIA."
+    },
+    {
+      "id": "direito-tributario-aula-052-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.209: compra e venda; dação; permuta; arrematação/adjudicação; remição; incorporações ressalvadas; transferências societárias; tornas/reposições; mandato em causa própria; fideicomisso; enfiteuse/subenfiteuse; rendas sobre imóvel; concessão real de uso; cessão onerosa de usufruto; cessões ao usucapião, de arrematante/adjudicante, de promessa; acessão física indenizada; demais atos onerosos abrangidos. Novo imposto: prelação, pacto de melhor comprador, retrovenda e retrocessão."
+    },
+    {
+      "id": "direito-tributario-aula-052-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.210: não incidência nas hipóteses legais para entes públicos/autarquias/fundações; partido, templo, educação/assistência; realização de capital; fusão/incorporação/cisão/extinção; desapropriação/retorno; extinção de usufruto; comunicação conjugal; indenização de benfeitorias. Exceção societária: atividade preponderante; MAIS DE 50% da receita operacional nos 2 anos seguintes nas atividades indicadas."
+    },
+    {
+      "id": "direito-tributario-aula-052-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.211: contribuinte = adquirente ou cessionário."
+    },
+    {
+      "id": "direito-tributario-aula-052-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.212: sem pagamento, solidariedade do transmitente/cedente e serventuário do cartório nas condições legais."
+    },
+    {
+      "id": "direito-tributario-aula-052-b7",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "TESTE SEM GABARITO: 1 núcleo ITBI? A gratuita B inter vivos onerosa C causa mortis D locação. 2 exceção direito real? A usufruto B garantia C domínio útil D posse. 3 mutação? A compra e venda B locação C empréstimo D serviço. 4 contribuinte? A transmitente B adquirente/cessionário C serventuário D Município. 5 INCORRETA: A garantia excepcionada B cessão onerosa pode incidir C causa mortis é núcleo ITBI municipal D compra e venda art.209. 6 sem pagamento pode haver solidariedade de: A só adquirente B transmitente/cedente e serventuário C Prefeito D corretor.\nREGRA: 208=INCIDÊNCIA;209=MUTAÇÕES;210=NÃO INCIDÊNCIA;211=ADQUIRENTE/CESSIONÁRIO;212=SOLIDARIEDADE. STATUS: ITBI EM APRENDIZAGEM."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-052-b2",
+      "titulo": "",
+      "texto": "ART.208: transmissão inter vivos e onerosa da propriedade/domínio útil; direitos reais sobre imóveis, EXCETO garantia; cessão onerosa dos direitos. MACETE: INTER VIVOS + ONEROSO + EXCETO GARANTIA."
+    },
+    {
+      "id": "direito-tributario-aula-052-b3",
+      "titulo": "",
+      "texto": "ART.209: compra e venda; dação; permuta; arrematação/adjudicação; remição; incorporações ressalvadas; transferências societárias; tornas/reposições; mandato em causa própria; fideicomisso; enfiteuse/subenfiteuse; rendas sobre imóvel; concessão real de uso; cessão onerosa de usufruto; cessões ao usucapião, de arrematante/adjudicante, de promessa; acessão física indenizada; demais atos onerosos abrangidos. Novo imposto: prelação, pacto de melhor comprador, retrovenda e retrocessão."
+    },
+    {
+      "id": "direito-tributario-aula-052-b4",
+      "titulo": "",
+      "texto": "ART.210: não incidência nas hipóteses legais para entes públicos/autarquias/fundações; partido, templo, educação/assistência; realização de capital; fusão/incorporação/cisão/extinção; desapropriação/retorno; extinção de usufruto; comunicação conjugal; indenização de benfeitorias. Exceção societária: atividade preponderante; MAIS DE 50% da receita operacional nos 2 anos seguintes nas atividades indicadas."
+    },
+    {
+      "id": "direito-tributario-aula-052-b5",
+      "titulo": "",
+      "texto": "ART.211: contribuinte = adquirente ou cessionário."
+    },
+    {
+      "id": "direito-tributario-aula-052-b6",
+      "titulo": "",
+      "texto": "ART.212: sem pagamento, solidariedade do transmitente/cedente e serventuário do cartório nas condições legais."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-02",
+  "contentHash": "403708c34797630c"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "direito-tributario-aula-053",
+  "numero": 53,
+  "titulo": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+  "slug": "itbi-de-queimados-base-de-calculo-aliquotas-arrecadacao-e-isencoes-arts-213-a-22",
+  "disciplina": "Direito Tributário",
+  "assunto": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+  "ordem": 53,
+  "data": "2026-10-02",
+  "tempoEstimadoMin": 2,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-053-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "OBJETIVO: dominar regras numéricas e cálculo/pagamento do ITBI."
+    },
+    {
+      "id": "direito-tributario-aula-053-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.213: base = valor pactuado OU, se maior, valor venal; valor venal é valor corrente de mercado; dívidas do imóvel não são abatidas. Arrematação/leilão/adjudicação: avaliação judicial/administrativa ou preço pago, se maior. Tornas/reposições: excesso da fração ideal. Fideicomisso: negócio ou 70% do venal, se maior. Rendas sobre imóvel: negócio ou 30%. Concessão de direito real de uso: negócio ou 40%. Cessão de usufruto: negócio ou 70%. Acessão física: indenização ou venal da fração/acréscimo, se maior. Impugnação do valor: repartição que calculou + laudo técnico. MACETE: 70/30/40/70."
+    },
+    {
+      "id": "direito-tributario-aula-053-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.214: SFH, parcela financiada = 0,5%; demais transmissões = 2%."
+    },
+    {
+      "id": "direito-tributario-aula-053-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.215: regra, pagamento até a data do fato translativo. PJ↔sócios/sucessores: 30 dias da assembleia/escritura. Arrematação/adjudicação: 30 dias do auto/deferimento, mesmo com recurso pendente. Acessão: até indenização. Tornas/reposições e demais atos judiciais: 30 dias da sentença, mesmo com recurso pendente."
+    },
+    {
+      "id": "direito-tributario-aula-053-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.216: promessa/compromisso permite antecipação dentro do prazo do preço; base é mercado na data; acréscimo até escritura não gera novo imposto; se valor reduzir, não se restitui diferença."
+    },
+    {
+      "id": "direito-tributario-aula-053-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.217: não restitui por cessão subsequente da promessa/compromisso ou arrependimento sem escritura; nem perda por pacto de retrovenda."
+    },
+    {
+      "id": "direito-tributario-aula-053-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.218: restituição nos casos de anulação judicial definitiva da transmissão; nulidade do ato; rescisão e desfazimento da arrematação na hipótese legal."
+    },
+    {
+      "id": "direito-tributario-aula-053-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.219: guia emitida pela Secretaria de Economia e Finanças."
+    },
+    {
+      "id": "direito-tributario-aula-053-b9",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.220: isenções: planos habitacionais de baixa renda nas condições legais; bens ao cônjuge por comunicação do regime; alienante Poder Público; indenização de benfeitorias ao locatário; extinção de usufruto quando instituidor continuou dono da nua-propriedade; imóveis desapropriados para reforma agrária. Atenção: há redações próximas no art.210; em questão literal, respeite classificação do artigo."
+    },
+    {
+      "id": "direito-tributario-aula-053-b10",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "RECUPERAÇÃO: 208 inter vivos+oneroso; 210 não incidência; 211 adquirente/cessionário; 212 solidariedade; IPTU 207=30/100/130,1600 UFIR/60+20/10+1% mês.\nTESTE CUMULATIVO — SEM GABARITO: 1 base geral? A preço sempre B pactuado ou venal se maior C IPTU D contábil. 2 dívida do imóvel? A abate B não abate C zera D imuniza. 3 tornas: A todo patrimônio B excesso fração ideal C 30% D IPTU. 4 fideicomisso: A30 B40 C70 D100. 5 direito real de uso: A30 B40 C70 D90. 6 SFH parcela financiada: A0,5 B1 C2 D5. 7 demais transmissões: A0,5 B1 C2 D10. 8 arrematação/adjudicação: A10 B15 C30 D90 dias. 9 redução após antecipação: A restitui B não restitui diferença C anula D imuniza. 10 CORRETA: A arrependimento sempre restitui B anulação judicial definitiva pode restituir C retrovenda sempre restitui D guia cartório. 11 guia: A Secretaria Economia e Finanças B Câmara C cartório D Judiciário. 12 EXCETO isenção art.220: A plano baixa renda B alienante Poder Público C reforma agrária D toda compra entre particulares.\nREGRA: 213=MAIOR NEGÓCIO/VENAL + 70/30/40/70; 214=0,5% SFH FINANCIADO/2% DEMAIS; 215=ATÉ FATO + EXCEÇÕES 30 DIAS; 216=ANTECIPAÇÃO; 217/218=NÃO RESTITUI×RESTITUI; 220=ISENÇÕES. STATUS: ITBI EM APRENDIZAGEM. Próximo: arts.221-227."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-053-b2",
+      "titulo": "",
+      "texto": "ART.213: base = valor pactuado OU, se maior, valor venal; valor venal é valor corrente de mercado; dívidas do imóvel não são abatidas. Arrematação/leilão/adjudicação: avaliação judicial/administrativa ou preço pago, se maior. Tornas/reposições: excesso da fração ideal. Fideicomisso: negócio ou 70% do venal, se maior. Rendas sobre imóvel: negócio ou 30%. Concessão de direito real de uso: negócio ou 40%. Cessão de usufruto: negócio ou 70%. Acessão física: indenização ou venal da fração/acréscimo, se maior. Impugnação do valor: repartição que calculou + laudo técnico. MACETE: 70/30/40/70."
+    },
+    {
+      "id": "direito-tributario-aula-053-b3",
+      "titulo": "",
+      "texto": "ART.214: SFH, parcela financiada = 0,5%; demais transmissões = 2%."
+    },
+    {
+      "id": "direito-tributario-aula-053-b4",
+      "titulo": "",
+      "texto": "ART.215: regra, pagamento até a data do fato translativo. PJ↔sócios/sucessores: 30 dias da assembleia/escritura. Arrematação/adjudicação: 30 dias do auto/deferimento, mesmo com recurso pendente. Acessão: até indenização. Tornas/reposições e demais atos judiciais: 30 dias da sentença, mesmo com recurso pendente."
+    },
+    {
+      "id": "direito-tributario-aula-053-b5",
+      "titulo": "",
+      "texto": "ART.216: promessa/compromisso permite antecipação dentro do prazo do preço; base é mercado na data; acréscimo até escritura não gera novo imposto; se valor reduzir, não se restitui diferença."
+    },
+    {
+      "id": "direito-tributario-aula-053-b6",
+      "titulo": "",
+      "texto": "ART.217: não restitui por cessão subsequente da promessa/compromisso ou arrependimento sem escritura; nem perda por pacto de retrovenda."
+    },
+    {
+      "id": "direito-tributario-aula-053-b7",
+      "titulo": "",
+      "texto": "ART.218: restituição nos casos de anulação judicial definitiva da transmissão; nulidade do ato; rescisão e desfazimento da arrematação na hipótese legal."
+    },
+    {
+      "id": "direito-tributario-aula-053-b8",
+      "titulo": "",
+      "texto": "ART.219: guia emitida pela Secretaria de Economia e Finanças."
+    },
+    {
+      "id": "direito-tributario-aula-053-b9",
+      "titulo": "",
+      "texto": "ART.220: isenções: planos habitacionais de baixa renda nas condições legais; bens ao cônjuge por comunicação do regime; alienante Poder Público; indenização de benfeitorias ao locatário; extinção de usufruto quando instituidor continuou dono da nua-propriedade; imóveis desapropriados para reforma agrária. Atenção: há redações próximas no art.210; em questão literal, respeite classificação do artigo."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-02",
+  "contentHash": "9d4c37aa8bb9c1e8"
+}

@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 38,
+    "totalAulas": 40,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 158,
+    "tempoEstimadoMin": 161,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -43,7 +43,9 @@
       "CTM DE QUEIMADOS: IPTU — FRAÇÃO IDEAL, ALÍQUOTAS, PROGRESSIVIDADE E LANÇAMENTO (ARTS. 184 A 187)",
       "CTM DE QUEIMADOS: IPTU — NOTIFICAÇÃO DO LANÇAMENTO, ARBITRAMENTO, CONDOMÍNIO, ALTERAÇÕES E PAGAMENTO (ARTS. 188 A 199)",
       "IPTU DE QUEIMADOS: ISENÇÕES E CADASTRO FISCAL IMOBILIÁRIO — ARTS. 200 A 206",
-      "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207"
+      "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
+      "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+      "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220"
     ],
     "aulas": [
       {
@@ -273,6 +275,18 @@
         "numero": 51,
         "titulo": "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
         "slug": "iptu-de-queimados-infracoes-e-penalidades-art-207"
+      },
+      {
+        "id": "direito-tributario-aula-052",
+        "numero": 52,
+        "titulo": "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
+        "slug": "itbi-de-queimados-incidencia-mutacoes-nao-incidencia-e-responsabilidade-arts-208"
+      },
+      {
+        "id": "direito-tributario-aula-053",
+        "numero": 53,
+        "titulo": "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
+        "slug": "itbi-de-queimados-base-de-calculo-aliquotas-arrecadacao-e-isencoes-arts-213-a-22"
       }
     ]
   },

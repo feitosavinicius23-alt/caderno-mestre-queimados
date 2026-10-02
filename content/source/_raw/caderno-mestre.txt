@@ -9190,3 +9190,33 @@ TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
 REGRA DE RETENÇÃO: ART. 207 = 30 / 100 / 130,1600 UFIR / VALOR DOS TRIBUTOS / 60+20 / 10+1% AO MÊS.
 STATUS: IPTU fecha a primeira passagem e entra em RETENÇÃO. Não considerar dominado até retenção posterior em questões misturadas. Próximo avanço: ITBI a partir do art. 208.
 .
+
+
+
+
+AULA 52 — ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212
+OBJETIVO: iniciar o ITBI dominando incidência, mutações, não incidência e sujeito passivo.
+ART.208: transmissão inter vivos e onerosa da propriedade/domínio útil; direitos reais sobre imóveis, EXCETO garantia; cessão onerosa dos direitos. MACETE: INTER VIVOS + ONEROSO + EXCETO GARANTIA.
+ART.209: compra e venda; dação; permuta; arrematação/adjudicação; remição; incorporações ressalvadas; transferências societárias; tornas/reposições; mandato em causa própria; fideicomisso; enfiteuse/subenfiteuse; rendas sobre imóvel; concessão real de uso; cessão onerosa de usufruto; cessões ao usucapião, de arrematante/adjudicante, de promessa; acessão física indenizada; demais atos onerosos abrangidos. Novo imposto: prelação, pacto de melhor comprador, retrovenda e retrocessão.
+ART.210: não incidência nas hipóteses legais para entes públicos/autarquias/fundações; partido, templo, educação/assistência; realização de capital; fusão/incorporação/cisão/extinção; desapropriação/retorno; extinção de usufruto; comunicação conjugal; indenização de benfeitorias. Exceção societária: atividade preponderante; MAIS DE 50% da receita operacional nos 2 anos seguintes nas atividades indicadas.
+ART.211: contribuinte = adquirente ou cessionário.
+ART.212: sem pagamento, solidariedade do transmitente/cedente e serventuário do cartório nas condições legais.
+TESTE SEM GABARITO: 1 núcleo ITBI? A gratuita B inter vivos onerosa C causa mortis D locação. 2 exceção direito real? A usufruto B garantia C domínio útil D posse. 3 mutação? A compra e venda B locação C empréstimo D serviço. 4 contribuinte? A transmitente B adquirente/cessionário C serventuário D Município. 5 INCORRETA: A garantia excepcionada B cessão onerosa pode incidir C causa mortis é núcleo ITBI municipal D compra e venda art.209. 6 sem pagamento pode haver solidariedade de: A só adquirente B transmitente/cedente e serventuário C Prefeito D corretor.
+REGRA: 208=INCIDÊNCIA;209=MUTAÇÕES;210=NÃO INCIDÊNCIA;211=ADQUIRENTE/CESSIONÁRIO;212=SOLIDARIEDADE. STATUS: ITBI EM APRENDIZAGEM.
+
+
+
+
+AULA 53 — ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220
+OBJETIVO: dominar regras numéricas e cálculo/pagamento do ITBI.
+ART.213: base = valor pactuado OU, se maior, valor venal; valor venal é valor corrente de mercado; dívidas do imóvel não são abatidas. Arrematação/leilão/adjudicação: avaliação judicial/administrativa ou preço pago, se maior. Tornas/reposições: excesso da fração ideal. Fideicomisso: negócio ou 70% do venal, se maior. Rendas sobre imóvel: negócio ou 30%. Concessão de direito real de uso: negócio ou 40%. Cessão de usufruto: negócio ou 70%. Acessão física: indenização ou venal da fração/acréscimo, se maior. Impugnação do valor: repartição que calculou + laudo técnico. MACETE: 70/30/40/70.
+ART.214: SFH, parcela financiada = 0,5%; demais transmissões = 2%.
+ART.215: regra, pagamento até a data do fato translativo. PJ↔sócios/sucessores: 30 dias da assembleia/escritura. Arrematação/adjudicação: 30 dias do auto/deferimento, mesmo com recurso pendente. Acessão: até indenização. Tornas/reposições e demais atos judiciais: 30 dias da sentença, mesmo com recurso pendente.
+ART.216: promessa/compromisso permite antecipação dentro do prazo do preço; base é mercado na data; acréscimo até escritura não gera novo imposto; se valor reduzir, não se restitui diferença.
+ART.217: não restitui por cessão subsequente da promessa/compromisso ou arrependimento sem escritura; nem perda por pacto de retrovenda.
+ART.218: restituição nos casos de anulação judicial definitiva da transmissão; nulidade do ato; rescisão e desfazimento da arrematação na hipótese legal.
+ART.219: guia emitida pela Secretaria de Economia e Finanças.
+ART.220: isenções: planos habitacionais de baixa renda nas condições legais; bens ao cônjuge por comunicação do regime; alienante Poder Público; indenização de benfeitorias ao locatário; extinção de usufruto quando instituidor continuou dono da nua-propriedade; imóveis desapropriados para reforma agrária. Atenção: há redações próximas no art.210; em questão literal, respeite classificação do artigo.
+RECUPERAÇÃO: 208 inter vivos+oneroso; 210 não incidência; 211 adquirente/cessionário; 212 solidariedade; IPTU 207=30/100/130,1600 UFIR/60+20/10+1% mês.
+TESTE CUMULATIVO — SEM GABARITO: 1 base geral? A preço sempre B pactuado ou venal se maior C IPTU D contábil. 2 dívida do imóvel? A abate B não abate C zera D imuniza. 3 tornas: A todo patrimônio B excesso fração ideal C 30% D IPTU. 4 fideicomisso: A30 B40 C70 D100. 5 direito real de uso: A30 B40 C70 D90. 6 SFH parcela financiada: A0,5 B1 C2 D5. 7 demais transmissões: A0,5 B1 C2 D10. 8 arrematação/adjudicação: A10 B15 C30 D90 dias. 9 redução após antecipação: A restitui B não restitui diferença C anula D imuniza. 10 CORRETA: A arrependimento sempre restitui B anulação judicial definitiva pode restituir C retrovenda sempre restitui D guia cartório. 11 guia: A Secretaria Economia e Finanças B Câmara C cartório D Judiciário. 12 EXCETO isenção art.220: A plano baixa renda B alienante Poder Público C reforma agrária D toda compra entre particulares.
+REGRA: 213=MAIOR NEGÓCIO/VENAL + 70/30/40/70; 214=0,5% SFH FINANCIADO/2% DEMAIS; 215=ATÉ FATO + EXCEÇÕES 30 DIAS; 216=ANTECIPAÇÃO; 217/218=NÃO RESTITUI×RESTITUI; 220=ISENÇÕES. STATUS: ITBI EM APRENDIZAGEM. Próximo: arts.221-227.
