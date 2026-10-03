@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 24,
+  "contentVersion": 25,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-03T14:45:41.479Z",
-  "contentHashGlobal": "b3cc9aecb25d9fdf",
-  "totalAulas": 57,
+  "ultimaSincronizacao": "2026-10-03T17:59:20.243Z",
+  "contentHashGlobal": "82380dbcfa26b12a",
+  "totalAulas": 58,
   "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
@@ -532,7 +532,19 @@
       "disciplina": "Direito Tributário",
       "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
       "arquivo": "aulas/direito-tributario-aula-057.json",
-      "hash": "db02286005f594b4",
+      "hash": "c7817ae5b5592bcd",
+      "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-03"
+    },
+    {
+      "id": "direito-tributario-aula-058",
+      "numero": 58,
+      "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "arquivo": "aulas/direito-tributario-aula-058.json",
+      "hash": "f595a501a7f38927",
       "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-03"
     },

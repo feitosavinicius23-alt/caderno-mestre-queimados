@@ -9317,4 +9317,73 @@ TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:
 11. Na incorporação do art.244, a base é ligada: A apenas ao valor venal do terreno B ao preço contratado relativo às cotas de construção C ao IPTU D ao lucro líquido.
 12. Recuperação: art.235, se o alienante cessa e o adquirente continua: A subsidiária B integral C nenhuma D 50%.
 REGRA DE RETENÇÃO: 240=SOCIEDADES PROFISSIONAIS/ENQUADRAMENTO ESTRITO; 241=SEPAROU RECEITAS→ALÍQUOTA DE CADA ATIVIDADE, NÃO SEPAROU→MAIOR ALÍQUOTA/FORMA MAIS ONEROSA; 242=TRABALHO PESSOAL, CADA ATIVIDADE; 243=DEDUÇÃO RESTRITA E DOCUMENTADA; 244=INCORPORAÇÃO, COTAS DE CONSTRUÇÃO E PROPORCIONALIDADE. STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.
+
+
+
+
+Aula 58 — ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254
+
+
+OBJETIVO: avançar na primeira volta do ISSQN e fixar regras com alto potencial de cobrança literal pela IAN: composição do preço, alíquota mais elevada quando a escrita não separa atividades, hipóteses de arbitramento, comissão mínima de 5 membros, lançamento mensal e intervalo mínimo de 30 dias.
+
+
+ART. 245 — DEMOLIÇÃO
+Nos serviços de demolição de prédios, considera-se preço total da operação os recebimentos em dinheiro ou em material proveniente da demolição. Portanto, preço do serviço não significa apenas dinheiro: material recebido também pode compor o preço total.
+EXCEÇÃO: a regra não se aplica aos contratos de construção civil em que a empreiteira principal execute e cobre a demolição englobadamente com o contrato de construção.
+MACETE: DEMOLIÇÃO = DINHEIRO + MATERIAL; DEMOLIÇÃO ENGLOBADA NA CONSTRUÇÃO = EXCEÇÃO.
+
+
+ART. 246 — DIVERSÕES PÚBLICAS
+O ISS sobre diversões públicas é calculado sobre: I) preço do bilhete de ingresso, em recinto fechado ou ao ar livre; II) preço cobrado a título de consumação mínima, couvert artístico, cobertura musical e aluguel ou venda de mesas e lugares em clubes ou outros estabelecimentos de diversão; III) preço cobrado pela utilização de aparelhos, armas e outros apetrechos, mecânicos ou não, instalados em boxes, stands, parques de diversões ou outros locais permitidos.
+PEGADINHA: a base não se limita ao ingresso. Consumação mínima, couvert e certas utilizações também entram nas hipóteses expressas.
+
+
+ART. 247 — ATIVIDADES DIFERENTES NO MESMO LOCAL
+Se no estabelecimento, depósitos ou dependências forem exercidas atividades diferentes sujeitas a mais de uma forma de tributação, aplicam-se as diferentes alíquotas em relação a cada atividade ou ao movimento correspondente. Se a escrita não discriminar as operações por atividade, a totalidade fica sujeita à alíquota mais elevada, ou esta incide sobre o movimento econômico total.
+Conexão com a Aula 57/art. 241: SEPAROU = cada atividade na sua alíquota; NÃO SEPAROU = maior alíquota.
+
+
+ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO
+Art. 248: a apuração do preço é feita com base nos elementos em poder do contribuinte ou responsável.
+Art. 250: a fiscalização responsável procede, fundamentadamente, ao arbitramento para apurar o preço quando ocorrer uma das hipóteses legais. As sete hipóteses que precisam ser reconhecidas são: 1) ausência de livros fiscais obrigatórios ou escrituração desatualizada; 2) violação reiterada da legislação tributária; 3) após intimação, não exibição dos livros obrigatórios ou falta dos esclarecimentos exigidos; 4) fraude ou sonegação de dados indispensáveis; 5) esclarecimentos/documentos omissos ou declarações que não mereçam fé; 6) preço notoriamente inferior ao corrente no mercado ou desconhecido pela autoridade responsável; 7) prestação de serviço sem inscrição no cadastro de atividades econômicas municipal.
+REGRA PRÁTICA: ARBITRAMENTO NÃO É CHUTE. Deve existir fundamento legal e situação que comprometa a apuração normal do preço.
+
+
+ARTS. 251 E 252 — QUEM ARBITRA E EFEITO
+Nas hipóteses do art. 250, o arbitramento pode ser feito pela fiscalização responsável ou por comissão permanente por ela designada, composta por NO MÍNIMO 5 MEMBROS, todos servidores atuantes na área tributária. Os critérios técnicos são definidos em regulamento.
+O arbitramento NÃO exonera o contribuinte das punições cabíveis.
+MACETE: ARBITROU ≠ PERDOOU. E COMISSÃO = MÍNIMO 5.
+
+
+ART. 253 — LANÇAMENTO MENSAL
+O ISS é lançado mensalmente pelo próprio contribuinte, em relação ao serviço efetivamente prestado no período, independentemente de o preço ser pago à vista ou em prestações.
+PEGADINHA: parcelamento do preço não transforma o fato em vários períodos de prestação. A referência do artigo é o serviço efetivamente prestado no período.
+
+
+ART. 254 — CÁLCULO/REGISTRO PELA PREFEITURA
+Quando o cálculo e o registro do tributo forem feitos pela própria Prefeitura, deve ser respeitado intervalo mínimo de 30 DIAS entre o recebimento da notificação e o prazo fixado para pagamento.
+MACETE: PREFEITURA CALCULOU/REGISTROU = NOTIFICAÇÃO → MÍNIMO 30 DIAS → PAGAMENTO.
+
+
+RECUPERAÇÃO ESPAÇADA
+Sem consultar: art. 237 = base geral do ISS? art. 241 = não separou receitas? art. 243 = quais materiais entram na análise de dedução? art. 244 = apuração proporcional feita como? ITBI art. 227 = fraude? IPTU art. 207 = dolo/falsidade cadastral?
+Respostas que devem estar automáticas: preço do serviço; maior alíquota; materiais que se incorporam ou se consomem na obra, observados os requisitos; individualmente por obra; 200%; 100%.
+
+
+TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO
+1. Na demolição, o preço total da operação pode compreender: A somente dinheiro B dinheiro e material proveniente da demolição C apenas material D somente lucro líquido.
+2. A regra do art. 245 não se aplica, segundo a exceção estudada: A a toda demolição B ao contrato de construção civil em que a empreiteira principal execute e cobre a demolição englobadamente com a construção C à demolição paga em dinheiro D à demolição ao ar livre.
+3. No ISS sobre diversões públicas, a base pode incluir: A somente ingresso B ingresso e, nas hipóteses legais, consumação mínima/couvert e outras cobranças expressas C somente lucro D apenas aluguel do imóvel.
+4. Havendo atividades diferentes e escrita que discrimine corretamente as operações: A aplica-se sempre a maior alíquota a tudo B aplicam-se as alíquotas correspondentes às atividades C usa-se sempre a menor D não há ISS.
+5. Se a escrita não discriminar as operações por atividade: A menor alíquota B média C alíquota mais elevada sobre a totalidade/movimento econômico total, conforme a regra D isenção.
+6. Pode justificar arbitramento: A preço notoriamente inferior ao mercado B escrituração perfeitamente regular e preço comprovado, por si só C simples opção do fiscal sem fundamento D pagamento antecipado.
+7. Após intimação, deixar de exibir livros fiscais obrigatórios: A jamais autoriza arbitramento B aparece entre as hipóteses legais de arbitramento C gera imunidade D converte ISS em IPTU.
+8. Prestar serviço sem inscrição no cadastro municipal de atividades econômicas: A aparece entre as hipóteses de arbitramento B impede qualquer fiscalização C gera isenção D é irrelevante.
+9. A comissão permanente de arbitramento prevista no art. 251 é composta por, no mínimo: A 2 membros B 3 membros C 5 membros D 10 membros.
+10. O arbitramento do preço: A exonera todas as penalidades B não exonera das punições cabíveis C extingue o crédito D gera remissão.
+11. O lançamento do art. 253 é: A anual e judicial B mensal, pelo próprio contribuinte, relativo ao serviço efetivamente prestado no período C quinquenal D exclusivamente de ofício.
+12. Quando cálculo e registro são feitos pela Prefeitura, o intervalo mínimo entre recebimento da notificação e prazo de pagamento é: A 10 dias B 15 dias C 30 dias D 90 dias.
+
+
+REGRA DE RETENÇÃO: 245=DEMOLIÇÃO: DINHEIRO+MATERIAL, SALVO DEMOLIÇÃO ENGLOBADA NO CONTRATO DE CONSTRUÇÃO; 246=DIVERSÕES: INGRESSO+COBRANÇAS EXPRESSAS; 247=NÃO SEPAROU ATIVIDADES→MAIOR ALÍQUOTA; 248=ELEMENTOS DO CONTRIBUINTE/RESPONSÁVEL; 250=7 HIPÓTESES DE ARBITRAMENTO; 251=COMISSÃO MÍNIMO 5; 252=ARBITRAMENTO NÃO EXONERA PUNIÇÃO; 253=LANÇAMENTO MENSAL; 254=INTERVALO MÍNIMO 30 DIAS. STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.
 .

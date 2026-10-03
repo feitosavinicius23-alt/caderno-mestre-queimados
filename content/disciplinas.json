@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 44,
+    "totalAulas": 45,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 173,
+    "tempoEstimadoMin": 179,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -49,7 +49,8 @@
       "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
       "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
       "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
-      "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244"
+      "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254"
     ],
     "aulas": [
       {
@@ -315,6 +316,12 @@
         "numero": 57,
         "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
         "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c"
+      },
+      {
+        "id": "direito-tributario-aula-058",
+        "numero": 58,
+        "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+        "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca"
       }
     ]
   },

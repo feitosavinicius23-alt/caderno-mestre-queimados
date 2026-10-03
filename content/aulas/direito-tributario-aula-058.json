@@ -1,0 +1,115 @@
+{
+  "id": "direito-tributario-aula-058",
+  "numero": 58,
+  "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+  "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+  "ordem": 58,
+  "data": "2026-10-03",
+  "tempoEstimadoMin": 6,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-058-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "OBJETIVO: avançar na primeira volta do ISSQN e fixar regras com alto potencial de cobrança literal pela IAN: composição do preço, alíquota mais elevada quando a escrita não separa atividades, hipóteses de arbitramento, comissão mínima de 5 membros, lançamento mensal e intervalo mínimo de 30 dias."
+    },
+    {
+      "id": "direito-tributario-aula-058-b2",
+      "tipo": "teoria",
+      "titulo": "ART. 245 — DEMOLIÇÃO",
+      "texto": "Nos serviços de demolição de prédios, considera-se preço total da operação os recebimentos em dinheiro ou em material proveniente da demolição. Portanto, preço do serviço não significa apenas dinheiro: material recebido também pode compor o preço total.\nEXCEÇÃO: a regra não se aplica aos contratos de construção civil em que a empreiteira principal execute e cobre a demolição englobadamente com o contrato de construção.\nMACETE: DEMOLIÇÃO = DINHEIRO + MATERIAL; DEMOLIÇÃO ENGLOBADA NA CONSTRUÇÃO = EXCEÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-058-b3",
+      "tipo": "teoria",
+      "titulo": "ART. 246 — DIVERSÕES PÚBLICAS",
+      "texto": "O ISS sobre diversões públicas é calculado sobre: I) preço do bilhete de ingresso, em recinto fechado ou ao ar livre; II) preço cobrado a título de consumação mínima, couvert artístico, cobertura musical e aluguel ou venda de mesas e lugares em clubes ou outros estabelecimentos de diversão; III) preço cobrado pela utilização de aparelhos, armas e outros apetrechos, mecânicos ou não, instalados em boxes, stands, parques de diversões ou outros locais permitidos.\nPEGADINHA: a base não se limita ao ingresso. Consumação mínima, couvert e certas utilizações também entram nas hipóteses expressas."
+    },
+    {
+      "id": "direito-tributario-aula-058-b4",
+      "tipo": "teoria",
+      "titulo": "ART. 247 — ATIVIDADES DIFERENTES NO MESMO LOCAL",
+      "texto": "Se no estabelecimento, depósitos ou dependências forem exercidas atividades diferentes sujeitas a mais de uma forma de tributação, aplicam-se as diferentes alíquotas em relação a cada atividade ou ao movimento correspondente. Se a escrita não discriminar as operações por atividade, a totalidade fica sujeita à alíquota mais elevada, ou esta incide sobre o movimento econômico total.\nConexão com a Aula 57/art. 241: SEPAROU = cada atividade na sua alíquota; NÃO SEPAROU = maior alíquota."
+    },
+    {
+      "id": "direito-tributario-aula-058-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 248: a apuração do preço é feita com base nos elementos em poder do contribuinte ou responsável."
+    },
+    {
+      "id": "direito-tributario-aula-058-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 250: a fiscalização responsável procede, fundamentadamente, ao arbitramento para apurar o preço quando ocorrer uma das hipóteses legais. As sete hipóteses que precisam ser reconhecidas são: 1) ausência de livros fiscais obrigatórios ou escrituração desatualizada; 2) violação reiterada da legislação tributária; 3) após intimação, não exibição dos livros obrigatórios ou falta dos esclarecimentos exigidos; 4) fraude ou sonegação de dados indispensáveis; 5) esclarecimentos/documentos omissos ou declarações que não mereçam fé; 6) preço notoriamente inferior ao corrente no mercado ou desconhecido pela autoridade responsável; 7) prestação de serviço sem inscrição no cadastro de atividades econômicas municipal."
+    },
+    {
+      "id": "direito-tributario-aula-058-b7",
+      "tipo": "teoria",
+      "titulo": "ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO",
+      "texto": "REGRA PRÁTICA: ARBITRAMENTO NÃO É CHUTE. Deve existir fundamento legal e situação que comprometa a apuração normal do preço."
+    },
+    {
+      "id": "direito-tributario-aula-058-b8",
+      "tipo": "teoria",
+      "titulo": "ARTS. 251 E 252 — QUEM ARBITRA E EFEITO",
+      "texto": "Nas hipóteses do art. 250, o arbitramento pode ser feito pela fiscalização responsável ou por comissão permanente por ela designada, composta por NO MÍNIMO 5 MEMBROS, todos servidores atuantes na área tributária. Os critérios técnicos são definidos em regulamento.\nO arbitramento NÃO exonera o contribuinte das punições cabíveis.\nMACETE: ARBITROU ≠ PERDOOU. E COMISSÃO = MÍNIMO 5."
+    },
+    {
+      "id": "direito-tributario-aula-058-b9",
+      "tipo": "teoria",
+      "titulo": "ART. 253 — LANÇAMENTO MENSAL",
+      "texto": "O ISS é lançado mensalmente pelo próprio contribuinte, em relação ao serviço efetivamente prestado no período, independentemente de o preço ser pago à vista ou em prestações.\nPEGADINHA: parcelamento do preço não transforma o fato em vários períodos de prestação. A referência do artigo é o serviço efetivamente prestado no período."
+    },
+    {
+      "id": "direito-tributario-aula-058-b10",
+      "tipo": "teoria",
+      "titulo": "ART. 254 — CÁLCULO/REGISTRO PELA PREFEITURA",
+      "texto": "Quando o cálculo e o registro do tributo forem feitos pela própria Prefeitura, deve ser respeitado intervalo mínimo de 30 DIAS entre o recebimento da notificação e o prazo fixado para pagamento.\nMACETE: PREFEITURA CALCULOU/REGISTROU = NOTIFICAÇÃO → MÍNIMO 30 DIAS → PAGAMENTO."
+    },
+    {
+      "id": "direito-tributario-aula-058-b11",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar: art. 237 = base geral do ISS? art. 241 = não separou receitas? art. 243 = quais materiais entram na análise de dedução? art. 244 = apuração proporcional feita como? ITBI art. 227 = fraude? IPTU art. 207 = dolo/falsidade cadastral?\nRespostas que devem estar automáticas: preço do serviço; maior alíquota; materiais que se incorporam ou se consomem na obra, observados os requisitos; individualmente por obra; 200%; 100%."
+    },
+    {
+      "id": "direito-tributario-aula-058-b12",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. Na demolição, o preço total da operação pode compreender: A somente dinheiro B dinheiro e material proveniente da demolição C apenas material D somente lucro líquido.\n2. A regra do art. 245 não se aplica, segundo a exceção estudada: A a toda demolição B ao contrato de construção civil em que a empreiteira principal execute e cobre a demolição englobadamente com a construção C à demolição paga em dinheiro D à demolição ao ar livre.\n3. No ISS sobre diversões públicas, a base pode incluir: A somente ingresso B ingresso e, nas hipóteses legais, consumação mínima/couvert e outras cobranças expressas C somente lucro D apenas aluguel do imóvel.\n4. Havendo atividades diferentes e escrita que discrimine corretamente as operações: A aplica-se sempre a maior alíquota a tudo B aplicam-se as alíquotas correspondentes às atividades C usa-se sempre a menor D não há ISS.\n5. Se a escrita não discriminar as operações por atividade: A menor alíquota B média C alíquota mais elevada sobre a totalidade/movimento econômico total, conforme a regra D isenção.\n6. Pode justificar arbitramento: A preço notoriamente inferior ao mercado B escrituração perfeitamente regular e preço comprovado, por si só C simples opção do fiscal sem fundamento D pagamento antecipado.\n7. Após intimação, deixar de exibir livros fiscais obrigatórios: A jamais autoriza arbitramento B aparece entre as hipóteses legais de arbitramento C gera imunidade D converte ISS em IPTU.\n8. Prestar serviço sem inscrição no cadastro municipal de atividades econômicas: A aparece entre as hipóteses de arbitramento B impede qualquer fiscalização C gera isenção D é irrelevante.\n9. A comissão permanente de arbitramento prevista no art. 251 é composta por, no mínimo: A 2 membros B 3 membros C 5 membros D 10 membros.\n10. O arbitramento do preço: A exonera todas as penalidades B não exonera das punições cabíveis C extingue o crédito D gera remissão.\n11. O lançamento do art. 253 é: A anual e judicial B mensal, pelo próprio contribuinte, relativo ao serviço efetivamente prestado no período C quinquenal D exclusivamente de ofício.\n12. Quando cálculo e registro são feitos pela Prefeitura, o intervalo mínimo entre recebimento da notificação e prazo de pagamento é: A 10 dias B 15 dias C 30 dias D 90 dias.\n\nREGRA DE RETENÇÃO: 245=DEMOLIÇÃO: DINHEIRO+MATERIAL, SALVO DEMOLIÇÃO ENGLOBADA NO CONTRATO DE CONSTRUÇÃO; 246=DIVERSÕES: INGRESSO+COBRANÇAS EXPRESSAS; 247=NÃO SEPAROU ATIVIDADES→MAIOR ALÍQUOTA; 248=ELEMENTOS DO CONTRIBUINTE/RESPONSÁVEL; 250=7 HIPÓTESES DE ARBITRAMENTO; 251=COMISSÃO MÍNIMO 5; 252=ARBITRAMENTO NÃO EXONERA PUNIÇÃO; 253=LANÇAMENTO MENSAL; 254=INTERVALO MÍNIMO 30 DIAS. STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.\n."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-058-b11",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "texto": "Sem consultar: art. 237 = base geral do ISS? art. 241 = não separou receitas? art. 243 = quais materiais entram na análise de dedução? art. 244 = apuração proporcional feita como? ITBI art. 227 = fraude? IPTU art. 207 = dolo/falsidade cadastral?\nRespostas que devem estar automáticas: preço do serviço; maior alíquota; materiais que se incorporam ou se consomem na obra, observados os requisitos; individualmente por obra; 200%; 100%."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-058-b5",
+      "titulo": "ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO",
+      "texto": "Art. 248: a apuração do preço é feita com base nos elementos em poder do contribuinte ou responsável."
+    },
+    {
+      "id": "direito-tributario-aula-058-b6",
+      "titulo": "ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO",
+      "texto": "Art. 250: a fiscalização responsável procede, fundamentadamente, ao arbitramento para apurar o preço quando ocorrer uma das hipóteses legais. As sete hipóteses que precisam ser reconhecidas são: 1) ausência de livros fiscais obrigatórios ou escrituração desatualizada; 2) violação reiterada da legislação tributária; 3) após intimação, não exibição dos livros obrigatórios ou falta dos esclarecimentos exigidos; 4) fraude ou sonegação de dados indispensáveis; 5) esclarecimentos/documentos omissos ou declarações que não mereçam fé; 6) preço notoriamente inferior ao corrente no mercado ou desconhecido pela autoridade responsável; 7) prestação de serviço sem inscrição no cadastro de atividades econômicas municipal."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-03",
+  "contentHash": "f595a501a7f38927"
+}

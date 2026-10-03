@@ -1,7 +1,7 @@
 {
-  "contentVersion": 24,
-  "geradoEm": "2026-10-03T14:45:41.479Z",
-  "total": 1077,
+  "contentVersion": 25,
+  "geradoEm": "2026-10-03T17:59:20.243Z",
+  "total": 1091,
   "documentos": [
     {
       "tipo": "aula",
@@ -10196,6 +10196,158 @@
       "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
       "blocoTipo": "teoria",
       "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO: 1. O regime do art.240 alcança, entre outros: A advogados B qualquer comerciante C qualquer indústria D qualquer sociedade anônima.\n2. O integrante de sociedade profissional que presta serviço alheio à profissão habilitada: A permanece necessariamente no regime especial B não se beneficia dessa regra para esse serviço C fica imune D não é contribuinte.\n3"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-058",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "texto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254 ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b1",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO: avançar na primeira volta do ISSQN e fixar regras com alto potencial de cobrança literal pela IAN: composição do preço, alíquota mais elevada quando a escrita não separa atividades, hipóteses de arbitramento, comissão mínima de 5 membros, lançamento mensal e intervalo mínimo de 30 dias."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b2",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ART. 245 — DEMOLIÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ART. 245 — DEMOLIÇÃO Nos serviços de demolição de prédios, considera-se preço total da operação os recebimentos em dinheiro ou em material proveniente da demolição. Portanto, preço do serviço não significa apenas dinheiro: material recebido também pode compor o preço total.\nEXCEÇÃO: a regra não se aplica aos contratos de construção civil em que a empreiteira principal execute e cobre a demolição e"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b3",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ART. 246 — DIVERSÕES PÚBLICAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ART. 246 — DIVERSÕES PÚBLICAS O ISS sobre diversões públicas é calculado sobre: I) preço do bilhete de ingresso, em recinto fechado ou ao ar livre; II) preço cobrado a título de consumação mínima, couvert artístico, cobertura musical e aluguel ou venda de mesas e lugares em clubes ou outros estabelecimentos de diversão; III) preço cobrado pela utilização de aparelhos, armas e outros apetrechos, me"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b4",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ART. 247 — ATIVIDADES DIFERENTES NO MESMO LOCAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ART. 247 — ATIVIDADES DIFERENTES NO MESMO LOCAL Se no estabelecimento, depósitos ou dependências forem exercidas atividades diferentes sujeitas a mais de uma forma de tributação, aplicam-se as diferentes alíquotas em relação a cada atividade ou ao movimento correspondente. Se a escrita não discriminar as operações por atividade, a totalidade fica sujeita à alíquota mais elevada, ou esta incide sob"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-058-b5",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 248: a apuração do preço é feita com base nos elementos em poder do contribuinte ou responsável."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-058-b6",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 250: a fiscalização responsável procede, fundamentadamente, ao arbitramento para apurar o preço quando ocorrer uma das hipóteses legais. As sete hipóteses que precisam ser reconhecidas são: 1) ausência de livros fiscais obrigatórios ou escrituração desatualizada; 2) violação reiterada da legislação tributária; 3) após intimação, não exibição dos livros obrigatórios ou falta dos esclarecimento"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b7",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 248 A 250 — APURAÇÃO E ARBITRAMENTO REGRA PRÁTICA: ARBITRAMENTO NÃO É CHUTE. Deve existir fundamento legal e situação que comprometa a apuração normal do preço."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b8",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ARTS. 251 E 252 — QUEM ARBITRA E EFEITO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ARTS. 251 E 252 — QUEM ARBITRA E EFEITO Nas hipóteses do art. 250, o arbitramento pode ser feito pela fiscalização responsável ou por comissão permanente por ela designada, composta por NO MÍNIMO 5 MEMBROS, todos servidores atuantes na área tributária. Os critérios técnicos são definidos em regulamento.\nO arbitramento NÃO exonera o contribuinte das punições cabíveis.\nMACETE: ARBITROU ≠ PERDOOU. E "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b9",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ART. 253 — LANÇAMENTO MENSAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ART. 253 — LANÇAMENTO MENSAL O ISS é lançado mensalmente pelo próprio contribuinte, em relação ao serviço efetivamente prestado no período, independentemente de o preço ser pago à vista ou em prestações.\nPEGADINHA: parcelamento do preço não transforma o fato em vários períodos de prestação. A referência do artigo é o serviço efetivamente prestado no período."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b10",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "ART. 254 — CÁLCULO/REGISTRO PELA PREFEITURA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "ART. 254 — CÁLCULO/REGISTRO PELA PREFEITURA Quando o cálculo e o registro do tributo forem feitos pela própria Prefeitura, deve ser respeitado intervalo mínimo de 30 DIAS entre o recebimento da notificação e o prazo fixado para pagamento.\nMACETE: PREFEITURA CALCULOU/REGISTROU = NOTIFICAÇÃO → MÍNIMO 30 DIAS → PAGAMENTO."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b11",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO ESPAÇADA Sem consultar: art. 237 = base geral do ISS? art. 241 = não separou receitas? art. 243 = quais materiais entram na análise de dedução? art. 244 = apuração proporcional feita como? ITBI art. 227 = fraude? IPTU art. 207 = dolo/falsidade cadastral?\nRespostas que devem estar automáticas: preço do serviço; maior alíquota; materiais que se incorporam ou se consomem na obra, observad"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-058-b12",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO 1. Na demolição, o preço total da operação pode compreender: A somente dinheiro B dinheiro e material proveniente da demolição C apenas material D somente lucro líquido.\n2. A regra do art. 245 não se aplica, segundo a exceção estudada: A a toda demolição B ao contrato de construção civil em que a empreiteira principal execute e cobre a demoli"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-058-b11",
+      "lessonId": "direito-tributario-aula-058",
+      "titulo": "RECUPERAÇÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca",
+      "texto": "Sem consultar: art. 237 = base geral do ISS? art. 241 = não separou receitas? art. 243 = quais materiais entram na análise de dedução? art. 244 = apuração proporcional feita como? ITBI art. 227 = fraude? IPTU art. 207 = dolo/falsidade cadastral?\nRespostas que devem estar automáticas: preço do serviço; maior alíquota; materiais que se incorporam ou se consomem na obra, observados os requisitos; ind"
     },
     {
       "tipo": "aula",
