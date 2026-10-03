@@ -1,0 +1,88 @@
+{
+  "id": "direito-tributario-aula-055",
+  "numero": 55,
+  "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+  "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+  "ordem": 55,
+  "data": "2026-10-03",
+  "tempoEstimadoMin": 2,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-055-b1",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.228 — fato gerador: prestação dos serviços constantes da lista legal. ISS não alcança indistintamente toda atividade econômica."
+    },
+    {
+      "id": "direito-tributario-aula-055-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.229 — incidência independe de: existência de estabelecimento fixo; cumprimento de exigência legal/regulamentar/administrativa relativa à atividade, sem prejuízo de penalidades; resultado financeiro; destinação do serviço. MACETE: FIXO–REGULARIDADE–RESULTADO–DESTINAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-055-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.230 — regra: imposto devido no local do estabelecimento prestador; na falta, domicílio do prestador; ressalvadas exceções. Exemplos: instalação de andaimes/palcos/coberturas → local da instalação; obra/demolição → local da execução; coleta/resíduos, limpeza/conservação, jardinagem/poda → local da execução; guarda/estacionamento → onde o bem estiver."
+    },
+    {
+      "id": "direito-tributario-aula-055-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.231 — não incidência: exportações de serviços para exterior; serviços em relação de emprego e demais pessoas expressamente relacionadas; valores indicados do mercado de títulos, depósitos bancários e operações de crédito. PEGADINHA: não entra na não incidência de exportação o serviço desenvolvido no Município cujo resultado aqui se verifique, ainda que pago por residente no exterior."
+    },
+    {
+      "id": "direito-tributario-aula-055-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART.232 — contribuinte = PRESTADOR DO SERVIÇO. Se exercer mais de uma atividade da lista, incidência sobre todas nas condições legais, inclusive profissional autônomo."
+    },
+    {
+      "id": "direito-tributario-aula-055-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "RECUPERAÇÃO ITBI: 224=90 dias; 225=20%; 226=10%; 227=fraude 200%; base=maior entre pactuado e venal; SFH parcela financiada=0,5%; demais=2%.\nTESTE SEM GABARITO: 1 fato gerador A propriedade B serviço da lista C transmissão D renda. 2 estabelecimento fixo A indispensável B não é requisito C só autônomo D só PJ. 3 INCORRETO A independe resultado B independe destinação C irregularidade sempre afasta ISS D falta de estabelecimento não afasta por si. 4 regra local A tomador sempre B estabelecimento prestador/domicílio, ressalvadas exceções C pagamento D sede nacional. 5 demolição A domicílio B local demolição C não incide D lucro. 6 guarda A onde bem está B sede tomador C sócio D cartório. 7 não incidência A toda remuneração B exportação observada regra do resultado C toda obra D consultoria. 8 resultado no Município A exportação automática se pagador exterior B não vira exportação só por pagador exterior C nunca ISS D ITBI. 9 relação emprego A não incidência estudada B sempre ISS C IPTU D ITBI. 10 contribuinte A tomador B prestador C cartório D Município. 11 várias atividades A uma B todas nas condições legais C imunidade D escolhe. 12 ITBI fraude A20 B30 C100 D200.\nREGRA: 228=LISTA;229=INDEPENDE DE QUATRO;230=ESTABELECIMENTO/DOMICÍLIO+EXCEÇÕES;231=NÃO INCIDÊNCIA;232=PRESTADOR."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-055-b1",
+      "titulo": "",
+      "texto": "ART.228 — fato gerador: prestação dos serviços constantes da lista legal. ISS não alcança indistintamente toda atividade econômica."
+    },
+    {
+      "id": "direito-tributario-aula-055-b2",
+      "titulo": "",
+      "texto": "ART.229 — incidência independe de: existência de estabelecimento fixo; cumprimento de exigência legal/regulamentar/administrativa relativa à atividade, sem prejuízo de penalidades; resultado financeiro; destinação do serviço. MACETE: FIXO–REGULARIDADE–RESULTADO–DESTINAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-055-b3",
+      "titulo": "",
+      "texto": "ART.230 — regra: imposto devido no local do estabelecimento prestador; na falta, domicílio do prestador; ressalvadas exceções. Exemplos: instalação de andaimes/palcos/coberturas → local da instalação; obra/demolição → local da execução; coleta/resíduos, limpeza/conservação, jardinagem/poda → local da execução; guarda/estacionamento → onde o bem estiver."
+    },
+    {
+      "id": "direito-tributario-aula-055-b4",
+      "titulo": "",
+      "texto": "ART.231 — não incidência: exportações de serviços para exterior; serviços em relação de emprego e demais pessoas expressamente relacionadas; valores indicados do mercado de títulos, depósitos bancários e operações de crédito. PEGADINHA: não entra na não incidência de exportação o serviço desenvolvido no Município cujo resultado aqui se verifique, ainda que pago por residente no exterior."
+    },
+    {
+      "id": "direito-tributario-aula-055-b5",
+      "titulo": "",
+      "texto": "ART.232 — contribuinte = PRESTADOR DO SERVIÇO. Se exercer mais de uma atividade da lista, incidência sobre todas nas condições legais, inclusive profissional autônomo."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-03",
+  "contentHash": "b96d209e93a4caa6"
+}

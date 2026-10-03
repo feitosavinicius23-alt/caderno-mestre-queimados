@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 41,
+    "totalAulas": 44,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 164,
+    "tempoEstimadoMin": 173,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -46,7 +46,10 @@
       "IPTU DE QUEIMADOS: INFRAÇÕES E PENALIDADES — ART. 207",
       "ITBI DE QUEIMADOS: INCIDÊNCIA, MUTAÇÕES, NÃO INCIDÊNCIA E RESPONSABILIDADE — ARTS. 208 A 212",
       "ITBI DE QUEIMADOS: BASE DE CÁLCULO, ALÍQUOTAS, ARRECADAÇÃO E ISENÇÕES — ARTS. 213 A 220",
-      "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227"
+      "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
+      "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244"
     ],
     "aulas": [
       {
@@ -294,6 +297,24 @@
         "numero": 54,
         "titulo": "ITBI DE QUEIMADOS: OBRIGAÇÕES ACESSÓRIAS, PRAZO DE 90 DIAS E PENALIDADES — ARTS. 221 A 227",
         "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221"
+      },
+      {
+        "id": "direito-tributario-aula-055",
+        "numero": 55,
+        "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+        "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232"
+      },
+      {
+        "id": "direito-tributario-aula-056",
+        "numero": 56,
+        "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+        "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235"
+      },
+      {
+        "id": "direito-tributario-aula-057",
+        "numero": 57,
+        "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+        "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c"
       }
     ]
   },

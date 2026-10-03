@@ -1,0 +1,112 @@
+{
+  "id": "direito-tributario-aula-057",
+  "numero": 57,
+  "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+  "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+  "ordem": 57,
+  "data": "2026-10-03",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-057-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "OBJETIVO: dominar a tributação das sociedades profissionais, a separação de receitas quando houver múltiplas atividades e as deduções específicas da construção civil, com foco em literalidade e pegadinhas IAN."
+    },
+    {
+      "id": "direito-tributario-aula-057-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 240 — SOCIEDADES DE PROFISSIONAIS. Sujeitam-se ao imposto calculado na forma especial indicada pelo Código, por profissional habilitado que preste serviço em nome da sociedade, ainda que assuma responsabilidade pessoal, as sociedades constituídas para: médicos e atividades médicas listadas; enfermeiros, obstetras, ortópticos, fonoaudiólogos e protéticos; veterinários; contadores, auditores, guarda-livros e técnicos em contabilidade; agentes da propriedade industrial; advogados; engenheiros, arquitetos, urbanistas e agrônomos; dentistas; economistas; psicólogos. A lógica de prova é reconhecer a lista e não estender automaticamente o regime especial a qualquer sociedade."
+    },
+    {
+      "id": "direito-tributario-aula-057-b3",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "PEGADINHA DO PARÁGRAFO ÚNICO: o regime não se aplica aos integrantes relativamente a serviços alheios à profissão para a qual estejam habilitados nem aos serviços prestados em nome próprio. Também não se aplica às sociedades anônimas nem às sociedades comerciais de qualquer tipo, inclusive equiparadas. REGRA PRÁTICA: regime profissional exige enquadramento estrito; serviço fora da profissão ou em nome próprio sai da regra especial."
+    },
+    {
+      "id": "direito-tributario-aula-057-b4",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 241 — EMPRESA COM MAIS DE UMA ATIVIDADE DA LISTA. O imposto é calculado aplicando-se a ALÍQUOTA PRÓPRIA sobre o PREÇO DO SERVIÇO DE CADA ATIVIDADE. O contribuinte deve manter escrituração idônea capaz de diferenciar as receitas específicas. Se não conseguir separar as receitas, o imposto será calculado da FORMA MAIS ONEROSA: aplica-se a ALÍQUOTA MAIS ELEVADA sobre o preço do serviço auferido. MACETE: SEPAROU = CADA ATIVIDADE/CADA ALÍQUOTA; NÃO SEPAROU = MAIS ONEROSA/MAIOR ALÍQUOTA."
+    },
+    {
+      "id": "direito-tributario-aula-057-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 242 — TRABALHO PESSOAL COM MAIS DE UMA ATIVIDADE. Se os serviços prestados sob forma de trabalho pessoal do próprio contribuinte se enquadrarem em mais de um item da lista, o imposto será calculado EM RELAÇÃO A CADA UMA DAS ATIVIDADES EXERCIDAS. Não existe escolha de uma atividade para representar todas."
+    },
+    {
+      "id": "direito-tributario-aula-057-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 243 — DEDUÇÕES NA CONSTRUÇÃO. Quanto aos materiais, somente são admitidas deduções relativas aos que se INCORPOREM ou se CONSUMAM na execução das obras. Ficam excluídos: escoras, andaimes, torres e formas; ferramentas, máquinas e respectiva manutenção; materiais adquiridos para estoque ou armazenagem fora do canteiro antes da efetiva utilização; materiais recebidos na obra após o habite-se. Quanto às subempreitadas, não se admitem deduções quando realizadas por profissionais autônomos; executadas por sociedades de prestação de serviços profissionais; ou executadas depois do habite-se."
+    },
+    {
+      "id": "direito-tributario-aula-057-b7",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "DOCUMENTAÇÃO: materiais ou subempreitadas sem documentos revestidos das características/formalidades legais são INDEDUTÍVEIS, especialmente quando não houver perfeita identificação do emitente, destinatário, mercadorias e serviços.\nSERVIÇOS SOB REGIME DE ADMINISTRAÇÃO: a base inclui, além dos honorários do prestador, despesas gerais de administração, mão de obra, encargos sociais e reajustamentos, ainda que essas despesas sejam responsabilidade de terceiros. PEGADINHA: 'terceiro paga' não significa exclusão automática da base."
+    },
+    {
+      "id": "direito-tributario-aula-057-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 244 — INCORPORAÇÕES IMOBILIÁRIAS. Quando o construtor acumula a qualidade de incorporador com a de proprietário, promitente comprador, cessionário ou promitente cessionário do terreno ou frações ideais, a base de cálculo é o PREÇO CONTRATADO COM OS ADQUIRENTES DAS UNIDADES AUTÔNOMAS RELATIVO ÀS COTAS DE CONSTRUÇÃO. Só se admite deduzir subempreitadas e materiais proporcionalmente às frações ideais de terreno alienadas ou compromissadas. Consideram-se compromissadas também as frações ideais vinculadas a unidades contratadas para entrega futura em pagamento de bens e serviços adquiridos, inclusive terrenos. A apuração proporcional é individual por obra. Se os contratos não especificarem preços das frações ideais e cotas de construção, o Código estabelece cálculo próprio pela diferença entre o valor total do contrato e o valor resultante da divisão do preço de aquisição do terreno pela fração ideal vinculada à unidade contratada."
+    },
+    {
+      "id": "direito-tributario-aula-057-b9",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "RECUPERAÇÃO ESPAÇADA: art.232 contribuinte=prestador; art.235 alienante cessa→adquirente responde integralmente; alienante prossegue/reinicia em até 6 meses→responsabilidade subsidiária; art.237 base geral=preço do serviço e trabalho pessoal=até 2 empregados; art.239 alíquotas=Anexo II, salvo autônomos. ITBI: art.227 fraude=200%. IPTU: art.207 dolo/falsidade cadastral=100%."
+    },
+    {
+      "id": "direito-tributario-aula-057-b10",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:",
+      "texto": "1. O regime do art.240 alcança, entre outros: A advogados B qualquer comerciante C qualquer indústria D qualquer sociedade anônima.\n2. O integrante de sociedade profissional que presta serviço alheio à profissão habilitada: A permanece necessariamente no regime especial B não se beneficia dessa regra para esse serviço C fica imune D não é contribuinte.\n3. Sociedade anônima: A enquadra-se sempre no art.240 B está entre as exclusões do regime especial estudado C paga IPTU em vez de ISS D escolhe o regime.\n4. Empresa com duas atividades da lista e escrituração idônea: A usa uma única alíquota escolhida B aplica a alíquota própria ao preço de cada atividade C usa sempre a menor D fica isenta.\n5. Sem escrituração capaz de diferenciar receitas: A menor alíquota B média das alíquotas C forma mais onerosa, com alíquota mais elevada sobre o preço auferido D não há lançamento.\n6. Trabalho pessoal enquadrado em mais de um item: A tributa apenas atividade principal B calcula em relação a cada atividade C fica imune D usa sempre 2%.\n7. É dedutível segundo a regra estudada: A ferramenta B máquina C material que se incorpora/consome na obra, observados requisitos D andaime.\n8. NÃO admite dedução de subempreitada quando: A executada por profissional autônomo B documentada e legal em qualquer hipótese C anterior à obra D nenhuma.\n9. Documento sem formalidades legais para material/subempreitada: A torna o valor indedutível B gera dedução automática C extingue ISS D gera imunidade.\n10. No regime de administração, a base: A inclui só honorários B inclui também despesas gerais, mão de obra, encargos sociais e reajustamentos nas condições legais C exclui tudo pago por terceiro D é valor venal.\n11. Na incorporação do art.244, a base é ligada: A apenas ao valor venal do terreno B ao preço contratado relativo às cotas de construção C ao IPTU D ao lucro líquido.\n12. Recuperação: art.235, se o alienante cessa e o adquirente continua: A subsidiária B integral C nenhuma D 50%.\nREGRA DE RETENÇÃO: 240=SOCIEDADES PROFISSIONAIS/ENQUADRAMENTO ESTRITO; 241=SEPAROU RECEITAS→ALÍQUOTA DE CADA ATIVIDADE, NÃO SEPAROU→MAIOR ALÍQUOTA/FORMA MAIS ONEROSA; 242=TRABALHO PESSOAL, CADA ATIVIDADE; 243=DEDUÇÃO RESTRITA E DOCUMENTADA; 244=INCORPORAÇÃO, COTAS DE CONSTRUÇÃO E PROPORCIONALIDADE. STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.\n."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-057-b2",
+      "titulo": "",
+      "texto": "ART. 240 — SOCIEDADES DE PROFISSIONAIS. Sujeitam-se ao imposto calculado na forma especial indicada pelo Código, por profissional habilitado que preste serviço em nome da sociedade, ainda que assuma responsabilidade pessoal, as sociedades constituídas para: médicos e atividades médicas listadas; enfermeiros, obstetras, ortópticos, fonoaudiólogos e protéticos; veterinários; contadores, auditores, guarda-livros e técnicos em contabilidade; agentes da propriedade industrial; advogados; engenheiros, arquitetos, urbanistas e agrônomos; dentistas; economistas; psicólogos. A lógica de prova é reconhecer a lista e não estender automaticamente o regime especial a qualquer sociedade."
+    },
+    {
+      "id": "direito-tributario-aula-057-b4",
+      "titulo": "",
+      "texto": "ART. 241 — EMPRESA COM MAIS DE UMA ATIVIDADE DA LISTA. O imposto é calculado aplicando-se a ALÍQUOTA PRÓPRIA sobre o PREÇO DO SERVIÇO DE CADA ATIVIDADE. O contribuinte deve manter escrituração idônea capaz de diferenciar as receitas específicas. Se não conseguir separar as receitas, o imposto será calculado da FORMA MAIS ONEROSA: aplica-se a ALÍQUOTA MAIS ELEVADA sobre o preço do serviço auferido. MACETE: SEPAROU = CADA ATIVIDADE/CADA ALÍQUOTA; NÃO SEPAROU = MAIS ONEROSA/MAIOR ALÍQUOTA."
+    },
+    {
+      "id": "direito-tributario-aula-057-b5",
+      "titulo": "",
+      "texto": "ART. 242 — TRABALHO PESSOAL COM MAIS DE UMA ATIVIDADE. Se os serviços prestados sob forma de trabalho pessoal do próprio contribuinte se enquadrarem em mais de um item da lista, o imposto será calculado EM RELAÇÃO A CADA UMA DAS ATIVIDADES EXERCIDAS. Não existe escolha de uma atividade para representar todas."
+    },
+    {
+      "id": "direito-tributario-aula-057-b6",
+      "titulo": "",
+      "texto": "ART. 243 — DEDUÇÕES NA CONSTRUÇÃO. Quanto aos materiais, somente são admitidas deduções relativas aos que se INCORPOREM ou se CONSUMAM na execução das obras. Ficam excluídos: escoras, andaimes, torres e formas; ferramentas, máquinas e respectiva manutenção; materiais adquiridos para estoque ou armazenagem fora do canteiro antes da efetiva utilização; materiais recebidos na obra após o habite-se. Quanto às subempreitadas, não se admitem deduções quando realizadas por profissionais autônomos; executadas por sociedades de prestação de serviços profissionais; ou executadas depois do habite-se."
+    },
+    {
+      "id": "direito-tributario-aula-057-b8",
+      "titulo": "",
+      "texto": "ART. 244 — INCORPORAÇÕES IMOBILIÁRIAS. Quando o construtor acumula a qualidade de incorporador com a de proprietário, promitente comprador, cessionário ou promitente cessionário do terreno ou frações ideais, a base de cálculo é o PREÇO CONTRATADO COM OS ADQUIRENTES DAS UNIDADES AUTÔNOMAS RELATIVO ÀS COTAS DE CONSTRUÇÃO. Só se admite deduzir subempreitadas e materiais proporcionalmente às frações ideais de terreno alienadas ou compromissadas. Consideram-se compromissadas também as frações ideais vinculadas a unidades contratadas para entrega futura em pagamento de bens e serviços adquiridos, inclusive terrenos. A apuração proporcional é individual por obra. Se os contratos não especificarem preços das frações ideais e cotas de construção, o Código estabelece cálculo próprio pela diferença entre o valor total do contrato e o valor resultante da divisão do preço de aquisição do terreno pela fração ideal vinculada à unidade contratada."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-03",
+  "contentHash": "db02286005f594b4"
+}

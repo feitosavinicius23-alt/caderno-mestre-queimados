@@ -1,7 +1,7 @@
 {
-  "contentVersion": 23,
-  "geradoEm": "2026-10-03T01:09:43.195Z",
-  "total": 1052,
+  "contentVersion": 24,
+  "geradoEm": "2026-10-03T14:45:41.479Z",
+  "total": 1077,
   "documentos": [
     {
       "tipo": "aula",
@@ -9925,6 +9925,277 @@
       "slug": "itbi-de-queimados-obrigacoes-acessorias-prazo-de-90-dias-e-penalidades-arts-221",
       "blocoTipo": "teoria",
       "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO: 1. Art.221 obriga o sujeito passivo a: A apenas pagar B apresentar documentos/informações necessários ao lançamento C registrar empresa D pedir isenção.\n2. Tabeliães/escrivães, art.223: A dispensam guia B transcrevem guia nos atos que lavrarem C fixam alíquota D arbitram valor venal.\n3. Prazo do art.224: A30 B60 C90 D120 dias.\n4. Redação mais recente do "
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-055",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "texto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232 ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-055-b1",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.228 — fato gerador: prestação dos serviços constantes da lista legal. ISS não alcança indistintamente toda atividade econômica."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-055-b2",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.229 — incidência independe de: existência de estabelecimento fixo; cumprimento de exigência legal/regulamentar/administrativa relativa à atividade, sem prejuízo de penalidades; resultado financeiro; destinação do serviço. MACETE: FIXO–REGULARIDADE–RESULTADO–DESTINAÇÃO."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-055-b3",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.230 — regra: imposto devido no local do estabelecimento prestador; na falta, domicílio do prestador; ressalvadas exceções. Exemplos: instalação de andaimes/palcos/coberturas → local da instalação; obra/demolição → local da execução; coleta/resíduos, limpeza/conservação, jardinagem/poda → local da execução; guarda/estacionamento → onde o bem estiver."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-055-b4",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.231 — não incidência: exportações de serviços para exterior; serviços em relação de emprego e demais pessoas expressamente relacionadas; valores indicados do mercado de títulos, depósitos bancários e operações de crédito. PEGADINHA: não entra na não incidência de exportação o serviço desenvolvido no Município cujo resultado aqui se verifique, ainda que pago por residente no exterior."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-055-b5",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.232 — contribuinte = PRESTADOR DO SERVIÇO. Se exercer mais de uma atividade da lista, incidência sobre todas nas condições legais, inclusive profissional autônomo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-055-b6",
+      "lessonId": "direito-tributario-aula-055",
+      "titulo": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
+      "slug": "issqn-de-queimados-fato-gerador-incidencia-local-e-nao-incidencia-arts-228-a-232",
+      "blocoTipo": "teoria",
+      "texto": "RECUPERAÇÃO ITBI: 224=90 dias; 225=20%; 226=10%; 227=fraude 200%; base=maior entre pactuado e venal; SFH parcela financiada=0,5%; demais=2%.\nTESTE SEM GABARITO: 1 fato gerador A propriedade B serviço da lista C transmissão D renda. 2 estabelecimento fixo A indispensável B não é requisito C só autônomo D só PJ. 3 INCORRETO A independe resultado B independe destinação C irregularidade sempre afasta "
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-056",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "texto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239 ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-056-b1",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.235 — Quem adquirir, por qualquer título, estabelecimento profissional de prestação de serviços e continuar a exploração responde pelo imposto devido até a data do ato: INTEGRALMENTE se o alienante cessar a exploração; SUBSIDIARIAMENTE com o alienante se este prosseguir ou iniciar, dentro de 6 meses da alienação, nova atividade do mesmo ou de outro ramo de prestação de serviços. A regra subsid"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-056-b2",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.236 — Jogos e diversões públicas: empresários, encarregados ou gerentes das empresas, estabelecimentos, instalações ou locais são responsáveis pela arrecadação e recolhimento. A arrecadação ocorre no ato da aquisição onerosa do direito de ingressar em espetáculo, jogo ou divertimento, ou de participar dos jogos, divertimentos e atividades."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-056-b3",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.237 — BASE DE CÁLCULO DO ISS = PREÇO DO SERVIÇO. Para os subitens 3.05 e 22.01, a base é proporcional, conforme o caso, à extensão de ferrovia, rodovia, dutos, condutos, cabos ou ao número de postes no território municipal. Materiais fornecidos pelo prestador nos subitens 7.02 e 7.05 não se incluem na base. Trabalho pessoal do próprio contribuinte: imposto corresponde aos valores do Anexo I; c"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-056-b4",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "blocoTipo": "lei-seca",
+      "texto": "ART.238 — REVOGADO. ART.239 — alíquotas fixadas no ANEXO II, exceto profissionais autônomos, sujeitos à regra do §3º do art.237."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-056-b5",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "RECUPERAÇÃO: art.232 contribuinte=prestador; ITBI art.227 fraude=200%; IPTU art.207 dolo/falsidade=100%.",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO: art.232 contribuinte=prestador; ITBI art.227 fraude=200%; IPTU art.207 dolo/falsidade=100%. TESTE SEM GABARITO: 1 alienante cessa e adquirente continua: A subsidiária B integral C nenhuma D só multa. 2 alienante prossegue/reinicia em até 6 meses: A integral B subsidiária C isenção D imunidade. 3 prazo art235 A30d B60d C6meses D1ano. 4 fusão/transformação/incorporação: A sucessora nunc"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-056-b5",
+      "lessonId": "direito-tributario-aula-056",
+      "titulo": "RECUPERAÇÃO: art.232 contribuinte=prestador; ITBI art.227 fraude=200%; IPTU art.207 dolo/falsidade=100%.",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
+      "slug": "issqn-de-queimados-sucessao-jogos-diversoes-base-de-calculo-e-aliquotas-arts-235",
+      "texto": "TESTE SEM GABARITO: 1 alienante cessa e adquirente continua: A subsidiária B integral C nenhuma D só multa. 2 alienante prossegue/reinicia em até 6 meses: A integral B subsidiária C isenção D imunidade. 3 prazo art235 A30d B60d C6meses D1ano. 4 fusão/transformação/incorporação: A sucessora nunca responde B resultante responde pelo imposto devido até a data dos atos C só sócio D Município. 5 jogos/"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-057",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "texto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244 ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-057-b1",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO: dominar a tributação das sociedades profissionais, a separação de receitas quando houver múltiplas atividades e as deduções específicas da construção civil, com foco em literalidade e pegadinhas IAN."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-057-b2",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 240 — SOCIEDADES DE PROFISSIONAIS. Sujeitam-se ao imposto calculado na forma especial indicada pelo Código, por profissional habilitado que preste serviço em nome da sociedade, ainda que assuma responsabilidade pessoal, as sociedades constituídas para: médicos e atividades médicas listadas; enfermeiros, obstetras, ortópticos, fonoaudiólogos e protéticos; veterinários; contadores, auditores, g"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-057-b3",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "teoria",
+      "texto": "PEGADINHA DO PARÁGRAFO ÚNICO: o regime não se aplica aos integrantes relativamente a serviços alheios à profissão para a qual estejam habilitados nem aos serviços prestados em nome próprio. Também não se aplica às sociedades anônimas nem às sociedades comerciais de qualquer tipo, inclusive equiparadas. REGRA PRÁTICA: regime profissional exige enquadramento estrito; serviço fora da profissão ou em "
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-057-b4",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 241 — EMPRESA COM MAIS DE UMA ATIVIDADE DA LISTA. O imposto é calculado aplicando-se a ALÍQUOTA PRÓPRIA sobre o PREÇO DO SERVIÇO DE CADA ATIVIDADE. O contribuinte deve manter escrituração idônea capaz de diferenciar as receitas específicas. Se não conseguir separar as receitas, o imposto será calculado da FORMA MAIS ONEROSA: aplica-se a ALÍQUOTA MAIS ELEVADA sobre o preço do serviço auferido."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-057-b5",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 242 — TRABALHO PESSOAL COM MAIS DE UMA ATIVIDADE. Se os serviços prestados sob forma de trabalho pessoal do próprio contribuinte se enquadrarem em mais de um item da lista, o imposto será calculado EM RELAÇÃO A CADA UMA DAS ATIVIDADES EXERCIDAS. Não existe escolha de uma atividade para representar todas."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-057-b6",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 243 — DEDUÇÕES NA CONSTRUÇÃO. Quanto aos materiais, somente são admitidas deduções relativas aos que se INCORPOREM ou se CONSUMAM na execução das obras. Ficam excluídos: escoras, andaimes, torres e formas; ferramentas, máquinas e respectiva manutenção; materiais adquiridos para estoque ou armazenagem fora do canteiro antes da efetiva utilização; materiais recebidos na obra após o habite-se. Q"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-057-b7",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "teoria",
+      "texto": "DOCUMENTAÇÃO: materiais ou subempreitadas sem documentos revestidos das características/formalidades legais são INDEDUTÍVEIS, especialmente quando não houver perfeita identificação do emitente, destinatário, mercadorias e serviços.\nSERVIÇOS SOB REGIME DE ADMINISTRAÇÃO: a base inclui, além dos honorários do prestador, despesas gerais de administração, mão de obra, encargos sociais e reajustamentos,"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-057-b8",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "lei-seca",
+      "texto": "ART. 244 — INCORPORAÇÕES IMOBILIÁRIAS. Quando o construtor acumula a qualidade de incorporador com a de proprietário, promitente comprador, cessionário ou promitente cessionário do terreno ou frações ideais, a base de cálculo é o PREÇO CONTRATADO COM OS ADQUIRENTES DAS UNIDADES AUTÔNOMAS RELATIVO ÀS COTAS DE CONSTRUÇÃO. Só se admite deduzir subempreitadas e materiais proporcionalmente às frações i"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-057-b9",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "teoria",
+      "texto": "RECUPERAÇÃO ESPAÇADA: art.232 contribuinte=prestador; art.235 alienante cessa→adquirente responde integralmente; alienante prossegue/reinicia em até 6 meses→responsabilidade subsidiária; art.237 base geral=preço do serviço e trabalho pessoal=até 2 empregados; art.239 alíquotas=Anexo II, salvo autônomos. ITBI: art.227 fraude=200%. IPTU: art.207 dolo/falsidade cadastral=100%."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-057-b10",
+      "lessonId": "direito-tributario-aula-057",
+      "titulo": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO:",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
+      "slug": "issqn-de-queimados-sociedades-profissionais-multiplas-atividades-e-deducoes-na-c",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — SEM GABARITO ANTECIPADO: 1. O regime do art.240 alcança, entre outros: A advogados B qualquer comerciante C qualquer indústria D qualquer sociedade anônima.\n2. O integrante de sociedade profissional que presta serviço alheio à profissão habilitada: A permanece necessariamente no regime especial B não se beneficia dessa regra para esse serviço C fica imune D não é contribuinte.\n3"
     },
     {
       "tipo": "aula",
