@@ -1,7 +1,7 @@
 {
-  "contentVersion": 27,
-  "geradoEm": "2026-10-04T15:26:03.059Z",
-  "total": 1130,
+  "contentVersion": 28,
+  "geradoEm": "2026-10-04T18:07:46.330Z",
+  "total": 1146,
   "documentos": [
     {
       "tipo": "aula",
@@ -10773,6 +10773,179 @@
       "assunto": "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
       "slug": "issqn-de-queimados-correcao-tecnica-da-aula-60-isencoes-arts-269-a-273",
       "texto": "Sem consultar, recupere: art. 258 = 5 anos, salvo dolo/fraude/simulação; art. 262 = revisão da estimativa a qualquer tempo, reajustando vincendas; art. 265 corrigido = 20 dias da publicação; art. 266 = dia 15 do mês subsequente ao faturamento; art. 267 corrigido = 31 de janeiro + 28 de fevereiro; ITBI art. 227 = fraude 200%; IPTU art. 207 = dolo/falsidade 100%."
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-062",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "texto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279 ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b1",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "OBJETIVO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVO Fechar o bloco anterior às penalidades, dominando seis regras literais de alto potencial para a IAN: inscrição antes do início, inscrição por local, inscrição não significa aceitação, cessação em 30 dias, escrituração mesmo para isento e ficha anual do movimento econômico."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b2",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 274 — INSCRIÇÃO ANTES DE COMEÇAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 274 — INSCRIÇÃO ANTES DE COMEÇAR O contribuinte, AINDA QUE ISENTO OU IMUNE, deve requerer sua inscrição na repartição fiscal competente ANTES DE INICIAR SUAS ATIVIDADES, fornecendo à Prefeitura os elementos e informações necessários à correta fiscalização do tributo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b3",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "PEGADINHA: isenção ou imunidade não elimina a obrigação cadastral.",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: isenção ou imunidade não elimina a obrigação cadastral. MACETE: 274 = ANTES DE COMEÇAR, CADASTRE-SE."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b4",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 275 — UMA INSCRIÇÃO PARA CADA LOCAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 275 — UMA INSCRIÇÃO PARA CADA LOCAL Para CADA LOCAL DE PRESTAÇÃO DE SERVIÇO, o contribuinte deve fazer sua inscrição.\nEXCEÇÃO: AMBULANTE → INSCRIÇÃO ÚNICA.\nNão confunda estabelecimento com pessoa: um mesmo contribuinte pode precisar de inscrições distintas conforme os locais de prestação.\nMACETE: LOCAL = INSCRIÇÃO; AMBULANTE = UMA SÓ."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b5",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 276 — INSCRIÇÃO NÃO É CHANCELA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 276 — INSCRIÇÃO NÃO É CHANCELA A inscrição NÃO PRESUME a aceitação, pela Secretaria de Economia e Finanças, dos dados e informações apresentados pelo contribuinte."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b6",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "PEGADINHA IAN: trocar “não presume” por “presume”.",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA IAN: trocar “não presume” por “presume”. REGRA PRÁTICA: CADASTRO ≠ HOMOLOGAÇÃO DOS DADOS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b7",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 277 — CESSAÇÃO: 30 DIAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 277 — CESSAÇÃO: 30 DIAS O contribuinte deve comunicar à Secretaria de Economia e Finanças a cessação das atividades no prazo de 30 DIAS DE SUA OCORRÊNCIA, para obter a baixa da inscrição.\nA baixa somente é concedida APÓS A VERIFICAÇÃO DA PROCEDÊNCIA DA COMUNICAÇÃO e ocorre SEM PREJUÍZO DA COBRANÇA DOS IMPOSTOS E TAXAS DEVIDOS AO MUNICÍPIO.\nLogo: comunicar ≠ baixa automática; baixa ≠ perdão de"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b8",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 278 — OBRIGAÇÃO ACESSÓRIA MESMO PARA ISENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 278 — OBRIGAÇÃO ACESSÓRIA MESMO PARA ISENTO Os contribuintes, MESMO OS ISENTOS, ficam obrigados a manter e escriturar LIVROS, MAPAS E DEMAIS DOCUMENTOS instituídos em regulamento."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b9",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "PEGADINHA: isenção atinge o dever de pagar nas condições legais, não apaga automaticamente deveres instrumentais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: isenção atinge o dever de pagar nas condições legais, não apaga automaticamente deveres instrumentais."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b10",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "ART. 279 — FICHA ANUAL DO MOVIMENTO ECONÔMICO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "ART. 279 — FICHA ANUAL DO MOVIMENTO ECONÔMICO Os contribuintes, INCLUSIVE OS ISENTOS, obrigados ao recolhimento com base no movimento econômico devem apresentar ANUALMENTE ficha de informações correspondente ao MOVIMENTO DO ANO ANTERIOR, segundo modelo, forma, prazos e locais determinados pela Secretaria de Economia e Finanças.\nMACETE: 279 = ANUAL → ANO ANTERIOR → SEMF."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b11",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "MAPA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "mapa-mental",
+      "texto": "MAPA DE RETENÇÃO 274 = antes de iniciar + isento/imune também.\n275 = cada local; ambulante = inscrição única.\n276 = inscrição não presume aceitação dos dados.\n277 = cessação em 30 dias; baixa após verificação; dívida continua cobrável.\n278 = isento também escritura livros/mapas/documentos.\n279 = ficha anual do movimento do ano anterior; inclusive isentos nas condições do artigo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b12",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "RECUPERAÇÃO INTERCALADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "revisao",
+      "texto": "RECUPERAÇÃO INTERCALADA Sem consultar: 272 = último dia útil do ano anterior; 273 = início da atividade, pedido de isenção por ocasião da licença; 265 corrigido = 20 dias da publicação; 267 corrigido = duas parcelas, 31/1 e 28/2; ITBI 227 = fraude 200%; IPTU 207 = dolo/falsidade 100%."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-062-b13",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "blocoTipo": "teoria",
+      "texto": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO 1. O contribuinte isento ou imune: A fica dispensado de inscrição B deve requerer inscrição antes de iniciar as atividades C só se inscreve após fiscalização D só se inscreve ao obter lucro.\n2. Para cada local de prestação de serviço: A há regra de inscrição própria B existe sempre uma única inscrição C não há cadastro D a inscrição depende d"
+    },
+    {
+      "tipo": "mapa",
+      "id": "direito-tributario-aula-062-b11",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "MAPA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "texto": "274 = antes de iniciar + isento/imune também → 275 = cada local; ambulante = inscrição única → 276 = inscrição não presume aceitação dos dados → 277 = cessação em 30 dias; baixa após verificação; dívida continua cobrável → 278 = isento também escritura livros/mapas/documentos → 279 = ficha anual do movimento do ano anterior; inclusive isentos nas condições do artigo"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-062-b12",
+      "lessonId": "direito-tributario-aula-062",
+      "titulo": "RECUPERAÇÃO INTERCALADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "texto": "Sem consultar: 272 = último dia útil do ano anterior; 273 = início da atividade, pedido de isenção por ocasião da licença; 265 corrigido = 20 dias da publicação; 267 corrigido = duas parcelas, 31/1 e 28/2; ITBI 227 = fraude 200%; IPTU 207 = dolo/falsidade 100%."
     },
     {
       "tipo": "aula",

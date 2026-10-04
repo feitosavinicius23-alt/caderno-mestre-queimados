@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 27,
+  "contentVersion": 28,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-04T15:26:03.059Z",
-  "contentHashGlobal": "70d5116c83dbb2b3",
-  "totalAulas": 61,
+  "ultimaSincronizacao": "2026-10-04T18:07:46.330Z",
+  "contentHashGlobal": "b0cc3cbf69ee3c1e",
+  "totalAulas": 62,
   "totalQuestoes": 252,
   "totalDisciplinas": 4,
   "aulas": [
@@ -581,6 +581,18 @@
       "assunto": "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
       "arquivo": "aulas/direito-tributario-aula-061.json",
       "hash": "752e0a750b97aa98",
+      "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-04"
+    },
+    {
+      "id": "direito-tributario-aula-062",
+      "numero": 62,
+      "titulo": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "arquivo": "aulas/direito-tributario-aula-062.json",
+      "hash": "153f8ecc4753cd3f",
       "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-04"
     },

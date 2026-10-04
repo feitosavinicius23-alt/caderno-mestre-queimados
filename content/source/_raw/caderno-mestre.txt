@@ -9615,3 +9615,80 @@ TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO
 
 REGRA DE RETENÇÃO DA AULA 61: 269=5 GRUPOS DE ISENÇÃO; 270=REQUERER+PROVAR; 271=DOCUMENTAÇÃO ANTERIOR PODE SERVIR, MAS HÁ PROVAS DO NOVO EXERCÍCIO; 272=ÚLTIMO DIA ÚTIL DO ANO ANTERIOR; 273=INÍCIO DA ATIVIDADE→PEDIDO NA LICENÇA. CORREÇÃO: 259=AUTORIDADE ADMINISTRATIVA/HIPÓTESES; 261=ACERTO DA ESTIMATIVA; 265=20 DIAS; 267=31/1 E 28/2.
 STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: CADASTRO FISCAL DO ISS — ARTS. 274 A 279.
+
+
+AULA 62 — ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279
+
+
+OBJETIVO
+Fechar o bloco anterior às penalidades, dominando seis regras literais de alto potencial para a IAN: inscrição antes do início, inscrição por local, inscrição não significa aceitação, cessação em 30 dias, escrituração mesmo para isento e ficha anual do movimento econômico.
+
+
+ART. 274 — INSCRIÇÃO ANTES DE COMEÇAR
+O contribuinte, AINDA QUE ISENTO OU IMUNE, deve requerer sua inscrição na repartição fiscal competente ANTES DE INICIAR SUAS ATIVIDADES, fornecendo à Prefeitura os elementos e informações necessários à correta fiscalização do tributo.
+PEGADINHA: isenção ou imunidade não elimina a obrigação cadastral.
+MACETE: 274 = ANTES DE COMEÇAR, CADASTRE-SE.
+
+
+ART. 275 — UMA INSCRIÇÃO PARA CADA LOCAL
+Para CADA LOCAL DE PRESTAÇÃO DE SERVIÇO, o contribuinte deve fazer sua inscrição.
+EXCEÇÃO: AMBULANTE → INSCRIÇÃO ÚNICA.
+Não confunda estabelecimento com pessoa: um mesmo contribuinte pode precisar de inscrições distintas conforme os locais de prestação.
+MACETE: LOCAL = INSCRIÇÃO; AMBULANTE = UMA SÓ.
+
+
+ART. 276 — INSCRIÇÃO NÃO É CHANCELA
+A inscrição NÃO PRESUME a aceitação, pela Secretaria de Economia e Finanças, dos dados e informações apresentados pelo contribuinte.
+PEGADINHA IAN: trocar “não presume” por “presume”.
+REGRA PRÁTICA: CADASTRO ≠ HOMOLOGAÇÃO DOS DADOS.
+
+
+ART. 277 — CESSAÇÃO: 30 DIAS
+O contribuinte deve comunicar à Secretaria de Economia e Finanças a cessação das atividades no prazo de 30 DIAS DE SUA OCORRÊNCIA, para obter a baixa da inscrição.
+A baixa somente é concedida APÓS A VERIFICAÇÃO DA PROCEDÊNCIA DA COMUNICAÇÃO e ocorre SEM PREJUÍZO DA COBRANÇA DOS IMPOSTOS E TAXAS DEVIDOS AO MUNICÍPIO.
+Logo: comunicar ≠ baixa automática; baixa ≠ perdão de débito.
+MACETE: PAROU → 30 DIAS → COMUNICA → FISCO VERIFICA → BAIXA, SEM APAGAR DÉBITOS.
+
+
+ART. 278 — OBRIGAÇÃO ACESSÓRIA MESMO PARA ISENTO
+Os contribuintes, MESMO OS ISENTOS, ficam obrigados a manter e escriturar LIVROS, MAPAS E DEMAIS DOCUMENTOS instituídos em regulamento.
+PEGADINHA: isenção atinge o dever de pagar nas condições legais, não apaga automaticamente deveres instrumentais.
+
+
+ART. 279 — FICHA ANUAL DO MOVIMENTO ECONÔMICO
+Os contribuintes, INCLUSIVE OS ISENTOS, obrigados ao recolhimento com base no movimento econômico devem apresentar ANUALMENTE ficha de informações correspondente ao MOVIMENTO DO ANO ANTERIOR, segundo modelo, forma, prazos e locais determinados pela Secretaria de Economia e Finanças.
+MACETE: 279 = ANUAL → ANO ANTERIOR → SEMF.
+
+
+MAPA DE RETENÇÃO
+274 = antes de iniciar + isento/imune também.
+275 = cada local; ambulante = inscrição única.
+276 = inscrição não presume aceitação dos dados.
+277 = cessação em 30 dias; baixa após verificação; dívida continua cobrável.
+278 = isento também escritura livros/mapas/documentos.
+279 = ficha anual do movimento do ano anterior; inclusive isentos nas condições do artigo.
+
+
+RECUPERAÇÃO INTERCALADA
+Sem consultar: 272 = último dia útil do ano anterior; 273 = início da atividade, pedido de isenção por ocasião da licença; 265 corrigido = 20 dias da publicação; 267 corrigido = duas parcelas, 31/1 e 28/2; ITBI 227 = fraude 200%; IPTU 207 = dolo/falsidade 100%.
+
+
+TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO
+1. O contribuinte isento ou imune: A fica dispensado de inscrição B deve requerer inscrição antes de iniciar as atividades C só se inscreve após fiscalização D só se inscreve ao obter lucro.
+2. Para cada local de prestação de serviço: A há regra de inscrição própria B existe sempre uma única inscrição C não há cadastro D a inscrição depende de decisão judicial.
+3. A exceção expressa do art. 275 refere-se ao: A profissional liberal B ambulante, sujeito a inscrição única C proprietário de imóvel D tomador.
+4. A inscrição no cadastro: A presume aceitação dos dados pela Secretaria B não presume aceitação dos dados e informações apresentados C homologa definitivamente o tributo D impede fiscalização posterior.
+5. A cessação das atividades deve ser comunicada em: A 15 dias B 20 dias C 30 dias da ocorrência D 90 dias.
+6. A baixa da inscrição: A é automática com a comunicação B depende da verificação da procedência da comunicação C extingue todo débito D dispensa análise fiscal.
+7. A baixa ocorre: A com perdão dos impostos e taxas B sem prejuízo da cobrança dos impostos e taxas devidos C somente se nunca houve tributo D com imunidade retroativa.
+8. Pelo art. 278, os isentos: A não mantêm documentos B também ficam obrigados a manter e escriturar livros, mapas e demais documentos regulamentares C só mantêm documentos por ordem judicial D não possuem obrigação acessória.
+9. A ficha do art. 279 é apresentada: A mensalmente B anualmente C a cada cinco anos D apenas no encerramento.
+10. A ficha corresponde ao movimento: A do ano anterior B dos cinco anos anteriores C do mês corrente apenas D futuro estimado.
+11. EXCETO: A 274=inscrição antes do início B 275=ambulante inscrição única C 276=inscrição presume aceitação dos dados D 277=cessação 30 dias.
+12. Recuperação: regra geral do art. 272 para requerer isenção: A último dia útil do ano anterior B 30 dias depois do exercício C 5 anos D dia 15 mensal.
+
+
+REGRA DE RETENÇÃO DA AULA 62: 274=ANTES; 275=CADA LOCAL/AMBULANTE UMA; 276=NÃO ACEITA AUTOMATICAMENTE; 277=30 DIAS + VERIFICAÇÃO + DÉBITO SOBREVIVE; 278=ISENTO TAMBÉM ESCRITURA; 279=FICHA ANUAL DO ANO ANTERIOR.
+
+
+STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: ART. 280 — INFRAÇÕES E PENALIDADES DO ISSQN.

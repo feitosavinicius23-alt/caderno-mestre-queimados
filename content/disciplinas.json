@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 48,
+    "totalAulas": 49,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 193,
+    "tempoEstimadoMin": 197,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -53,7 +53,8 @@
       "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
       "ISSQN DE QUEIMADOS: ESCRITA FISCAL, DOCUMENTOS, REVISÃO DO LANÇAMENTO E HOMOLOGAÇÃO — ARTS. 255 A 258",
       "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
-      "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273"
+      "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
+      "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279"
     ],
     "aulas": [
       {
@@ -343,6 +344,12 @@
         "numero": 61,
         "titulo": "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
         "slug": "issqn-de-queimados-correcao-tecnica-da-aula-60-isencoes-arts-269-a-273"
+      },
+      {
+        "id": "direito-tributario-aula-062",
+        "numero": 62,
+        "titulo": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+        "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274"
       }
     ]
   },

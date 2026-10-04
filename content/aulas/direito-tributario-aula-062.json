@@ -1,0 +1,124 @@
+{
+  "id": "direito-tributario-aula-062",
+  "numero": 62,
+  "titulo": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+  "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+  "ordem": 62,
+  "data": "2026-10-04",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-062-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO",
+      "texto": "Fechar o bloco anterior às penalidades, dominando seis regras literais de alto potencial para a IAN: inscrição antes do início, inscrição por local, inscrição não significa aceitação, cessação em 30 dias, escrituração mesmo para isento e ficha anual do movimento econômico."
+    },
+    {
+      "id": "direito-tributario-aula-062-b2",
+      "tipo": "teoria",
+      "titulo": "ART. 274 — INSCRIÇÃO ANTES DE COMEÇAR",
+      "texto": "O contribuinte, AINDA QUE ISENTO OU IMUNE, deve requerer sua inscrição na repartição fiscal competente ANTES DE INICIAR SUAS ATIVIDADES, fornecendo à Prefeitura os elementos e informações necessários à correta fiscalização do tributo."
+    },
+    {
+      "id": "direito-tributario-aula-062-b3",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: isenção ou imunidade não elimina a obrigação cadastral.",
+      "texto": "MACETE: 274 = ANTES DE COMEÇAR, CADASTRE-SE."
+    },
+    {
+      "id": "direito-tributario-aula-062-b4",
+      "tipo": "teoria",
+      "titulo": "ART. 275 — UMA INSCRIÇÃO PARA CADA LOCAL",
+      "texto": "Para CADA LOCAL DE PRESTAÇÃO DE SERVIÇO, o contribuinte deve fazer sua inscrição.\nEXCEÇÃO: AMBULANTE → INSCRIÇÃO ÚNICA.\nNão confunda estabelecimento com pessoa: um mesmo contribuinte pode precisar de inscrições distintas conforme os locais de prestação.\nMACETE: LOCAL = INSCRIÇÃO; AMBULANTE = UMA SÓ."
+    },
+    {
+      "id": "direito-tributario-aula-062-b5",
+      "tipo": "teoria",
+      "titulo": "ART. 276 — INSCRIÇÃO NÃO É CHANCELA",
+      "texto": "A inscrição NÃO PRESUME a aceitação, pela Secretaria de Economia e Finanças, dos dados e informações apresentados pelo contribuinte."
+    },
+    {
+      "id": "direito-tributario-aula-062-b6",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA IAN: trocar “não presume” por “presume”.",
+      "texto": "REGRA PRÁTICA: CADASTRO ≠ HOMOLOGAÇÃO DOS DADOS."
+    },
+    {
+      "id": "direito-tributario-aula-062-b7",
+      "tipo": "teoria",
+      "titulo": "ART. 277 — CESSAÇÃO: 30 DIAS",
+      "texto": "O contribuinte deve comunicar à Secretaria de Economia e Finanças a cessação das atividades no prazo de 30 DIAS DE SUA OCORRÊNCIA, para obter a baixa da inscrição.\nA baixa somente é concedida APÓS A VERIFICAÇÃO DA PROCEDÊNCIA DA COMUNICAÇÃO e ocorre SEM PREJUÍZO DA COBRANÇA DOS IMPOSTOS E TAXAS DEVIDOS AO MUNICÍPIO.\nLogo: comunicar ≠ baixa automática; baixa ≠ perdão de débito.\nMACETE: PAROU → 30 DIAS → COMUNICA → FISCO VERIFICA → BAIXA, SEM APAGAR DÉBITOS."
+    },
+    {
+      "id": "direito-tributario-aula-062-b8",
+      "tipo": "teoria",
+      "titulo": "ART. 278 — OBRIGAÇÃO ACESSÓRIA MESMO PARA ISENTO",
+      "texto": "Os contribuintes, MESMO OS ISENTOS, ficam obrigados a manter e escriturar LIVROS, MAPAS E DEMAIS DOCUMENTOS instituídos em regulamento."
+    },
+    {
+      "id": "direito-tributario-aula-062-b9",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: isenção atinge o dever de pagar nas condições legais, não apaga automaticamente deveres instrumentais.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-062-b10",
+      "tipo": "teoria",
+      "titulo": "ART. 279 — FICHA ANUAL DO MOVIMENTO ECONÔMICO",
+      "texto": "Os contribuintes, INCLUSIVE OS ISENTOS, obrigados ao recolhimento com base no movimento econômico devem apresentar ANUALMENTE ficha de informações correspondente ao MOVIMENTO DO ANO ANTERIOR, segundo modelo, forma, prazos e locais determinados pela Secretaria de Economia e Finanças.\nMACETE: 279 = ANUAL → ANO ANTERIOR → SEMF."
+    },
+    {
+      "id": "direito-tributario-aula-062-b11",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE RETENÇÃO",
+      "texto": "274 = antes de iniciar + isento/imune também.\n275 = cada local; ambulante = inscrição única.\n276 = inscrição não presume aceitação dos dados.\n277 = cessação em 30 dias; baixa após verificação; dívida continua cobrável.\n278 = isento também escritura livros/mapas/documentos.\n279 = ficha anual do movimento do ano anterior; inclusive isentos nas condições do artigo.",
+      "mapaId": "direito-tributario-aula-062-b11"
+    },
+    {
+      "id": "direito-tributario-aula-062-b12",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO INTERCALADA",
+      "texto": "Sem consultar: 272 = último dia útil do ano anterior; 273 = início da atividade, pedido de isenção por ocasião da licença; 265 corrigido = 20 dias da publicação; 267 corrigido = duas parcelas, 31/1 e 28/2; ITBI 227 = fraude 200%; IPTU 207 = dolo/falsidade 100%."
+    },
+    {
+      "id": "direito-tributario-aula-062-b13",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "1. O contribuinte isento ou imune: A fica dispensado de inscrição B deve requerer inscrição antes de iniciar as atividades C só se inscreve após fiscalização D só se inscreve ao obter lucro.\n2. Para cada local de prestação de serviço: A há regra de inscrição própria B existe sempre uma única inscrição C não há cadastro D a inscrição depende de decisão judicial.\n3. A exceção expressa do art. 275 refere-se ao: A profissional liberal B ambulante, sujeito a inscrição única C proprietário de imóvel D tomador.\n4. A inscrição no cadastro: A presume aceitação dos dados pela Secretaria B não presume aceitação dos dados e informações apresentados C homologa definitivamente o tributo D impede fiscalização posterior.\n5. A cessação das atividades deve ser comunicada em: A 15 dias B 20 dias C 30 dias da ocorrência D 90 dias.\n6. A baixa da inscrição: A é automática com a comunicação B depende da verificação da procedência da comunicação C extingue todo débito D dispensa análise fiscal.\n7. A baixa ocorre: A com perdão dos impostos e taxas B sem prejuízo da cobrança dos impostos e taxas devidos C somente se nunca houve tributo D com imunidade retroativa.\n8. Pelo art. 278, os isentos: A não mantêm documentos B também ficam obrigados a manter e escriturar livros, mapas e demais documentos regulamentares C só mantêm documentos por ordem judicial D não possuem obrigação acessória.\n9. A ficha do art. 279 é apresentada: A mensalmente B anualmente C a cada cinco anos D apenas no encerramento.\n10. A ficha corresponde ao movimento: A do ano anterior B dos cinco anos anteriores C do mês corrente apenas D futuro estimado.\n11. EXCETO: A 274=inscrição antes do início B 275=ambulante inscrição única C 276=inscrição presume aceitação dos dados D 277=cessação 30 dias.\n12. Recuperação: regra geral do art. 272 para requerer isenção: A último dia útil do ano anterior B 30 dias depois do exercício C 5 anos D dia 15 mensal.\n\nREGRA DE RETENÇÃO DA AULA 62: 274=ANTES; 275=CADA LOCAL/AMBULANTE UMA; 276=NÃO ACEITA AUTOMATICAMENTE; 277=30 DIAS + VERIFICAÇÃO + DÉBITO SOBREVIVE; 278=ISENTO TAMBÉM ESCRITURA; 279=FICHA ANUAL DO ANO ANTERIOR.\n\nSTATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: ART. 280 — INFRAÇÕES E PENALIDADES DO ISSQN."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-062-b12",
+      "titulo": "RECUPERAÇÃO INTERCALADA",
+      "texto": "Sem consultar: 272 = último dia útil do ano anterior; 273 = início da atividade, pedido de isenção por ocasião da licença; 265 corrigido = 20 dias da publicação; 267 corrigido = duas parcelas, 31/1 e 28/2; ITBI 227 = fraude 200%; IPTU 207 = dolo/falsidade 100%."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-062-b11",
+      "titulo": "MAPA DE RETENÇÃO",
+      "nos": [
+        "274 = antes de iniciar + isento/imune também",
+        "275 = cada local; ambulante = inscrição única",
+        "276 = inscrição não presume aceitação dos dados",
+        "277 = cessação em 30 dias; baixa após verificação; dívida continua cobrável",
+        "278 = isento também escritura livros/mapas/documentos",
+        "279 = ficha anual do movimento do ano anterior; inclusive isentos nas condições do artigo"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-04",
+  "contentHash": "153f8ecc4753cd3f"
+}
