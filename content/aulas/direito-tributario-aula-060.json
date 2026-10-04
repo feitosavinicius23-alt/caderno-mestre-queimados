@@ -1,0 +1,140 @@
+{
+  "id": "direito-tributario-aula-060",
+  "numero": 60,
+  "titulo": "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
+  "slug": "issqn-de-queimados-regime-de-estimativa-e-recolhimento-arts-259-a-268",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
+  "ordem": 60,
+  "data": "2026-10-04",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-060-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO",
+      "texto": "Dominar quem institui a estimativa, os quatro fatores usados no cálculo, revisão/suspensão do regime, prazo de impugnação, vencimento mensal, valores fixos anuais e prova de inexistência de base de cálculo."
+    },
+    {
+      "id": "direito-tributario-aula-060-b2",
+      "tipo": "teoria",
+      "titulo": "ART. 259 — ESTIMATIVA",
+      "texto": "A Fazenda Pública pode, por ATO NORMATIVO PRÓPRIO expedido pela COMISSÃO definida nos termos do art. 251, fixar o valor do ISS por estimativa."
+    },
+    {
+      "id": "direito-tributario-aula-060-b3",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: não é escolha informal de qualquer agente. Ligue 259 ao art.251: comissão de arbitramento/estimativa já estudada.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-060-b4",
+      "tipo": "teoria",
+      "titulo": "ART. 260 — QUATRO FATORES",
+      "texto": "O valor estimado considera:\nI — tempo de duração e natureza específica da atividade;\nII — preço corrente dos serviços;\nIII — local onde se estabelece o contribuinte;\nIV — volume de receitas em períodos anteriores e projeção para os seguintes, podendo observar outros contribuintes de idêntica atividade.\nMACETE: TEMPO/NATUREZA — PREÇO — LOCAL — RECEITA/PROJEÇÃO.\nA banca pode substituir um fator por lucro líquido, patrimônio ou valor venal: não aceite."
+    },
+    {
+      "id": "direito-tributario-aula-060-b5",
+      "tipo": "teoria",
+      "titulo": "ART. 261 — REGULAMENTO",
+      "texto": "Ao imposto lançado por estimativa aplicam-se as regras estabelecidas em regulamento."
+    },
+    {
+      "id": "direito-tributario-aula-060-b6",
+      "tipo": "teoria",
+      "titulo": "ART. 262 — REVISÃO A QUALQUER TEMPO",
+      "texto": "A Fazenda pode rever os valores estimados A QUALQUER TEMPO e reajustar as PARCELAS VINCENDAS quando verificar que a estimativa inicial foi incorreta ou que o volume/modalidade dos serviços se alterou substancialmente."
+    },
+    {
+      "id": "direito-tributario-aula-060-b7",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: revisão não depende de terminar o exercício e o texto destaca parcelas vincendas.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-060-b8",
+      "tipo": "teoria",
+      "titulo": "ART. 263 — LIVROS E DOCUMENTOS",
+      "texto": "Contribuintes no regime de estimativa PODERÃO, A CRITÉRIO DA AUTORIDADE FISCAL, ficar dispensados do uso de livros fiscais e da emissão de documentos.\nNão transforme faculdade em dispensa automática."
+    },
+    {
+      "id": "direito-tributario-aula-060-b9",
+      "tipo": "comparacao",
+      "titulo": "Compare com art.255: regra geral exige escrita/documentação; art.263 cria possibilidade específica no regime estimado.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-060-b10",
+      "tipo": "teoria",
+      "titulo": "ART. 264 — SUSPENSÃO",
+      "texto": "O regime de estimativa pode ser suspenso pela autoridade fiscal MESMO SEM TER TERMINADO O EXERCÍCIO OU PERÍODO, de modo geral ou individual, ou quanto a categoria de estabelecimentos, grupos ou setores, quando deixarem de prevalecer as condições que originaram o enquadramento.\nMACETE: SUMIU A CONDIÇÃO → PODE SUSPENDER."
+    },
+    {
+      "id": "direito-tributario-aula-060-b11",
+      "tipo": "teoria",
+      "titulo": "ART. 265 — IMPUGNAÇÃO: 30 DIAS",
+      "texto": "Contribuintes abrangidos pelo regime podem apresentar impugnação contra o valor estimado no prazo de 30 DIAS, contado da PUBLICAÇÃO DO ATO NORMATIVO, observados os arts. 146 e 151.\nAssociação obrigatória: ESTIMATIVA → IMPUGNAÇÃO 30 DIAS → PUBLICAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-060-b12",
+      "tipo": "teoria",
+      "titulo": "ART. 266 — RECOLHIMENTO MENSAL: DIA 15",
+      "texto": "O recolhimento é MENSAL, aos cofres da Prefeitura ou bancos autorizados, mediante guias específicas, INDEPENDENTEMENTE DE AVISO OU NOTIFICAÇÃO e independentemente do recebimento do preço do serviço e da época desse recebimento, ATÉ O DIA 15 DO MÊS SUBSEQUENTE AO DO FATURAMENTO.\nMACETE: FATUROU → MÊS SEGUINTE, DIA 15.\nNão confundir com art.254: ali, quando a própria Prefeitura calcula/registra, há intervalo mínimo de 30 dias entre notificação e pagamento."
+    },
+    {
+      "id": "direito-tributario-aula-060-b13",
+      "tipo": "teoria",
+      "titulo": "ART. 267 — VALORES FIXOS ANUAIS",
+      "texto": "Contribuintes sujeitos a valores fixos anuais recolhem o imposto em DUAS PARCELAS, observado o valor mínimo de 26,0312 UFIR POR PARCELA.\nMAPA NUMÉRICO: 30 dias (impugnação) / dia 15 (mensal) / 2 parcelas / 26,0312 UFIR por parcela."
+    },
+    {
+      "id": "direito-tributario-aula-060-b14",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 268 — NÃO PRESTOU SERVIÇO TRIBUTÁVEL NO MUNICÍPIO?"
+    },
+    {
+      "id": "direito-tributario-aula-060-b15",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Se o contribuinte quiser comprovar a inexistência de base de cálculo por não ter prestado serviços tributáveis no Município, deve fazê-lo com DOCUMENTAÇÃO HÁBIL, a critério da autoridade fiscal, NOS PRAZOS ESTABELECIDOS PARA PAGAMENTO. Caso contrário, fica sujeito à multa indicada no art. 280, VII.\nREGRA PRÁTICA: “não tive movimento tributável” não é mera alegação; exige comprovação documental tempestiva."
+    },
+    {
+      "id": "direito-tributario-aula-060-b16",
+      "tipo": "teoria",
+      "titulo": "INTERCALAÇÃO E RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar, complete:\n1) art.255: serviços não tributáveis entram na escrita?\n2) art.258: prazo e três ressalvas?\n3) art.259: quem expede o ato normativo?\n4) art.260: quatro fatores?\n5) art.262: revisão pode ocorrer quando?\n6) art.265: prazo e termo inicial?\n7) art.266: vencimento?\n8) art.267: quantas parcelas e mínimo?\nRespostas-alvo para autocorreção posterior: sim; 5 anos + dolo/fraude/simulação; comissão do art.251; tempo/natureza, preço, local, receitas/projeção; a qualquer tempo nas hipóteses legais; 30 dias da publicação; dia 15 do mês subsequente ao faturamento; 2 parcelas de no mínimo 26,0312 UFIR cada."
+    },
+    {
+      "id": "direito-tributario-aula-060-b17",
+      "tipo": "teoria",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN — NÃO REVELE O GABARITO ANTES DA RESPOSTA DO ALUNO",
+      "texto": "1. O valor do ISS por estimativa pode ser fixado: A por decisão informal do fiscal B por ato normativo próprio da Fazenda expedido pela comissão do art.251 C só por sentença D pelo contribuinte.\n2. NÃO é fator do art.260: A tempo/natureza B preço corrente C local do contribuinte D valor venal do imóvel como regra.\n3. A projeção pode considerar: A outros contribuintes de idêntica atividade B apenas o IPTU C só receita futura declarada D nenhum dado anterior.\n4. A Fazenda pode rever valores estimados: A só ao fim do exercício B a qualquer tempo nas hipóteses legais C nunca D só judicialmente.\n5. A revisão pode reajustar: A parcelas vincendas B somente parcelas prescritas C multas penais D IPTU.\n6. No regime estimado, dispensa de livros/documentos: A automática B impossível C possível a critério da autoridade fiscal D depende sempre de juiz.\n7. O regime pode ser suspenso antes do fim do período: A não B sim, quando não prevalecerem as condições do enquadramento C só a pedido do contribuinte D só após 5 anos.\n8. Impugnação contra valor estimado: A 10 dias da ciência pessoal B 15 dias do faturamento C 30 dias da publicação do ato normativo D 90 dias do fato gerador.\n9. Recolhimento do art.266: A anual B mensal até dia 15 do mês subsequente ao faturamento C dia 30 do mesmo mês D depende de notificação.\n10. Art.266: A depende do recebimento do preço B independe de aviso/notificação e do recebimento do preço C só vence após pagamento do cliente D é facultativo.\n11. Valores fixos anuais: A 1 parcela B 2 parcelas, mínimo 26,0312 UFIR por parcela C 12 parcelas D 3 parcelas de 30 UFIR.\n12. Para comprovar inexistência de base por ausência de serviço tributável no Município: A basta declaração oral B documentação hábil nos prazos de pagamento C nada precisa fazer D somente ação judicial."
+    },
+    {
+      "id": "direito-tributario-aula-060-b18",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 60:",
+      "texto": "259=ATO NORMATIVO/COMISSÃO ART.251.\n260=4 FATORES: TEMPO-NATUREZA / PREÇO / LOCAL / RECEITA-PROJEÇÃO.\n262=REVISÃO A QUALQUER TEMPO + PARCELAS VINCENDAS.\n263=DISPENSA POSSÍVEL, NÃO AUTOMÁTICA.\n264=SUSPENSÃO MESMO ANTES DO FIM.\n265=30 DIAS DA PUBLICAÇÃO.\n266=MENSAL, DIA 15 DO MÊS SEGUINTE AO FATURAMENTO, SEM DEPENDER DE AVISO OU RECEBIMENTO.\n267=2 PARCELAS, MÍNIMO 26,0312 UFIR CADA.\n268=INEXISTÊNCIA DE BASE EXIGE DOCUMENTAÇÃO HÁBIL TEMPESTIVA.\nSTATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: ISENÇÕES DO ISS, ARTS. 269 A 273, COM REVISÃO INTERCALADA.\n."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-060-b14",
+      "titulo": "ART. 267 — VALORES FIXOS ANUAIS",
+      "texto": "ART. 268 — NÃO PRESTOU SERVIÇO TRIBUTÁVEL NO MUNICÍPIO?"
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-04",
+  "contentHash": "ddd1ad13f4fa3812"
+}

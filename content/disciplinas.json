@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 45,
+    "totalAulas": 48,
     "totalQuestoes": 226,
-    "tempoEstimadoMin": 179,
+    "tempoEstimadoMin": 193,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -50,7 +50,10 @@
       "ISSQN DE QUEIMADOS: FATO GERADOR, INCIDÊNCIA, LOCAL E NÃO INCIDÊNCIA — ARTS. 228 A 232",
       "ISSQN DE QUEIMADOS: SUCESSÃO, JOGOS/DIVERSÕES, BASE DE CÁLCULO E ALÍQUOTAS — ARTS. 235 A 239",
       "ISSQN DE QUEIMADOS: SOCIEDADES PROFISSIONAIS, MÚLTIPLAS ATIVIDADES E DEDUÇÕES NA CONSTRUÇÃO — ARTS. 240 A 244",
-      "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254"
+      "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
+      "ISSQN DE QUEIMADOS: ESCRITA FISCAL, DOCUMENTOS, REVISÃO DO LANÇAMENTO E HOMOLOGAÇÃO — ARTS. 255 A 258",
+      "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
+      "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273"
     ],
     "aulas": [
       {
@@ -322,6 +325,24 @@
         "numero": 58,
         "titulo": "ISSQN de Queimados: demolição, diversões, múltiplas atividades, arbitramento e lançamento — arts. 245 a 254",
         "slug": "issqn-de-queimados-demolicao-diversoes-multiplas-atividades-arbitramento-e-lanca"
+      },
+      {
+        "id": "direito-tributario-aula-059",
+        "numero": 59,
+        "titulo": "ISSQN DE QUEIMADOS: ESCRITA FISCAL, DOCUMENTOS, REVISÃO DO LANÇAMENTO E HOMOLOGAÇÃO — ARTS. 255 A 258",
+        "slug": "issqn-de-queimados-escrita-fiscal-documentos-revisao-do-lancamento-e-homologacao"
+      },
+      {
+        "id": "direito-tributario-aula-060",
+        "numero": 60,
+        "titulo": "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
+        "slug": "issqn-de-queimados-regime-de-estimativa-e-recolhimento-arts-259-a-268"
+      },
+      {
+        "id": "direito-tributario-aula-061",
+        "numero": 61,
+        "titulo": "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
+        "slug": "issqn-de-queimados-correcao-tecnica-da-aula-60-isencoes-arts-269-a-273"
       }
     ]
   },

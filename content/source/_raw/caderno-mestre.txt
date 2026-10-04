@@ -9386,4 +9386,232 @@ TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO
 
 
 REGRA DE RETENÇÃO: 245=DEMOLIÇÃO: DINHEIRO+MATERIAL, SALVO DEMOLIÇÃO ENGLOBADA NO CONTRATO DE CONSTRUÇÃO; 246=DIVERSÕES: INGRESSO+COBRANÇAS EXPRESSAS; 247=NÃO SEPAROU ATIVIDADES→MAIOR ALÍQUOTA; 248=ELEMENTOS DO CONTRIBUINTE/RESPONSÁVEL; 250=7 HIPÓTESES DE ARBITRAMENTO; 251=COMISSÃO MÍNIMO 5; 252=ARBITRAMENTO NÃO EXONERA PUNIÇÃO; 253=LANÇAMENTO MENSAL; 254=INTERVALO MÍNIMO 30 DIAS. STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.
+
+
+
+
+AULA 59 — ISSQN DE QUEIMADOS: ESCRITA FISCAL, DOCUMENTOS, REVISÃO DO LANÇAMENTO E HOMOLOGAÇÃO — ARTS. 255 A 258
+
+
+ART. 255 — OBRIGAÇÕES DO PAGAMENTO MENSAL
+Os contribuintes sujeitos ao pagamento mensal devem manter escrita fiscal destinada ao registro dos serviços prestados, AINDA QUE NÃO TRIBUTÁVEIS, e emitir notas fiscais de serviços ou outros documentos admitidos pela Administração por ocasião da prestação.
+PEGADINHA: não incidência/isenção de uma operação não significa ausência de registro fiscal.
+
+
+LIVROS E DOCUMENTOS — 5 ANOS
+Os modelos são definidos pela Secretaria de Economia e Finanças. Livros e documentos fiscais ficam sujeitos à exibição à fiscalização durante 5 ANOS e, como regra, não podem ser retirados do estabelecimento ou domicílio, ressalvadas hipóteses regulamentares.
+Instrumentos auxiliares abrangem livros de contabilidade geral, livros obrigatórios e auxiliares, documentos fiscais, guias de pagamento e outros documentos relacionados direta ou indiretamente aos lançamentos, ainda que pertencentes ao arquivo de terceiros.
+
+
+CADA ESTABELECIMENTO = ESCRITURAÇÃO PRÓPRIA
+É vedada a centralização na matriz ou estabelecimento principal. Se os meios normais de fiscalização forem insatisfatórios, podem ser admitidos instrumentos/documentos especiais nas condições legais, mediante despacho fundamentado.
+Durante o prazo de 5 anos dado ao Município para constituir o crédito, o lançamento permanece sujeito a revisão, devendo o contribuinte conservar livros e documentos à disposição do Fisco.
+
+
+ART. 256 — DOCUMENTAÇÃO SIMPLIFICADA
+A Secretaria pode criar/aceitar documentação simplificada para contribuintes de rudimentar organização ou microempresas. Simplificada não significa inexistente.
+
+
+ART. 257 — LANÇOU ≠ LEGALIZOU
+O lançamento do ISS não implica reconhecimento da regularidade do exercício da atividade nem da legalidade das condições do local, instalações, equipamentos ou obras.
+
+
+ART. 258 — HOMOLOGAÇÃO
+Decorridos 5 ANOS da ocorrência do fato gerador sem pronunciamento da Fazenda Pública, considera-se homologado o lançamento e definitivamente extinto o crédito, ressalvados DOLO, FRAUDE ou SIMULAÇÃO comprovados.
+MACETE: 5 ANOS → HOMOLOGAÇÃO/EXTINÇÃO; SALVO DFS = dolo, fraude, simulação.
+
+
+RECUPERAÇÃO: art.250 arbitramento fundamentado; art.251 comissão mínimo 5; art.252 arbitramento não exonera punição; art.253 lançamento mensal; art.254 intervalo mínimo 30 dias.
+
+
+TESTE CUMULATIVO — SEM GABARITO ANTECIPADO
+1. A escrita fiscal registra: A só tributáveis B serviços prestados ainda que não tributáveis C só pagos à vista D só após fiscalização.
+2. Nota fiscal/documento admitido é emitido: A no fim do ano B por ocasião da prestação C após fiscalização D só com lucro.
+3. Exibição obrigatória de livros/documentos: A 1 ano B 2 C 5 D 10.
+4. INCORRETA: A livros auxiliares podem ser instrumentos B guias podem integrar C arquivo de terceiro pode ser relevante D só documento fisicamente do contribuinte pode ser considerado.
+5. Vários estabelecimentos: A centraliza matriz B cada um tem escrituração própria C só matriz escritura D escolha livre.
+6. Meios normais insatisfatórios: instrumentos especiais exigem A despacho fundamentado B decisão judicial C autorização do contribuinte D lei individual.
+7. Revisão estudada: A 30 dias B 1 ano C 3 anos D 5 anos.
+8. Documentação simplificada: A rudimentar organização/microempresa B só bancos C só S/A D só órgãos públicos.
+9. Lançamento do ISS: A legaliza instalações B reconhece regularidade C não reconhece automaticamente regularidade/legalidade D substitui alvará.
+10. Cinco anos sem pronunciamento: A homologação/extinção ressalvadas exceções B imprescritível C multa 200% D novo fato gerador.
+11. EXCETO entre ressalvas: A dolo B fraude C simulação D prejuízo financeiro.
+12. Art.251 comissão mínima: A2 B3 C5 D10.
+REGRA DE RETENÇÃO: 255=ESCRITA+NOTA+5 ANOS+CADA ESTABELECIMENTO; 256=SIMPLIFICAÇÃO; 257=LANÇOU≠LEGALIZOU; 258=5 ANOS/HOMOLOGAÇÃO, SALVO DFS.
+STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO.
+
+
+
+
+AULA 60 — ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268
+
+
+OBJETIVO
+Dominar quem institui a estimativa, os quatro fatores usados no cálculo, revisão/suspensão do regime, prazo de impugnação, vencimento mensal, valores fixos anuais e prova de inexistência de base de cálculo.
+
+
+ART. 259 — ESTIMATIVA
+A Fazenda Pública pode, por ATO NORMATIVO PRÓPRIO expedido pela COMISSÃO definida nos termos do art. 251, fixar o valor do ISS por estimativa.
+PEGADINHA: não é escolha informal de qualquer agente. Ligue 259 ao art.251: comissão de arbitramento/estimativa já estudada.
+
+
+ART. 260 — QUATRO FATORES
+O valor estimado considera:
+I — tempo de duração e natureza específica da atividade;
+II — preço corrente dos serviços;
+III — local onde se estabelece o contribuinte;
+IV — volume de receitas em períodos anteriores e projeção para os seguintes, podendo observar outros contribuintes de idêntica atividade.
+MACETE: TEMPO/NATUREZA — PREÇO — LOCAL — RECEITA/PROJEÇÃO.
+A banca pode substituir um fator por lucro líquido, patrimônio ou valor venal: não aceite.
+
+
+ART. 261 — REGULAMENTO
+Ao imposto lançado por estimativa aplicam-se as regras estabelecidas em regulamento.
+
+
+ART. 262 — REVISÃO A QUALQUER TEMPO
+A Fazenda pode rever os valores estimados A QUALQUER TEMPO e reajustar as PARCELAS VINCENDAS quando verificar que a estimativa inicial foi incorreta ou que o volume/modalidade dos serviços se alterou substancialmente.
+PEGADINHA: revisão não depende de terminar o exercício e o texto destaca parcelas vincendas.
+
+
+ART. 263 — LIVROS E DOCUMENTOS
+Contribuintes no regime de estimativa PODERÃO, A CRITÉRIO DA AUTORIDADE FISCAL, ficar dispensados do uso de livros fiscais e da emissão de documentos.
+Não transforme faculdade em dispensa automática.
+Compare com art.255: regra geral exige escrita/documentação; art.263 cria possibilidade específica no regime estimado.
+
+
+ART. 264 — SUSPENSÃO
+O regime de estimativa pode ser suspenso pela autoridade fiscal MESMO SEM TER TERMINADO O EXERCÍCIO OU PERÍODO, de modo geral ou individual, ou quanto a categoria de estabelecimentos, grupos ou setores, quando deixarem de prevalecer as condições que originaram o enquadramento.
+MACETE: SUMIU A CONDIÇÃO → PODE SUSPENDER.
+
+
+ART. 265 — IMPUGNAÇÃO: 30 DIAS
+Contribuintes abrangidos pelo regime podem apresentar impugnação contra o valor estimado no prazo de 30 DIAS, contado da PUBLICAÇÃO DO ATO NORMATIVO, observados os arts. 146 e 151.
+Associação obrigatória: ESTIMATIVA → IMPUGNAÇÃO 30 DIAS → PUBLICAÇÃO.
+
+
+ART. 266 — RECOLHIMENTO MENSAL: DIA 15
+O recolhimento é MENSAL, aos cofres da Prefeitura ou bancos autorizados, mediante guias específicas, INDEPENDENTEMENTE DE AVISO OU NOTIFICAÇÃO e independentemente do recebimento do preço do serviço e da época desse recebimento, ATÉ O DIA 15 DO MÊS SUBSEQUENTE AO DO FATURAMENTO.
+MACETE: FATUROU → MÊS SEGUINTE, DIA 15.
+Não confundir com art.254: ali, quando a própria Prefeitura calcula/registra, há intervalo mínimo de 30 dias entre notificação e pagamento.
+
+
+ART. 267 — VALORES FIXOS ANUAIS
+Contribuintes sujeitos a valores fixos anuais recolhem o imposto em DUAS PARCELAS, observado o valor mínimo de 26,0312 UFIR POR PARCELA.
+MAPA NUMÉRICO: 30 dias (impugnação) / dia 15 (mensal) / 2 parcelas / 26,0312 UFIR por parcela.
+
+
+ART. 268 — NÃO PRESTOU SERVIÇO TRIBUTÁVEL NO MUNICÍPIO?
+Se o contribuinte quiser comprovar a inexistência de base de cálculo por não ter prestado serviços tributáveis no Município, deve fazê-lo com DOCUMENTAÇÃO HÁBIL, a critério da autoridade fiscal, NOS PRAZOS ESTABELECIDOS PARA PAGAMENTO. Caso contrário, fica sujeito à multa indicada no art. 280, VII.
+REGRA PRÁTICA: “não tive movimento tributável” não é mera alegação; exige comprovação documental tempestiva.
+
+
+INTERCALAÇÃO E RECUPERAÇÃO ATIVA
+Sem consultar, complete:
+1) art.255: serviços não tributáveis entram na escrita? 
+2) art.258: prazo e três ressalvas?
+3) art.259: quem expede o ato normativo?
+4) art.260: quatro fatores?
+5) art.262: revisão pode ocorrer quando?
+6) art.265: prazo e termo inicial?
+7) art.266: vencimento?
+8) art.267: quantas parcelas e mínimo?
+Respostas-alvo para autocorreção posterior: sim; 5 anos + dolo/fraude/simulação; comissão do art.251; tempo/natureza, preço, local, receitas/projeção; a qualquer tempo nas hipóteses legais; 30 dias da publicação; dia 15 do mês subsequente ao faturamento; 2 parcelas de no mínimo 26,0312 UFIR cada.
+
+
+TESTE CUMULATIVO — PADRÃO IAN — NÃO REVELE O GABARITO ANTES DA RESPOSTA DO ALUNO
+1. O valor do ISS por estimativa pode ser fixado: A por decisão informal do fiscal B por ato normativo próprio da Fazenda expedido pela comissão do art.251 C só por sentença D pelo contribuinte.
+2. NÃO é fator do art.260: A tempo/natureza B preço corrente C local do contribuinte D valor venal do imóvel como regra.
+3. A projeção pode considerar: A outros contribuintes de idêntica atividade B apenas o IPTU C só receita futura declarada D nenhum dado anterior.
+4. A Fazenda pode rever valores estimados: A só ao fim do exercício B a qualquer tempo nas hipóteses legais C nunca D só judicialmente.
+5. A revisão pode reajustar: A parcelas vincendas B somente parcelas prescritas C multas penais D IPTU.
+6. No regime estimado, dispensa de livros/documentos: A automática B impossível C possível a critério da autoridade fiscal D depende sempre de juiz.
+7. O regime pode ser suspenso antes do fim do período: A não B sim, quando não prevalecerem as condições do enquadramento C só a pedido do contribuinte D só após 5 anos.
+8. Impugnação contra valor estimado: A 10 dias da ciência pessoal B 15 dias do faturamento C 30 dias da publicação do ato normativo D 90 dias do fato gerador.
+9. Recolhimento do art.266: A anual B mensal até dia 15 do mês subsequente ao faturamento C dia 30 do mesmo mês D depende de notificação.
+10. Art.266: A depende do recebimento do preço B independe de aviso/notificação e do recebimento do preço C só vence após pagamento do cliente D é facultativo.
+11. Valores fixos anuais: A 1 parcela B 2 parcelas, mínimo 26,0312 UFIR por parcela C 12 parcelas D 3 parcelas de 30 UFIR.
+12. Para comprovar inexistência de base por ausência de serviço tributável no Município: A basta declaração oral B documentação hábil nos prazos de pagamento C nada precisa fazer D somente ação judicial.
+
+
+REGRA DE RETENÇÃO DA AULA 60:
+259=ATO NORMATIVO/COMISSÃO ART.251.
+260=4 FATORES: TEMPO-NATUREZA / PREÇO / LOCAL / RECEITA-PROJEÇÃO.
+262=REVISÃO A QUALQUER TEMPO + PARCELAS VINCENDAS.
+263=DISPENSA POSSÍVEL, NÃO AUTOMÁTICA.
+264=SUSPENSÃO MESMO ANTES DO FIM.
+265=30 DIAS DA PUBLICAÇÃO.
+266=MENSAL, DIA 15 DO MÊS SEGUINTE AO FATURAMENTO, SEM DEPENDER DE AVISO OU RECEBIMENTO.
+267=2 PARCELAS, MÍNIMO 26,0312 UFIR CADA.
+268=INEXISTÊNCIA DE BASE EXIGE DOCUMENTAÇÃO HÁBIL TEMPESTIVA.
+STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: ISENÇÕES DO ISS, ARTS. 269 A 273, COM REVISÃO INTERCALADA.
 .
+
+
+
+
+
+
+AULA 61 — ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273
+
+
+CORREÇÃO OBRIGATÓRIA DA AULA 60
+Na revisão da fonte oficial da Câmara Municipal, foram identificados pontos da Aula 60 que não devem ser memorizados como estavam escritos. A partir desta aula, prevalece esta correção:
+1) ART. 259: a autoridade administrativa poderá, por ato normativo próprio, fixar o ISS por estimativa nas hipóteses legais: atividade temporária; contribuinte de rudimentar organização ou microempresa; contribuinte sem condições de emitir documentos fiscais; ou contribuinte/grupo cuja espécie, modalidade ou volume de negócios/atividades aconselhe tratamento fiscal específico. Não memorize “comissão do art. 251” como requisito do art. 259.
+2) ART. 261: não é simples remissão genérica a regulamento. O dispositivo prevê: estimativa do valor do serviço tributável e do imposto total do exercício/período, com parcelamento mensal; ao fim, apuram-se valores reais e a diferença; se estimado menor, diferença é recolhida em 30 dias do encerramento, independentemente de iniciativa municipal; se estimado maior, há compensação mediante requerimento.
+3) ART. 265: na redação oficial consultada, a impugnação contra o valor estimado é de 20 DIAS da publicação do ato normativo, e não 30 dias.
+4) ART. 267: a redação oficial consultada prevê DUAS PARCELAS: primeira até 31 de janeiro e segunda até 28 de fevereiro; no início de atividade, imposto proporcional aos meses restantes do ano e recolhido antes do início. Não memorize “26,0312 UFIR por parcela” como regra do art. 267 sem base normativa específica posterior.
+CADERNO DE ERROS PREVENTIVO: erro provável = confusão entre redações/associações numéricas; regra correta para esta trilha = conferir a literalidade oficial antes de fixar número.
+
+
+ART. 269 — ISENÇÕES DO ISS
+O Código enumera cinco grupos de serviços isentos:
+I — serviços prestados por associações culturais, associações comunitárias e clubes de serviço cuja finalidade essencial, conforme estatuto e atos efetivamente praticados, esteja voltada ao desenvolvimento da comunidade;
+II — diversões públicas e competições desportivas com fins beneficentes OU consideradas de interesse da comunidade pelos órgãos municipais de educação e cultura;
+III — assistência médica ou odontológica em ambulatórios/gabinetes mantidos por estabelecimentos comerciais ou industriais, sindicatos e sociedades civis sem fins lucrativos, desde que destinada EXCLUSIVAMENTE a empregados e associados e não explorada por terceiros;
+IV — estudos e projetos contratados por empresas adquirentes de lotes nos polos industriais criados pelo Município, desde que vinculados à construção ou instalação dos respectivos estabelecimentos nesses locais;
+V — serviços prestados por microempresas assim definidas em lei municipal.
+PEGADINHA IAN: a banca pode retirar condições. “Toda associação cultural é isenta” é amplo demais. “Todo serviço médico prestado por empresa a empregados é isento” também é amplo demais: o inciso III contém requisitos cumulativos.
+
+
+ART. 270 — RECONHECIMENTO NÃO É AUTOMÁTICO
+O reconhecimento da isenção deve ser SOLICITADO em requerimento, acompanhado das provas de que o contribuinte preenche os requisitos necessários ao benefício.
+MACETE: ISENÇÃO DO ART. 269 + ART. 270 = REQUERER + PROVAR.
+
+
+ART. 271 — DOCUMENTAÇÃO PODE SER REAPROVEITADA
+A documentação apresentada com o PRIMEIRO pedido de isenção pode servir para os exercícios seguintes. No pedido de renovação, o contribuinte faz referência à documentação anterior e apresenta as provas relativas ao NOVO EXERCÍCIO.
+PEGADINHA: reaproveitar documentação anterior não significa dispensa total de comprovação futura.
+
+
+ART. 272 — PRAZO
+As isenções devem ser requeridas ATÉ O ÚLTIMO DIA ÚTIL DO ANO ANTERIOR. Consequência expressa: perda do benefício fiscal no exercício seguinte se o prazo não for observado.
+MACETE: QUER ISENÇÃO NO ANO SEGUINTE? REQUER ATÉ O ÚLTIMO DIA ÚTIL DO ANO ANTERIOR.
+
+
+ART. 273 — INÍCIO DE ATIVIDADE
+No início da atividade, o pedido de isenção deve ser feito POR OCASIÃO DA CONCESSÃO DA LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO DO ESTABELECIMENTO.
+Não aplique mecanicamente o art. 272 ao início de atividade: o art. 273 traz regra própria.
+
+
+RECUPERAÇÃO INTERCALADA
+Sem consultar, recupere: art. 258 = 5 anos, salvo dolo/fraude/simulação; art. 262 = revisão da estimativa a qualquer tempo, reajustando vincendas; art. 265 corrigido = 20 dias da publicação; art. 266 = dia 15 do mês subsequente ao faturamento; art. 267 corrigido = 31 de janeiro + 28 de fevereiro; ITBI art. 227 = fraude 200%; IPTU art. 207 = dolo/falsidade 100%.
+
+
+TESTE CUMULATIVO — PADRÃO IAN — SEM GABARITO ANTECIPADO
+1. Para o art. 269, é isento o serviço prestado por associação cultural: A sempre B quando preenchidas as condições legais ligadas à finalidade essencial e aos atos efetivamente praticados C apenas se tiver lucro D apenas por decisão judicial.
+2. Diversão pública/competição desportiva pode ser isenta quando: A qualquer evento comercial B tiver fins beneficentes ou for considerada de interesse da comunidade pelos órgãos municipais competentes C houver ingresso pago D ocorrer fora do Município.
+3. A assistência médica/odontológica do inciso III exige, entre outros requisitos: A atendimento irrestrito ao público B destinação exclusiva a empregados/associados e ausência de exploração por terceiros C exploração obrigatória por terceiro D finalidade lucrativa.
+4. Estudos/projetos do inciso IV devem estar vinculados: A a qualquer imóvel B à construção/instalação do estabelecimento nos polos industriais municipais C a empreendimento em qualquer Município D ao IPTU.
+5. O reconhecimento da isenção: A é automático B deve ser solicitado com provas C depende apenas de declaração oral D dispensa requerimento.
+6. A documentação do primeiro pedido: A nunca pode ser reutilizada B pode servir aos demais exercícios, com referência e provas do novo exercício C extingue futuras obrigações D vale sem renovação.
+7. Regra geral do art. 272: pedido até A 31 de janeiro B último dia útil do ano anterior C 30 dias após fato gerador D fim do exercício beneficiado.
+8. No início de atividade, o pedido é feito: A somente no ano seguinte B por ocasião da concessão da licença de localização e funcionamento C cinco anos depois D após primeira fiscalização.
+9. CORREÇÃO DA AULA 60: art. 265 prevê A 10 dias B 20 dias da publicação C 30 dias D 90 dias.
+10. CORREÇÃO DA AULA 60: art. 267 prevê, na redação oficial consultada: A uma parcela B duas parcelas, 31/1 e 28/2 C doze parcelas D dia 15 mensal.
+11. Art. 261: se o valor estimado for menor que o real ao encerramento: A nada ocorre B diferença é recolhida em 30 dias, nas condições legais C há isenção D só paga após notificação judicial.
+12. EXCETO: são associações corretas, EXCETO: A 270=requerer+provar B 271=reaproveitamento documental condicionado C 272=último dia útil do ano anterior D 273=pedido obrigatório cinco anos após início.
+
+
+REGRA DE RETENÇÃO DA AULA 61: 269=5 GRUPOS DE ISENÇÃO; 270=REQUERER+PROVAR; 271=DOCUMENTAÇÃO ANTERIOR PODE SERVIR, MAS HÁ PROVAS DO NOVO EXERCÍCIO; 272=ÚLTIMO DIA ÚTIL DO ANO ANTERIOR; 273=INÍCIO DA ATIVIDADE→PEDIDO NA LICENÇA. CORREÇÃO: 259=AUTORIDADE ADMINISTRATIVA/HIPÓTESES; 261=ACERTO DA ESTIMATIVA; 265=20 DIAS; 267=31/1 E 28/2.
+STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: CADASTRO FISCAL DO ISS — ARTS. 274 A 279.
