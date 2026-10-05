@@ -1747,36 +1747,60 @@ AULA 4 — EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 BLOCO 2 DO DIA — DIREITO TRIBUTÁRIO
 
 
-Na aula anterior, a palavra-chave foi PAUSA: suspensão impede temporariamente a exigência, mas o crédito continua existindo. Agora muda completamente a lógica.
+  
+  
+  
+  
+Na aula anterior, a palavra-chave foi PAUSA:   suspensão   impede temporariamente a exigência, mas o crédito continua existindo. Agora muda completamente a lógica.
 
 
-EXTINÇÃO = O CRÉDITO TRIBUTÁRIO ACABA.
+  
+EXTINÇÃO   = O CRÉDITO   TRIBUTÁRIO ACABA.
 
 
-O art. 156 do CTN apresenta as hipóteses de extinção. Para a prova, você precisa primeiro reconhecer a lista e depois dominar as diferenças que viram distratores.
+  
+  
+  
+O art. 156   do CTN apresenta as hipóteses de extinção. Para a prova,   você precisa primeiro reconhecer a lista e depois dominar as diferenças que viram distratores.
 
 
+  
 HIPÓTESES DO ART. 156
-Pagamento; compensação; transação; remissão; prescrição e decadência; conversão de depósito em renda; pagamento antecipado e homologação do lançamento; consignação em pagamento julgada procedente; decisão administrativa irreformável; decisão judicial passada em julgado; e dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.
+  
+  
+  
+  
+Pagamento;   compensação;   transação; remissão;   prescrição e decadência;     conversão de depósito em renda; pagamento antecipado e homologação do lançamento; consignação em pagamento julgada procedente; decisão administrativa irreformável; decisão judicial passada em julgado; e dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.
 
 
 Não tente decorar tudo como uma sequência sem sentido. Separe em famílias.
 
 
-SATISFAÇÃO DO CRÉDITO → pagamento, compensação, conversão do depósito em renda, consignação procedente, dação em pagamento.
-ACORDO/PERDÃO → transação e remissão.
-TEMPO → decadência e prescrição.
-DECISÃO DEFINITIVA → administrativa irreformável ou judicial transitada em julgado.
-HOMOLOGAÇÃO → pagamento antecipado + homologação, nos termos do CTN.
+  
+  
+SATISFAÇÃO   DO CRÉDITO →   pagamento,   compensação,   conversão do   depósito em   renda,   consignação procedente, dação em pagamento.
+  
+ACORDO/PERDÃO →   transação e remissão.
+  
+TEMPO →   decadência e prescrição.
+  
+DECISÃO DEFINITIVA →   administrativa irreformável ou judicial transitada em julgado.
+  
+HOMOLOGAÇÃO →   pagamento antecipado +   homologação, nos   termos do CTN.
 
 
-PEGADINHA 1 — PAGAMENTO x PARCELAMENTO
-Pagamento EXTINGUE. Parcelamento SUSPENDE.
+  
+PEGADINHA 1 —   PAGAMENTO x PARCELAMENTO
+  
+Pagamento   EXTINGUE.   Parcelamento SUSPENDE.
 Se a banca trocar apenas essas duas palavras, a alternativa muda de correta para errada.
 
 
-PEGADINHA 2 — REMISSÃO x ANISTIA
-REMISSÃO é perdão do crédito/dívida tributária e é causa de EXTINÇÃO.
+  
+  
+PEGADINHA 2 —   REMISSÃO   x ANISTIA
+  
+REMISSÃO     é   perdão   do   crédito/dívida   tributária     e é causa de EXTINÇÃO.
 ANISTIA alcança penalidades por infrações nos limites legais e é causa de EXCLUSÃO, tema do próximo bloco.
 Memória: REMISSÃO → dívida → extingue. ANISTIA → penalidade → exclui.
 
