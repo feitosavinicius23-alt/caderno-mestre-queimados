@@ -6,7 +6,7 @@
   "disciplina": "Direito Tributário",
   "assunto": "Direito Tributário",
   "ordem": 1,
-  "data": "2026-10-04",
+  "data": "2026-10-05",
   "tempoEstimadoMin": 12,
   "resumo": "Ao terminar as quatro horas, você deve conseguir responder sem consulta:\n\n1. Qual a diferença entre tributo e multa?\n2. O que pode ser objeto da obrigação principal?\n3. O que é obrigação acessória?\n4. O que acontece quando ela é descumprida?\n5. O que faz nascer a obrigação tributária?\n6. Qual a diferença entre fato gerador e lançamento?\n7. Quem é sujeito ativo?\n8. Qual a diferença entre contribuinte e responsável?\nRESPOSTAS: 1) Tributo não é sanção por ato ilícito; multa é penalidade. 2) Pagamento de tributo ou penalidade pecuniária. 3) Dever instrumental, positivo ou negativo, no interesse da arrecadação/fiscalização. 4) O descumprimento gera penalidade pecuniária e, quanto a ela, obrigação principal. 5) A ocorrência do fato gerador. 6) Fato gerador faz nascer a obrigação; lançamento constitui o crédito tributário. 7) Pessoa jurídica de direito público titular da competência para exigir o cumprimento da obrigação. 8) Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado por disposição expressa de lei, sem ser contribuinte.",
   "conteudo": [
@@ -701,6 +701,6 @@
   "tags": [],
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
-  "ultimaAtualizacao": "2026-10-04",
-  "contentHash": "0f3ed938a71ee252"
+  "ultimaAtualizacao": "2026-10-05",
+  "contentHash": "545e87cf7e9d88fb"
 }
