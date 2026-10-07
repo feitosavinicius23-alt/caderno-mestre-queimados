@@ -13271,3 +13271,740 @@ REGRA DE RETENÇÃO DA AULA 71
 
 
 A Taxa de Licença permanece EM APRENDIZAGEM, e os arts. 307–310 entram em RETENÇÃO INICIAL.
+
+
+
+
+AULA 72 — TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316
+
+
+Continuamos exatamente do ponto da Aula 71. Agora fechamos o bloco de obras e entramos no comércio informal. Este trecho tem forte potencial de cobrança literal pela IAN porque mistura: alvará, redução de até 60%, hipóteses de não incidência, limite de 9 m², cobrança mensal x diária, até 2 auxiliares, inscrição única e diferença entre comércio informal regular e eventual.
+
+
+ART. 311 — O ALVARÁ DE OBRAS
+
+
+A licença concedida constará de ALVARÁ.
+
+
+Nesse alvará serão mencionadas as obrigações do proprietário do imóvel referentes aos serviços de obras de urbanização.
+
+
+A associação para prova é simples:
+
+
+311 → LICENÇA CONCEDIDA = ALVARÁ + OBRIGAÇÕES DE URBANIZAÇÃO.
+
+
+Pegadinha provável:
+“Concedida a licença, as obrigações urbanísticas deixam de constar do alvará.”
+ERRADO.
+
+
+ART. 312 — CONJUNTO HABITACIONAL POPULAR: ATÉ 60%
+
+
+A aprovação de plantas de construções de conjuntos habitacionais de padrão popular terá:
+
+
+REDUÇÃO DE ATÉ 60%.
+
+
+A palavra mais importante é:
+
+
+ATÉ.
+
+
+Não significa redução obrigatória de exatamente 60%.
+
+
+Macete:
+CONJUNTO POPULAR → APROVAÇÃO DA PLANTA → ATÉ 60%.
+
+
+Observe a interferência com a TSU:
+TSU em cota única → desconto de até 60%.
+Aqui, art. 312 → redução de até 60% na aprovação de plantas de conjunto habitacional popular.
+
+
+Mesmo número, hipóteses diferentes.
+
+
+ART. 313 — QUANDO A TAXA NÃO INCIDE
+
+
+A taxa não incide sobre:
+
+
+I — revestimento de muro, gradil ou prédio;
+II — execução de passeio público;
+III — construção de viveiro, telheiro, galinheiro ou caramanchão, quando realizados no quintal das residências.
+
+
+Grave como três grupos:
+
+
+REVESTIMENTO
+PASSEIO PÚBLICO
+PEQUENAS ESTRUTURAS NO QUINTAL RESIDENCIAL.
+
+
+Cuidado: o inciso III não fala em qualquer viveiro ou galinheiro em qualquer lugar. A literalidade liga a hipótese ao QUINTAL DAS RESIDÊNCIAS.
+
+
+Macete:
+313 = REVESTE / FAZ PASSEIO / PEQUENA ESTRUTURA NO QUINTAL → NÃO INCIDE.
+
+
+ART. 314 — COMÉRCIO INFORMAL: FATO GERADOR
+
+
+A exploração do comércio informal abrange atividade exercida em solo PÚBLICO OU NÃO, mediante estruturas e meios como:
+
+
+barracas móveis;
+barracas fixas;
+trailers;
+quiosques;
+balcões;
+mesas;
+tabuleiros;
+veículos motorizados;
+veículos de tração humana ou animal;
+
+
+relacionados ao comércio de produtos e serviços.
+
+
+Pegadinha central:
+
+
+COMÉRCIO INFORMAL NÃO SE RESTRINGE A SOLO PÚBLICO.
+
+
+A lei diz:
+SOLO PÚBLICO OU NÃO.
+
+
+ART. 314, §1º — O QUE É “BARRACA” PARA ESSA REGRA?
+
+
+A barraca, segundo a literalidade do dispositivo:
+
+
+não ultrapassa 9 m²;
+é de construção fechada;
+tem caráter fixo;
+não está construída em solo público;
+possui apenas uma porta;
+não possui acabamento interno ou externo.
+
+
+Esse conjunto é fortemente literal.
+
+
+Mapa:
+
+
+BARRACA = ATÉ 9 m² + FECHADA + FIXA + FORA DE SOLO PÚBLICO + 1 PORTA + SEM ACABAMENTO.
+
+
+IAN pode trocar:
+9 m² por 10 m²;
+uma porta por duas;
+solo não público por obrigatoriamente público.
+
+
+ART. 314, §2º — REGULAR X EVENTUAL
+
+
+A taxa de licença do comércio informal pode ser cobrada:
+
+
+COMÉRCIO INFORMAL REGULAR → MENSALMENTE.
+
+
+COMÉRCIO INFORMAL EVENTUAL → DIARIAMENTE.
+
+
+Este é um dos pares mais importantes da aula:
+
+
+REGULAR = MÊS.
+EVENTUAL = DIA.
+
+
+ART. 314, §3º — AUXILIARES E INSCRIÇÃO
+
+
+O comerciante informal regular pode ter:
+
+
+ATÉ 2 AUXILIARES,
+
+
+desde que estejam acompanhados do titular da licença.
+
+
+E:
+
+
+É VEDADA MAIS DE 1 INSCRIÇÃO POR TITULAR.
+
+
+Mapa:
+
+
+REGULAR → ATÉ 2 AUXILIARES + TITULAR PRESENTE + 1 INSCRIÇÃO POR TITULAR.
+
+
+Não memorize “dois auxiliares podem trabalhar independentemente”.
+A norma condiciona ao acompanhamento do titular.
+
+
+ART. 315 — COMÉRCIO INFORMAL REGULAR
+
+
+É regular aquele:
+
+
+exercido pelo período mínimo de 1 mês;
+que ocorre todos os meses;
+que não está vinculado a datas festivas ou eventos realizados no âmbito da Administração Municipal;
+com inscrição obrigatória junto à Fazenda Municipal.
+
+
+Macete:
+
+
+REGULAR = 1 MÊS OU MAIS + TODO MÊS + NÃO FESTIVO/EVENTO + INSCRIÇÃO OBRIGATÓRIA.
+
+
+ART. 316 — COMÉRCIO INFORMAL EVENTUAL
+
+
+É eventual aquele:
+
+
+exercido sem período certo de tempo;
+
+
+OU
+
+
+realizado em datas festivas ou eventos no âmbito da Administração Municipal, desde que autorizado pelo Poder Público.
+
+
+A cobrança é feita:
+
+
+POR QUANTIDADE DE DIAS.
+
+
+Macete:
+
+
+EVENTUAL = SEM TEMPO CERTO / FESTA / EVENTO → COBRANÇA POR DIAS.
+
+
+COMPARAÇÃO DE GUERRA
+
+
+REGULAR:
+mínimo de 1 mês;
+ocorre todos os meses;
+não vinculado a datas festivas/eventos;
+inscrição obrigatória;
+taxa mensal;
+até 2 auxiliares acompanhados do titular;
+uma inscrição por titular.
+
+
+EVENTUAL:
+sem período certo;
+ou ligado a festa/evento autorizado;
+cobrança por quantidade de dias.
+
+
+RECUPERAÇÃO ESPAÇADA
+
+
+Sem olhar para trás:
+
+
+Art. 310: simples pintura e limpeza pagam taxa?
+Resposta: não, são exceção.
+
+
+Art. 310: obra pode começar antes do pedido de licença?
+Resposta: não; pedido e pagamento são prévios.
+
+
+Art. 309: anúncio filantrópico paga?
+Resposta: não.
+
+
+Art. 308: álcool e fumo?
+Resposta: acréscimo de 10%.
+
+
+Art. 307: publicidade?
+Resposta: validade de até 1 ano, depois nova inscrição.
+
+
+Agora a matéria de hoje:
+
+
+Art. 312 → redução máxima?
+Art. 313 → três grupos de não incidência?
+Barraca → limite de área?
+Regular → cobrança mensal ou diária?
+Eventual → mensal ou diária?
+Regular → quantos auxiliares?
+Quantas inscrições por titular?
+Regular → período mínimo?
+Eventual → como se mede a cobrança?
+
+
+TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO
+
+
+1. A licença prevista no art. 311 constará:
+A) exclusivamente de recibo.
+B) de alvará, com menção às obrigações do proprietário relativas às obras de urbanização.
+C) apenas de declaração verbal.
+D) de guia de ISS.
+
+
+2. A aprovação de plantas de conjuntos habitacionais de padrão popular pode ter redução:
+A) obrigatoriamente de 60%.
+B) de até 60%.
+C) de até 10%.
+D) de exatamente 50%.
+
+
+3. A taxa NÃO incide sobre:
+A) toda reforma estrutural.
+B) revestimento de muro, gradil ou prédio.
+C) qualquer demolição.
+D) todo loteamento.
+
+
+4. Também está entre as hipóteses de não incidência:
+A) execução de passeio público.
+B) construção de shopping center.
+C) instalação industrial.
+D) loteamento privado.
+
+
+5. A construção de galinheiro pode integrar a hipótese de não incidência quando:
+A) localizada em qualquer área comercial.
+B) situada no quintal da residência, nas condições do artigo.
+C) instalada em via pública.
+D) houver exploração industrial.
+
+
+6. O comércio informal do art. 314:
+A) somente pode ocorrer em solo público.
+B) pode ocorrer em solo público ou não.
+C) apenas pode ocorrer em imóvel próprio.
+D) exclui comércio de serviços.
+
+
+7. Para a definição literal de barraca estudada, a metragem não ultrapassa:
+A) 5 m².
+B) 9 m².
+C) 10 m².
+D) 12 m².
+
+
+8. A cobrança da licença do comércio informal regular pode ser:
+A) diária.
+B) mensal.
+C) quinquenal.
+D) somente anual.
+
+
+9. A cobrança do comércio informal eventual pode ocorrer:
+A) por quantidade de dias.
+B) somente por mês completo.
+C) apenas uma vez a cada cinco anos.
+D) exclusivamente por exercício.
+
+
+10. O comerciante informal regular poderá ter:
+A) até 2 auxiliares, acompanhados do titular.
+B) auxiliares ilimitados sem a presença do titular.
+C) apenas 1 auxiliar em qualquer hipótese.
+D) 5 auxiliares.
+
+
+11. Quanto às inscrições do comerciante informal regular:
+A) são ilimitadas.
+B) é vedada mais de uma inscrição por titular.
+C) são permitidas duas por titular.
+D) não existe inscrição.
+
+
+12. Considera-se comércio informal regular aquele que:
+A) ocorre apenas em festa anual.
+B) é exercido no mínimo por 1 mês, ocorre todos os meses e não está vinculado às datas festivas/eventos, com inscrição obrigatória.
+C) necessariamente dura um único dia.
+D) dispensa inscrição.
+
+
+13. Considera-se comércio informal eventual:
+A) somente o que ocorre todos os meses.
+B) o exercido sem período certo ou em datas festivas/eventos autorizados.
+C) apenas comércio com estabelecimento fixo.
+D) o que dura obrigatoriamente mais de um ano.
+
+
+14. EXCETO: são características literais da barraca do §1º, EXCETO:
+A) área de até 9 m².
+B) caráter fixo.
+C) apenas uma porta.
+D) obrigatoriamente construída em solo público.
+
+
+15. Recuperação: anúncio referente a bebida alcoólica sofre:
+A) desconto de 10%.
+B) acréscimo de 10%.
+C) multa de 60%.
+D) isenção automática.
+
+
+REGRA DE RETENÇÃO DA AULA 72
+
+
+311 = ALVARÁ + OBRIGAÇÕES DE URBANIZAÇÃO.
+312 = CONJUNTO POPULAR → ATÉ 60%.
+313 = REVESTIMENTO / PASSEIO / VIVEIRO-TELHEIRO-GALINHEIRO-CARAMANCHÃO NO QUINTAL → NÃO INCIDE.
+314 = COMÉRCIO INFORMAL EM SOLO PÚBLICO OU NÃO.
+BARRACA = ATÉ 9 m² + FECHADA + FIXA + FORA DE SOLO PÚBLICO + 1 PORTA + SEM ACABAMENTO.
+REGULAR = MENSAL + ATÉ 2 AUXILIARES + 1 INSCRIÇÃO.
+315 = REGULAR → MÍNIMO 1 MÊS + TODO MÊS + NÃO FESTIVO + INSCRIÇÃO.
+316 = EVENTUAL → SEM TEMPO CERTO / FESTA / EVENTO → COBRANÇA POR DIAS.
+
+
+A Taxa de Licença continua EM APRENDIZAGEM. Os arts. 311 a 316 entram em RETENÇÃO INICIAL. Na próxima aula, avançaremos para os arts. 317 a 322, fechando o bloco do comércio informal com inscrição, atualização, sanções e isenções.
+
+
+AULA 73 — TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322
+
+
+Continuamos exatamente da Aula 72. Agora fechamos o núcleo do comércio informal com seis pontos de alta literalidade: exercício eventual por quem já exerce comércio, inscrição obrigatória, atualização permanente, duração da permissão, sanções e isenções. O padrão provável da IAN aqui é trocar “facultado” por “vedado”, retirar a exigência de inscrição do isento, inverter multa/suspensão/cassação ou trocar os grupos beneficiados.
+
+
+ART. 317 — QUEM JÁ TEM COMÉRCIO PODE EXERCER COMÉRCIO EVENTUAL?
+
+
+Sim. É FACULTADO aos comerciantes localizados e também aos comerciantes de comércio informal regular exercer comércio informal eventual.
+
+
+Mas existe condição:
+PAGAMENTO DE TODAS AS TAXAS EXIGIDAS PELA ADMINISTRAÇÃO MUNICIPAL.
+
+
+E isso ocorre independentemente das taxas que o comerciante já recolhe pelo seu comércio específico.
+
+
+Regra:
+JÁ PAGA PELO COMÉRCIO NORMAL ≠ DISPENSA DAS TAXAS DO COMÉRCIO EVENTUAL.
+
+
+Macete:
+317 = PODE EVENTUAL, MAS PAGA AS TAXAS DO EVENTUAL.
+
+
+ART. 318 — INSCRIÇÃO OBRIGATÓRIA
+
+
+É obrigatória a inscrição, na repartição competente, dos:
+COMERCIANTES EVENTUAIS;
+PRESTADORES DE SERVIÇOS EVENTUAIS;
+AMBULANTES.
+
+
+A inscrição ocorre mediante ficha própria, conforme modelo fornecido pela Secretaria de Finanças.
+
+
+E o parágrafo único amplia a regra:
+também entra nessa exigência o comerciante com ESTABELECIMENTO FIXO que, em festejos ou comemorações, explore comércio eventual.
+
+
+Pegadinha:
+“Estabelecimento fixo nunca precisa da inscrição prevista no art. 318.”
+ERRADO.
+
+
+Se o comerciante fixo entrar no comércio eventual em festejo/comemoração, a exigência alcança essa situação.
+
+
+ART. 319 — ATUALIZAÇÃO PERMANENTE
+
+
+A inscrição será PERMANENTEMENTE ATUALIZADA por iniciativa do próprio comerciante ou prestador de serviço permanente, eventual ou ambulante sempre que houver modificação nas características iniciais da atividade.
+
+
+Grave duas palavras:
+PERMANENTEMENTE + INICIATIVA DO COMERCIANTE/PRESTADOR.
+
+
+Não espere memorizar como:
+“o Fisco atualiza de ofício e o contribuinte nada precisa fazer”.
+
+
+A literalidade coloca iniciativa no próprio interessado.
+
+
+ART. 320 — ATÉ QUANDO O EVENTUAL PODE TRABALHAR?
+
+
+O comerciante informal eventual tem permissão para exercer a atividade enquanto durar o PERÍODO ESPECIFICADO NA GUIA DE RECOLHIMENTO DAS TAXAS emitida pelo órgão arrecadador da Fazenda Municipal.
+
+
+Logo:
+EVENTUAL ≠ LICENÇA POR PRAZO INDETERMINADO.
+
+
+Macete:
+320 = EVENTUAL DURA O QUE A GUIA DIZ.
+
+
+ART. 321 — CÓDIGO DE POSTURAS + VIGILÂNCIA SANITÁRIA
+
+
+O comerciante informal REGULAR OU EVENTUAL está sujeito às normas de:
+CÓDIGO DE POSTURAS;
+CÓDIGO DE VIGILÂNCIA SANITÁRIA
+do Município de Queimados.
+
+
+Agora vem uma escada de sanções.
+
+
+1º estágio — MULTA
+Multa correspondente ao valor da ÚLTIMA MENSALIDADE DEVIDA.
+
+
+2º estágio — REINCIDÊNCIA
+SUSPENSÃO DA ATIVIDADE + nova multa em DOBRO, sem prejuízo das anteriores.
+
+
+Depois de cumprir as exigências e pagar as multas, a suspensão torna-se sem efeito e o comerciante pode voltar às atividades.
+
+
+3º estágio — DESCUMPRIMENTO DO INCISO II
+CASSAÇÃO DA LICENÇA.
+
+
+Mapa:
+MULTA → REINCIDIU: SUSPENSÃO + MULTA EM DOBRO → NÃO CUMPRIU: CASSAÇÃO.
+
+
+Não transforme a cassação em primeira consequência automática.
+
+
+ART. 322 — QUEM É ISENTO?
+
+
+São isentos da Taxa de Licença para funcionamento do comércio informal regular e eventual:
+
+
+I — deficientes físicos que exerçam atividades lucrativas em ESCALA ÍNFIMA;
+II — vendedores ambulantes de LIVROS, JORNAIS E REVISTAS;
+III — produtores rurais LOCALIZADOS DENTRO DO MUNICÍPIO, desde que comprovem PEQUENA CAPACIDADE DE PRODUÇÃO.
+
+
+Três grupos:
+DEFICIENTE + ESCALA ÍNFIMA;
+AMBULANTE DE LIVRO/JORNAL/REVISTA;
+PEQUENO PRODUTOR RURAL LOCAL.
+
+
+PEGADINHA MÁXIMA DO ART. 322:
+ISENÇÃO NÃO DISPENSA INSCRIÇÃO.
+
+
+O parágrafo único determina que a isenção não exime o contribuinte de efetuar sua inscrição junto ao Fisco Municipal.
+
+
+Isso conversa diretamente com uma regra geral que já usamos:
+OBRIGAÇÃO PRINCIPAL ≠ OBRIGAÇÃO ACESSÓRIA.
+
+
+Ser isento da taxa não significa desaparecer do cadastro.
+
+
+MAPA DE GUERRA 317–322
+
+
+317 → PODE FAZER EVENTUAL + PAGA TODAS AS TAXAS EXIGIDAS.
+318 → EVENTUAL/AMBULANTE = INSCRIÇÃO OBRIGATÓRIA; FIXO EM FESTEJO TAMBÉM.
+319 → MUDOU CARACTERÍSTICA = ATUALIZAÇÃO PERMANENTE POR INICIATIVA DO INTERESSADO.
+320 → EVENTUAL = PRAZO DA GUIA.
+321 → POSTURAS + VIGILÂNCIA; MULTA → REINCIDÊNCIA: SUSPENSÃO + DOBRO → CASSAÇÃO.
+322 → 3 ISENTOS; ISENTO CONTINUA OBRIGADO À INSCRIÇÃO.
+
+
+RECUPERAÇÃO ESPAÇADA
+
+
+Aula 72:
+Regular: cobrança mensal ou diária?
+Resposta mental: mensal.
+Eventual?
+diária/por quantidade de dias.
+Barraca: limite?
+9 m².
+Regular: auxiliares?
+até 2, acompanhados do titular.
+Inscrições por titular?
+uma.
+
+
+Aula 71:
+álcool/fumo?
++10%.
+publicidade?
+até 1 ano e nova inscrição.
+obra não começou no prazo?
+cancela.
+prazo insuficiente?
+pode prorrogar a requerimento.
+simples pintura/limpeza?
+exceção.
+
+
+ISS:
+75 dias de atraso?
+40%.
+95 dias?
+50%.
+juros?
+1% ao mês.
+
+
+TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO
+
+
+1. O comerciante localizado que pretenda exercer comércio informal eventual:
+A) é absolutamente proibido de fazê-lo.
+B) pode fazê-lo, desde que pague as taxas exigidas, independentemente das já recolhidas pelo comércio específico.
+C) fica automaticamente isento.
+D) paga apenas ISS.
+
+
+2. A inscrição do comerciante ou prestador de serviço eventual e do ambulante:
+A) é facultativa.
+B) é obrigatória.
+C) somente existe para produtor rural.
+D) é substituída pelo IPTU.
+
+
+3. Comerciante com estabelecimento fixo que explore comércio eventual em festejo:
+A) está necessariamente fora da exigência do art. 318.
+B) também se inclui na exigência de inscrição estudada.
+C) torna-se isento automaticamente.
+D) só precisa de inscrição após o evento.
+
+
+4. Havendo modificação nas características iniciais da atividade:
+A) a inscrição nunca muda.
+B) a inscrição deve ser permanentemente atualizada por iniciativa do interessado.
+C) somente o Judiciário pode atualizar.
+D) a licença torna-se vitalícia.
+
+
+5. A permissão do comerciante informal eventual dura:
+A) necessariamente um ano.
+B) indefinidamente.
+C) enquanto durar o período especificado na guia de recolhimento das taxas.
+D) obrigatoriamente 30 dias.
+
+
+6. O comerciante informal regular ou eventual está sujeito:
+A) apenas ao Código Civil.
+B) ao Código de Posturas e ao Código de Vigilância Sanitária municipal.
+C) exclusivamente ao CTN federal.
+D) apenas à legislação eleitoral.
+
+
+7. A primeira sanção indicada no parágrafo único do art. 321 é:
+A) cassação imediata.
+B) multa correspondente ao valor da última mensalidade devida.
+C) prisão administrativa.
+D) multa de 200%.
+
+
+8. Em caso de reincidência, a regra estudada prevê:
+A) apenas advertência.
+B) suspensão da atividade e nova multa em dobro, sem prejuízo das anteriores.
+C) isenção.
+D) redução da multa pela metade.
+
+
+9. A cassação da licença aparece:
+A) no caso de não cumprimento do inciso II da sequência sancionatória.
+B) como consequência obrigatória de qualquer primeira infração.
+C) somente para publicidade.
+D) como benefício fiscal.
+
+
+10. É isento, nas condições legais:
+A) todo comerciante informal.
+B) vendedor ambulante de livros, jornais e revistas.
+C) qualquer produtor rural do Brasil.
+D) qualquer pessoa com estabelecimento fixo.
+
+
+11. O produtor rural enquadra-se na isenção quando:
+A) estiver localizado dentro do Município e comprovar pequena capacidade de produção.
+B) possuir qualquer porte, em qualquer município.
+C) vender exclusivamente bebida alcoólica.
+D) dispensar inscrição.
+
+
+12. A isenção do art. 322:
+A) dispensa também a inscrição.
+B) não exime o contribuinte de inscrição junto ao Fisco Municipal.
+C) elimina qualquer obrigação acessória.
+D) transforma a atividade em imune.
+
+
+13. EXCETO: são grupos isentos estudados, EXCETO:
+A) deficientes físicos com atividade lucrativa em escala ínfima.
+B) ambulantes de livros, jornais e revistas.
+C) produtores rurais locais de pequena capacidade comprovada.
+D) todos os comerciantes de bebidas alcoólicas.
+
+
+14. Recuperação: comércio informal regular pode ter:
+A) até 2 auxiliares acompanhados do titular.
+B) auxiliares ilimitados.
+C) exatamente 5 auxiliares.
+D) nenhum auxiliar em qualquer hipótese.
+
+
+15. Recuperação: atraso de 95 dias no ISS corresponde a:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+REGRA DE RETENÇÃO DA AULA 73
+
+
+317 = EVENTUAL É POSSÍVEL, MAS AS TAXAS SÃO DEVIDAS.
+318 = INSCRIÇÃO OBRIGATÓRIA; FIXO EM FESTEJO TAMBÉM.
+319 = MUDOU → ATUALIZA.
+320 = EVENTUAL → PRAZO DA GUIA.
+321 = POSTURAS + VIGILÂNCIA; MULTA → REINCIDÊNCIA/SUSPENSÃO + DOBRO → CASSAÇÃO.
+322 = ISENTOS: DEFICIENTE EM ESCALA ÍNFIMA / AMBULANTE DE LIVROS-JORNAIS-REVISTAS / PEQUENO PRODUTOR RURAL LOCAL.
+ISENTO ≠ DISPENSADO DE INSCRIÇÃO.
+
+
+Os arts. 317–322 entram em RETENÇÃO INICIAL. O comércio informal ainda não será considerado dominado até reaparecer em questões misturadas. Na próxima aula avançaremos para o sujeito passivo e a base de cálculo da Taxa de Licença, mantendo recuperação intercalada dos arts. 307–322.

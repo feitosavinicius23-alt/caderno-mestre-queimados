@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 19,
+  "contentVersion": 20,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-07T02:57:41.305Z",
-  "contentHashGlobal": "11ce946a119cf01e",
-  "totalAulas": 71,
-  "totalQuestoes": 363,
+  "ultimaSincronizacao": "2026-10-07T17:28:19.042Z",
+  "contentHashGlobal": "a2a617380f7588d6",
+  "totalAulas": 73,
+  "totalQuestoes": 393,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -702,6 +702,30 @@
       "arquivo": "aulas/direito-tributario-aula-071.json",
       "hash": "6fcc9ec0dd4eeb32",
       "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-072",
+      "numero": 72,
+      "titulo": "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
+      "slug": "taxa-de-licenca-alvara-de-obras-comercio-informal-arts-311-a-316",
+      "disciplina": "Direito Tributário",
+      "assunto": "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
+      "arquivo": "aulas/direito-tributario-aula-072.json",
+      "hash": "ec76a63a2ceae4bf",
+      "totalQuestoes": 15,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-073",
+      "numero": 73,
+      "titulo": "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
+      "slug": "taxa-de-licenca-comercio-informal-arts-317-a-322",
+      "disciplina": "Direito Tributário",
+      "assunto": "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
+      "arquivo": "aulas/direito-tributario-aula-073.json",
+      "hash": "b2dd1ee6a03f35c7",
+      "totalQuestoes": 15,
       "ultimaAtualizacao": "2026-10-07"
     },
     {

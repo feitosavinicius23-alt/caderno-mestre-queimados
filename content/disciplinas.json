@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 58,
-    "totalQuestoes": 337,
-    "tempoEstimadoMin": 239,
+    "totalAulas": 60,
+    "totalQuestoes": 367,
+    "tempoEstimadoMin": 248,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -63,7 +63,9 @@
       "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
       "Taxa de Licença: modalidades, alvará, inspeções e conceito de estabelecimento — arts. 293 a 299",
       "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
-      "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
+      "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
+      "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
+      "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322"
     ],
     "aulas": [
       {
@@ -413,6 +415,18 @@
         "numero": 71,
         "titulo": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
         "slug": "taxa-de-licenca-publicidade-e-execucao-de-obras-arts-307-a-310"
+      },
+      {
+        "id": "direito-tributario-aula-072",
+        "numero": 72,
+        "titulo": "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
+        "slug": "taxa-de-licenca-alvara-de-obras-comercio-informal-arts-311-a-316"
+      },
+      {
+        "id": "direito-tributario-aula-073",
+        "numero": 73,
+        "titulo": "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
+        "slug": "taxa-de-licenca-comercio-informal-arts-317-a-322"
       }
     ]
   },
