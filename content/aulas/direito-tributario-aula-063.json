@@ -1,0 +1,437 @@
+{
+  "id": "direito-tributario-aula-063",
+  "numero": 63,
+  "titulo": "ISSQN de Queimados: infrações e penalidades do art. 280",
+  "slug": "issqn-de-queimados-infracoes-e-penalidades-do-art-280",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN de Queimados: infrações e penalidades do art. 280",
+  "ordem": 63,
+  "data": "2026-10-07",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-063-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Entramos agora em um dos pontos de maior densidade numérica do ISSQN. A estratégia não será decorar valores soltos: vamos organizar as infrações por gravidade e pelo comportamento que a lei pretende punir. Isso reduz bastante as trocas que a IAN costuma fazer entre percentuais e valores fixos.\n1. Primeiro: entenda a lógica do art. 280\nO art. 280 reúne penalidades por descumprimentos ligados ao ISS. Para prova, separe mentalmente três famílias:\nFAMÍLIA A — cadastro e obrigações instrumentais.\nFAMÍLIA B — livros/documentos fiscais.\nFAMÍLIA C — imposto não recolhido, informação falsa e fraude.\nA banca pode apresentar uma conduta verdadeira e trocar apenas a penalidade. Por isso, precisamos memorizar sempre o par:\nCONDUTA → CONSEQUÊNCIA.\n2. O primeiro valor-chave: 130,1602 UFIR\nA faixa de 130,1602 UFIR aparece ligada a infrações cadastrais e instrumentais previstas no dispositivo.\nO que interessa nesta primeira passagem é reconhecer que o Código pune autonomamente o descumprimento de obrigação acessória.\nIsso significa:\nnão haver imposto principal a pagar ≠ inexistência de infração.\nRecupere a Aula 62:\nisento também se cadastra;\nisento também mantém determinadas obrigações acessórias.\nPortanto, um contribuinte pode não dever ISS naquela operação e, ainda assim, sofrer penalidade por descumprimento cadastral/documental.\n3. Segundo valor-chave: 520,6411 UFIR\nAgora subimos de patamar:\n520,6411 UFIR.\nA IAN pode fazer algo muito simples:\napresenta corretamente a conduta de um inciso e troca 130,1602 por 520,6411.\nNão caia na tentativa de reconhecer a questão apenas porque “o número parece familiar”.\nNossa técnica será:\nleia primeiro a CONDUTA → só depois escolha a PENALIDADE.\n4. Terceiro valor-chave: 390,4808 UFIR\nOutro número literal relevante:\n390,4808 UFIR.\nTemos então três âncoras numéricas:\n130,1602\n390,4808\n520,6411\nNão tente decorar os decimais separadamente. Leia-os como blocos visuais:\n130 — 1602\n390 — 4808\n520 — 6411\nPerceba aproximadamente a progressão:\n130 → 390 → 520.\nA parte decimal serve como confirmação literal.\n5. Multa por falta de recolhimento\nAgora mudamos de multas fixadas em UFIR para multas percentuais.\nEssa mudança de unidade é uma das melhores pistas de prova.\nSe a questão estiver tratando de determinadas infrações documentais/cadastrais:\n→ procure UFIR.\nSe estiver tratando do próprio imposto não recolhido ou de condutas que afetam diretamente a arrecadação:\n→ observe as multas percentuais previstas no Código.\nNão misture:\nUFIR ≠ percentual do imposto.\n6. Fraude é categoria mais grave\nQuando aparece:\nfraude;\nadulteração;\nfalsidade;\nomissão intencional destinada a reduzir ou evitar tributação;\na gravidade jurídica aumenta.\nVocê já viu essa lógica anteriormente:\nIPTU — dolo/falsidade cadastral → 100%.\nITBI — omissão ou inexatidão fraudulenta → 200%.\nNão transporte esses percentuais automaticamente para o ISS.\nEsse é justamente o tipo de interferência que a revisão intercalada pretende evitar.\nRegra:\nmesma palavra (“fraude”) não significa necessariamente mesma penalidade em impostos diferentes.\n7. Não emitir documento × emitir documento falso\nOutra distinção conceitual importante:\nnão emitir documento fiscal\nnão é automaticamente a mesma infração que:\nemitir documento com informação falsa/adulterada.\nA segunda envolve elemento qualitativamente mais grave.\nA IAN gosta de usar alternativas em que todas parecem descrever irregularidade fiscal, mas apenas uma corresponde exatamente à hipótese legal.\n8. Livros fiscais também são objeto autônomo de fiscalização\nRecupere:\nNa Aula 59 vimos que o contribuinte mensal deve manter escrita fiscal, inclusive quanto a serviços não tributáveis.\nNa Aula 62 vimos novamente obrigações documentais.\nAgora aparece a consequência lógica:\nse existe obrigação de manter/escriturar/exibir documento → o descumprimento pode gerar penalidade própria.\nNão raciocine:\n“Se o imposto foi pago, qualquer irregularidade no livro fica automaticamente perdoada.”\nErrado.\nOBRIGAÇÃO PRINCIPAL e OBRIGAÇÃO ACESSÓRIA são independentes.\n9. Recuperação ativa da sequência anterior\nSem consultar:\n274 → inscrição ocorre antes ou depois do início?\n275 → exceção da inscrição por local?\n276 → inscrição presume aceitação dos dados?\n277 → prazo para comunicar cessação?\n278 → isento mantém escrituração?\n279 → ficha de movimento é de qual periodicidade e referente a qual período?\nResposta mental esperada:\nantes / ambulante / não / 30 dias / sim / anual referente ao ano anterior.\nAgora recupere números mais antigos:\n251 → comissão mínima = ?\n265 → impugnação da estimativa = ?\nITBI 227 → fraude = ?\nIPTU 207 → dolo/falsidade = ?\nVocê deve recuperar:\n5 membros / 20 dias / 200% / 100%.\n10. Mapa numérico inicial do art. 280\nNesta primeira volta, grave estas três âncoras:"
+    },
+    {
+      "id": "direito-tributario-aula-063-b2",
+      "tipo": "teoria",
+      "titulo": "130,1602 UFIR",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-063-b3",
+      "tipo": "teoria",
+      "titulo": "390,4808 UFIR",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-063-b4",
+      "tipo": "teoria",
+      "titulo": "520,6411 UFIR",
+      "texto": "E uma regra metodológica:\nNUNCA RESPONDA PELO NÚMERO ISOLADO.\nFaça sempre:\nCONDUTA → TIPO DA INFRAÇÃO → UNIDADE DA MULTA → VALOR."
+    },
+    {
+      "id": "direito-tributario-aula-063-b5",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN",
+      "texto": "Sem gabarito antecipado.",
+      "questionIds": [
+        "direito-tributario-aula-063-q-001",
+        "direito-tributario-aula-063-q-002",
+        "direito-tributario-aula-063-q-003",
+        "direito-tributario-aula-063-q-004",
+        "direito-tributario-aula-063-q-005",
+        "direito-tributario-aula-063-q-006",
+        "direito-tributario-aula-063-q-007",
+        "direito-tributario-aula-063-q-008",
+        "direito-tributario-aula-063-q-009",
+        "direito-tributario-aula-063-q-010",
+        "direito-tributario-aula-063-q-011",
+        "direito-tributario-aula-063-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-063-b6",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "ART. 280 = PENALIDADES."
+    },
+    {
+      "id": "direito-tributario-aula-063-b7",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 63",
+      "texto": "OBRIGAÇÃO PRINCIPAL ≠ OBRIGAÇÃO ACESSÓRIA.\nPAGOU O IMPOSTO ≠ PERDÃO AUTOMÁTICO DA INFRAÇÃO DOCUMENTAL.\nÂNCORAS: 130,1602 / 390,4808 / 520,6411 UFIR.\nNÚMERO SOZINHO NÃO BASTA: CONDUTA → INFRAÇÃO → PENALIDADE.\nO ISSQN permanece EM APRENDIZAGEM. Não considero este bloco dominado até testarmos os valores novamente de forma misturada. A próxima aula continuará o art. 280, aprofundando o pareamento exato entre cada conduta e sua respectiva penalidade, antes de avançarmos na legislação."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-063-q-001",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 1,
+      "question": "O descumprimento de obrigação acessória:",
+      "options": [
+        {
+          "id": "A",
+          "text": "nunca pode gerar penalidade se não houver imposto devido."
+        },
+        {
+          "id": "B",
+          "text": "pode constituir infração independentemente da existência de imposto principal a recolher."
+        },
+        {
+          "id": "C",
+          "text": "somente produz efeito criminal."
+        },
+        {
+          "id": "D",
+          "text": "é irrelevante para a fiscalização tributária."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-002",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 2,
+      "question": "O contribuinte isento:",
+      "options": [
+        {
+          "id": "A",
+          "text": "está automaticamente dispensado de todas as obrigações acessórias."
+        },
+        {
+          "id": "B",
+          "text": "pode continuar submetido às obrigações instrumentais previstas no Código."
+        },
+        {
+          "id": "C",
+          "text": "não precisa de inscrição."
+        },
+        {
+          "id": "D",
+          "text": "nunca precisa manter documentação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-003",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 3,
+      "question": "Qual destes valores aparece entre as âncoras numéricas estudadas do art. 280?",
+      "options": [
+        {
+          "id": "A",
+          "text": "130,1602 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "130,1602%."
+        },
+        {
+          "id": "C",
+          "text": "R$ 130,1602 obrigatoriamente."
+        },
+        {
+          "id": "D",
+          "text": "13.016,02 UFIR."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-004",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 4,
+      "question": "Outra âncora numérica estudada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "390,4808 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "390,4808%."
+        },
+        {
+          "id": "C",
+          "text": "39,04808 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "3.904,808 UFIR."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-005",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 5,
+      "question": "Também integra o conjunto estudado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "520,6411 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "520,6411%."
+        },
+        {
+          "id": "C",
+          "text": "52,06411 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "R$ 520,6411 necessariamente."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-006",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 6,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o Código pode punir descumprimento de obrigação acessória."
+        },
+        {
+          "id": "B",
+          "text": "irregularidade documental pode existir mesmo que determinada operação não gere imposto."
+        },
+        {
+          "id": "C",
+          "text": "pagamento da obrigação principal necessariamente elimina qualquer infração acessória."
+        },
+        {
+          "id": "D",
+          "text": "documentos fiscais possuem relevância autônoma para fiscalização."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-007",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 7,
+      "question": "Em questão envolvendo penalidades, a estratégia mais segura é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "reconhecer um número familiar e marcá-lo imediatamente."
+        },
+        {
+          "id": "B",
+          "text": "identificar primeiro a conduta e depois associá-la à penalidade legal."
+        },
+        {
+          "id": "C",
+          "text": "escolher sempre a maior multa."
+        },
+        {
+          "id": "D",
+          "text": "escolher sempre a menor multa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-008",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 8,
+      "question": "Fraude no ISS:",
+      "options": [
+        {
+          "id": "A",
+          "text": "deve receber automaticamente o mesmo percentual estudado para ITBI."
+        },
+        {
+          "id": "B",
+          "text": "deve receber automaticamente o mesmo percentual estudado para IPTU."
+        },
+        {
+          "id": "C",
+          "text": "deve ser enquadrada segundo a regra específica do ISS."
+        },
+        {
+          "id": "D",
+          "text": "nunca produz penalidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-009",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 9,
+      "question": "Não emitir documento fiscal e emitir documento falso:",
+      "options": [
+        {
+          "id": "A",
+          "text": "devem ser tratados automaticamente como situações idênticas."
+        },
+        {
+          "id": "B",
+          "text": "podem representar condutas juridicamente distintas."
+        },
+        {
+          "id": "C",
+          "text": "nunca constituem infração."
+        },
+        {
+          "id": "D",
+          "text": "são questões exclusivamente civis."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-010",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 10,
+      "question": "Recuperação: a comunicação da cessação das atividades deve ocorrer em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 dias."
+        },
+        {
+          "id": "B",
+          "text": "20 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "90 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-011",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 11,
+      "question": "Recuperação: o prazo correto do art. 265, após nossa revisão técnica, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 dias."
+        },
+        {
+          "id": "B",
+          "text": "20 dias."
+        },
+        {
+          "id": "C",
+          "text": "30 dias."
+        },
+        {
+          "id": "D",
+          "text": "90 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    },
+    {
+      "id": "direito-tributario-aula-063-q-012",
+      "lessonId": "direito-tributario-aula-063",
+      "numero": 12,
+      "question": "EXCETO: todas são associações corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ITBI — fraude estudada = 200%."
+        },
+        {
+          "id": "B",
+          "text": "IPTU — dolo/falsidade cadastral estudados = 100%."
+        },
+        {
+          "id": "C",
+          "text": "ISS — toda fraude recebe necessariamente 200% porque esse é o percentual do ITBI."
+        },
+        {
+          "id": "D",
+          "text": "cada imposto deve ser estudado segundo sua regra específica."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-063-b6",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 63",
+      "texto": "ART. 280 = PENALIDADES."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-07",
+  "contentHash": "116e232112e44f27"
+}

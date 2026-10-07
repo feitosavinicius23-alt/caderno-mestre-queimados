@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 49,
-    "totalQuestoes": 226,
-    "tempoEstimadoMin": 197,
+    "totalAulas": 55,
+    "totalQuestoes": 301,
+    "tempoEstimadoMin": 225,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -54,7 +54,13 @@
       "ISSQN DE QUEIMADOS: ESCRITA FISCAL, DOCUMENTOS, REVISÃO DO LANÇAMENTO E HOMOLOGAÇÃO — ARTS. 255 A 258",
       "ISSQN DE QUEIMADOS: REGIME DE ESTIMATIVA E RECOLHIMENTO — ARTS. 259 A 268",
       "ISSQN DE QUEIMADOS: CORREÇÃO TÉCNICA DA AULA 60 + ISENÇÕES — ARTS. 269 A 273",
-      "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279"
+      "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
+      "ISSQN de Queimados: infrações e penalidades do art. 280",
+      "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+      "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+      "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
+      "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
+      "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299"
     ],
     "aulas": [
       {
@@ -350,6 +356,42 @@
         "numero": 62,
         "titulo": "ISSQN DE QUEIMADOS: CADASTRO FISCAL E OBRIGAÇÕES ACESSÓRIAS ESPECÍFICAS — ARTS. 274 A 279",
         "slug": "issqn-de-queimados-cadastro-fiscal-e-obrigacoes-acessorias-especificas-arts-274"
+      },
+      {
+        "id": "direito-tributario-aula-063",
+        "numero": 63,
+        "titulo": "ISSQN de Queimados: infrações e penalidades do art. 280",
+        "slug": "issqn-de-queimados-infracoes-e-penalidades-do-art-280"
+      },
+      {
+        "id": "direito-tributario-aula-064",
+        "numero": 64,
+        "titulo": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+        "slug": "issqn-de-queimados-art-280-completo-pareamento-exato-das-penalidades"
+      },
+      {
+        "id": "direito-tributario-aula-065",
+        "numero": 65,
+        "titulo": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+        "slug": "taxa-de-servicos-urbanos-de-queimados-hipotese-de-incidencia-contribuinte-e-calc"
+      },
+      {
+        "id": "direito-tributario-aula-066",
+        "numero": 66,
+        "titulo": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
+        "slug": "tsu-arts-285-a-287-taxa-de-servicos-diversos-arts-288-a-292"
+      },
+      {
+        "id": "direito-tributario-aula-067",
+        "numero": 67,
+        "titulo": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
+        "slug": "revisao-cumulativa-de-alta-retencao-issqn-tsu-servicos-diversos"
+      },
+      {
+        "id": "direito-tributario-aula-068",
+        "numero": 68,
+        "titulo": "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
+        "slug": "taxa-de-licenca-de-queimados-poder-de-policia-e-regras-gerais-arts-293-a-299"
       }
     ]
   },

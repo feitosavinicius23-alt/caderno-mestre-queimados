@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 31,
+  "contentVersion": 18,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-07T01:30:26.886Z",
-  "contentHashGlobal": "64cee041329c8ac8",
-  "totalAulas": 62,
-  "totalQuestoes": 252,
+  "ultimaSincronizacao": "2026-10-07T02:53:23.294Z",
+  "contentHashGlobal": "548de23f36edf81e",
+  "totalAulas": 68,
+  "totalQuestoes": 327,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -594,6 +594,78 @@
       "arquivo": "aulas/direito-tributario-aula-062.json",
       "hash": "b6c549086885158a",
       "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-063",
+      "numero": 63,
+      "titulo": "ISSQN de Queimados: infrações e penalidades do art. 280",
+      "slug": "issqn-de-queimados-infracoes-e-penalidades-do-art-280",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: infrações e penalidades do art. 280",
+      "arquivo": "aulas/direito-tributario-aula-063.json",
+      "hash": "116e232112e44f27",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-064",
+      "numero": 64,
+      "titulo": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+      "slug": "issqn-de-queimados-art-280-completo-pareamento-exato-das-penalidades",
+      "disciplina": "Direito Tributário",
+      "assunto": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+      "arquivo": "aulas/direito-tributario-aula-064.json",
+      "hash": "31dd1cebf8703219",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-065",
+      "numero": 65,
+      "titulo": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+      "slug": "taxa-de-servicos-urbanos-de-queimados-hipotese-de-incidencia-contribuinte-e-calc",
+      "disciplina": "Direito Tributário",
+      "assunto": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+      "arquivo": "aulas/direito-tributario-aula-065.json",
+      "hash": "8c466846cfff4b5a",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-066",
+      "numero": 66,
+      "titulo": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
+      "slug": "tsu-arts-285-a-287-taxa-de-servicos-diversos-arts-288-a-292",
+      "disciplina": "Direito Tributário",
+      "assunto": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
+      "arquivo": "aulas/direito-tributario-aula-066.json",
+      "hash": "1c3bfdce81016d60",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-067",
+      "numero": 67,
+      "titulo": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
+      "slug": "revisao-cumulativa-de-alta-retencao-issqn-tsu-servicos-diversos",
+      "disciplina": "Direito Tributário",
+      "assunto": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
+      "arquivo": "aulas/direito-tributario-aula-067.json",
+      "hash": "5d4c2ea3533a7150",
+      "totalQuestoes": 15,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-068",
+      "numero": 68,
+      "titulo": "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
+      "slug": "taxa-de-licenca-de-queimados-poder-de-policia-e-regras-gerais-arts-293-a-299",
+      "disciplina": "Direito Tributário",
+      "assunto": "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
+      "arquivo": "aulas/direito-tributario-aula-068.json",
+      "hash": "347360bc55c62c84",
+      "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-10-07"
     },
     {

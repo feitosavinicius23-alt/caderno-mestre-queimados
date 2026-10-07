@@ -1,0 +1,490 @@
+{
+  "id": "direito-tributario-aula-064",
+  "numero": 64,
+  "titulo": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+  "slug": "issqn-de-queimados-art-280-completo-pareamento-exato-das-penalidades",
+  "disciplina": "Direito Tributário",
+  "assunto": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades",
+  "ordem": 64,
+  "data": "2026-10-07",
+  "tempoEstimadoMin": 5,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-064-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Hoje transformamos as três âncoras da aula anterior em conduta → penalidade exata. Este é um bloco de altíssimo potencial para questões de literalidade da IAN: basta trocar 520 por 390, “omissão ou falsidade” por “falta ou erro”, 15 por 30 dias, ou “por documento” por “por serviço” para produzir um distrator convincente.\nO art. 280 começa determinando que essas penalidades são aplicadas sem prejuízo da exigência do imposto.\nCORREÇÃO CONSOLIDADA IMPORTANTE: a escala correta do art. 280, VII é 20% até 30 dias; 30% de 31 a 60 dias; 40% de 61 a 90 dias; e 50% a partir de 91 dias. Juros de mora: 1% ao mês. Descartar definitivamente a sequência antiga 10/15/20/25.\nInciso I — sem inscrição: 130,1602 UFIR + 15 dias\nExercer atividade sem prévia inscrição no cadastro fiscal sujeita à multa de:\n130,1602 UFIR.\nMas há um detalhe decisivo: a penalidade será aplicada depois de decorridos 15 dias da notificação feita pelo Município para que o sujeito passivo promova a inscrição, se a notificação não for cumprida.\nPortanto, conecte duas regras:"
+    },
+    {
+      "id": "direito-tributario-aula-064-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "art. 274 → deve inscrever-se ANTES de iniciar."
+    },
+    {
+      "id": "direito-tributario-aula-064-b3",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "art. 280, I → não regularizou após 15 dias da notificação → 130,1602 UFIR."
+    },
+    {
+      "id": "direito-tributario-aula-064-b4",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Macete: SEM INSCRIÇÃO = 130 + 15.\nInciso II — 520,6411 UFIR: obstrução, falsidade e nota fiscal grave\nAgora vem o maior valor fixo desse bloco:"
+    },
+    {
+      "id": "direito-tributario-aula-064-b5",
+      "tipo": "teoria",
+      "titulo": "520,6411 UFIR",
+      "texto": "Ele aparece em sete situações:\na) recusa na exibição de livros ou documentos fiscais;\nb) sonegação de documentos necessários à apuração do preço do serviço ou à fixação de estimativa;\nc) embaraço à ação fiscal;\nd) omissão ou falsidade na declaração de dados;\ne) emissão de nota fiscal não autorizada — por documento;\nf) emissão de nota fiscal que não reflita o preço do serviço — por documento;\ng) prestação de serviço sem emissão da respectiva nota fiscal — por serviço.\nPara memorizar:\n520 = RECUSA + SONEGA + EMBARAÇA + FALSEIA + NOTA GRAVE.\nA diferença “por documento” × “por serviço” é excelente pegadinha.\nInciso III — 390,4808 UFIR: livros, escrituração e formalidades\nAgora:"
+    },
+    {
+      "id": "direito-tributario-aula-064-b6",
+      "tipo": "teoria",
+      "titulo": "390,4808 UFIR",
+      "texto": "Aplicável a:\na) falta de livros fiscais ou de sua autenticação — por livro;\nb) falta de escrituração do imposto devido;\nc) dados incorretos na escrita fiscal ou nos documentos fiscais;\nd) falta do número de inscrição no cadastro de atividades econômicas nos documentos fiscais;\ne) falta de notas fiscais ou outros documentos exigidos pela Administração;\nf) falta ou erro na declaração de dados;\ng) retirada de livros ou documentos fiscais do estabelecimento ou domicílio do prestador, salvo hipóteses permitidas.\nMacete:\n390 = LIVRO + ESCRITURAÇÃO + FORMALIDADE."
+    },
+    {
+      "id": "direito-tributario-aula-064-b7",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha central da aula",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-064-b8",
+      "tipo": "comparacao",
+      "titulo": "Compare:",
+      "texto": "OMISSÃO OU FALSIDADE na declaração → 520,6411.\nFALTA OU ERRO na declaração → 390,4808.\nEssa diferença é pequena na redação e enorme no gabarito.\nGrave:\nFALSEOU → 520.\nERROU → 390.\nInciso IV — não comunicou alteração: 130,1602 UFIR + 30 dias\nA multa volta para:\n130,1602 UFIR.\nQuando não houver comunicação, no prazo de 30 dias da ocorrência, de fatos como:\nvenda ou transferência do estabelecimento; encerramento; mudança de ramo; mudança de local; alteração da área; outras alterações de interesse do Fisco Municipal.\nMacete:\nALTEROU → 30 DIAS → NÃO COMUNICOU → 130.\nIsso reforça o art. 277, em que a cessação também foi associada a 30 dias.\nInciso V — estabelecimento gráfico: 130,1602 UFIR por documento\nEstabelecimento gráfico que emitir nota ou documento fiscal sem a devida autorização:\n130,1602 UFIR POR DOCUMENTO IMPRESSO.\nExiste ainda responsabilidade solidária do beneficiário, quando a gráfica estiver estabelecida fora do Município."
+    },
+    {
+      "id": "direito-tributario-aula-064-b9",
+      "tipo": "atencao",
+      "titulo": "Cuidado com uma comparação muito boa para prova:",
+      "texto": "empresa emite nota fiscal não autorizada → inciso II → 520,6411 por documento.\nestabelecimento gráfico imprime/emite documento sem autorização → inciso V → 130,1602 por documento impresso.\nO sujeito e a conduta mudam.\nInciso VI — 100% do imposto atualizado\nAgora saímos de UFIR e entramos em percentual.\nA multa é:"
+    },
+    {
+      "id": "direito-tributario-aula-064-b10",
+      "tipo": "teoria",
+      "titulo": "100% DO VALOR ATUALIZADO DO IMPOSTO",
+      "texto": "nos casos de:\nfalta de recolhimento do imposto retido na fonte;\nadulteração de documentos fiscais com finalidade de sonegação;\nfalta de recolhimento apurada por ação fiscal;\nrecolhimento menor que o efetivamente devido, apurado por ação fiscal;\nnão retenção do imposto devido.\nMacete:\nRETENÇÃO + SONEGAÇÃO + AÇÃO FISCAL = 100%.\nE aqui nossa intercalação começa a produzir resultado:\nISS → hipóteses do inciso VI = 100%.\nITBI → fraude estudada = 200%.\nNão transporte percentual entre impostos.\nInciso VII — atraso: escada correta 20 → 30 → 40 → 50\nAté 30 dias → 20%.\n31 a 60 dias → 30%.\n61 a 90 dias → 40%.\nA partir de 91 dias → 50%.\nJuros de mora = 1% ao mês.\nAs penalidades serão aplicadas cumulativamente, quando for o caso."
+    },
+    {
+      "id": "direito-tributario-aula-064-b11",
+      "tipo": "teoria",
+      "titulo": "QUADRO DE GUERRA DO ART. 280",
+      "texto": "I — SEM INSCRIÇÃO → 130 + 15 dias.\nII — OBSTRUÇÃO/FALSIDADE/NOTA GRAVE → 520.\nIII — LIVROS/ESCRITURAÇÃO/FORMALIDADES → 390.\nIV — ALTERAÇÃO NÃO COMUNICADA EM 30 DIAS → 130.\nV — GRÁFICA → 130 POR DOCUMENTO.\nVI — RETENÇÃO/SONEGAÇÃO/AÇÃO FISCAL → 100%.\nVII — ATRASO → 20/30/40/50%.\nJUROS → 1% AO MÊS."
+    },
+    {
+      "id": "direito-tributario-aula-064-b12",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar para cima, responda mentalmente: falta de inscrição = qual UFIR e qual prazo após notificação? Recusa de livros = 520 ou 390? Falta de autenticação = 520 ou 390? Omissão/falsidade na declaração = qual? Falta/erro na declaração = qual? Alteração cadastral não comunicada = quantos dias? Gráfica = qual valor e unidade? Falta de recolhimento do imposto retido = qual percentual? 75 dias de atraso = quanto? Juros = quanto ao mês?\n\nSe alguma resposta não vier em poucos segundos, ela entra em revisão, não em “dominado”."
+    },
+    {
+      "id": "direito-tributario-aula-064-b13",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-064-q-001",
+        "direito-tributario-aula-064-q-002",
+        "direito-tributario-aula-064-q-003",
+        "direito-tributario-aula-064-q-004",
+        "direito-tributario-aula-064-q-005",
+        "direito-tributario-aula-064-q-006",
+        "direito-tributario-aula-064-q-007",
+        "direito-tributario-aula-064-q-008",
+        "direito-tributario-aula-064-q-009",
+        "direito-tributario-aula-064-q-010",
+        "direito-tributario-aula-064-q-011",
+        "direito-tributario-aula-064-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-064-b14",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 64",
+      "texto": "130 = SEM INSCRIÇÃO / ALTERAÇÃO NÃO COMUNICADA / GRÁFICA.\n520 = OBSTRUÇÃO + FALSIDADE + NOTA GRAVE.\n390 = LIVROS + ESCRITURAÇÃO + FORMALIDADES.\n100% = RETENÇÃO/SONEGAÇÃO/AÇÃO FISCAL.\nATRASO = 20/30/40/50.\nJUROS = 1% AO MÊS.\nO art. 280 passa agora para RETENÇÃO INICIAL, não para domínio. Na próxima aula ele reaparecerá misturado com matéria anterior enquanto avançamos para o art. 281 e seguintes — Taxa de Serviços Urbanos."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-064-q-001",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 1,
+      "question": "O exercício de atividade sem prévia inscrição no cadastro fiscal sujeita, nas condições do inciso I, a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "390,4808 UFIR imediatamente."
+        },
+        {
+          "id": "B",
+          "text": "130,1602 UFIR após decorridos 15 dias da notificação não cumprida."
+        },
+        {
+          "id": "C",
+          "text": "520,6411 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "100% do imposto."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-002",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 2,
+      "question": "A recusa na exibição de livros ou documentos fiscais sujeita à multa de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "130,1602 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "390,4808 UFIR."
+        },
+        {
+          "id": "C",
+          "text": "520,6411 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "10%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-003",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 3,
+      "question": "A falta de livros fiscais ou de sua autenticação, por livro:",
+      "options": [
+        {
+          "id": "A",
+          "text": "390,4808 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "520,6411 UFIR."
+        },
+        {
+          "id": "C",
+          "text": "130,1602 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "100%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-004",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 4,
+      "question": "Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "omissão ou falsidade na declaração = 390,4808 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "falta ou erro na declaração = 520,6411 UFIR."
+        },
+        {
+          "id": "C",
+          "text": "omissão/falsidade = 520,6411; falta/erro = 390,4808."
+        },
+        {
+          "id": "D",
+          "text": "ambas = 130,1602 UFIR."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-005",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 5,
+      "question": "Prestação de serviço sem emissão da respectiva nota fiscal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "520,6411 UFIR por serviço."
+        },
+        {
+          "id": "B",
+          "text": "390,4808 UFIR por livro."
+        },
+        {
+          "id": "C",
+          "text": "130,1602 UFIR por mês."
+        },
+        {
+          "id": "D",
+          "text": "10% do imposto."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-006",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 6,
+      "question": "A não comunicação de mudança de local do estabelecimento no prazo legal associa-se a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "520,6411 UFIR e 15 dias."
+        },
+        {
+          "id": "B",
+          "text": "390,4808 UFIR e 20 dias."
+        },
+        {
+          "id": "C",
+          "text": "130,1602 UFIR e 30 dias."
+        },
+        {
+          "id": "D",
+          "text": "100% e 90 dias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-007",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 7,
+      "question": "O estabelecimento gráfico que emitir documento fiscal sem autorização fica sujeito, na hipótese estudada, a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "130,1602 UFIR por documento impresso."
+        },
+        {
+          "id": "B",
+          "text": "520,6411 UFIR por livro."
+        },
+        {
+          "id": "C",
+          "text": "390,4808 UFIR por serviço."
+        },
+        {
+          "id": "D",
+          "text": "25%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-008",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 8,
+      "question": "Falta de recolhimento do imposto retido na fonte:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%."
+        },
+        {
+          "id": "B",
+          "text": "25%."
+        },
+        {
+          "id": "C",
+          "text": "100% do valor atualizado do imposto."
+        },
+        {
+          "id": "D",
+          "text": "200%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-009",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 9,
+      "question": "Recolhimento a menor apurado por ação fiscal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "100%."
+        },
+        {
+          "id": "B",
+          "text": "15%."
+        },
+        {
+          "id": "C",
+          "text": "390,4808 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "130,1602 UFIR."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-010",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 10,
+      "question": "Atraso de 75 dias:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%."
+        },
+        {
+          "id": "B",
+          "text": "30%."
+        },
+        {
+          "id": "C",
+          "text": "40%."
+        },
+        {
+          "id": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-011",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 11,
+      "question": "Atraso de 95 dias:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%."
+        },
+        {
+          "id": "B",
+          "text": "30%."
+        },
+        {
+          "id": "C",
+          "text": "40%."
+        },
+        {
+          "id": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    },
+    {
+      "id": "direito-tributario-aula-064-q-012",
+      "lessonId": "direito-tributario-aula-064",
+      "numero": 12,
+      "question": "EXCETO: todas estão corretas, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "penalidades podem ser cumuladas quando for o caso."
+        },
+        {
+          "id": "B",
+          "text": "juros de mora = 1% ao mês."
+        },
+        {
+          "id": "C",
+          "text": "atraso de até 30 dias = 20%."
+        },
+        {
+          "id": "D",
+          "text": "a aplicação da multa impede a exigência do imposto."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-064-b12",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar para cima, responda mentalmente: falta de inscrição = qual UFIR e qual prazo após notificação? Recusa de livros = 520 ou 390? Falta de autenticação = 520 ou 390? Omissão/falsidade na declaração = qual? Falta/erro na declaração = qual? Alteração cadastral não comunicada = quantos dias? Gráfica = qual valor e unidade? Falta de recolhimento do imposto retido = qual percentual? 75 dias de atraso = quanto? Juros = quanto ao mês?\n\nSe alguma resposta não vier em poucos segundos, ela entra em revisão, não em “dominado”."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-064-b2",
+      "titulo": "",
+      "texto": "art. 274 → deve inscrever-se ANTES de iniciar."
+    },
+    {
+      "id": "direito-tributario-aula-064-b3",
+      "titulo": "",
+      "texto": "art. 280, I → não regularizou após 15 dias da notificação → 130,1602 UFIR."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-07",
+  "contentHash": "31dd1cebf8703219"
+}

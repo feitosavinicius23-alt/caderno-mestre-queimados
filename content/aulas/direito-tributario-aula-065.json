@@ -1,0 +1,547 @@
+{
+  "id": "direito-tributario-aula-065",
+  "numero": 65,
+  "titulo": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+  "slug": "taxa-de-servicos-urbanos-de-queimados-hipotese-de-incidencia-contribuinte-e-calc",
+  "disciplina": "Direito Tributário",
+  "assunto": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
+  "ordem": 65,
+  "data": "2026-10-07",
+  "tempoEstimadoMin": 6,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-065-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Encerramos o primeiro grande bloco do ISSQN e iniciamos as taxas municipais, ainda dentro do conteúdo específico de Agente Fiscal. Hoje o objetivo é dominar a estrutura da Taxa de Serviços Urbanos — TSU. Este trecho é especialmente favorável à IAN porque mistura conceitos muito parecidos: utilização efetiva ou potencial, taxa × preço público, proprietário × titular do domínio útil × possuidor, imóvel edificado × não edificado, área × testada e percentuais diferentes."
+    },
+    {
+      "id": "direito-tributario-aula-065-b2",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 281 — quando nasce a TSU?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b3",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "A hipótese de incidência é a utilização:"
+    },
+    {
+      "id": "direito-tributario-aula-065-b4",
+      "tipo": "teoria",
+      "titulo": "EFETIVA OU POTENCIAL",
+      "texto": "dos serviços municipais de:\ncoleta de lixo;\nlimpeza e conservação de vias e logradouros públicos;\nmanutenção das redes de iluminação pública.\nEsses serviços podem estar efetivamente sendo utilizados pelo contribuinte ou simplesmente colocados à sua disposição, desde que prestados com a regularidade necessária.\nA primeira pegadinha é direta:\n“A TSU somente incide quando o contribuinte comprovar utilização efetiva.”\nERRADO.\nA lei diz:\nEFETIVA OU POTENCIAL.\nMacete:\n281 = LIXO + LIMPEZA + ILUMINAÇÃO → EFETIVA OU POTENCIAL.\nColeta de lixo: o que entra?\nO §1º define serviço de coleta de lixo como a REMOÇÃO PERIÓDICA DE LIXO GERADO EM IMÓVEIS SITUADOS NO MUNICÍPIO.\nA palavra PERIÓDICA merece atenção.\nAgora vem uma distinção de alto valor para prova.\nNão está sujeita à TSU a remoção especial de lixo, como:\nentulhos;\ndetritos industriais;\ngalhos de árvores e similares;\nlimpeza de terrenos;\ne remoção realizada em horário especial por solicitação do interessado.\nEsses serviços ficam sujeitos a PREÇO PÚBLICO fixado pelo Prefeito Municipal.\nEssa diferença precisa ficar automática:\nCOLETA PERIÓDICA → TAXA.\nREMOÇÃO ESPECIAL → PREÇO PÚBLICO.\nNão confunda taxa com preço público.\nLimpeza e conservação — 11 hipóteses\nO §2º detalha o que se considera limpeza e conservação de vias e logradouros.\nNão precisamos decorar hoje a redação inteira, mas precisamos reconhecer as atividades:\nI — varrição, lavagem ou capinação;\nII — limpeza, desobstrução e manutenção de bueiros, bocas-de-lobo, galerias pluviais, córregos, valas, rios ou canais;\nIII — desinfecção de locais insalubres;\nIV — raspagem do leito carroçável com ferramentas ou máquinas;\nV — conservação ou reparação do calçamento;\nVI — recondicionamento do meio-fio ou sarjetas;\nVII — melhoramento, reparo ou manutenção de estradas vicinais, mata-burros, acostamentos, sinalização ou similares;\nVIII — remoção de barreiras;\nIX — fixação, poda, tratamento e irrigação de árvores e plantas ornamentais ou correlatos;\nX — manutenção de lagos ou fontes;\nXI — manutenção de redes de iluminação pública.\nA IAN pode apresentar dez itens verdadeiros e inserir um serviço estranho para perguntar EXCETO.\nIluminação pública\nO §3º considera serviço de manutenção da rede de iluminação pública a prestação efetiva ou potencial dos serviços de manutenção das redes de iluminação das vias e logradouros públicos de Queimados.\nO usuário considerado pela norma é o PROPRIETÁRIO, A QUALQUER TÍTULO, DE IMÓVEL EDIFICADO OU NÃO.\nObserve novamente:\nedificado OU não edificado."
+    },
+    {
+      "id": "direito-tributario-aula-065-b5",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 282 — quem é contribuinte?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Aqui temos uma tríade clássica do direito tributário imobiliário:"
+    },
+    {
+      "id": "direito-tributario-aula-065-b7",
+      "tipo": "teoria",
+      "titulo": "PROPRIETÁRIO",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-065-b8",
+      "tipo": "teoria",
+      "titulo": "TITULAR DO DOMÍNIO ÚTIL",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-065-b9",
+      "tipo": "teoria",
+      "titulo": "POSSUIDOR A QUALQUER TÍTULO",
+      "texto": "de bem imóvel situado em local onde o Município mantenha, com a regularidade necessária, os serviços do artigo anterior.\nMacete:"
+    },
+    {
+      "id": "direito-tributario-aula-065-b10",
+      "tipo": "teoria",
+      "titulo": "P — D — P",
+      "texto": "Proprietário — Domínio útil — Possuidor.\nA banca pode tentar restringir:\n“Somente o proprietário registrado no cartório é contribuinte.”\nERRADO."
+    },
+    {
+      "id": "direito-tributario-aula-065-b11",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 283 — fórmula da TSU"
+    },
+    {
+      "id": "direito-tributario-aula-065-b12",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Agora entramos na parte numérica.\nA base considera o custo dos serviços de coleta de lixo + limpeza/conservação de vias e logradouros + manutenção da iluminação pública, quando for o caso.\nA fórmula apresentada pelo Código é:\nTSU = (A × 26,0312 UFIR × Flu) + (T × 26,0312 UFIR × Flu) + C\nEm que:\nA = área do imóvel em m²;\nT = testada do imóvel em metros lineares;\nFlu = fator de localização e uso;\nC = custo da manutenção das redes de iluminação pública.\nNão tente resolver cálculos ainda sem primeiro identificar qual serviço está sendo cobrado.\nColeta de lixo — imóvel edificado\nPara imóveis residenciais, comerciais e industriais a regra utiliza:\n0,5% da Unidade Fiscal por m² da área construída\ncorrigido pelo fator de localização e uso.\nMacete:\nEDIFICADO → ÁREA CONSTRUÍDA → 0,5%.\nColeta de lixo — imóvel NÃO edificado\nAqui muda tudo:\n0,1% da Unidade Fiscal por m² DO TERRENO\ntambém corrigido pelo fator de localização e uso.\nMacete:\nNÃO EDIFICADO → TERRENO → 0,1%."
+    },
+    {
+      "id": "direito-tributario-aula-065-b13",
+      "tipo": "comparacao",
+      "titulo": "Compare:",
+      "texto": "edificado = 0,5%.\nnão edificado = 0,1%.\nLimpeza e conservação de vias\nAqui a grandeza deixa de ser a área.\nUtiliza-se:\n2% da Unidade Fiscal POR METRO LINEAR DE TESTADA\ncorrigido pelo fator de localização e uso.\nPortanto:\nLIXO → ÁREA.\nLIMPEZA DE VIA → TESTADA.\nIluminação pública\nO custo indicado pelo inciso IV é:"
+    },
+    {
+      "id": "direito-tributario-aula-065-b14",
+      "tipo": "teoria",
+      "titulo": "3,3910 UFIR",
+      "texto": "e pode ser incluído no IPTU ou na conta de fornecimento de energia elétrica.\nAgora temos números diferentes:\n26,0312 UFIR → componente da fórmula.\n0,5% → lixo em imóvel edificado.\n0,1% → lixo em imóvel não edificado.\n2% → limpeza/conservação por metro de testada.\n3,3910 UFIR → manutenção da iluminação.\nImóvel com várias testadas\nSe o imóvel possuir mais de uma testada, para os serviços do inciso III considera-se:\nSOMENTE A TESTADA DO ENDEREÇO DO IMÓVEL.\nNão a maior; não a menor; não a soma de todas.\nÉ a TESTADA DO ENDEREÇO.\nIsenção relacionada à iluminação\nQuanto ao serviço de iluminação descrito no inciso IV, fica isento o contribuinte de imóvel edificado cujo valor mensal do consumo de energia elétrica não seja superior a:\n4,7100 UFIR."
+    },
+    {
+      "id": "direito-tributario-aula-065-b15",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 284 — várias unidades no mesmo terreno"
+    },
+    {
+      "id": "direito-tributario-aula-065-b16",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Quando no mesmo terreno existir mais de uma unidade autônoma edificada, será calculada:"
+    },
+    {
+      "id": "direito-tributario-aula-065-b17",
+      "tipo": "teoria",
+      "titulo": "TESTADA IDEAL",
+      "texto": "conforme previsto em regulamento.\nMacete:\nVÁRIAS UNIDADES AUTÔNOMAS → TESTADA IDEAL."
+    },
+    {
+      "id": "direito-tributario-aula-065-b18",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — ART. 280",
+      "texto": "Sem consultar:\n\nsem inscrição → 130,1602 UFIR depois de quantos dias da notificação?\nrecusa em exibir livros → 520 ou 390?\nfalta de autenticação do livro → 520 ou 390?\nomissão/falsidade na declaração → 520 ou 390?\nfalta/erro na declaração → 520 ou 390?\n75 dias de atraso → qual percentual?\n95 dias → qual percentual?\njuros de mora → quanto ao mês?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b19",
+      "tipo": "revisao",
+      "titulo": "Recuperação esperada:",
+      "texto": "15 dias / 520 / 390 / 520 / 390 / 40% / 50% / 1%."
+    },
+    {
+      "id": "direito-tributario-aula-065-b20",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO — PADRÃO IAN",
+      "texto": "Sem gabarito antecipado.",
+      "questionIds": [
+        "direito-tributario-aula-065-q-001",
+        "direito-tributario-aula-065-q-002",
+        "direito-tributario-aula-065-q-003",
+        "direito-tributario-aula-065-q-004",
+        "direito-tributario-aula-065-q-005",
+        "direito-tributario-aula-065-q-006",
+        "direito-tributario-aula-065-q-007",
+        "direito-tributario-aula-065-q-008",
+        "direito-tributario-aula-065-q-009",
+        "direito-tributario-aula-065-q-010",
+        "direito-tributario-aula-065-q-011",
+        "direito-tributario-aula-065-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-065-b21",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 65",
+      "texto": "281 = EFETIVA OU POTENCIAL + LIXO/LIMPEZA/ILUMINAÇÃO.\nCOLETA PERIÓDICA = TAXA.\nREMOÇÃO ESPECIAL = PREÇO PÚBLICO.\n282 = PROPRIETÁRIO + DOMÍNIO ÚTIL + POSSUIDOR.\n283: EDIFICADO = 0,5%/m² CONSTRUÍDO.\nNÃO EDIFICADO = 0,1%/m² DO TERRENO.\nLIMPEZA = 2%/METRO DE TESTADA.\nILUMINAÇÃO = 3,3910 UFIR.\nLIMITE DE ISENÇÃO DA ILUMINAÇÃO = 4,7100 UFIR.\n284 = MAIS DE UMA UNIDADE AUTÔNOMA → TESTADA IDEAL.\nA TSU entra EM APRENDIZAGEM. O art. 280 do ISS permanece EM RETENÇÃO INICIAL. Nenhum dos dois será considerado dominado antes de reaparecer em questões misturadas."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-065-q-001",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 1,
+      "question": "A hipótese de incidência da TSU envolve utilização:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente efetiva."
+        },
+        {
+          "id": "B",
+          "text": "exclusivamente potencial."
+        },
+        {
+          "id": "C",
+          "text": "efetiva ou potencial dos serviços previstos legalmente."
+        },
+        {
+          "id": "D",
+          "text": "somente mediante requerimento do contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-002",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 2,
+      "question": "Integra o núcleo da TSU:",
+      "options": [
+        {
+          "id": "A",
+          "text": "coleta de lixo."
+        },
+        {
+          "id": "B",
+          "text": "transmissão imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "prestação privada de consultoria."
+        },
+        {
+          "id": "D",
+          "text": "circulação de mercadorias."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-003",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 3,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "coleta periódica de lixo integra a disciplina da taxa."
+        },
+        {
+          "id": "B",
+          "text": "entulho pode integrar a remoção especial."
+        },
+        {
+          "id": "C",
+          "text": "remoção especial solicitada pelo interessado fica necessariamente sujeita à mesma taxa de coleta periódica."
+        },
+        {
+          "id": "D",
+          "text": "determinados serviços especiais ficam sujeitos a preço público."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-004",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 4,
+      "question": "A retirada de entulho enquadrada como remoção especial fica sujeita:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ao ITBI."
+        },
+        {
+          "id": "B",
+          "text": "ao ISS do proprietário."
+        },
+        {
+          "id": "C",
+          "text": "ao preço público fixado pelo Prefeito Municipal."
+        },
+        {
+          "id": "D",
+          "text": "necessariamente à TSU comum."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-005",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 5,
+      "question": "É contribuinte da taxa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente o proprietário registral."
+        },
+        {
+          "id": "B",
+          "text": "proprietário, titular do domínio útil ou possuidor a qualquer título, nas condições legais."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente o locatário."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente o Município."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-006",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 6,
+      "question": "Para coleta de lixo em imóvel residencial edificado, a referência estudada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,1% por m² do terreno."
+        },
+        {
+          "id": "B",
+          "text": "0,5% por m² da área construída, com o fator aplicável."
+        },
+        {
+          "id": "C",
+          "text": "2% por metro de testada."
+        },
+        {
+          "id": "D",
+          "text": "3,3910% da área."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-007",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 7,
+      "question": "Em imóvel não edificado, a coleta de lixo utiliza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,1% da Unidade Fiscal por m² do terreno, com o fator aplicável."
+        },
+        {
+          "id": "B",
+          "text": "0,5% por metro de testada."
+        },
+        {
+          "id": "C",
+          "text": "2% da área construída."
+        },
+        {
+          "id": "D",
+          "text": "25% do valor venal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-008",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 8,
+      "question": "Limpeza e conservação de vias e logradouros utiliza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente a área construída."
+        },
+        {
+          "id": "B",
+          "text": "2% da Unidade Fiscal por metro linear de testada, corrigido pelo fator previsto."
+        },
+        {
+          "id": "C",
+          "text": "0,1% do valor venal."
+        },
+        {
+          "id": "D",
+          "text": "100% do IPTU."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-009",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 9,
+      "question": "Imóvel possui três testadas. Para a regra estudada do inciso III, considera-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a soma das três."
+        },
+        {
+          "id": "B",
+          "text": "sempre a maior."
+        },
+        {
+          "id": "C",
+          "text": "somente a testada do endereço do imóvel."
+        },
+        {
+          "id": "D",
+          "text": "sempre a menor."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-010",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 10,
+      "question": "O valor indicado para manutenção das redes de iluminação pública é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "26,0312 UFIR."
+        },
+        {
+          "id": "B",
+          "text": "4,7100 UFIR."
+        },
+        {
+          "id": "C",
+          "text": "3,3910 UFIR."
+        },
+        {
+          "id": "D",
+          "text": "130,1602 UFIR."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-011",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 11,
+      "question": "Havendo mais de uma unidade autônoma edificada no mesmo terreno:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a testada é ignorada."
+        },
+        {
+          "id": "B",
+          "text": "calcula-se a testada ideal conforme regulamento."
+        },
+        {
+          "id": "C",
+          "text": "utiliza-se obrigatoriamente a maior testada real."
+        },
+        {
+          "id": "D",
+          "text": "extingue-se a taxa."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    },
+    {
+      "id": "direito-tributario-aula-065-q-012",
+      "lessonId": "direito-tributario-aula-065",
+      "numero": 12,
+      "question": "Recuperação do ISS: atraso de 61 a 90 dias no art. 280 corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%."
+        },
+        {
+          "id": "B",
+          "text": "30%."
+        },
+        {
+          "id": "C",
+          "text": "40%."
+        },
+        {
+          "id": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-065-b18",
+      "titulo": "RECUPERAÇÃO ESPAÇADA — ART. 280",
+      "texto": "Sem consultar:\n\nsem inscrição → 130,1602 UFIR depois de quantos dias da notificação?\nrecusa em exibir livros → 520 ou 390?\nfalta de autenticação do livro → 520 ou 390?\nomissão/falsidade na declaração → 520 ou 390?\nfalta/erro na declaração → 520 ou 390?\n75 dias de atraso → qual percentual?\n95 dias → qual percentual?\njuros de mora → quanto ao mês?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b19",
+      "titulo": "Recuperação esperada:",
+      "texto": "15 dias / 520 / 390 / 520 / 390 / 40% / 50% / 1%."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-065-b2",
+      "titulo": "",
+      "texto": "Art. 281 — quando nasce a TSU?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b5",
+      "titulo": "EFETIVA OU POTENCIAL",
+      "texto": "Art. 282 — quem é contribuinte?"
+    },
+    {
+      "id": "direito-tributario-aula-065-b11",
+      "titulo": "P — D — P",
+      "texto": "Art. 283 — fórmula da TSU"
+    },
+    {
+      "id": "direito-tributario-aula-065-b15",
+      "titulo": "3,3910 UFIR",
+      "texto": "Art. 284 — várias unidades no mesmo terreno"
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-07",
+  "contentHash": "8c466846cfff4b5a"
+}

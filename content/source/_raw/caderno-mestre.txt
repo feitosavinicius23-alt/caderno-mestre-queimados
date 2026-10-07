@@ -9716,3 +9716,2412 @@ REGRA DE RETENÇÃO DA AULA 62: 274=ANTES; 275=CADA LOCAL/AMBULANTE UMA; 276=NÃ
 
 
 STATUS: ISSQN EM APRENDIZAGEM; IPTU E ITBI EM RETENÇÃO. PRÓXIMA PROGRESSÃO: ART. 280 — INFRAÇÕES E PENALIDADES DO ISSQN.
+
+
+
+
+
+
+AULA 63 — ISSQN de Queimados: infrações e penalidades do art. 280
+
+
+Entramos agora em um dos pontos de maior densidade numérica do ISSQN. A estratégia não será decorar valores soltos: vamos organizar as infrações por gravidade e pelo comportamento que a lei pretende punir. Isso reduz bastante as trocas que a IAN costuma fazer entre percentuais e valores fixos.
+
+
+1. Primeiro: entenda a lógica do art. 280
+
+
+O art. 280 reúne penalidades por descumprimentos ligados ao ISS. Para prova, separe mentalmente três famílias:
+
+
+FAMÍLIA A — cadastro e obrigações instrumentais.
+
+
+FAMÍLIA B — livros/documentos fiscais.
+
+
+FAMÍLIA C — imposto não recolhido, informação falsa e fraude.
+
+
+A banca pode apresentar uma conduta verdadeira e trocar apenas a penalidade. Por isso, precisamos memorizar sempre o par:
+
+
+CONDUTA → CONSEQUÊNCIA.
+
+
+2. O primeiro valor-chave: 130,1602 UFIR
+
+
+A faixa de 130,1602 UFIR aparece ligada a infrações cadastrais e instrumentais previstas no dispositivo.
+
+
+O que interessa nesta primeira passagem é reconhecer que o Código pune autonomamente o descumprimento de obrigação acessória.
+
+
+Isso significa:
+
+
+não haver imposto principal a pagar ≠ inexistência de infração.
+
+
+Recupere a Aula 62:
+
+
+isento também se cadastra;
+
+
+isento também mantém determinadas obrigações acessórias.
+
+
+Portanto, um contribuinte pode não dever ISS naquela operação e, ainda assim, sofrer penalidade por descumprimento cadastral/documental.
+
+
+3. Segundo valor-chave: 520,6411 UFIR
+
+
+Agora subimos de patamar:
+
+
+520,6411 UFIR.
+
+
+A IAN pode fazer algo muito simples:
+
+
+apresenta corretamente a conduta de um inciso e troca 130,1602 por 520,6411.
+
+
+Não caia na tentativa de reconhecer a questão apenas porque “o número parece familiar”.
+
+
+Nossa técnica será:
+
+
+leia primeiro a CONDUTA → só depois escolha a PENALIDADE.
+
+
+4. Terceiro valor-chave: 390,4808 UFIR
+
+
+Outro número literal relevante:
+
+
+390,4808 UFIR.
+
+
+Temos então três âncoras numéricas:
+
+
+130,1602
+
+
+390,4808
+
+
+520,6411
+
+
+Não tente decorar os decimais separadamente. Leia-os como blocos visuais:
+
+
+130 — 1602
+
+
+390 — 4808
+
+
+520 — 6411
+
+
+Perceba aproximadamente a progressão:
+
+
+130 → 390 → 520.
+
+
+A parte decimal serve como confirmação literal.
+
+
+5. Multa por falta de recolhimento
+
+
+Agora mudamos de multas fixadas em UFIR para multas percentuais.
+
+
+Essa mudança de unidade é uma das melhores pistas de prova.
+
+
+Se a questão estiver tratando de determinadas infrações documentais/cadastrais:
+
+
+→ procure UFIR.
+
+
+Se estiver tratando do próprio imposto não recolhido ou de condutas que afetam diretamente a arrecadação:
+
+
+→ observe as multas percentuais previstas no Código.
+
+
+Não misture:
+
+
+UFIR ≠ percentual do imposto.
+
+
+6. Fraude é categoria mais grave
+
+
+Quando aparece:
+
+
+fraude;
+
+
+adulteração;
+
+
+falsidade;
+
+
+omissão intencional destinada a reduzir ou evitar tributação;
+
+
+a gravidade jurídica aumenta.
+
+
+Você já viu essa lógica anteriormente:
+
+
+IPTU — dolo/falsidade cadastral → 100%.
+
+
+ITBI — omissão ou inexatidão fraudulenta → 200%.
+
+
+Não transporte esses percentuais automaticamente para o ISS.
+
+
+Esse é justamente o tipo de interferência que a revisão intercalada pretende evitar.
+
+
+Regra:
+
+
+mesma palavra (“fraude”) não significa necessariamente mesma penalidade em impostos diferentes.
+
+
+7. Não emitir documento × emitir documento falso
+
+
+Outra distinção conceitual importante:
+
+
+não emitir documento fiscal
+
+
+não é automaticamente a mesma infração que:
+
+
+emitir documento com informação falsa/adulterada.
+
+
+A segunda envolve elemento qualitativamente mais grave.
+
+
+A IAN gosta de usar alternativas em que todas parecem descrever irregularidade fiscal, mas apenas uma corresponde exatamente à hipótese legal.
+
+
+8. Livros fiscais também são objeto autônomo de fiscalização
+
+
+Recupere:
+
+
+Na Aula 59 vimos que o contribuinte mensal deve manter escrita fiscal, inclusive quanto a serviços não tributáveis.
+
+
+Na Aula 62 vimos novamente obrigações documentais.
+
+
+Agora aparece a consequência lógica:
+
+
+se existe obrigação de manter/escriturar/exibir documento → o descumprimento pode gerar penalidade própria.
+
+
+Não raciocine:
+
+
+“Se o imposto foi pago, qualquer irregularidade no livro fica automaticamente perdoada.”
+
+
+Errado.
+
+
+OBRIGAÇÃO PRINCIPAL e OBRIGAÇÃO ACESSÓRIA são independentes.
+
+
+9. Recuperação ativa da sequência anterior
+
+
+Sem consultar:
+
+
+274 → inscrição ocorre antes ou depois do início?
+
+
+275 → exceção da inscrição por local?
+
+
+276 → inscrição presume aceitação dos dados?
+
+
+277 → prazo para comunicar cessação?
+
+
+278 → isento mantém escrituração?
+
+
+279 → ficha de movimento é de qual periodicidade e referente a qual período?
+
+
+Resposta mental esperada:
+
+
+antes / ambulante / não / 30 dias / sim / anual referente ao ano anterior.
+
+
+Agora recupere números mais antigos:
+
+
+251 → comissão mínima = ?
+
+
+265 → impugnação da estimativa = ?
+
+
+ITBI 227 → fraude = ?
+
+
+IPTU 207 → dolo/falsidade = ?
+
+
+Você deve recuperar:
+
+
+5 membros / 20 dias / 200% / 100%.
+
+
+10. Mapa numérico inicial do art. 280
+
+
+Nesta primeira volta, grave estas três âncoras:
+
+
+130,1602 UFIR
+
+
+390,4808 UFIR
+
+
+520,6411 UFIR
+
+
+E uma regra metodológica:
+
+
+NUNCA RESPONDA PELO NÚMERO ISOLADO.
+
+
+Faça sempre:
+
+
+CONDUTA → TIPO DA INFRAÇÃO → UNIDADE DA MULTA → VALOR.
+
+
+TESTE CUMULATIVO — PADRÃO IAN
+
+
+Sem gabarito antecipado.
+
+
+1. O descumprimento de obrigação acessória:
+A) nunca pode gerar penalidade se não houver imposto devido.
+B) pode constituir infração independentemente da existência de imposto principal a recolher.
+C) somente produz efeito criminal.
+D) é irrelevante para a fiscalização tributária.
+
+
+2. O contribuinte isento:
+A) está automaticamente dispensado de todas as obrigações acessórias.
+B) pode continuar submetido às obrigações instrumentais previstas no Código.
+C) não precisa de inscrição.
+D) nunca precisa manter documentação.
+
+
+3. Qual destes valores aparece entre as âncoras numéricas estudadas do art. 280?
+A) 130,1602 UFIR.
+B) 130,1602%.
+C) R$ 130,1602 obrigatoriamente.
+D) 13.016,02 UFIR.
+
+
+4. Outra âncora numérica estudada é:
+A) 390,4808 UFIR.
+B) 390,4808%.
+C) 39,04808 UFIR.
+D) 3.904,808 UFIR.
+
+
+5. Também integra o conjunto estudado:
+A) 520,6411 UFIR.
+B) 520,6411%.
+C) 52,06411 UFIR.
+D) R$ 520,6411 necessariamente.
+
+
+6. É INCORRETO afirmar:
+A) o Código pode punir descumprimento de obrigação acessória.
+B) irregularidade documental pode existir mesmo que determinada operação não gere imposto.
+C) pagamento da obrigação principal necessariamente elimina qualquer infração acessória.
+D) documentos fiscais possuem relevância autônoma para fiscalização.
+
+
+7. Em questão envolvendo penalidades, a estratégia mais segura é:
+A) reconhecer um número familiar e marcá-lo imediatamente.
+B) identificar primeiro a conduta e depois associá-la à penalidade legal.
+C) escolher sempre a maior multa.
+D) escolher sempre a menor multa.
+
+
+8. Fraude no ISS:
+A) deve receber automaticamente o mesmo percentual estudado para ITBI.
+B) deve receber automaticamente o mesmo percentual estudado para IPTU.
+C) deve ser enquadrada segundo a regra específica do ISS.
+D) nunca produz penalidade.
+
+
+9. Não emitir documento fiscal e emitir documento falso:
+A) devem ser tratados automaticamente como situações idênticas.
+B) podem representar condutas juridicamente distintas.
+C) nunca constituem infração.
+D) são questões exclusivamente civis.
+
+
+10. Recuperação: a comunicação da cessação das atividades deve ocorrer em:
+A) 15 dias.
+B) 20 dias.
+C) 30 dias.
+D) 90 dias.
+
+
+11. Recuperação: o prazo correto do art. 265, após nossa revisão técnica, é:
+A) 10 dias.
+B) 20 dias.
+C) 30 dias.
+D) 90 dias.
+
+
+12. EXCETO: todas são associações corretas, EXCETO:
+A) ITBI — fraude estudada = 200%.
+B) IPTU — dolo/falsidade cadastral estudados = 100%.
+C) ISS — toda fraude recebe necessariamente 200% porque esse é o percentual do ITBI.
+D) cada imposto deve ser estudado segundo sua regra específica.
+
+
+REGRA DE RETENÇÃO DA AULA 63
+
+
+ART. 280 = PENALIDADES.
+OBRIGAÇÃO PRINCIPAL ≠ OBRIGAÇÃO ACESSÓRIA.
+PAGOU O IMPOSTO ≠ PERDÃO AUTOMÁTICO DA INFRAÇÃO DOCUMENTAL.
+ÂNCORAS: 130,1602 / 390,4808 / 520,6411 UFIR.
+NÚMERO SOZINHO NÃO BASTA: CONDUTA → INFRAÇÃO → PENALIDADE.
+
+
+O ISSQN permanece EM APRENDIZAGEM. Não considero este bloco dominado até testarmos os valores novamente de forma misturada. A próxima aula continuará o art. 280, aprofundando o pareamento exato entre cada conduta e sua respectiva penalidade, antes de avançarmos na legislação.
+
+
+AULA 64 — ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades
+
+
+Hoje transformamos as três âncoras da aula anterior em conduta → penalidade exata. Este é um bloco de altíssimo potencial para questões de literalidade da IAN: basta trocar 520 por 390, “omissão ou falsidade” por “falta ou erro”, 15 por 30 dias, ou “por documento” por “por serviço” para produzir um distrator convincente.
+
+
+O art. 280 começa determinando que essas penalidades são aplicadas sem prejuízo da exigência do imposto.
+
+
+CORREÇÃO CONSOLIDADA IMPORTANTE: a escala correta do art. 280, VII é 20% até 30 dias; 30% de 31 a 60 dias; 40% de 61 a 90 dias; e 50% a partir de 91 dias. Juros de mora: 1% ao mês. Descartar definitivamente a sequência antiga 10/15/20/25.
+
+
+Inciso I — sem inscrição: 130,1602 UFIR + 15 dias
+
+
+Exercer atividade sem prévia inscrição no cadastro fiscal sujeita à multa de:
+
+
+130,1602 UFIR.
+
+
+Mas há um detalhe decisivo: a penalidade será aplicada depois de decorridos 15 dias da notificação feita pelo Município para que o sujeito passivo promova a inscrição, se a notificação não for cumprida.
+
+
+Portanto, conecte duas regras:
+
+
+art. 274 → deve inscrever-se ANTES de iniciar.
+
+
+art. 280, I → não regularizou após 15 dias da notificação → 130,1602 UFIR.
+
+
+Macete: SEM INSCRIÇÃO = 130 + 15.
+
+
+Inciso II — 520,6411 UFIR: obstrução, falsidade e nota fiscal grave
+
+
+Agora vem o maior valor fixo desse bloco:
+
+
+520,6411 UFIR
+
+
+Ele aparece em sete situações:
+
+
+a) recusa na exibição de livros ou documentos fiscais;
+
+
+b) sonegação de documentos necessários à apuração do preço do serviço ou à fixação de estimativa;
+
+
+c) embaraço à ação fiscal;
+
+
+d) omissão ou falsidade na declaração de dados;
+
+
+e) emissão de nota fiscal não autorizada — por documento;
+
+
+f) emissão de nota fiscal que não reflita o preço do serviço — por documento;
+
+
+g) prestação de serviço sem emissão da respectiva nota fiscal — por serviço.
+
+
+Para memorizar:
+
+
+520 = RECUSA + SONEGA + EMBARAÇA + FALSEIA + NOTA GRAVE.
+
+
+A diferença “por documento” × “por serviço” é excelente pegadinha.
+
+
+Inciso III — 390,4808 UFIR: livros, escrituração e formalidades
+
+
+Agora:
+
+
+390,4808 UFIR
+
+
+Aplicável a:
+
+
+a) falta de livros fiscais ou de sua autenticação — por livro;
+
+
+b) falta de escrituração do imposto devido;
+
+
+c) dados incorretos na escrita fiscal ou nos documentos fiscais;
+
+
+d) falta do número de inscrição no cadastro de atividades econômicas nos documentos fiscais;
+
+
+e) falta de notas fiscais ou outros documentos exigidos pela Administração;
+
+
+f) falta ou erro na declaração de dados;
+
+
+g) retirada de livros ou documentos fiscais do estabelecimento ou domicílio do prestador, salvo hipóteses permitidas.
+
+
+Macete:
+
+
+390 = LIVRO + ESCRITURAÇÃO + FORMALIDADE.
+
+
+Pegadinha central da aula
+
+
+Compare:
+
+
+OMISSÃO OU FALSIDADE na declaração → 520,6411.
+
+
+FALTA OU ERRO na declaração → 390,4808.
+
+
+Essa diferença é pequena na redação e enorme no gabarito.
+
+
+Grave:
+
+
+FALSEOU → 520.
+
+
+ERROU → 390.
+
+
+Inciso IV — não comunicou alteração: 130,1602 UFIR + 30 dias
+
+
+A multa volta para:
+
+
+130,1602 UFIR.
+
+
+Quando não houver comunicação, no prazo de 30 dias da ocorrência, de fatos como:
+
+
+venda ou transferência do estabelecimento; encerramento; mudança de ramo; mudança de local; alteração da área; outras alterações de interesse do Fisco Municipal.
+
+
+Macete:
+
+
+ALTEROU → 30 DIAS → NÃO COMUNICOU → 130.
+
+
+Isso reforça o art. 277, em que a cessação também foi associada a 30 dias.
+
+
+Inciso V — estabelecimento gráfico: 130,1602 UFIR por documento
+
+
+Estabelecimento gráfico que emitir nota ou documento fiscal sem a devida autorização:
+
+
+130,1602 UFIR POR DOCUMENTO IMPRESSO.
+
+
+Existe ainda responsabilidade solidária do beneficiário, quando a gráfica estiver estabelecida fora do Município.
+
+
+Cuidado com uma comparação muito boa para prova:
+
+
+empresa emite nota fiscal não autorizada → inciso II → 520,6411 por documento.
+
+
+estabelecimento gráfico imprime/emite documento sem autorização → inciso V → 130,1602 por documento impresso.
+
+
+O sujeito e a conduta mudam.
+
+
+Inciso VI — 100% do imposto atualizado
+
+
+Agora saímos de UFIR e entramos em percentual.
+
+
+A multa é:
+
+
+100% DO VALOR ATUALIZADO DO IMPOSTO
+
+
+nos casos de:
+
+
+falta de recolhimento do imposto retido na fonte;
+
+
+adulteração de documentos fiscais com finalidade de sonegação;
+
+
+falta de recolhimento apurada por ação fiscal;
+
+
+recolhimento menor que o efetivamente devido, apurado por ação fiscal;
+
+
+não retenção do imposto devido.
+
+
+Macete:
+
+
+RETENÇÃO + SONEGAÇÃO + AÇÃO FISCAL = 100%.
+
+
+E aqui nossa intercalação começa a produzir resultado:
+
+
+ISS → hipóteses do inciso VI = 100%.
+
+
+ITBI → fraude estudada = 200%.
+
+
+Não transporte percentual entre impostos.
+
+
+Inciso VII — atraso: escada correta 20 → 30 → 40 → 50
+
+
+Até 30 dias → 20%.
+
+
+31 a 60 dias → 30%.
+
+
+61 a 90 dias → 40%.
+
+
+A partir de 91 dias → 50%.
+
+
+Juros de mora = 1% ao mês.
+
+
+As penalidades serão aplicadas cumulativamente, quando for o caso.
+
+
+QUADRO DE GUERRA DO ART. 280
+
+
+I — SEM INSCRIÇÃO → 130 + 15 dias.
+II — OBSTRUÇÃO/FALSIDADE/NOTA GRAVE → 520.
+III — LIVROS/ESCRITURAÇÃO/FORMALIDADES → 390.
+IV — ALTERAÇÃO NÃO COMUNICADA EM 30 DIAS → 130.
+V — GRÁFICA → 130 POR DOCUMENTO.
+VI — RETENÇÃO/SONEGAÇÃO/AÇÃO FISCAL → 100%.
+VII — ATRASO → 20/30/40/50%.
+JUROS → 1% AO MÊS.
+
+
+RECUPERAÇÃO ATIVA
+
+
+Sem olhar para cima, responda mentalmente: falta de inscrição = qual UFIR e qual prazo após notificação? Recusa de livros = 520 ou 390? Falta de autenticação = 520 ou 390? Omissão/falsidade na declaração = qual? Falta/erro na declaração = qual? Alteração cadastral não comunicada = quantos dias? Gráfica = qual valor e unidade? Falta de recolhimento do imposto retido = qual percentual? 75 dias de atraso = quanto? Juros = quanto ao mês?
+
+
+Se alguma resposta não vier em poucos segundos, ela entra em revisão, não em “dominado”.
+
+
+TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO
+
+
+1. O exercício de atividade sem prévia inscrição no cadastro fiscal sujeita, nas condições do inciso I, a:
+A) 390,4808 UFIR imediatamente.
+B) 130,1602 UFIR após decorridos 15 dias da notificação não cumprida.
+C) 520,6411 UFIR.
+D) 100% do imposto.
+
+
+2. A recusa na exibição de livros ou documentos fiscais sujeita à multa de:
+A) 130,1602 UFIR.
+B) 390,4808 UFIR.
+C) 520,6411 UFIR.
+D) 10%.
+
+
+3. A falta de livros fiscais ou de sua autenticação, por livro:
+A) 390,4808 UFIR.
+B) 520,6411 UFIR.
+C) 130,1602 UFIR.
+D) 100%.
+
+
+4. Assinale a CORRETA:
+A) omissão ou falsidade na declaração = 390,4808 UFIR.
+B) falta ou erro na declaração = 520,6411 UFIR.
+C) omissão/falsidade = 520,6411; falta/erro = 390,4808.
+D) ambas = 130,1602 UFIR.
+
+
+5. Prestação de serviço sem emissão da respectiva nota fiscal:
+A) 520,6411 UFIR por serviço.
+B) 390,4808 UFIR por livro.
+C) 130,1602 UFIR por mês.
+D) 10% do imposto.
+
+
+6. A não comunicação de mudança de local do estabelecimento no prazo legal associa-se a:
+A) 520,6411 UFIR e 15 dias.
+B) 390,4808 UFIR e 20 dias.
+C) 130,1602 UFIR e 30 dias.
+D) 100% e 90 dias.
+
+
+7. O estabelecimento gráfico que emitir documento fiscal sem autorização fica sujeito, na hipótese estudada, a:
+A) 130,1602 UFIR por documento impresso.
+B) 520,6411 UFIR por livro.
+C) 390,4808 UFIR por serviço.
+D) 25%.
+
+
+8. Falta de recolhimento do imposto retido na fonte:
+A) 10%.
+B) 25%.
+C) 100% do valor atualizado do imposto.
+D) 200%.
+
+
+9. Recolhimento a menor apurado por ação fiscal:
+A) 100%.
+B) 15%.
+C) 390,4808 UFIR.
+D) 130,1602 UFIR.
+
+
+10. Atraso de 75 dias:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+11. Atraso de 95 dias:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+12. EXCETO: todas estão corretas, EXCETO:
+A) penalidades podem ser cumuladas quando for o caso.
+B) juros de mora = 1% ao mês.
+C) atraso de até 30 dias = 20%.
+D) a aplicação da multa impede a exigência do imposto.
+
+
+REGRA DE RETENÇÃO DA AULA 64
+
+
+130 = SEM INSCRIÇÃO / ALTERAÇÃO NÃO COMUNICADA / GRÁFICA.
+520 = OBSTRUÇÃO + FALSIDADE + NOTA GRAVE.
+390 = LIVROS + ESCRITURAÇÃO + FORMALIDADES.
+100% = RETENÇÃO/SONEGAÇÃO/AÇÃO FISCAL.
+ATRASO = 20/30/40/50.
+JUROS = 1% AO MÊS.
+
+
+O art. 280 passa agora para RETENÇÃO INICIAL, não para domínio. Na próxima aula ele reaparecerá misturado com matéria anterior enquanto avançamos para o art. 281 e seguintes — Taxa de Serviços Urbanos.
+
+
+AULA 65 — Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284
+
+
+Encerramos o primeiro grande bloco do ISSQN e iniciamos as taxas municipais, ainda dentro do conteúdo específico de Agente Fiscal. Hoje o objetivo é dominar a estrutura da Taxa de Serviços Urbanos — TSU. Este trecho é especialmente favorável à IAN porque mistura conceitos muito parecidos: utilização efetiva ou potencial, taxa × preço público, proprietário × titular do domínio útil × possuidor, imóvel edificado × não edificado, área × testada e percentuais diferentes.
+
+
+Art. 281 — quando nasce a TSU?
+
+
+A hipótese de incidência é a utilização:
+
+
+EFETIVA OU POTENCIAL
+
+
+dos serviços municipais de:
+
+
+coleta de lixo;
+
+
+limpeza e conservação de vias e logradouros públicos;
+
+
+manutenção das redes de iluminação pública.
+
+
+Esses serviços podem estar efetivamente sendo utilizados pelo contribuinte ou simplesmente colocados à sua disposição, desde que prestados com a regularidade necessária.
+
+
+A primeira pegadinha é direta:
+
+
+“A TSU somente incide quando o contribuinte comprovar utilização efetiva.”
+
+
+ERRADO.
+
+
+A lei diz:
+
+
+EFETIVA OU POTENCIAL.
+
+
+Macete:
+
+
+281 = LIXO + LIMPEZA + ILUMINAÇÃO → EFETIVA OU POTENCIAL.
+
+
+Coleta de lixo: o que entra?
+
+
+O §1º define serviço de coleta de lixo como a REMOÇÃO PERIÓDICA DE LIXO GERADO EM IMÓVEIS SITUADOS NO MUNICÍPIO.
+
+
+A palavra PERIÓDICA merece atenção.
+
+
+Agora vem uma distinção de alto valor para prova.
+
+
+Não está sujeita à TSU a remoção especial de lixo, como:
+
+
+entulhos;
+
+
+detritos industriais;
+
+
+galhos de árvores e similares;
+
+
+limpeza de terrenos;
+
+
+e remoção realizada em horário especial por solicitação do interessado.
+
+
+Esses serviços ficam sujeitos a PREÇO PÚBLICO fixado pelo Prefeito Municipal.
+
+
+Essa diferença precisa ficar automática:
+
+
+COLETA PERIÓDICA → TAXA.
+
+
+REMOÇÃO ESPECIAL → PREÇO PÚBLICO.
+
+
+Não confunda taxa com preço público.
+
+
+Limpeza e conservação — 11 hipóteses
+
+
+O §2º detalha o que se considera limpeza e conservação de vias e logradouros.
+
+
+Não precisamos decorar hoje a redação inteira, mas precisamos reconhecer as atividades:
+
+
+I — varrição, lavagem ou capinação;
+II — limpeza, desobstrução e manutenção de bueiros, bocas-de-lobo, galerias pluviais, córregos, valas, rios ou canais;
+III — desinfecção de locais insalubres;
+IV — raspagem do leito carroçável com ferramentas ou máquinas;
+V — conservação ou reparação do calçamento;
+VI — recondicionamento do meio-fio ou sarjetas;
+VII — melhoramento, reparo ou manutenção de estradas vicinais, mata-burros, acostamentos, sinalização ou similares;
+VIII — remoção de barreiras;
+IX — fixação, poda, tratamento e irrigação de árvores e plantas ornamentais ou correlatos;
+X — manutenção de lagos ou fontes;
+XI — manutenção de redes de iluminação pública.
+
+
+A IAN pode apresentar dez itens verdadeiros e inserir um serviço estranho para perguntar EXCETO.
+
+
+Iluminação pública
+
+
+O §3º considera serviço de manutenção da rede de iluminação pública a prestação efetiva ou potencial dos serviços de manutenção das redes de iluminação das vias e logradouros públicos de Queimados.
+
+
+O usuário considerado pela norma é o PROPRIETÁRIO, A QUALQUER TÍTULO, DE IMÓVEL EDIFICADO OU NÃO.
+
+
+Observe novamente:
+
+
+edificado OU não edificado.
+
+
+Art. 282 — quem é contribuinte?
+
+
+Aqui temos uma tríade clássica do direito tributário imobiliário:
+
+
+PROPRIETÁRIO
+
+
+TITULAR DO DOMÍNIO ÚTIL
+
+
+POSSUIDOR A QUALQUER TÍTULO
+
+
+de bem imóvel situado em local onde o Município mantenha, com a regularidade necessária, os serviços do artigo anterior.
+
+
+Macete:
+
+
+P — D — P
+
+
+Proprietário — Domínio útil — Possuidor.
+
+
+A banca pode tentar restringir:
+
+
+“Somente o proprietário registrado no cartório é contribuinte.”
+
+
+ERRADO.
+
+
+Art. 283 — fórmula da TSU
+
+
+Agora entramos na parte numérica.
+
+
+A base considera o custo dos serviços de coleta de lixo + limpeza/conservação de vias e logradouros + manutenção da iluminação pública, quando for o caso.
+
+
+A fórmula apresentada pelo Código é:
+
+
+TSU = (A × 26,0312 UFIR × Flu) + (T × 26,0312 UFIR × Flu) + C
+
+
+Em que:
+
+
+A = área do imóvel em m²;
+T = testada do imóvel em metros lineares;
+Flu = fator de localização e uso;
+C = custo da manutenção das redes de iluminação pública.
+
+
+Não tente resolver cálculos ainda sem primeiro identificar qual serviço está sendo cobrado.
+
+
+Coleta de lixo — imóvel edificado
+
+
+Para imóveis residenciais, comerciais e industriais a regra utiliza:
+
+
+0,5% da Unidade Fiscal por m² da área construída
+
+
+corrigido pelo fator de localização e uso.
+
+
+Macete:
+
+
+EDIFICADO → ÁREA CONSTRUÍDA → 0,5%.
+
+
+Coleta de lixo — imóvel NÃO edificado
+
+
+Aqui muda tudo:
+
+
+0,1% da Unidade Fiscal por m² DO TERRENO
+
+
+também corrigido pelo fator de localização e uso.
+
+
+Macete:
+
+
+NÃO EDIFICADO → TERRENO → 0,1%.
+
+
+Compare:
+
+
+edificado = 0,5%.
+
+
+não edificado = 0,1%.
+
+
+Limpeza e conservação de vias
+
+
+Aqui a grandeza deixa de ser a área.
+
+
+Utiliza-se:
+
+
+2% da Unidade Fiscal POR METRO LINEAR DE TESTADA
+
+
+corrigido pelo fator de localização e uso.
+
+
+Portanto:
+
+
+LIXO → ÁREA.
+
+
+LIMPEZA DE VIA → TESTADA.
+
+
+Iluminação pública
+
+
+O custo indicado pelo inciso IV é:
+
+
+3,3910 UFIR
+
+
+e pode ser incluído no IPTU ou na conta de fornecimento de energia elétrica.
+
+
+Agora temos números diferentes:
+
+
+26,0312 UFIR → componente da fórmula.
+0,5% → lixo em imóvel edificado.
+0,1% → lixo em imóvel não edificado.
+2% → limpeza/conservação por metro de testada.
+3,3910 UFIR → manutenção da iluminação.
+
+
+Imóvel com várias testadas
+
+
+Se o imóvel possuir mais de uma testada, para os serviços do inciso III considera-se:
+
+
+SOMENTE A TESTADA DO ENDEREÇO DO IMÓVEL.
+
+
+Não a maior; não a menor; não a soma de todas.
+
+
+É a TESTADA DO ENDEREÇO.
+
+
+Isenção relacionada à iluminação
+
+
+Quanto ao serviço de iluminação descrito no inciso IV, fica isento o contribuinte de imóvel edificado cujo valor mensal do consumo de energia elétrica não seja superior a:
+
+
+4,7100 UFIR.
+
+
+Art. 284 — várias unidades no mesmo terreno
+
+
+Quando no mesmo terreno existir mais de uma unidade autônoma edificada, será calculada:
+
+
+TESTADA IDEAL
+
+
+conforme previsto em regulamento.
+
+
+Macete:
+
+
+VÁRIAS UNIDADES AUTÔNOMAS → TESTADA IDEAL.
+
+
+RECUPERAÇÃO ESPAÇADA — ART. 280
+
+
+Sem consultar:
+
+
+sem inscrição → 130,1602 UFIR depois de quantos dias da notificação?
+recusa em exibir livros → 520 ou 390?
+falta de autenticação do livro → 520 ou 390?
+omissão/falsidade na declaração → 520 ou 390?
+falta/erro na declaração → 520 ou 390?
+75 dias de atraso → qual percentual?
+95 dias → qual percentual?
+juros de mora → quanto ao mês?
+
+
+Recuperação esperada:
+
+
+15 dias / 520 / 390 / 520 / 390 / 40% / 50% / 1%.
+
+
+TESTE CUMULATIVO — PADRÃO IAN
+
+
+Sem gabarito antecipado.
+
+
+1. A hipótese de incidência da TSU envolve utilização:
+A) exclusivamente efetiva.
+B) exclusivamente potencial.
+C) efetiva ou potencial dos serviços previstos legalmente.
+D) somente mediante requerimento do contribuinte.
+
+
+2. Integra o núcleo da TSU:
+A) coleta de lixo.
+B) transmissão imobiliária.
+C) prestação privada de consultoria.
+D) circulação de mercadorias.
+
+
+3. É INCORRETO afirmar:
+A) coleta periódica de lixo integra a disciplina da taxa.
+B) entulho pode integrar a remoção especial.
+C) remoção especial solicitada pelo interessado fica necessariamente sujeita à mesma taxa de coleta periódica.
+D) determinados serviços especiais ficam sujeitos a preço público.
+
+
+4. A retirada de entulho enquadrada como remoção especial fica sujeita:
+A) ao ITBI.
+B) ao ISS do proprietário.
+C) ao preço público fixado pelo Prefeito Municipal.
+D) necessariamente à TSU comum.
+
+
+5. É contribuinte da taxa:
+A) somente o proprietário registral.
+B) proprietário, titular do domínio útil ou possuidor a qualquer título, nas condições legais.
+C) exclusivamente o locatário.
+D) exclusivamente o Município.
+
+
+6. Para coleta de lixo em imóvel residencial edificado, a referência estudada é:
+A) 0,1% por m² do terreno.
+B) 0,5% por m² da área construída, com o fator aplicável.
+C) 2% por metro de testada.
+D) 3,3910% da área.
+
+
+7. Em imóvel não edificado, a coleta de lixo utiliza:
+A) 0,1% da Unidade Fiscal por m² do terreno, com o fator aplicável.
+B) 0,5% por metro de testada.
+C) 2% da área construída.
+D) 25% do valor venal.
+
+
+8. Limpeza e conservação de vias e logradouros utiliza:
+A) exclusivamente a área construída.
+B) 2% da Unidade Fiscal por metro linear de testada, corrigido pelo fator previsto.
+C) 0,1% do valor venal.
+D) 100% do IPTU.
+
+
+9. Imóvel possui três testadas. Para a regra estudada do inciso III, considera-se:
+A) a soma das três.
+B) sempre a maior.
+C) somente a testada do endereço do imóvel.
+D) sempre a menor.
+
+
+10. O valor indicado para manutenção das redes de iluminação pública é:
+A) 26,0312 UFIR.
+B) 4,7100 UFIR.
+C) 3,3910 UFIR.
+D) 130,1602 UFIR.
+
+
+11. Havendo mais de uma unidade autônoma edificada no mesmo terreno:
+A) a testada é ignorada.
+B) calcula-se a testada ideal conforme regulamento.
+C) utiliza-se obrigatoriamente a maior testada real.
+D) extingue-se a taxa.
+
+
+12. Recuperação do ISS: atraso de 61 a 90 dias no art. 280 corresponde a:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+REGRA DE RETENÇÃO DA AULA 65
+
+
+281 = EFETIVA OU POTENCIAL + LIXO/LIMPEZA/ILUMINAÇÃO.
+COLETA PERIÓDICA = TAXA.
+REMOÇÃO ESPECIAL = PREÇO PÚBLICO.
+282 = PROPRIETÁRIO + DOMÍNIO ÚTIL + POSSUIDOR.
+283: EDIFICADO = 0,5%/m² CONSTRUÍDO.
+NÃO EDIFICADO = 0,1%/m² DO TERRENO.
+LIMPEZA = 2%/METRO DE TESTADA.
+ILUMINAÇÃO = 3,3910 UFIR.
+LIMITE DE ISENÇÃO DA ILUMINAÇÃO = 4,7100 UFIR.
+284 = MAIS DE UMA UNIDADE AUTÔNOMA → TESTADA IDEAL.
+
+
+A TSU entra EM APRENDIZAGEM. O art. 280 do ISS permanece EM RETENÇÃO INICIAL. Nenhum dos dois será considerado dominado antes de reaparecer em questões misturadas.
+
+
+
+
+AULA 66 — TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292
+
+
+Antes de avançar, há uma CORREÇÃO OBRIGATÓRIA DA AULA 64. A escala correta do art. 280, VII é: 20% até 30 dias; 30% de 31 a 60 dias; 40% de 61 a 90 dias; e 50% a partir de 91 dias. Os juros de mora permanecem em 1% ao mês. Descarte definitivamente a sequência antiga 10/15/20/25.
+
+
+Art. 285 — indústria “verde”: redução de 50%
+
+
+As indústrias que possuam equipamentos antipoluentes e reaproveitem total ou parcialmente seu lixo têm REDUÇÃO DE 50% do valor do serviço de coleta de lixo.
+
+
+Observe as duas condições:
+
+
+equipamentos antipoluentes + reaproveitamento total ou parcial do lixo.
+
+
+A IAN pode retirar uma delas:
+
+
+“Toda indústria que possua equipamento antipoluente terá necessariamente redução de 50%.”
+
+
+Não memorize assim. A literalidade reúne as duas características.
+
+
+Macete:
+
+
+ANTIPOLUENTE + REAPROVEITA → 50% DA COLETA.
+
+
+Art. 286 — lançamento da TSU
+
+
+A taxa é lançada ANUALMENTE em nome do CONTRIBUINTE, com base nos dados do cadastro imobiliário, quando for o caso.
+
+
+Logo:
+
+
+TSU → LANÇAMENTO ANUAL.
+
+
+Não confunda com o ISS mensal estudado anteriormente.
+
+
+Art. 287 — pagamento e desconto
+
+
+A TSU pode ser paga de uma vez ou parceladamente, na forma e nos prazos regulamentares.
+
+
+Agora um número forte:
+
+
+ATÉ 60% DE DESCONTO para pagamento em cota única.
+
+
+Quem pode conceder?
+
+
+Prefeito Municipal.
+
+
+Como?
+
+
+MEDIANTE DECRETO.
+
+
+A palavra perigosa é ATÉ.
+
+
+A lei não diz que o desconto será obrigatoriamente 60%. Diz que o Prefeito fica autorizado a conceder até 60%.
+
+
+Parcela vencida × vincenda
+
+
+O pagamento das parcelas vincendas só poderá ser efetuado após o pagamento das parcelas vencidas.
+
+
+Macete:
+
+
+PRIMEIRO A VENCIDA → DEPOIS A VINCENDA.
+
+
+Agora muda a taxa: Serviços Diversos
+
+
+Não misture com TSU.
+
+
+A partir do art. 288 entramos na TAXA DE SERVIÇOS DIVERSOS.
+
+
+Art. 288 — quais serviços?
+
+
+A taxa é devida pela execução dos serviços de:
+
+
+I — apreensão, depósito e liberação de animais abandonados conduzidos a depósito público;
+
+
+II — apreensão, depósito e liberação de veículos apreendidos;
+
+
+III — apreensão, depósito e liberação de bens e mercadorias apreendidos.
+
+
+Macete:
+
+
+ANIMAL — VEÍCULO — BEM/MERCADORIA.
+
+
+Veja que os três usam a mesma sequência:
+
+
+APREENDE → DEPOSITA → LIBERA.
+
+
+Art. 289 — quem paga?
+
+
+Animal: PROPRIETÁRIO que requeira, promova ou tenha interesse na liberação.
+
+
+Veículo: PROPRIETÁRIO OU POSSUIDOR A QUALQUER TÍTULO que requeira, promova ou tenha interesse na liberação.
+
+
+Bem ou mercadoria: PROPRIETÁRIO; POSSUIDOR A QUALQUER TÍTULO; OU QUALQUER OUTRA PESSOA FÍSICA OU JURÍDICA que requeira, promova ou tenha interesse na liberação.
+
+
+Visualize:
+
+
+ANIMAL → proprietário.
+
+
+VEÍCULO → proprietário + possuidor.
+
+
+BEM/MERCADORIA → proprietário + possuidor + outra PF/PJ interessada.
+
+
+Essa progressão é excelente matéria para questão de EXCETO.
+
+
+O texto também contém referência aos serviços relacionados com cemitérios, segundo as condições da legislação tributária e complementar.
+
+
+Art. 290 — base de cálculo
+
+
+A base é obtida mediante aplicação, sobre a Unidade Fiscal, dos percentuais relacionados no ANEXO II.
+
+
+Macete:
+
+
+SERVIÇOS DIVERSOS → UNIDADE FISCAL + ANEXO II.
+
+
+Art. 291 — primeiro paga, depois libera
+
+
+Para animais, veículos, bens e mercadorias apreendidos, a taxa será paga DE UMA SÓ VEZ e ANTERIORMENTE À LIBERAÇÃO.
+
+
+Ordem lógica:
+
+
+APREENSÃO → PAGAMENTO → LIBERAÇÃO.
+
+
+Se a IAN escrever “A taxa poderá ser recolhida posteriormente à liberação”, ERRADO.
+
+
+Art. 292 — funerário é diferente
+
+
+Os serviços funerários serão pagos DE UMA SÓ VEZ OU PARCELADAMENTE na forma e nos prazos regulamentares.
+
+
+Compare:
+
+
+291 → apreendidos = UMA SÓ VEZ + ANTES DA LIBERAÇÃO.
+
+
+292 → funerários = UMA VEZ OU PARCELADO.
+
+
+Essa oposição merece memorização.
+
+
+RECUPERAÇÃO ESPAÇADA
+
+
+Sem consultar, recupere:
+
+
+281 → utilização efetiva ou ________.
+
+
+282 → proprietário + ________ + possuidor.
+
+
+284 → várias unidades autônomas no mesmo terreno → ________.
+
+
+Agora:
+
+
+285 → redução de quanto?
+
+
+286 → lançamento mensal ou anual?
+
+
+287 → desconto máximo? Quem concede e por qual ato?
+
+
+288 → quais três grupos?
+
+
+290 → qual anexo?
+
+
+291 → paga antes ou depois da liberação?
+
+
+292 → admite parcelamento?
+
+
+E a correção obrigatória:
+
+
+art. 280, VII: 25 dias? 45? 75? 95?
+
+
+A resposta correta agora é:
+
+
+25 dias → 20%.
+45 dias → 30%.
+75 dias → 40%.
+95 dias → 50%.
+
+
+TESTE CUMULATIVO — PADRÃO IAN
+
+
+Sem gabarito antecipado.
+
+
+1. A redução prevista no art. 285 corresponde a:
+A) 20%.
+B) 30%.
+C) 50%.
+D) 60%.
+
+
+2. A redução estudada alcança:
+A) automaticamente toda indústria.
+B) indústria possuidora de equipamentos antipoluentes que reaproveite total ou parcialmente seu lixo.
+C) qualquer imóvel residencial.
+D) somente estabelecimento comercial.
+
+
+3. A TSU será lançada:
+A) mensalmente.
+B) anualmente.
+C) quinquenalmente.
+D) somente após fiscalização.
+
+
+4. Para pagamento em cota única, o Prefeito poderá, mediante decreto:
+A) conceder obrigatoriamente 60%.
+B) conceder desconto de até 60%.
+C) conceder obrigatoriamente 50%.
+D) extinguir a taxa.
+
+
+5. Quanto às parcelas da TSU:
+A) vincendas sempre precedem as vencidas.
+B) vincendas somente podem ser pagas após as vencidas.
+C) somente existe cota única.
+D) parcelamento é proibido.
+
+
+6. A Taxa de Serviços Diversos alcança:
+A) apenas animais.
+B) animais, veículos e bens/mercadorias nas hipóteses legais.
+C) apenas imóveis.
+D) apenas veículos.
+
+
+7. No caso de veículo apreendido, pode figurar como contribuinte:
+A) somente o proprietário registral.
+B) proprietário ou possuidor a qualquer título interessado na liberação.
+C) exclusivamente a autoridade fiscal.
+D) qualquer pessoa sem interesse na liberação.
+
+
+8. Para bens e mercadorias, a regra estudada pode alcançar:
+A) apenas proprietário.
+B) proprietário, possuidor ou outra pessoa física/jurídica interessada na liberação.
+C) exclusivamente possuidor.
+D) somente pessoa jurídica.
+
+
+9. O art. 290 remete ao:
+A) Anexo I.
+B) Anexo II.
+C) Anexo IV.
+D) valor venal.
+
+
+10. A taxa referente aos bens apreendidos do art. 291 é paga:
+A) depois da liberação.
+B) de uma só vez, anteriormente à liberação.
+C) obrigatoriamente em 12 parcelas.
+D) cinco anos depois.
+
+
+11. Serviços funerários:
+A) somente à vista.
+B) de uma só vez ou parceladamente, na forma regulamentar.
+C) são necessariamente gratuitos.
+D) seguem obrigatoriamente a regra do art. 291.
+
+
+12. CORREÇÃO DE RETENÇÃO: atraso de 75 dias no ISS, conforme art. 280, VII:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+REGRA DE RETENÇÃO
+
+
+285 = ANTIPOLUENTE + REAPROVEITA → 50%.
+286 = LANÇAMENTO ANUAL.
+287 = COTA ÚNICA → DECRETO → ATÉ 60%; VENCIDA ANTES DA VINCENDA.
+288 = ANIMAL + VEÍCULO + BEM/MERCADORIA.
+289 = QUEM TEM INTERESSE NA LIBERAÇÃO, CONFORME CADA HIPÓTESE.
+290 = UNIDADE FISCAL + ANEXO II.
+291 = UMA SÓ VEZ + ANTES DA LIBERAÇÃO.
+292 = FUNERÁRIO → UMA VEZ OU PARCELADO.
+
+
+E corrija definitivamente:
+
+
+ART. 280, VII = 20 → 30 → 40 → 50.
+
+
+A TSU passa para RETENÇÃO INICIAL e a Taxa de Serviços Diversos fica EM APRENDIZAGEM.
+
+
+AULA 67 — Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos
+
+
+Hoje não avanço para o art. 293. Como a primeira volta estava prevista para aproximadamente hoje, o ganho maior agora é consolidar o bloco pesado recém-estudado antes de abrir a Taxa de Licença. Além disso, as Aulas 63–66 tiveram correções numéricas importantes; avançar sem estabilizá-las aumentaria interferência de memória.
+
+
+1. Art. 280 — o mapa que precisa sobreviver à prova
+
+
+A correção definitiva da multa moratória do ISS é:
+
+
+até 30 dias → 20%
+31 a 60 dias → 30%
+61 a 90 dias → 40%
+91 dias ou mais → 50%
+
+
+E:
+
+
+juros de mora → 1% ao mês.
+
+
+Apague mentalmente a sequência antiga 10–15–20–25.
+
+
+Agora recupere o restante:
+
+
+130,1602 UFIR aparece no bloco cadastral/formal estudado, como exercício sem inscrição nas condições legais e certas alterações não comunicadas.
+
+
+390,4808 UFIR deve acionar a memória de livros, escrituração e formalidades.
+
+
+520,6411 UFIR deve acionar embaraço/recusa/sonegação documental, falsidade e infrações graves envolvendo nota fiscal.
+
+
+A distinção que quero automática:
+
+
+OMISSÃO OU FALSIDADE na declaração → 520,6411.
+
+
+FALTA OU ERRO na declaração → 390,4808.
+
+
+Não marque questão porque reconheceu um número. Faça sempre:
+
+
+CONDUTA → INCISO → PENALIDADE.
+
+
+2. TSU — estrutura essencial
+
+
+A Taxa de Serviços Urbanos foi estudada a partir de três grandes serviços:
+
+
+coleta de lixo; limpeza/conservação; iluminação pública, nas condições da legislação municipal.
+
+
+A expressão-chave é:
+
+
+EFETIVA OU POTENCIAL
+
+
+A banca pode substituir por “exclusivamente efetiva”.
+
+
+Coleta comum × remoção especial
+
+
+Não confunda:
+
+
+coleta periódica ordinária → regime da taxa.
+
+
+remoção especial → preço público, conforme a disciplina estudada.
+
+
+Exemplos de situações especiais que vimos incluem entulhos, determinados detritos e serviços extraordinários solicitados pelo interessado.
+
+
+Essa diferença é conceitualmente muito importante:
+
+
+TAXA ≠ PREÇO PÚBLICO.
+
+
+3. Contribuinte da TSU
+
+
+A tríade é:
+
+
+PROPRIETÁRIO — TITULAR DO DOMÍNIO ÚTIL — POSSUIDOR A QUALQUER TÍTULO.
+
+
+Não aceite alternativa restringindo necessariamente o contribuinte ao proprietário registral.
+
+
+Macete:
+
+
+P–D–P.
+
+
+4. Três grandezas que não podem se misturar
+
+
+Lixo em imóvel edificado:
+
+
+ÁREA CONSTRUÍDA → referência estudada de 0,5%.
+
+
+Lixo em imóvel não edificado:
+
+
+ÁREA DO TERRENO → referência estudada de 0,1%.
+
+
+Limpeza/conservação:
+
+
+TESTADA → referência estudada de 2% por metro linear, com o fator correspondente.
+
+
+Portanto:
+
+
+EDIFICADO → 0,5 → CONSTRUÍDA.
+NÃO EDIFICADO → 0,1 → TERRENO.
+LIMPEZA → 2 → TESTADA.
+
+
+5. Arts. 285–287 — retenção de 24 horas
+
+
+Indústria com as condições ambientais estudadas:
+
+
+equipamentos antipoluentes + reaproveitamento total ou parcial do lixo
+
+
+→ redução de 50% do serviço de coleta.
+
+
+A TSU:
+
+
+lançamento → anual.
+
+
+Pagamento:
+
+
+cota única ou parcelamento, conforme disciplina regulamentar.
+
+
+Cota única:
+
+
+desconto de ATÉ 60%, mediante decreto do Prefeito.
+
+
+Cuidado:
+
+
+ATÉ 60% ≠ obrigatoriamente 60%.
+
+
+E:
+
+
+parcela vencida vem antes da vincenda.
+
+
+6. Serviços Diversos — sequência lógica
+
+
+Grave a tríade:
+
+
+ANIMAL
+VEÍCULO
+BEM/MERCADORIA
+
+
+A lógica operacional:
+
+
+APREENDE → DEPOSITA → PAGA → LIBERA.
+
+
+Para as hipóteses do art. 291 estudadas:
+
+
+pagamento de uma só vez e anteriormente à liberação.
+
+
+Já nos serviços funerários:
+
+
+uma só vez OU parceladamente, conforme regulamentação.
+
+
+Essa oposição é muito cobrável.
+
+
+RECUPERAÇÃO ATIVA SEM ALTERNATIVAS
+
+
+Responda mentalmente antes de continuar.
+
+
+1. 47 dias de atraso do ISS: qual percentual?
+2. 89 dias?
+3. 91 dias?
+4. Juros mensais?
+5. Falta/erro na declaração: 390 ou 520?
+6. Omissão/falsidade: 390 ou 520?
+7. Contribuintes da TSU: quais três?
+8. Imóvel edificado: área construída ou terreno?
+9. Não edificado?
+10. Limpeza de via: área ou testada?
+11. Redução ambiental industrial: quanto?
+12. Cota única da TSU: desconto obrigatório de 60%?
+
+
+Respostas que devem ter surgido:
+
+
+30%; 40%; 50%; 1%; 390; 520; proprietário/domínio útil/possuidor; construída; terreno; testada; 50%; não — até 60%.
+
+
+Se alguma demorou mais de aproximadamente cinco segundos, ela continua em retenção.
+
+
+MINI-SIMULADO CUMULATIVO — PADRÃO IAN
+
+
+Não há gabarito antecipado. Responda primeiro.
+
+
+1. Contribuinte recolheu ISS com atraso de 28 dias. A multa moratória estudada é:
+A) 10%.
+B) 20%.
+C) 30%.
+D) 40%.
+
+
+2. Atraso de exatamente 60 dias:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+3. Atraso de exatamente 61 dias:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+4. Atraso de exatamente 91 dias:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+5. Assinale a associação CORRETA:
+A) omissão/falsidade → 390,4808 UFIR.
+B) falta/erro → 520,6411 UFIR.
+C) omissão/falsidade → 520,6411; falta/erro → 390,4808.
+D) ambas → 130,1602 UFIR.
+
+
+6. A utilização capaz de integrar a hipótese da TSU, conforme estudado, pode ser:
+A) exclusivamente efetiva.
+B) efetiva ou potencial.
+C) exclusivamente eventual.
+D) somente requerida pelo contribuinte.
+
+
+7. EXCETO: podem integrar a sujeição passiva estudada da TSU, EXCETO:
+A) proprietário.
+B) titular do domínio útil.
+C) possuidor a qualquer título.
+D) exclusivamente o agente fiscal responsável pelo lançamento.
+
+
+8. Para lixo de imóvel não edificado, a associação estudada é:
+A) área construída + 0,5%.
+B) terreno + 0,1%.
+C) testada + 2%.
+D) testada + 0,5%.
+
+
+9. Para limpeza/conservação:
+A) testada + 2%.
+B) área construída + 2%.
+C) terreno + 0,1%.
+D) valor venal + 0,5%.
+
+
+10. A indústria que satisfaça conjuntamente as condições ambientais estudadas recebe redução de:
+A) 20%.
+B) 30%.
+C) 50%.
+D) 60%.
+
+
+11. É INCORRETO afirmar sobre a TSU:
+A) seu lançamento é anual.
+B) pode existir pagamento parcelado.
+C) o Prefeito pode conceder por decreto desconto de até 60% na cota única.
+D) a expressão “até 60%” significa obrigatoriamente desconto exatamente igual a 60%.
+
+
+12. Quanto às hipóteses de apreensão estudadas, a regra do art. 291 associa o pagamento:
+A) à liberação prévia e cobrança posterior.
+B) a uma só vez e antes da liberação.
+C) obrigatoriamente a doze parcelas.
+D) à prescrição quinquenal.
+
+
+13. Serviços funerários, segundo o bloco estudado:
+A) somente podem ser pagos à vista.
+B) admitem pagamento de uma só vez ou parceladamente, segundo a disciplina regulamentar.
+C) seguem necessariamente a mesma regra de liberação de veículo.
+D) são sempre gratuitos.
+
+
+14. Uma alternativa afirma: “remoção especial de entulho é necessariamente cobrada pela mesma TSU aplicável à coleta periódica comum.” A afirmação é:
+A) correta.
+B) incorreta, porque estudamos tratamento por preço público para remoção especial.
+C) correta apenas para imóvel não edificado.
+D) correta se houver possuidor.
+
+
+15. A técnica mais segura numa questão da IAN envolvendo o art. 280 é:
+A) escolher a maior multa disponível.
+B) reconhecer um número familiar.
+C) identificar precisamente a conduta e só então associar a penalidade.
+D) transportar o percentual do ITBI.
+
+
+REGRA DE RETENÇÃO DE HOJE
+
+
+ISS: 20 → 30 → 40 → 50; juros 1%.
+390 = livros/escrituração/formalidade e falta/erro.
+520 = obstrução/falsidade/nota grave e omissão/falsidade.
+TSU = efetiva OU potencial.
+P–D–P = proprietário, domínio útil, possuidor.
+0,5 construída / 0,1 terreno / 2 testada.
+indústria ambiental = −50%.
+cota única = ATÉ 60%.
+apreendidos = paga antes de liberar.
+funerário = à vista OU parcelado.
+
+
+Hoje foi deliberadamente uma aula de consolidação, não repetição passiva. O art. 280 e a TSU permanecem em RETENÇÃO; Serviços Diversos passa para RETENÇÃO INICIAL.
+
+
+AULA 68 — Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299
+
+
+Depois da consolidação da aula anterior, avançamos para a Taxa de Licença, ainda exclusivamente dentro da preparação de Agente Fiscal. Este bloco é conceitualmente importante porque mostra por que o Município pode exigir licença e cobrar taxa: estamos entrando diretamente no poder de polícia administrativa.
+
+
+Art. 293 — de onde nasce a Taxa de Licença?
+
+
+A Taxa de Licença tem como fato gerador o exercício regular do:
+
+
+PODER DE POLÍCIA DO MUNICÍPIO
+
+
+relacionado às atividades previstas na legislação.
+
+
+Em termos simples, poder de polícia é a atuação administrativa pela qual o Município disciplina ou restringe direitos, interesses e liberdades em benefício do interesse coletivo, fiscalizando atividades particulares.
+
+
+Exemplo: você quer abrir determinado estabelecimento em Queimados. O Município não precisa simplesmente aceitar que qualquer atividade funcione em qualquer lugar e de qualquer maneira. Ele pode verificar localização, condições legais e demais requisitos municipais.
+
+
+A lógica é:
+
+
+PARTICULAR QUER EXERCER ATIVIDADE → MUNICÍPIO VERIFICA/FISCALIZA → LICENÇA.
+
+
+A taxa não nasce simplesmente porque a pessoa “possui uma empresa”. O fundamento está na atividade municipal de polícia prevista em lei.
+
+
+Não confunda taxa com imposto
+
+
+Essa distinção é fundamental.
+
+
+IMPOSTO: não depende de uma atuação estatal específica relativa ao contribuinte.
+
+
+TAXA DE LICENÇA: relaciona-se ao exercício do poder de polícia.
+
+
+Então, numa questão:
+
+
+“A Taxa de Licença constitui imposto municipal decorrente do faturamento do estabelecimento.”
+
+
+Errado.
+
+
+Ela é taxa, não ISS.
+
+
+Licença não é autorização eterna
+
+
+Uma licença municipal não significa:
+
+
+“Agora posso modificar tudo livremente porque já tenho alvará.”
+
+
+Mudanças relevantes na atividade, estabelecimento ou condições fiscalizadas podem gerar novas obrigações perante o Município.
+
+
+Essa lógica conversa diretamente com o que já vimos no ISS:
+
+
+alteração cadastral → comunicação ao Fisco.
+
+
+A fiscalização é contínua; o poder de polícia não desaparece simplesmente após o primeiro documento.
+
+
+Poder de polícia — pense em quatro verbos
+
+
+Para memorizar o conceito, use:
+
+
+DISCIPLINAR — CONTROLAR — FISCALIZAR — LIMITAR
+
+
+sempre dentro da lei e voltado ao interesse público.
+
+
+A IAN pode construir uma alternativa aparentemente sofisticada dizendo que poder de polícia permite atuação “ilimitada e discricionária, independentemente de previsão legal”.
+
+
+Errado.
+
+
+PODER DE POLÍCIA ≠ PODER ARBITRÁRIO.
+
+
+Arts. 294–295 — contribuinte e incidência
+
+
+A lógica subjetiva é simples: contribuinte é quem está sujeito à atividade municipal de polícia relacionada à licença correspondente.
+
+
+Para prova, faça esta pergunta:
+
+
+Quem pratica/exerce a situação cuja licença e fiscalização são exigidas?
+
+
+Essa pessoa é o foco da sujeição passiva prevista para a taxa.
+
+
+Não importe automaticamente a tríade imobiliária da TSU:
+
+
+proprietário + domínio útil + possuidor
+
+
+é uma associação que estudamos para aquela taxa imobiliária.
+
+
+Na Taxa de Licença, pense:
+
+
+ATIVIDADE SUJEITA AO PODER DE POLÍCIA → CONTRIBUINTE DA LICENÇA.
+
+
+Essa separação evita interferência entre tributos.
+
+
+Licença antes da atividade
+
+
+A lógica fiscal é preventiva.
+
+
+Em matéria de licença, a fiscalização municipal não existe apenas para chegar depois e multar. Ela permite verificar previamente se a atividade pode funcionar nas condições pretendidas.
+
+
+Isso cria uma associação útil:
+
+
+LICENÇA → CONTROLE PRÉVIO.
+
+
+Não significa que toda fiscalização posterior desapareça. Pelo contrário: depois de licenciada, a atividade continua sujeita à fiscalização municipal.
+
+
+Alvará
+
+
+O alvará é o documento que materializa a licença administrativa nas hipóteses previstas.
+
+
+Não faça esta equivalência:
+
+
+pagamento da taxa = autorização automática para funcionar.
+
+
+São dimensões relacionadas, mas juridicamente não devemos concluir que o simples pagamento de uma guia torna lícita uma atividade irregular.
+
+
+Isso repete uma lógica que já apareceu no ISS:
+
+
+art. 257 → LANÇOU ≠ LEGALIZOU.
+
+
+Agora pense:
+
+
+PAGOU A TAXA ≠ GANHOU DIREITO DE FUNCIONAR IRREGULARMENTE.
+
+
+Arts. 296–299 — fiscalização e alterações
+
+
+Neste bloco, a leitura deve ser feita sempre pela ótica do Agente Fiscal:
+
+
+o Município precisa saber quem exerce a atividade, onde ela ocorre e em quais condições.
+
+
+Alterações relevantes não podem ficar invisíveis ao cadastro e à fiscalização.
+
+
+Por isso, mudança de elementos que serviram de base ao licenciamento pode exigir providências administrativas, atualização e fiscalização.
+
+
+A banca pode tentar afirmar:
+
+
+“Depois da primeira licença, alterações posteriores no estabelecimento são irrelevantes para a Administração Tributária.”
+
+
+Desconfie imediatamente.
+
+
+O poder de polícia é continuado enquanto a atividade estiver sujeita ao controle municipal.
+
+
+COMPARAÇÃO QUE A IAN PODE EXPLORAR
+
+
+Temos agora três institutos próximos:
+
+
+ISS → prestação de serviço → IMPOSTO.
+
+
+TSU → serviços urbanos específicos previstos → TAXA DE SERVIÇO.
+
+
+LICENÇA → exercício do poder de polícia → TAXA DE POLÍCIA.
+
+
+Faça a pergunta:
+
+
+Qual é o fundamento da cobrança?
+
+
+Se for:
+
+
+atividade econômica de prestar serviço → ISS.
+
+
+serviço público específico colocado à disposição nas condições legais → taxa de serviço.
+
+
+controle/fiscalização administrativa → taxa pelo poder de polícia.
+
+
+Essa diferenciação é mais importante que decorar frases.
+
+
+RECUPERAÇÃO ESPAÇADA — AULA 67
+
+
+Sem olhar:
+
+
+28 dias de atraso no ISS → ?
+60 dias → ?
+61 dias → ?
+91 dias → ?
+juros → ?
+falta/erro → 390 ou 520?
+omissão/falsidade → 390 ou 520?
+
+
+Respostas:
+
+
+20% / 30% / 40% / 50% / 1% ao mês / 390 / 520.
+
+
+Agora TSU:
+
+
+edificado → 0,5% sobre quê?
+
+
+não edificado → 0,1% sobre quê?
+
+
+limpeza → 2% sobre quê?
+
+
+Resposta:
+
+
+área construída / área do terreno / metro linear de testada.
+
+
+E Serviços Diversos:
+
+
+apreensão → pagamento antes ou depois da liberação?
+
+
+funerário pode parcelar?
+
+
+Resposta:
+
+
+antes / sim.
+
+
+TESTE CUMULATIVO — PADRÃO IAN
+
+
+Sem gabarito antecipado.
+
+
+1. A Taxa de Licença está essencialmente relacionada:
+A) ao lucro empresarial.
+B) ao exercício regular do poder de polícia municipal.
+C) exclusivamente à propriedade imobiliária.
+D) à transmissão de imóveis.
+
+
+2. O poder de polícia municipal permite, dentro da lei:
+A) disciplinar e fiscalizar determinadas atividades privadas.
+B) agir arbitrariamente sem fundamento legal.
+C) criar crimes municipais livremente.
+D) afastar direitos constitucionais sem fundamento.
+
+
+3. É INCORRETO afirmar:
+A) a licença relaciona-se ao controle administrativo.
+B) o Município pode fiscalizar atividades sujeitas ao seu poder de polícia.
+C) a obtenção inicial da licença torna irrelevante toda alteração posterior da atividade.
+D) o poder de polícia deve observar a legislação.
+
+
+4. A Taxa de Licença é:
+A) imposto.
+B) taxa vinculada ao exercício do poder de polícia nas hipóteses legais.
+C) contribuição previdenciária.
+D) empréstimo compulsório.
+
+
+5. O simples pagamento de uma taxa de licença:
+A) necessariamente legaliza qualquer atividade irregular.
+B) não deve ser confundido com autorização para funcionar em desconformidade com a legislação.
+C) extingue o poder de polícia.
+D) impede fiscalização posterior.
+
+
+6. O alvará relaciona-se:
+A) à materialização da licença administrativa nas hipóteses previstas.
+B) ao lançamento do ITBI.
+C) à imunidade tributária.
+D) à transmissão imobiliária.
+
+
+7. Assinale a associação CORRETA:
+A) ISS → poder de polícia.
+B) Taxa de Licença → prestação privada de serviços.
+C) Taxa de Licença → poder de polícia.
+D) ITBI → limpeza urbana.
+
+
+8. Assinale a associação CORRETA:
+A) TSU → exclusivamente poder de polícia.
+B) ISS → imposto sobre prestação de serviços nas hipóteses legais.
+C) Taxa de Licença → imposto sobre faturamento.
+D) ISS → taxa municipal.
+
+
+9. Recuperação: atraso de exatamente 61 dias no ISS:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+10. Recuperação: omissão ou falsidade na declaração estudada no art. 280 associa-se a:
+A) 130,1602 UFIR.
+B) 390,4808 UFIR.
+C) 520,6411 UFIR.
+D) 20%.
+
+
+11. Recuperação: lixo em imóvel não edificado foi associado a:
+A) área construída + 0,5%.
+B) área do terreno + 0,1%.
+C) testada + 2%.
+D) valor venal + 50%.
+
+
+12. EXCETO: todas representam ideias corretas, EXCETO:
+A) poder de polícia não significa arbitrariedade.
+B) licença administrativa relaciona-se ao controle municipal.
+C) uma vez concedida a licença, o Município perde definitivamente a possibilidade de fiscalizar a atividade.
+D) alterações relevantes podem interessar à fiscalização municipal.
+
+
+REGRA DE RETENÇÃO DA AULA 68
+
+
+TAXA DE LICENÇA = PODER DE POLÍCIA.
+PODER DE POLÍCIA = DISCIPLINA + CONTROLE + FISCALIZAÇÃO + LIMITAÇÃO LEGAL.
+LICENÇA ≠ IMPOSTO.
+PAGOU ≠ LEGALIZOU IRREGULARIDADE.
+LICENÇA INICIAL ≠ FIM DA FISCALIZAÇÃO.
+ISS = IMPOSTO SOBRE SERVIÇO.
+TSU = TAXA DE SERVIÇO.
+LICENÇA = TAXA DE POLÍCIA.
+
+
+ATENÇÃO: o art. 297 será detalhado/corrigido na Aula 69 conforme LC 026/2005; não memorizar como regra vigente uma redação original anual incompatível com a alteração posterior.
