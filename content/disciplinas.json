@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 60,
-    "totalQuestoes": 367,
-    "tempoEstimadoMin": 248,
+    "totalAulas": 61,
+    "totalQuestoes": 383,
+    "tempoEstimadoMin": 252,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -65,7 +65,8 @@
       "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
       "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
       "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
-      "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322"
+      "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
+      "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326"
     ],
     "aulas": [
       {
@@ -427,6 +428,12 @@
         "numero": 73,
         "titulo": "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
         "slug": "taxa-de-licenca-comercio-informal-arts-317-a-322"
+      },
+      {
+        "id": "direito-tributario-aula-074",
+        "numero": 74,
+        "titulo": "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
+        "slug": "taxa-de-licenca-sujeito-passivo-base-de-calculo-lancamento-e-arrecadacao-arts-32"
       }
     ]
   },

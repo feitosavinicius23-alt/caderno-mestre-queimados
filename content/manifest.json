@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 20,
+  "contentVersion": 21,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-07T17:28:19.042Z",
-  "contentHashGlobal": "a2a617380f7588d6",
-  "totalAulas": 73,
-  "totalQuestoes": 393,
+  "ultimaSincronizacao": "2026-10-07T19:57:29.467Z",
+  "contentHashGlobal": "72ae8a1a32be1b38",
+  "totalAulas": 74,
+  "totalQuestoes": 409,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -726,6 +726,18 @@
       "arquivo": "aulas/direito-tributario-aula-073.json",
       "hash": "b2dd1ee6a03f35c7",
       "totalQuestoes": 15,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-074",
+      "numero": 74,
+      "titulo": "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
+      "slug": "taxa-de-licenca-sujeito-passivo-base-de-calculo-lancamento-e-arrecadacao-arts-32",
+      "disciplina": "Direito Tributário",
+      "assunto": "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
+      "arquivo": "aulas/direito-tributario-aula-074.json",
+      "hash": "5f767be6a75c292c",
+      "totalQuestoes": 16,
       "ultimaAtualizacao": "2026-10-07"
     },
     {

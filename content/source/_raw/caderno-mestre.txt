@@ -14008,3 +14008,307 @@ ISENTO ≠ DISPENSADO DE INSCRIÇÃO.
 
 
 Os arts. 317–322 entram em RETENÇÃO INICIAL. O comércio informal ainda não será considerado dominado até reaparecer em questões misturadas. Na próxima aula avançaremos para o sujeito passivo e a base de cálculo da Taxa de Licença, mantendo recuperação intercalada dos arts. 307–322.
+
+
+AULA 74 — TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326
+
+
+Continuamos exatamente da Aula 73. Fechado o comércio informal, agora organizamos a estrutura tributária da Taxa de Licença: quem é o contribuinte, qual é a base de cálculo, como as atividades secundárias entram no cálculo, qual fator territorial incide, como ocorre o lançamento e quando/como a taxa é recolhida. Este bloco é muito propício à IAN porque permite trocar “custo da fiscalização” por faturamento, 20% por 10%, uma licença por um estabelecimento inteiro, 3 parcelas por 5 e 26,0312 UFIR por outro número já visto.
+
+
+ART. 323 — QUEM É CONTRIBUINTE DA TAXA?
+
+
+Contribuinte é a pessoa física ou jurídica que pretenda:
+
+
+I — localizar e fazer funcionar estabelecimento comercial, industrial, prestador de serviços, agropecuário e outros;
+II — manter em funcionamento estabelecimento previamente licenciado;
+III — veicular publicidade em vias e logradouros públicos, em locais deles visíveis ou de acesso ao público;
+IV — realizar obra, arruamento e loteamento;
+V — explorar atividades em áreas, vias e logradouros públicos.
+
+
+Mapa dos cinco gatilhos:
+LOCALIZAR/FUNCIONAR
+MANTER FUNCIONANDO
+PUBLICIDADE
+OBRA/ARRUAMENTO/LOTEAMENTO
+EXPLORAÇÃO EM ÁREA/VIA/LOGRADOURO PÚBLICO
+
+
+Pegadinha: contribuinte não é apenas quem “abre” estabelecimento. O inciso II alcança quem mantém em funcionamento estabelecimento previamente licenciado.
+
+
+PARÁGRAFO ÚNICO — DADOS PARA O CADASTRO
+
+
+Ao requerer a licença, o contribuinte deve fornecer ao Órgão Fazendário os elementos e informações definidos em decreto e atos complementares necessários à inscrição no cadastro fiscal.
+
+
+Grave:
+REQUEREU LICENÇA → FORNECE DADOS → CADASTRO FISCAL.
+
+
+ART. 324 — BASE DE CÁLCULO
+
+
+A base de cálculo da Taxa de Licença é:
+
+
+O CUSTO DA ATIVIDADE DE FISCALIZAÇÃO REALIZADA PELO MUNICÍPIO NO EXERCÍCIO REGULAR DO PODER DE POLÍCIA,
+
+
+dimensionado para cada caso conforme a tabela do Anexo III.
+
+
+Essa é a associação central:
+TAXA DE LICENÇA → PODER DE POLÍCIA → CUSTO DA FISCALIZAÇÃO.
+
+
+Não transporte bases de outros tributos:
+ISS → preço do serviço, conforme sua disciplina.
+IPTU/ITBI → regras próprias ligadas ao imóvel/transmissão.
+Taxa de Licença → custo da atividade fiscalizatória, conforme Anexo III.
+
+
+ART. 324, §1º — ATIVIDADES SECUNDÁRIAS: 20%
+
+
+Na localização e funcionamento, se atividades secundárias forem exercidas:
+junto com a principal;
+no mesmo local;
+sem delimitação física de espaço;
+pelo mesmo contribuinte;
+
+
+a taxa será calculada e cobrada na proporção de:
+
+
+20% DO VALOR DE CADA ATIVIDADE SECUNDÁRIA CONSTANTE DA TABELA DO ANEXO III, POR ATIVIDADE SECUNDÁRIA.
+
+
+Macete:
+SECUNDÁRIA + MESMO LOCAL + MESMO CONTRIBUINTE + SEM SEPARAÇÃO FÍSICA → 20% POR SECUNDÁRIA.
+
+
+IAN pode retirar uma condição ou trocar 20% por 10%.
+
+
+ART. 324, §2º — PRIMEIRO EXERCÍCIO
+
+
+No primeiro exercício de concessão da licença para localização e funcionamento, a taxa é devida conforme a regra indicada pelo próprio Código no art. 300, III.
+
+
+Regra de prova: se a questão remeter expressamente ao primeiro exercício, não invente uma fórmula autônoma; o §2º faz remissão ao art. 300, III.
+
+
+ART. 324, §3º — FATOR DE LOCALIZAÇÃO
+
+
+Incide fator de localização sobre a base de cálculo de:
+Taxa de Localização e Funcionamento;
+Taxa de Fiscalização de Estabelecimentos;
+Taxa de Comércio Informal;
+Taxa de Vistoria de Estabelecimentos Localizados.
+
+
+Na redação consolidada, esse fator é determinado conforme parâmetros de zoneamento da LC 064/13, antes do término de cada exercício, pelo Chefe do Poder Executivo, mediante decreto válido para o exercício seguinte.
+
+
+Macete:
+FATOR DE LOCALIZAÇÃO → ZONEAMENTO → DECRETO → EXERCÍCIO SEGUINTE.
+
+
+ART. 325 — LANÇAMENTO
+
+
+A taxa será lançada com base em três possíveis fontes:
+DADOS FORNECIDOS PELO CONTRIBUINTE;
+DADOS CONSTATADOS NO LOCAL;
+DADOS EXISTENTES NO CADASTRO.
+
+
+Não memorize que o Fisco depende exclusivamente da declaração do contribuinte.
+
+
+Parágrafo único:
+a taxa será lançada A CADA LICENÇA requerida ou concedida, EM RELAÇÃO A CADA LOCAL onde a fiscalização for realizada.
+
+
+Macete:
+CADA LICENÇA + CADA LOCAL.
+
+
+ART. 326 — ARRECADAÇÃO
+
+
+A taxa relativa à licença para localização e fiscalização de estabelecimento será recolhida:
+
+
+DE UMA SÓ VEZ
+OU
+EM ATÉ 3 PARCELAS MENSAIS CONSECUTIVAS.
+
+
+Valor mínimo:
+26,0312 UFIR.
+
+
+Momento:
+ANTES DO INÍCIO DAS ATIVIDADES OU DA PRÁTICA DO ATO SUJEITO AO PODER DE POLÍCIA DO MUNICÍPIO.
+
+
+Mapa numérico:
+326 = 1 VEZ OU ATÉ 3 PARCELAS + MÍNIMO 26,0312 UFIR + ANTES DA ATIVIDADE/ATO.
+
+
+RECUPERAÇÃO ESPAÇADA
+
+
+Sem olhar:
+Art. 317: comerciante localizado pode exercer eventual? Sim, pagando as taxas exigidas.
+Art. 318: eventual/ambulante precisa de inscrição? Sim.
+Art. 319: mudou característica? Atualiza inscrição.
+Art. 320: eventual trabalha até quando? Pelo período da guia.
+Art. 321: sequência sancionatória estudada? Multa → reincidência: suspensão + multa em dobro → cassação se não cumprir.
+Art. 322: isenção elimina inscrição? Não.
+
+
+Recuperação mais antiga:
+Publicidade álcool/fumo → +10%.
+Barraca → até 9 m².
+Regular → mensal.
+Eventual → diária.
+ISS com 75 dias de atraso → 40%.
+ISS com 95 dias → 50%.
+
+
+TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO
+
+
+1. É contribuinte da Taxa de Licença a pessoa física ou jurídica que pretenda:
+A) apenas adquirir imóvel residencial.
+B) localizar e fazer funcionar estabelecimento nas hipóteses legais.
+C) exclusivamente transmitir imóvel.
+D) apenas receber salário.
+
+
+2. O art. 323 também alcança quem pretenda:
+A) manter em funcionamento estabelecimento previamente licenciado.
+B) somente encerrar empresa.
+C) apenas pagar IPTU.
+D) exclusivamente comprar mercadoria.
+
+
+3. Entre os gatilhos do art. 323 está:
+A) veicular publicidade nas condições legais.
+B) receber herança.
+C) celebrar casamento.
+D) contratar empregado doméstico.
+
+
+4. Ao requerer a licença, o contribuinte:
+A) jamais fornece informação cadastral.
+B) fornece ao Órgão Fazendário os elementos e informações necessários à inscrição fiscal, conforme a disciplina aplicável.
+C) somente fornece dados ao Judiciário.
+D) fica dispensado de cadastro.
+
+
+5. A base de cálculo da Taxa de Licença é:
+A) necessariamente o faturamento bruto.
+B) o custo da atividade de fiscalização municipal no exercício regular do poder de polícia, dimensionado conforme o Anexo III.
+C) sempre o valor venal do imóvel.
+D) sempre o preço do serviço.
+
+
+6. Nas condições do §1º do art. 324, cada atividade secundária é cobrada na proporção de:
+A) 5%.
+B) 10%.
+C) 20%.
+D) 50%.
+
+
+7. Para a regra dos 20%, as atividades secundárias são exercidas, entre outras condições:
+A) pelo mesmo contribuinte, no mesmo local e sem delimitação física do espaço.
+B) necessariamente em municípios diferentes.
+C) por contribuintes distintos.
+D) exclusivamente em imóveis públicos.
+
+
+8. O fator de localização da redação consolidada relaciona-se:
+A) ao zoneamento e é determinado nos termos legais para o exercício seguinte.
+B) exclusivamente ao número de empregados.
+C) apenas ao faturamento anual.
+D) à idade do contribuinte.
+
+
+9. O lançamento da taxa pode basear-se:
+A) somente na declaração do contribuinte.
+B) nos dados fornecidos, constatados no local ou existentes no cadastro.
+C) exclusivamente em decisão judicial.
+D) apenas em denúncia anônima.
+
+
+10. A regra do parágrafo único do art. 325 é:
+A) um único lançamento para todas as licenças e todos os locais.
+B) lançamento a cada licença requerida ou concedida, em relação a cada local fiscalizado.
+C) lançamento apenas a cada cinco anos.
+D) ausência de lançamento.
+
+
+11. A taxa do art. 326 pode ser recolhida:
+A) somente em 10 parcelas.
+B) de uma só vez ou em até 3 parcelas mensais consecutivas.
+C) obrigatoriamente em 12 parcelas.
+D) apenas em duas parcelas anuais.
+
+
+12. O valor mínimo indicado no art. 326 é:
+A) 7,8093 UFIR.
+B) 26,0312 UFIR.
+C) 130,1602 UFIR.
+D) 520,6411 UFIR.
+
+
+13. O recolhimento do art. 326 ocorre:
+A) apenas depois de encerrada a atividade.
+B) antes do início das atividades ou da prática do ato sujeito ao poder de polícia.
+C) somente após ação judicial.
+D) a qualquer momento, sem relação com a atividade.
+
+
+14. EXCETO: são hipóteses do art. 323, EXCETO:
+A) realizar obra, arruamento e loteamento.
+B) explorar atividade em áreas, vias e logradouros públicos.
+C) veicular publicidade nas condições legais.
+D) adquirir mercadoria para consumo pessoal, por si só.
+
+
+15. Recuperação: a isenção do comércio informal do art. 322:
+A) elimina a inscrição.
+B) não exime o contribuinte da inscrição.
+C) elimina toda obrigação acessória.
+D) transforma taxa em imposto.
+
+
+16. Recuperação: comércio informal eventual:
+A) cobrança mensal.
+B) cobrança por quantidade de dias.
+C) obrigatoriamente anual.
+D) quinquenal.
+
+
+REGRA DE RETENÇÃO DA AULA 74
+
+
+323 = 5 GATILHOS DO CONTRIBUINTE: LOCALIZAR/FUNCIONAR + MANTER + PUBLICIDADE + OBRA/ARRUAMENTO/LOTEAMENTO + ÁREA/VIA/LOGRADOURO PÚBLICO.
+324 = BASE = CUSTO DA FISCALIZAÇÃO NO PODER DE POLÍCIA.
+SECUNDÁRIAS = 20% POR ATIVIDADE, NAS CONDIÇÕES LEGAIS.
+FATOR DE LOCALIZAÇÃO = ZONEAMENTO + DECRETO + EXERCÍCIO SEGUINTE.
+325 = DADOS DO CONTRIBUINTE / LOCAL / CADASTRO + CADA LICENÇA/CADA LOCAL.
+326 = UMA VEZ OU ATÉ 3 PARCELAS + MÍNIMO 26,0312 UFIR + ANTES DA ATIVIDADE/ATO.
+
+
+Os arts. 323–326 entram em RETENÇÃO INICIAL. Na próxima aula avançaremos para as infrações e penalidades da Taxa de Licença, mantendo mistura deliberada com comércio informal, ISS e TSU.
