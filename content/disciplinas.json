@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 55,
-    "totalQuestoes": 301,
-    "tempoEstimadoMin": 225,
+    "totalAulas": 58,
+    "totalQuestoes": 337,
+    "tempoEstimadoMin": 239,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -60,7 +60,10 @@
       "Taxa de Serviços Urbanos de Queimados: hipótese de incidência, contribuinte e cálculo — arts. 281 a 284",
       "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
       "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299"
+      "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
+      "Taxa de Licença: modalidades, alvará, inspeções e conceito de estabelecimento — arts. 293 a 299",
+      "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
+      "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     ],
     "aulas": [
       {
@@ -392,6 +395,24 @@
         "numero": 68,
         "titulo": "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
         "slug": "taxa-de-licenca-de-queimados-poder-de-policia-e-regras-gerais-arts-293-a-299"
+      },
+      {
+        "id": "direito-tributario-aula-069",
+        "numero": 69,
+        "titulo": "Taxa de Licença: modalidades, alvará, inspeções e conceito de estabelecimento — arts. 293 a 299",
+        "slug": "taxa-de-licenca-modalidades-alvara-inspecoes-e-conceito-de-estabelecimento-arts"
+      },
+      {
+        "id": "direito-tributario-aula-070",
+        "numero": 70,
+        "titulo": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
+        "slug": "taxa-de-licenca-localizacao-funcionamento-e-publicidade-arts-300-a-305"
+      },
+      {
+        "id": "direito-tributario-aula-071",
+        "numero": 71,
+        "titulo": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
+        "slug": "taxa-de-licenca-publicidade-e-execucao-de-obras-arts-307-a-310"
       }
     ]
   },

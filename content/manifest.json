@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 18,
+  "contentVersion": 19,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-07T02:53:23.294Z",
-  "contentHashGlobal": "548de23f36edf81e",
-  "totalAulas": 68,
-  "totalQuestoes": 327,
+  "ultimaSincronizacao": "2026-10-07T02:57:41.305Z",
+  "contentHashGlobal": "11ce946a119cf01e",
+  "totalAulas": 71,
+  "totalQuestoes": 363,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -665,6 +665,42 @@
       "assunto": "Taxa de Licença de Queimados: poder de polícia e regras gerais — arts. 293 a 299",
       "arquivo": "aulas/direito-tributario-aula-068.json",
       "hash": "347360bc55c62c84",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-069",
+      "numero": 69,
+      "titulo": "Taxa de Licença: modalidades, alvará, inspeções e conceito de estabelecimento — arts. 293 a 299",
+      "slug": "taxa-de-licenca-modalidades-alvara-inspecoes-e-conceito-de-estabelecimento-arts",
+      "disciplina": "Direito Tributário",
+      "assunto": "Taxa de Licença: modalidades, alvará, inspeções e conceito de estabelecimento — arts. 293 a 299",
+      "arquivo": "aulas/direito-tributario-aula-069.json",
+      "hash": "afa3624753443695",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-070",
+      "numero": 70,
+      "titulo": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
+      "slug": "taxa-de-licenca-localizacao-funcionamento-e-publicidade-arts-300-a-305",
+      "disciplina": "Direito Tributário",
+      "assunto": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
+      "arquivo": "aulas/direito-tributario-aula-070.json",
+      "hash": "2c4028d9d1be22f8",
+      "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-071",
+      "numero": 71,
+      "titulo": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
+      "slug": "taxa-de-licenca-publicidade-e-execucao-de-obras-arts-307-a-310",
+      "disciplina": "Direito Tributário",
+      "assunto": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
+      "arquivo": "aulas/direito-tributario-aula-071.json",
+      "hash": "6fcc9ec0dd4eeb32",
       "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-10-07"
     },
