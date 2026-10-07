@@ -14312,3 +14312,217 @@ FATOR DE LOCALIZAÇÃO = ZONEAMENTO + DECRETO + EXERCÍCIO SEGUINTE.
 
 
 Os arts. 323–326 entram em RETENÇÃO INICIAL. Na próxima aula avançaremos para as infrações e penalidades da Taxa de Licença, mantendo mistura deliberada com comércio informal, ISS e TSU.
+
+
+AULA 75 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)
+Fonte: Código Tributário Municipal consolidado em 03/05/2024, páginas 111 a 114; atenção às alterações da LC 062/2012. Questões autorais inspiradas em mecanismos de literalidade e distratores de concurso; não são transcrições autenticadas dos cadernos IAN.
+OBJETIVO: distinguir conduta, penalidade, prazo e unidade de cálculo; evitar confundir a redação antiga impressa no consolidado com a nova; fazer recuperação intercalada dos arts. 280, 321, 323–326.
+
+
+1. ALERTA DE VERSÃO LEGISLATIVA
+O consolidado reproduz trechos anteriores e posteriores à LC 062/2012. Nos incisos II e III do art. 327, considerar a redação indicada como dada pela LC 062/2012: (II) INTERDIÇÃO DO ESTABELECIMENTO POR ATÉ 30 DIAS + MULTA DE 100% DA TAXA para exercício de atividade sujeita à licença sem a licença; (III) INTERDIÇÃO ATÉ REGULARIZAÇÃO JUNTO À FAZENDA PÚBLICA em caso de reincidência. NÃO trocar por redações antigas que aparecem abaixo no mesmo PDF (apenas multa de 100% e suspensão da licença até 30 dias). É um ponto de alto risco para questão de lei seca.
+
+
+2. ART. 327 — REGRA DE ABERTURA
+As infrações do capítulo são punidas com as penalidades do art. 327 INDEPENDENTEMENTE das previstas na legislação urbanística específica. Uma sanção tributária/administrativa do Código não exclui, por essa simples razão, sanções urbanísticas aplicáveis. Não confundir pagamento da taxa com regularização automática.
+
+
+3. INCISO I — ALTERAÇÃO NÃO COMUNICADA
+Se o contribuinte não comunicar ao Fisco em 30 DIAS, contados da ocorrência, alteração de RAZÃO SOCIAL, RAMO DE ATIVIDADE ou CARACTERÍSTICAS FÍSICAS do estabelecimento, a multa específica é 7,8093 UFIR.
+Mapa: MUDOU → 30 DIAS PARA COMUNICAR → NÃO COMUNICOU = 7,8093 UFIR.
+Compare com o art. 300: o prazo de 30 dias já aparecia. Não confunda 7,8093 UFIR (art. 327, I) com 26,0312 UFIR (valor mínimo de recolhimento do art. 326).
+
+
+4. INCISO II — EXERCÍCIO SEM A RESPECTIVA LICENÇA
+Na redação da LC 062/2012: INTERDIÇÃO DO ESTABELECIMENTO POR ATÉ 30 DIAS E MULTA DE 100% DO VALOR DA TAXA.
+Observe a conjunção E: duas consequências. O percentual é sobre o VALOR DA TAXA, não sobre o faturamento, nem sobre o valor do imóvel.
+Macete: SEM LICENÇA → INTERDIÇÃO ATÉ 30 DIAS + MULTA DE 100% DA TAXA.
+
+
+5. INCISO III — REINCIDÊNCIA
+Na redação da LC 062/2012: INTERDIÇÃO DO ESTABELECIMENTO ATÉ A REGULARIZAÇÃO JUNTO À FAZENDA PÚBLICA.
+Pegadinha: o prazo da reincidência não é simplesmente o mesmo prazo de até 30 dias do inciso II. A condição expressa é a REGULARIZAÇÃO.
+Macete: REINCIDIU → INTERDIÇÃO ATÉ REGULARIZAR.
+
+
+6. INCISO IV — CASSAÇÃO
+A licença pode ser CASSADA A QUALQUER TEMPO quando deixarem de existir as condições exigidas para sua concessão.
+Não confunda: SUSPENSÃO/INTERDIÇÃO temporária ≠ CASSAÇÃO da licença.
+Mapa: CONDIÇÕES DE CONCESSÃO DESAPARECERAM → CASSAÇÃO A QUALQUER TEMPO.
+
+
+7. INCISO V — COMÉRCIO INFORMAL SEM APRESENTAÇÃO DA PRÓPRIA LICENÇA
+Quem for encontrado exercendo comércio informal em VIAS E LOGRADOUROS PÚBLICOS sem apresentação da própria licença terá as MERCADORIAS APREENDIDAS.
+Cuidado com a redação: a hipótese usa 'sem a apresentação da própria licença'. Não substitua automaticamente por 'não pagou ISS', nem reduza a mera advertência.
+O proprietário terá 30 DIAS para reaver mercadorias, observados os critérios legais.
+Se a inscrição for aceita pelo órgão fiscalizador, exige-se inscrição efetuada e pagamento da multa. Se não for aceita, o dispositivo prevê pagamento da multa pela infração para reaver as mercadorias.
+PERECÍVEIS NÃO RETIRADOS EM 48 HORAS → DOAÇÃO A INSTITUIÇÕES FILANTRÓPICAS DO MUNICÍPIO.
+Multa da alínea correspondente: 30 UFIR, COBRADA EM DOBRO NA REINCIDÊNCIA.
+A falta de pagamento da taxa apurada em procedimento administrativo sujeita à multa de 10% sobre o valor atualizado do tributo, sem prejuízo dos acréscimos moratórios exigíveis.
+NÚMEROS DE GUERRA: 30 DIAS (reaver mercadoria); 48 HORAS (perecível); 30 UFIR (multa específica); DOBRO (reincidência); 10% (falta de pagamento da taxa apurada administrativamente).
+Nota técnica: o consolidado imprime as regras de recuperação de mercadorias sob a indicação 'Parágrafo único' e repete o início como '§ 1º' após o inciso VI. Estude o conteúdo normativo, mas não invente uma numeração perfeita onde o documento consolidado tem repetição editorial.
+
+
+8. INCISO VI — TRANSPORTE DE PASSAGEIROS SEM AUTORIZAÇÃO/CONCESSÃO/PERMISSÃO
+A exploração sem prévia autorização, concessão ou permissão do poder público municipal sujeita, CONCOMITANTEMENTE, a: (a) APREENSÃO DO VEÍCULO; (b) MULTA DE 100% SOBRE O VALOR ATUALIZADO DAS TAXAS DEVIDAS NO PERÍODO DE FUNCIONAMENTO, independentemente dos acréscimos moratórios.
+É outro '100%', mas com base distinta: no inciso II é o valor da taxa; no inciso VI são as taxas devidas no período de funcionamento.
+§ 2º: MULTA ESPECÍFICA DE 474,20 UFIR POR VEÍCULO para transporte coletivo em veículo não licenciado para esse fim, ou frota em número não comunicado à autoridade, independentemente das penalidades pela falta de pagamento da taxa.
+Mapa: TRANSPORTE SEM AUTORIZAÇÃO → APREENDE VEÍCULO + 100% DAS TAXAS DO PERÍODO; VEÍCULO NÃO LICENCIADO/FROTA NÃO COMUNICADA → 474,20 UFIR POR VEÍCULO.
+
+
+9. INTERCALAÇÃO E REVISÃO ESPAÇADA
+Art. 321 (comércio informal, Posturas/Vigilância): primeira multa = última mensalidade; reincidência = suspensão + nova multa em dobro; descumprimento do inciso II = cassação. NÃO confundir essa sequência com o art. 327.
+Art. 322: isenção de taxa NÃO dispensa inscrição.
+Art. 324: base de cálculo = custo da fiscalização; atividade secundária nas condições legais = 20%.
+Art. 325: dados do contribuinte, constatados no local ou cadastro; cada licença/cada local.
+Art. 326: uma vez ou até 3 parcelas mensais consecutivas; mínimo 26,0312 UFIR; antes do início.
+Art. 280 (ISS): a sequência de atraso estudada foi 20% até 30 dias; 30% de 31 a 60; 40% de 61 a 90; 50% a partir de 91. Não transportar percentuais do ISS para infrações de Taxa de Licença.
+
+
+10. MICROAULA DE PORTUGUÊS APLICADA À LEI SECA
+'ATÉ 30 DIAS' indica limite máximo, não necessariamente 30 dias exatos.
+'E' em 'interdição E multa' indica cumulação, não escolha alternativa.
+'INDEPENDENTEMENTE' não equivale a 'em substituição'.
+'SEM APRESENTAÇÃO DA LICENÇA' não deve ser lido como 'sem pagamento de ISS'.
+'CONCOMITANTEMENTE' significa aplicação conjunta.
+Na IAN, uma única troca dessas palavras pode inverter a alternativa correta.
+
+
+11. TESTE CUMULATIVO AUTORAL — SEM GABARITO ANTECIPADO
+Responda sem consultar, em formato 1A, 2B etc. Após as respostas, corrigir alternativa por alternativa e registrar os erros com causa provável, regra, pegadinha e revisão posterior.
+
+
+1) O art. 327 prevê penalidades:
+A) apenas se não existir sanção urbanística.
+B) independentemente das previstas na legislação urbanística específica.
+C) somente após sentença judicial.
+D) apenas quando houver ISS.
+
+
+2) A falta de comunicação de alteração da razão social em 30 dias sujeita, no inciso I, à multa de:
+A) 7,8093 UFIR.
+B) 26,0312 UFIR.
+C) 30 UFIR.
+D) 474,20 UFIR.
+
+
+3) A comunicação do inciso I deve ocorrer em:
+A) 15 dias da notificação.
+B) 20 dias da alteração.
+C) 30 dias da ocorrência.
+D) 90 dias da fiscalização.
+
+
+4) Segundo a redação dada pela LC 062/2012, o exercício de atividade sujeita à taxa sem a respectiva licença gera:
+A) somente multa de 10%.
+B) interdição por até 30 dias e multa de 100% do valor da taxa.
+C) apenas advertência.
+D) cassação automática em qualquer caso.
+
+
+5) Em caso de reincidência, o inciso III, na redação de 2012, prevê:
+A) interdição até regularização junto à Fazenda Pública.
+B) apenas multa de 7,8093 UFIR.
+C) isenção temporária.
+D) interdição sempre por exatamente 48 horas.
+
+
+6) A cassação da licença do inciso IV pode ocorrer:
+A) apenas após cinco anos.
+B) quando deixarem de existir condições exigidas para sua concessão.
+C) automaticamente por qualquer mudança de endereço de cliente.
+D) somente em relação ao ISS.
+
+
+7) Comerciante informal em via pública sem apresentação da própria licença está sujeito:
+A) exclusivamente à multa de ISS.
+B) à apreensão de mercadorias.
+C) à transferência automática da mercadoria ao comprador.
+D) somente a advertência verbal.
+
+
+8) Prazo geral previsto para o proprietário reaver mercadorias apreendidas no bloco estudado:
+A) 48 horas.
+B) 7 dias.
+C) 30 dias.
+D) 90 dias.
+
+
+9) Mercadoria perecível não retirada no prazo legal de:
+A) 24 horas deve ser incinerada.
+B) 48 horas será doada a instituições filantrópicas do Município.
+C) 30 dias será devolvida sem condição.
+D) 60 dias será leiloada obrigatoriamente.
+
+
+10) A multa específica de 30 UFIR, no bloco de apreensão de mercadorias, é:
+A) reduzida pela metade na reincidência.
+B) cobrada em dobro na reincidência.
+C) sempre substituída por 100% do ISS.
+D) inexigível em qualquer caso.
+
+
+11) Falta de pagamento da taxa apurada mediante procedimento administrativo:
+A) gera multa de 10% sobre o tributo atualizado, independentemente dos acréscimos moratórios exigíveis.
+B) gera sempre 200% do IPTU.
+C) gera multa fixa de 7,8093 UFIR.
+D) elimina os acréscimos moratórios.
+
+
+12) Transporte de passageiros sem autorização, concessão ou permissão municipal:
+A) gera apenas orientação educativa.
+B) pode ensejar apreensão do veículo e multa de 100% das taxas atualizadas devidas no período, concomitantemente.
+C) não admite sanções.
+D) gera automaticamente desconto de 60%.
+
+
+13) A multa específica por veículo não licenciado para transporte coletivo ou frota em número não comunicado é:
+A) 26,0312 UFIR por estabelecimento.
+B) 474,20 UFIR por veículo.
+C) 7,8093 UFIR por mês.
+D) 30 UFIR por serviço.
+
+
+14) INCORRETA: assinale a alternativa incorreta.
+A) 'Até 30 dias' expressa limite máximo.
+B) 'Concomitantemente' indica aplicação conjunta.
+C) 'Interdição e multa' significa que a Administração necessariamente escolhe apenas uma.
+D) 'Independentemente' não significa substituição automática.
+
+
+15) Recuperação: a base de cálculo da Taxa de Licença do art. 324 é:
+A) sempre o valor venal.
+B) custo da fiscalização no exercício regular do poder de polícia.
+C) exclusivamente o lucro líquido.
+D) necessariamente o preço do serviço.
+
+
+16) Recuperação: nas condições legais do art. 324, cada atividade secundária é cobrada à proporção de:
+A) 10%.
+B) 20%.
+C) 30%.
+D) 50%.
+
+
+17) Recuperação: isenção de Taxa de Licença do comércio informal, art. 322:
+A) dispensa inscrição.
+B) não exime da inscrição junto ao Fisco.
+C) afasta qualquer fiscalização.
+D) é concedida automaticamente a todo comerciante.
+
+
+18) Recuperação intercalada: no ISS estudado, atraso de 75 dias corresponde a:
+A) 20%.
+B) 30%.
+C) 40%.
+D) 50%.
+
+
+12. RETENÇÃO E PRÓXIMA AULA
+327-I = 30 DIAS + 7,8093 UFIR.
+327-II (2012) = SEM LICENÇA → INTERDIÇÃO ATÉ 30 DIAS + 100% DA TAXA.
+327-III (2012) = REINCIDÊNCIA → INTERDIÇÃO ATÉ REGULARIZAR.
+327-IV = CONDIÇÕES DESAPARECEM → CASSAÇÃO.
+327-V = SEM APRESENTAÇÃO DA LICENÇA NO COMÉRCIO INFORMAL EM VIA/LOGRADOURO → APREENSÃO; 30 DIAS PARA REAVER; PERECÍVEL 48 HORAS; MULTA 30 UFIR EM DOBRO NA REINCIDÊNCIA; TAXA NÃO PAGA APURADA = 10%.
+327-VI = TRANSPORTE SEM AUTORIZAÇÃO → APREENSÃO DO VEÍCULO + 100% DAS TAXAS DO PERÍODO; §2º = 474,20 UFIR POR VEÍCULO.
+STATUS: em aprendizagem, sem gabarito nem domínio presumido. Caderno de erros: aguardando respostas; não atribuir erros inexistentes. Próxima aula: art. 327, §3º — multas por obrigações acessórias (LC 062/2012), depois contribuição de melhoria (art. 328 e seguintes).

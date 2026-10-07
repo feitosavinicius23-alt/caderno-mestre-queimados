@@ -1,7 +1,7 @@
 {
-  "contentVersion": 21,
-  "geradoEm": "2026-10-07T19:57:29.467Z",
-  "total": 1554,
+  "contentVersion": 22,
+  "geradoEm": "2026-10-07T23:01:07.668Z",
+  "total": 1594,
   "documentos": [
     {
       "tipo": "aula",
@@ -15249,6 +15249,427 @@
       "assunto": "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
       "slug": "taxa-de-licenca-sujeito-passivo-base-de-calculo-lancamento-e-arrecadacao-arts-32",
       "texto": "Publicidade álcool/fumo → +10%.\nBarraca → até 9 m².\nRegular → mensal.\nEventual → diária.\nISS com 75 dias de atraso → 40%.\nISS com 95 dias → 50%."
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-075",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º) AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b1",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "Fonte: Código Tributário Municipal consolidado em 03/05/2024, páginas 111 a 114; atenção às alterações da LC 062/2012. Questões autorais inspiradas em mecanismos de literalidade e distratores de concurso; não são transcrições autenticadas dos cadernos IAN.\nOBJETIVO: distinguir conduta, penalidade, prazo e unidade de cálculo; evitar confundir a redação antiga impressa no consolidado com a nova; faz"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b2",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "1. ALERTA DE VERSÃO LEGISLATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "1. ALERTA DE VERSÃO LEGISLATIVA O consolidado reproduz trechos anteriores e posteriores à LC 062/2012. Nos incisos II e III do art. 327, considerar a redação indicada como dada pela LC 062/2012: (II) INTERDIÇÃO DO ESTABELECIMENTO POR ATÉ 30 DIAS + MULTA DE 100% DA TAXA para exercício de atividade sujeita à licença sem a licença; (III) INTERDIÇÃO ATÉ REGULARIZAÇÃO JUNTO À FAZENDA PÚBLICA em caso de"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b3",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "2. ART. 327 — REGRA DE ABERTURA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 327 — REGRA DE ABERTURA As infrações do capítulo são punidas com as penalidades do art. 327 INDEPENDENTEMENTE das previstas na legislação urbanística específica. Uma sanção tributária/administrativa do Código não exclui, por essa simples razão, sanções urbanísticas aplicáveis. Não confundir pagamento da taxa com regularização automática."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b4",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "3. INCISO I — ALTERAÇÃO NÃO COMUNICADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "3. INCISO I — ALTERAÇÃO NÃO COMUNICADA Se o contribuinte não comunicar ao Fisco em 30 DIAS, contados da ocorrência, alteração de RAZÃO SOCIAL, RAMO DE ATIVIDADE ou CARACTERÍSTICAS FÍSICAS do estabelecimento, a multa específica é 7,8093 UFIR.\nMapa: MUDOU → 30 DIAS PARA COMUNICAR → NÃO COMUNICOU = 7,8093 UFIR.\nCompare com o art. 300: o prazo de 30 dias já aparecia. Não confunda 7,8093 UFIR (art. 327"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b5",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "4. INCISO II — EXERCÍCIO SEM A RESPECTIVA LICENÇA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "4. INCISO II — EXERCÍCIO SEM A RESPECTIVA LICENÇA Na redação da LC 062/2012: INTERDIÇÃO DO ESTABELECIMENTO POR ATÉ 30 DIAS E MULTA DE 100% DO VALOR DA TAXA.\nObserve a conjunção E: duas consequências. O percentual é sobre o VALOR DA TAXA, não sobre o faturamento, nem sobre o valor do imóvel.\nMacete: SEM LICENÇA → INTERDIÇÃO ATÉ 30 DIAS + MULTA DE 100% DA TAXA."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b6",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "5. INCISO III — REINCIDÊNCIA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "5. INCISO III — REINCIDÊNCIA Na redação da LC 062/2012: INTERDIÇÃO DO ESTABELECIMENTO ATÉ A REGULARIZAÇÃO JUNTO À FAZENDA PÚBLICA.\nPegadinha: o prazo da reincidência não é simplesmente o mesmo prazo de até 30 dias do inciso II. A condição expressa é a REGULARIZAÇÃO.\nMacete: REINCIDIU → INTERDIÇÃO ATÉ REGULARIZAR."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b7",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "6. INCISO IV — CASSAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "6. INCISO IV — CASSAÇÃO A licença pode ser CASSADA A QUALQUER TEMPO quando deixarem de existir as condições exigidas para sua concessão.\nNão confunda: SUSPENSÃO/INTERDIÇÃO temporária ≠ CASSAÇÃO da licença.\nMapa: CONDIÇÕES DE CONCESSÃO DESAPARECERAM → CASSAÇÃO A QUALQUER TEMPO."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b8",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "7. INCISO V — COMÉRCIO INFORMAL SEM APRESENTAÇÃO DA PRÓPRIA LICENÇA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "7. INCISO V — COMÉRCIO INFORMAL SEM APRESENTAÇÃO DA PRÓPRIA LICENÇA Quem for encontrado exercendo comércio informal em VIAS E LOGRADOUROS PÚBLICOS sem apresentação da própria licença terá as MERCADORIAS APREENDIDAS.\nCuidado com a redação: a hipótese usa 'sem a apresentação da própria licença'. Não substitua automaticamente por 'não pagou ISS', nem reduza a mera advertência.\nO proprietário terá 30 "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b9",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "8. INCISO VI — TRANSPORTE DE PASSAGEIROS SEM AUTORIZAÇÃO/CONCESSÃO/PERMISSÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "8. INCISO VI — TRANSPORTE DE PASSAGEIROS SEM AUTORIZAÇÃO/CONCESSÃO/PERMISSÃO A exploração sem prévia autorização, concessão ou permissão do poder público municipal sujeita, CONCOMITANTEMENTE, a: (a) APREENSÃO DO VEÍCULO; (b) MULTA DE 100% SOBRE O VALOR ATUALIZADO DAS TAXAS DEVIDAS NO PERÍODO DE FUNCIONAMENTO, independentemente dos acréscimos moratórios.\nÉ outro '100%', mas com base distinta: no in"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b10",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "§ 2º: MULTA ESPECÍFICA DE 474,20 UFIR POR VEÍCULO para transporte coletivo em veículo não licenciado para esse fim, ou frota em número não comunicado à autoridade, independentemente das penalidades pela falta de pagamento da taxa."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b11",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "Mapa: TRANSPORTE SEM AUTORIZAÇÃO → APREENDE VEÍCULO + 100% DAS TAXAS DO PERÍODO; VEÍCULO NÃO LICENCIADO/FROTA NÃO COMUNICADA → 474,20 UFIR POR VEÍCULO."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b12",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 321 (comércio informal, Posturas/Vigilância): primeira multa = última mensalidade; reincidência = suspensão + nova multa em dobro; descumprimento do inciso II = cassação. NÃO confundir essa sequência com o art. 327."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b13",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 322: isenção de taxa NÃO dispensa inscrição."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b14",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 324: base de cálculo = custo da fiscalização; atividade secundária nas condições legais = 20%."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b15",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 325: dados do contribuinte, constatados no local ou cadastro; cada licença/cada local."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b16",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 326: uma vez ou até 3 parcelas mensais consecutivas; mínimo 26,0312 UFIR; antes do início."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-075-b17",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 280 (ISS): a sequência de atraso estudada foi 20% até 30 dias; 30% de 31 a 60; 40% de 61 a 90; 50% a partir de 91. Não transportar percentuais do ISS para infrações de Taxa de Licença."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b18",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "9. INTERCALAÇÃO E REVISÃO ESPAÇADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "9. INTERCALAÇÃO E REVISÃO ESPAÇADA"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b19",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "10. MICROAULA DE PORTUGUÊS APLICADA À LEI SECA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "10. MICROAULA DE PORTUGUÊS APLICADA À LEI SECA 'ATÉ 30 DIAS' indica limite máximo, não necessariamente 30 dias exatos.\n'E' em 'interdição E multa' indica cumulação, não escolha alternativa.\n'INDEPENDENTEMENTE' não equivale a 'em substituição'.\n'SEM APRESENTAÇÃO DA LICENÇA' não deve ser lido como 'sem pagamento de ISS'.\n'CONCOMITANTEMENTE' significa aplicação conjunta.\nNa IAN, uma única troca dessa"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b20",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "11. TESTE CUMULATIVO AUTORAL — SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "questao",
+      "texto": "11. TESTE CUMULATIVO AUTORAL — SEM GABARITO ANTECIPADO Responda sem consultar, em formato 1A, 2B etc. Após as respostas, corrigir alternativa por alternativa e registrar os erros com causa provável, regra, pegadinha e revisão posterior."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-075-b21",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "12. RETENÇÃO E PRÓXIMA AULA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "blocoTipo": "teoria",
+      "texto": "12. RETENÇÃO E PRÓXIMA AULA 327-I = 30 DIAS + 7,8093 UFIR.\n327-II (2012) = SEM LICENÇA → INTERDIÇÃO ATÉ 30 DIAS + 100% DA TAXA.\n327-III (2012) = REINCIDÊNCIA → INTERDIÇÃO ATÉ REGULARIZAR.\n327-IV = CONDIÇÕES DESAPARECEM → CASSAÇÃO.\n327-V = SEM APRESENTAÇÃO DA LICENÇA NO COMÉRCIO INFORMAL EM VIA/LOGRADOURO → APREENSÃO; 30 DIAS PARA REAVER; PERECÍVEL 48 HORAS; MULTA 30 UFIR EM DOBRO NA REINCIDÊNCIA; "
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-001",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 1 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "1) O art. 327 prevê penalidades:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-002",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 2 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "2) A falta de comunicação de alteração da razão social em 30 dias sujeita, no inciso I, à multa de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-003",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 3 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "3) A comunicação do inciso I deve ocorrer em:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-004",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 4 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "4) Segundo a redação dada pela LC 062/2012, o exercício de atividade sujeita à taxa sem a respectiva licença gera:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-005",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 5 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "5) Em caso de reincidência, o inciso III, na redação de 2012, prevê:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-006",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 6 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "6) A cassação da licença do inciso IV pode ocorrer:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-007",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 7 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "7) Comerciante informal em via pública sem apresentação da própria licença está sujeito:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-008",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 8 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "8) Prazo geral previsto para o proprietário reaver mercadorias apreendidas no bloco estudado:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-009",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 9 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "9) Mercadoria perecível não retirada no prazo legal de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-010",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 10 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "10) A multa específica de 30 UFIR, no bloco de apreensão de mercadorias, é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-011",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 11 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "11) Falta de pagamento da taxa apurada mediante procedimento administrativo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-012",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 12 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "12) Transporte de passageiros sem autorização, concessão ou permissão municipal:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-013",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 13 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "13) A multa específica por veículo não licenciado para transporte coletivo ou frota em número não comunicado é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-014",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 14 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "14) INCORRETA: assinale a alternativa incorreta."
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-015",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 15 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "15) Recuperação: a base de cálculo da Taxa de Licença do art. 324 é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-016",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 16 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "16) Recuperação: nas condições legais do art. 324, cada atividade secundária é cobrada à proporção de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-017",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 17 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "17) Recuperação: isenção de Taxa de Licença do comércio informal, art. 322:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-075-q-018",
+      "lessonId": "direito-tributario-aula-075",
+      "titulo": "Questão 18 — AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "texto": "18) Recuperação intercalada: no ISS estudado, atraso de 75 dias corresponde a:"
     },
     {
       "tipo": "aula",

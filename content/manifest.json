@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 21,
+  "contentVersion": 22,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-07T19:57:29.467Z",
-  "contentHashGlobal": "72ae8a1a32be1b38",
-  "totalAulas": 74,
-  "totalQuestoes": 409,
+  "ultimaSincronizacao": "2026-10-07T23:01:07.668Z",
+  "contentHashGlobal": "45b7089564ee880e",
+  "totalAulas": 75,
+  "totalQuestoes": 427,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -738,6 +738,18 @@
       "arquivo": "aulas/direito-tributario-aula-074.json",
       "hash": "5f767be6a75c292c",
       "totalQuestoes": 16,
+      "ultimaAtualizacao": "2026-10-07"
+    },
+    {
+      "id": "direito-tributario-aula-075",
+      "numero": 75,
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "arquivo": "aulas/direito-tributario-aula-075.json",
+      "hash": "2c3b80716beaee29",
+      "totalQuestoes": 18,
       "ultimaAtualizacao": "2026-10-07"
     },
     {
