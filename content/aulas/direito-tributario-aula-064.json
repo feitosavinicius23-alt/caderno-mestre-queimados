@@ -133,9 +133,9 @@
           "text": "100% do imposto."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 130,1602 UFIR após decorridos 15 dias da notificação não cumprida.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -162,9 +162,9 @@
           "text": "10%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 520,6411 UFIR.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -191,9 +191,9 @@
           "text": "100%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 390,4808 UFIR.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -220,9 +220,9 @@
           "text": "ambas = 130,1602 UFIR."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: omissão/falsidade = 520,6411; falta/erro = 390,4808.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -249,9 +249,9 @@
           "text": "10% do imposto."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 520,6411 UFIR por serviço.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -278,9 +278,9 @@
           "text": "100% e 90 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 130,1602 UFIR e 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -307,9 +307,9 @@
           "text": "25%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 130,1602 UFIR por documento impresso.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -336,9 +336,9 @@
           "text": "200%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 100% do valor atualizado do imposto.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -365,9 +365,9 @@
           "text": "130,1602 UFIR."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 100%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -394,9 +394,9 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 40%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -423,9 +423,9 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: 50%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     },
@@ -452,9 +452,9 @@
           "text": "a aplicação da multa impede a exigência do imposto."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: a aplicação da multa impede a exigência do imposto.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: art. 280 completo — pareamento exato das penalidades"
     }
@@ -486,5 +486,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "e9dbbaa8bc8817ee"
+  "contentHash": "91df3af342643ec0"
 }

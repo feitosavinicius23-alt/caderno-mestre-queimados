@@ -168,9 +168,9 @@
           "text": "limita-se aos bens imóveis."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não exclui outras garantias expressamente previstas em lei.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -197,9 +197,9 @@
           "text": "exclusivamente bens imóveis."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a totalidade dos bens e rendas, observada a ressalva legal dos absolutamente impenhoráveis.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -226,9 +226,9 @@
           "text": "excluído por isenção."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: regularmente inscrito como dívida ativa.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -255,9 +255,9 @@
           "text": "apenas aos juros."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: ao total pagamento da dívida inscrita.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -284,9 +284,9 @@
           "text": "a disciplina da falência possui regras específicas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: créditos trabalhistas são irrelevantes para o art. 186.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -313,9 +313,9 @@
           "text": "decadência."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: excesso de poderes ou infração de lei, contrato social ou estatutos.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -342,9 +342,9 @@
           "text": "gera imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não é considerada espontânea para o art. 138.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -371,9 +371,9 @@
           "text": "imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: suspensão da exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -400,9 +400,9 @@
           "text": "todos os créditos foram extintos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: pelo menos parte dos bens mencionados foi alienada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     },
@@ -429,9 +429,9 @@
           "text": "art. 138 — parcelamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 138 — parcelamento.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)"
     }
@@ -487,5 +487,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "60d58ab5320de927"
+  "contentHash": "aa8c220448086528"
 }

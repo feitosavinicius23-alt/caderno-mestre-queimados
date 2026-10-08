@@ -176,9 +176,9 @@
           "text": "toda circulação de mercadorias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a prestação de serviços constantes da lista anexa, ainda que não constituam atividade preponderante do prestador.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     },
@@ -205,9 +205,9 @@
           "text": "a LC 116 disciplina hipóteses de serviços provenientes do exterior."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: o ISS é sempre devido no Município do estabelecimento prestador, sem qualquer exceção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     },
@@ -234,9 +234,9 @@
           "text": "elimina qualquer obrigação tributária municipal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não basta, por si só, para caracterizar a não incidência por exportação; devem ser observados os requisitos legais e o local do resultado.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     },
@@ -263,9 +263,9 @@
           "text": "ISS → valor dos bens móveis existentes no estabelecimento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: IPTU → valor venal do imóvel; ISS → preço do serviço.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     },
@@ -292,9 +292,9 @@
           "text": "I, II, III e IV."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: I, II e IV apenas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     },
@@ -321,9 +321,9 @@
           "text": "correta se a alíquota for inferior a 5%. Registre mentalmente ou no estudo suas respostas 1 a 6. O"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: incorreta, porque a competência municipal deve observar a Constituição e a lei complementar nacional que define os serviços tributáveis.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
     }
@@ -371,5 +371,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "b027e5f6e032d8a1"
+  "contentHash": "574d352fe0535b86"
 }

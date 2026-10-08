@@ -158,9 +158,9 @@
           "text": "exclusivamente propriedade rural."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: transmissão inter vivos, por ato oneroso, nas hipóteses constitucionais relativas a imóveis e direitos.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     },
@@ -187,9 +187,9 @@
           "text": "cessão de direitos à aquisição de imóveis integra a competência constitucional nas condições previstas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: direitos reais de garantia estão incluídos sem ressalva na hipótese constitucional do ITBI.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     },
@@ -216,9 +216,9 @@
           "text": "local em que o preço foi pago."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: situação do imóvel.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     },
@@ -245,9 +245,9 @@
           "text": "valor do IPTU pago no exercício."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: valor venal dos bens ou direitos transmitidos.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     },
@@ -274,9 +274,9 @@
           "text": "I, II, III e IV."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: I, III e IV apenas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     },
@@ -303,9 +303,9 @@
           "text": "a imunidade depende exclusivamente do domicílio dos sócios. NÃO HÁ"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a Constituição prevê hipótese de não incidência na realização de capital e reorganizações societárias, mas contém ressalva ligada à atividade preponderante nas condições constitucionais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE"
     }
@@ -355,5 +355,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "8d0bc9329bf09a9d"
+  "contentHash": "b1eea5a18c4f0b85"
 }

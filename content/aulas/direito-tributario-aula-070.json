@@ -175,9 +175,9 @@
           "text": "deixa de existir."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: incide proporcionalmente ao número de meses entre a abertura e o final do exercício.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -204,9 +204,9 @@
           "text": "alteração do preço dos produtos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: mudança de ramo, modificação das características do estabelecimento ou transferência de local.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -233,9 +233,9 @@
           "text": "90 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -262,9 +262,9 @@
           "text": "fica dispensada de fiscalização ambiental."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: depende do atendimento às normas previstas em legislação específica.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -291,9 +291,9 @@
           "text": "somente imóvel próprio."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: estabelecimento da mesma pessoa situado em local diferente, nas condições legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -320,9 +320,9 @@
           "text": "constitui TSU."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: integra a disciplina de publicidade estudada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -349,9 +349,9 @@
           "text": "a LC 026/2005 introduziu exceção relativa a determinados letreiros identificadores."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: todo e qualquer letreiro está sujeito à taxa, sem qualquer exceção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -378,9 +378,9 @@
           "text": "exclusivamente confeccionou fisicamente a placa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: se beneficia direta ou indiretamente e autorizou a publicidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -407,9 +407,9 @@
           "text": "exige-se compra do imóvel."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: deve ser juntada autorização do proprietário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -436,9 +436,9 @@
           "text": "pelo consumidor."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pela repartição competente.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -465,9 +465,9 @@
           "text": "apenas em letras luminosas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: em boa e pura linguagem, sujeitos à revisão competente.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     },
@@ -494,9 +494,9 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 40%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305"
     }
@@ -553,5 +553,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "f2d8b4ac0eb3bf71"
+  "contentHash": "3b9e5c66a369e631"
 }

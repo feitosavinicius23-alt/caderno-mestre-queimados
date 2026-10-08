@@ -1,6 +1,62 @@
 {
   "registros": [
     {
+      "data": "2026-10-08T17:09:38.985Z",
+      "contentVersion": 25,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-072",
+        "direito-tributario-aula-073",
+        "direito-tributario-aula-074",
+        "direito-tributario-aula-075"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 7,
+      "status": "success"
+    },
+    {
+      "data": "2026-10-08T17:09:07.301Z",
+      "contentVersion": 24,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-013",
+        "direito-tributario-aula-014",
+        "direito-tributario-aula-015",
+        "direito-tributario-aula-016",
+        "direito-tributario-aula-017",
+        "direito-tributario-aula-018",
+        "direito-tributario-aula-034",
+        "direito-tributario-aula-036",
+        "direito-tributario-aula-037",
+        "direito-tributario-aula-038",
+        "direito-tributario-aula-039",
+        "direito-tributario-aula-040",
+        "direito-tributario-aula-041",
+        "direito-tributario-aula-042",
+        "direito-tributario-aula-044",
+        "direito-tributario-aula-045",
+        "direito-tributario-aula-046",
+        "direito-tributario-aula-047",
+        "direito-tributario-aula-063",
+        "direito-tributario-aula-064",
+        "direito-tributario-aula-065",
+        "direito-tributario-aula-066",
+        "direito-tributario-aula-067",
+        "direito-tributario-aula-068",
+        "direito-tributario-aula-069",
+        "direito-tributario-aula-070",
+        "direito-tributario-aula-071",
+        "legislacao-tributaria-de-queimados-aula-029",
+        "legislacao-tributaria-de-queimados-aula-043",
+        "lingua-portuguesa-aula-035"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 79,
+      "status": "success"
+    },
+    {
       "data": "2026-10-08T01:53:52.168Z",
       "contentVersion": 23,
       "novasAulas": [],

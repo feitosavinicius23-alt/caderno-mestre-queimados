@@ -144,9 +144,9 @@
           "text": "ao contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: à Secretaria de Economia e Finanças.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -173,9 +173,9 @@
           "text": "apenas pessoas previamente inscritas em dívida ativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: as pessoas sujeitas ao cumprimento de obrigações tributárias, inclusive imunes ou isentas.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -202,9 +202,9 @@
           "text": "dispensar sempre o sujeito passivo de prestar informações."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: impedir qualquer inspeção em estabelecimento tributável.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -231,9 +231,9 @@
           "text": "apenas depois da inscrição em dívida ativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: mediante intimação escrita, nas hipóteses legais.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -260,9 +260,9 @@
           "text": "inventariantes aparecem entre os sujeitos mencionados."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: a obrigação de informar ignora até mesmo segredo que a lei obrigue o informante a guardar.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -289,9 +289,9 @@
           "text": "a divulgação indevida nunca produz consequência funcional."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: informações econômico-financeiras obtidas em razão do ofício podem ser divulgadas livremente.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -318,9 +318,9 @@
           "text": "destruir a relação de documentos examinados."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: lavrar termo circunstanciado do que apurar.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -347,9 +347,9 @@
           "text": "apenas penal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: relativa.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -376,9 +376,9 @@
           "text": "imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: suspensão da exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     },
@@ -405,9 +405,9 @@
           "text": "art. 126 do CTM — isenção tributária."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 126 do CTM — isenção tributária.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)"
     }
@@ -453,5 +453,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "ed1fc60071df76e4"
+  "contentHash": "0fe016e6a862c104"
 }

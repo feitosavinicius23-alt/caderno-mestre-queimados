@@ -134,9 +134,9 @@
           "text": "de qualquer aumento espontâneo do preço de mercado dos imóveis."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: de obra pública da qual decorra valorização imobiliária, observados os requisitos legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     },
@@ -163,9 +163,9 @@
           "text": "o limite individual corresponde necessariamente ao custo integral da obra dividido igualmente entre todos os imóveis."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: o limite individual corresponde necessariamente ao custo integral da obra dividido igualmente entre todos os imóveis.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     },
@@ -192,9 +192,9 @@
           "text": "qualquer valor definido livremente pelo fiscal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a valorização imobiliária decorrente da obra.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     },
@@ -221,9 +221,9 @@
           "text": "tarifa → espécie tributária prevista no art. 145 da Constituição."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: contribuição de melhoria → obra pública + valorização imobiliária.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     },
@@ -250,9 +250,9 @@
           "text": "I, II, III e IV."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: I, III e IV apenas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     },
@@ -279,9 +279,9 @@
           "text": "ITBI. Não há"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: taxa de serviço, admitida utilização potencial nas condições legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
     }
@@ -323,5 +323,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "dae81bbd5e1abbd7"
+  "contentHash": "65afdcf7913675be"
 }

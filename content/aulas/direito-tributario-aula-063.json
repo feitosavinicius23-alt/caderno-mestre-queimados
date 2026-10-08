@@ -91,9 +91,9 @@
           "text": "é irrelevante para a fiscalização tributária."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode constituir infração independentemente da existência de imposto principal a recolher.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -120,9 +120,9 @@
           "text": "nunca precisa manter documentação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode continuar submetido às obrigações instrumentais previstas no Código.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -149,9 +149,9 @@
           "text": "13.016,02 UFIR."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 130,1602 UFIR.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -178,9 +178,9 @@
           "text": "3.904,808 UFIR."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 390,4808 UFIR.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -207,9 +207,9 @@
           "text": "R$ 520,6411 necessariamente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 520,6411 UFIR.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -236,9 +236,9 @@
           "text": "documentos fiscais possuem relevância autônoma para fiscalização."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: pagamento da obrigação principal necessariamente elimina qualquer infração acessória.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -265,9 +265,9 @@
           "text": "escolher sempre a menor multa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: identificar primeiro a conduta e depois associá-la à penalidade legal.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -294,9 +294,9 @@
           "text": "nunca produz penalidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: deve ser enquadrada segundo a regra específica do ISS.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -323,9 +323,9 @@
           "text": "são questões exclusivamente civis."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: podem representar condutas juridicamente distintas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -352,9 +352,9 @@
           "text": "90 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -381,9 +381,9 @@
           "text": "90 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 20 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     },
@@ -410,9 +410,9 @@
           "text": "cada imposto deve ser estudado segundo sua regra específica."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: ISS — toda fraude recebe necessariamente 200% porque esse é o percentual do ITBI.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISSQN de Queimados: infrações e penalidades do art. 280"
     }
@@ -433,5 +433,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "0822b913b560f879"
+  "contentHash": "1c935b15e37771b1"
 }

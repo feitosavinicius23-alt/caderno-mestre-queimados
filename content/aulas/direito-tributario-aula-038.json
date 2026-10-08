@@ -144,9 +144,9 @@
           "text": "sempre administra pessoa jurídica."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: possui relação pessoal e direta com a situação que constitui o fato gerador.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -173,9 +173,9 @@
           "text": "é sinônimo de contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: tem sua obrigação decorrente de disposição expressa de lei, sem revestir a condição de contribuinte.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -202,9 +202,9 @@
           "text": "substituem automaticamente a lei tributária."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: em regra, não podem ser opostas à Fazenda para modificar a definição legal do sujeito passivo, ressalvada disposição legal em contrário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -231,9 +231,9 @@
           "text": "parcelamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: excesso de poderes ou infração de lei, contrato social ou estatutos.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -260,9 +260,9 @@
           "text": "existem regras específicas de responsabilidade por sucessão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: qualquer terceiro sem vínculo pode ser escolhido livremente pelo fiscal como responsável.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -289,9 +289,9 @@
           "text": "imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: suspensão da exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -318,9 +318,9 @@
           "text": "lançamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -347,9 +347,9 @@
           "text": "extingue automaticamente a obrigação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: constitui o crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -376,9 +376,9 @@
           "text": "todos foram autuados."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pelo menos parte dos responsáveis mencionados foi notificada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     },
@@ -405,9 +405,9 @@
           "text": "parcelamento — extinção do crédito."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: parcelamento — extinção do crédito.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR"
     }
@@ -443,5 +443,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "979432c539d3160a"
+  "contentHash": "84cdf4c012948f7f"
 }

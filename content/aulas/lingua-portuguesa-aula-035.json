@@ -159,9 +159,9 @@
           "text": "a efetividade depende exclusivamente da quantidade de normas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a clareza das regras pode favorecer agentes e administrados.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -188,9 +188,9 @@
           "text": "agentes capacitados dispensam estrutura."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a existência de normas, isoladamente, não assegura efetividade.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -217,9 +217,9 @@
           "text": "condição."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: oposição/contraste.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -246,9 +246,9 @@
           "text": "capacitação é mencionada como fator relevante."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: quantidade de normas, sozinha, garante melhor fiscalização.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -275,9 +275,9 @@
           "text": "O texto estabelece uma relação temporal entre auditoria e revisão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: Todos os processos foram revistos após a auditoria.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -304,9 +304,9 @@
           "text": "conclusão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: concessão.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -333,9 +333,9 @@
           "text": "ao pagamento voluntário."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: à constituição do crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     },
@@ -362,9 +362,9 @@
           "text": "é necessariamente judicial."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: faz nascer a obrigação tributária.",
+      "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE"
     }
@@ -385,5 +385,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "06b14516f4175584"
+  "contentHash": "8cf2c40b03aa01cf"
 }

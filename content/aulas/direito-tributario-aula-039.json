@@ -119,9 +119,9 @@
           "text": "são necessariamente anistiados."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: sub-rogam-se na pessoa do adquirente, ressalvada a hipótese legal de prova de quitação no título.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -148,9 +148,9 @@
           "text": "apenas após parcelamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: sobre o respectivo preço.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -177,9 +177,9 @@
           "text": "apenas se houver infração penal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: até a abertura da sucessão.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -206,9 +206,9 @@
           "text": "art. 135 exclusivamente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: art. 132 do CTN.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -235,9 +235,9 @@
           "text": "convertida em isenção."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: integral, observadas as regras legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -264,9 +264,9 @@
           "text": "inexistente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: subsidiária com o alienante.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -293,9 +293,9 @@
           "text": "existem regras específicas para aquisição de estabelecimento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: a nova atividade do alienante precisa necessariamente ser do mesmo ramo.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -322,9 +322,9 @@
           "text": "isenção — prescrição."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: remissão — extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -351,9 +351,9 @@
           "text": "todos os tributos foram pagos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: pelo menos parte dos adquirentes mencionados respondeu.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     },
@@ -380,9 +380,9 @@
           "text": "art. 135 — parcelamento do crédito tributário. Não consulte o"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 135 — parcelamento do crédito tributário. Não consulte o",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO"
     }
@@ -403,5 +403,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "77307c26b2781fb6"
+  "contentHash": "a8320645b29e7f34"
 }

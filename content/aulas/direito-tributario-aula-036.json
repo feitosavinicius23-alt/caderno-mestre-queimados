@@ -254,9 +254,9 @@
           "text": "pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: parcelamento.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito tributário: suspensão, extinção e exclusão"
     }
@@ -282,5 +282,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "793178391cfdb78a"
+  "contentHash": "ad94aaa3959a0614"
 }

@@ -108,9 +108,9 @@
           "text": "editar lei municipal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: constituir o crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -137,9 +137,9 @@
           "text": "instituição do tributo."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: cobrança judicial do crédito definitivamente constituído.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -166,9 +166,9 @@
           "text": "a prescrição pressupõe crédito constituído definitivamente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta porque a questão pede a exceção ou a afirmação incorreta: todo prazo tributário de cinco anos começa necessariamente na ocorrência do fato gerador.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -195,9 +195,9 @@
           "text": "da execução fiscal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -224,9 +224,9 @@
           "text": "a citação do contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a ocorrência do fato gerador.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -253,9 +253,9 @@
           "text": "gera imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: suspende a exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -282,9 +282,9 @@
           "text": "é discricionário."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: constitui o crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -311,9 +311,9 @@
           "text": "remissão automática."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: obrigação principal quanto à penalidade pecuniária.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -340,9 +340,9 @@
           "text": "transmissão onerosa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: obra pública e valorização imobiliária dela decorrente.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     },
@@ -369,9 +369,9 @@
           "text": "obrigação → competência → fato gerador → crédito. Sem respostas registradas de Vinícius, decadência e prescrição permanecem EM APRENDIZAGEM. Não considero domínio sem recuperação posterior em questões misturadas. Recuperação oral de 60 segundos: decadência serve para constituir ou cobrar? Prescrição serve para constituir ou cobrar? Qual é o prazo-base de ambas? O art. 173, I começa em qual marco? O art. 150, §4º usa qual marco nas condições legais? Parcelamento extingue ou suspende? Remissão faz o quê? Lançamento constitui o quê? REGRA DE OURO: DECADÊNCIA OLHA PARA A CONSTITUIÇÃO DO CRÉDITO; PRESCRIÇÃO OLHA PARA SUA COBRANÇA. NÃO DECORE APENAS “5 ANOS”: IDENTIFIQUE QUAL RELÓGIO ESTÁ CORRENDO E QUAL É O TERMO INICIAL LEGAL."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: fato gerador → obrigação → lançamento → crédito.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Decadência e prescrição tributárias: os dois relógios de 5 anos"
     }
@@ -426,5 +426,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "32c91bfa00f7b687"
+  "contentHash": "a17fbbc63b567b48"
 }

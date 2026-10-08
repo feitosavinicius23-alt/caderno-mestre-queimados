@@ -140,9 +140,9 @@
           "text": "Apenas no domínio útil."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: Não.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -169,9 +169,9 @@
           "text": "gera imunidade se negativo."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não condiciona a incidência na regra estudada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -198,9 +198,9 @@
           "text": "depende de autorização judicial."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: acompanha o imóvel nas hipóteses legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -227,9 +227,9 @@
           "text": "apenas possuidor sem proprietário conhecido."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: proprietário, titular do domínio útil ou possuidor a qualquer título.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -256,9 +256,9 @@
           "text": "ao tabelião."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: ao proprietário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -285,9 +285,9 @@
           "text": "ocorre remissão automática."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: vencem antecipadamente as vincendas e por elas responde o alienante.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -314,9 +314,9 @@
           "text": "pagamento do IPTU seguinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: imissão de posse pelo poder desapropriante.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -343,9 +343,9 @@
           "text": "custo histórico obrigatório."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: valor venal da unidade imobiliária.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -372,9 +372,9 @@
           "text": "somente título de aquisição perfeitamente legítimo permite incidência do IPTU."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: somente título de aquisição perfeitamente legítimo permite incidência do IPTU.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -401,9 +401,9 @@
           "text": "são definidos pelo contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: dependem da aprovação por decreto do Prefeito e publicação, conforme o CTM.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -430,9 +430,9 @@
           "text": "180 — base de cálculo é lucro anual."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 180 — base de cálculo é lucro anual.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     },
@@ -459,9 +459,9 @@
           "text": "imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: dívida ativa e execução.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: IPTU — INCIDÊNCIA, CONTRIBUINTE E BASE DE CÁLCULO (ARTS. 175 A 183)"
     }
@@ -497,5 +497,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "f3199bb06f2c7668"
+  "contentHash": "d56fc7d8f585bd00"
 }

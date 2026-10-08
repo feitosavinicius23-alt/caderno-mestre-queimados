@@ -155,9 +155,9 @@
           "text": "isenção e anistia."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: moratória e parcelamento.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -184,9 +184,9 @@
           "text": "exclusão do crédito."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: extinção do crédito.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -213,9 +213,9 @@
           "text": "pagamento e compensação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: isenção e anistia.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -242,9 +242,9 @@
           "text": "a anistia é modalidade de extinção do crédito tributário."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: a anistia é modalidade de extinção do crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -271,9 +271,9 @@
           "text": "ocorreu remissão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: sua exigibilidade encontra-se suspensa nas condições legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -300,9 +300,9 @@
           "text": "decadência → parcelamento; prescrição → anistia."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: decadência → constituição; prescrição → cobrança.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -329,9 +329,9 @@
           "text": "é hipótese de exclusão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: constitui o crédito tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -358,9 +358,9 @@
           "text": "todos os créditos foram remitidos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: pelo menos parte dos créditos mencionados foi parcelada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -387,9 +387,9 @@
           "text": "remissão — suspensão."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: remissão — suspensão.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     },
@@ -416,9 +416,9 @@
           "text": "parcelamento — extinção."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: parcelamento — extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO"
     }
@@ -450,5 +450,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "8dfddbb1ca8a80ba"
+  "contentHash": "d3fd8e5178f97b22"
 }

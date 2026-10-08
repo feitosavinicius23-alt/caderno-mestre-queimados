@@ -59,9 +59,9 @@
           "text": "concessão de parcelamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: existência obrigatória de crime tributário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -88,9 +88,9 @@
           "text": "moratória."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: excesso de poderes ou infração de lei, contrato social ou estatutos.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -117,9 +117,9 @@
           "text": "só existe após condenação criminal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: independe da intenção do agente ou responsável, salvo disposição de lei em contrário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -146,9 +146,9 @@
           "text": "o art. 138 disciplina denúncia espontânea."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: toda infração tributária exige necessariamente intenção comprovada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -175,9 +175,9 @@
           "text": "moratória."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: denúncia espontânea.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -204,9 +204,9 @@
           "text": "ocorre automaticamente anistia."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não se considera espontânea.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -233,9 +233,9 @@
           "text": "art. 138 — decadência."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: art. 133 — aquisição de estabelecimento.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -262,9 +262,9 @@
           "text": "imunidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: suspensão da exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -291,9 +291,9 @@
           "text": "lançamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     },
@@ -320,9 +320,9 @@
           "text": "138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea"
     }
@@ -337,5 +337,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "fa5501fe9462b74f"
+  "contentHash": "efc8712475b5d14f"
 }

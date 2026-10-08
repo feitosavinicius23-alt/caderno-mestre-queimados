@@ -156,9 +156,9 @@
           "text": "inscrição imediata em dívida ativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: notificação preliminar para regularização em 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -185,9 +185,9 @@
           "text": "não houver qualquer infração."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: houver manifesto ânimo de sonegar.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -214,9 +214,9 @@
           "text": "suspende o crédito."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: é hipótese de autuação imediata prevista no art. 131.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -243,9 +243,9 @@
           "text": "30 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 10 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -272,9 +272,9 @@
           "text": "deve mencionar local, dia e hora."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: toda omissão formal do auto gera nulidade automática, ainda que o processo permita determinar infração e infrator.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -301,9 +301,9 @@
           "text": "impede defesa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não implica confissão.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -330,9 +330,9 @@
           "text": "transforma o auto em notificação preliminar."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: deve ser mencionada, com a indicação obrigatória de duas testemunhas devidamente identificadas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -359,9 +359,9 @@
           "text": "equivale à certidão negativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode ser lavrado cumulativamente com auto de apreensão, contendo também os elementos deste.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -388,9 +388,9 @@
           "text": "apenas pessoas jurídicas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: inclusive pessoas imunes ou isentas sujeitas a obrigações tributárias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     },
@@ -417,9 +417,9 @@
           "text": "art. 137 — certidão negativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 137 — certidão negativa.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO"
     }
@@ -468,5 +468,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "51e431de1b34ff3e"
+  "contentHash": "00c7a79aaf357cbd"
 }

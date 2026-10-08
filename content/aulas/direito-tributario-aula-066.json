@@ -187,9 +187,9 @@
           "text": "60%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 20%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -216,9 +216,9 @@
           "text": "somente estabelecimento comercial."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: indústria possuidora de equipamentos antipoluentes que reaproveite total ou parcialmente seu lixo.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -245,9 +245,9 @@
           "text": "somente após fiscalização."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: anualmente.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -274,9 +274,9 @@
           "text": "extinguir a taxa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: conceder desconto de até 60%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -303,9 +303,9 @@
           "text": "parcelamento é proibido."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: vincendas somente podem ser pagas após as vencidas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -332,9 +332,9 @@
           "text": "apenas veículos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: animais, veículos e bens/mercadorias nas hipóteses legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -361,9 +361,9 @@
           "text": "qualquer pessoa sem interesse na liberação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: proprietário ou possuidor a qualquer título interessado na liberação.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -390,9 +390,9 @@
           "text": "somente pessoa jurídica."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: proprietário, possuidor ou outra pessoa física/jurídica interessada na liberação.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -419,9 +419,9 @@
           "text": "valor venal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: Anexo I.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -448,9 +448,9 @@
           "text": "cinco anos depois."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: de uma só vez, anteriormente à liberação.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -477,9 +477,9 @@
           "text": "seguem obrigatoriamente a regra do art. 291."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: de uma só vez ou parceladamente, na forma regulamentar.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     },
@@ -506,9 +506,9 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 40%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292"
     }
@@ -575,5 +575,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "e7456b3e70952ef5"
+  "contentHash": "0b23d7b6e85465dc"
 }

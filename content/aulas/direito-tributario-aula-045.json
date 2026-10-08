@@ -101,9 +101,9 @@
           "text": "deve remeter obrigatoriamente ao Judiciário."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: deve representar ao titular da Secretaria.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -130,9 +130,9 @@
           "text": "precisa ser servidor municipal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode representar nas condições legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -159,9 +159,9 @@
           "text": "converte-a automaticamente em dívida ativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: providencia diligências para verificar a veracidade e dá o destino cabível.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -188,9 +188,9 @@
           "text": "60 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -217,9 +217,9 @@
           "text": "dispensa fundamentação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: instaura a fase contraditória.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -246,9 +246,9 @@
           "text": "30 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 15 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -275,9 +275,9 @@
           "text": "90 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -304,9 +304,9 @@
           "text": "30 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 15 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -333,9 +333,9 @@
           "text": "a impugnação do lançamento tem prazo de 15 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: a impugnação do lançamento tem prazo de 15 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     },
@@ -362,9 +362,9 @@
           "text": "152 — defesa em 30 dias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 152 — defesa em 30 dias.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)"
     }
@@ -385,5 +385,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "7938f4905470fed2"
+  "contentHash": "55fc4995d4e81666"
 }

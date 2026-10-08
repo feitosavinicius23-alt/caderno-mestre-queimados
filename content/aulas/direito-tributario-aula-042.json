@@ -258,9 +258,9 @@
           "text": "a inscrição em dívida ativa."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a prescrição dos créditos tributários decorrentes das operações respectivas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -287,9 +287,9 @@
           "text": "somente informações bancárias são protegidas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a regra é a vedação de divulgação das informações protegidas, ressalvadas hipóteses legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -316,9 +316,9 @@
           "text": "equivale à anistia."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: recai, nas condições legais, sobre crédito já constituído.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -345,9 +345,9 @@
           "text": "apenas após pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: relativa, podendo ser afastada por prova inequívoca nos termos do CTN.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -374,9 +374,9 @@
           "text": "crédito inexistente apenas."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: crédito com exigibilidade suspensa.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -403,9 +403,9 @@
           "text": "gera anistia."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: suspende sua exigibilidade.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -432,9 +432,9 @@
           "text": "o CTN disciplina certidões tributárias."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: a presunção do art. 204 é absoluta e jamais admite prova contrária.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -461,9 +461,9 @@
           "text": "gera CPEN automaticamente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não é espontânea para os fins do art. 138.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -490,9 +490,9 @@
           "text": "todos foram extintos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: pelo menos parte dos créditos mencionados possui exigibilidade suspensa.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     },
@@ -519,9 +519,9 @@
           "text": "art. 151 — extinção do crédito."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 151 — extinção do crédito.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)"
     }
@@ -647,5 +647,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "ebb4b8dab8c7ce55"
+  "contentHash": "0adc87694e581a60"
 }

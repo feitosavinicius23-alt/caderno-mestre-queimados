@@ -158,9 +158,9 @@
           "text": "equivale necessariamente ao pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode suspender sua exigibilidade, conforme art. 151, III, do CTN.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     },
@@ -187,9 +187,9 @@
           "text": "o julgamento deve observar a competência e a disciplina legal aplicável."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta porque a questão pede a exceção ou a afirmação incorreta: defesa/impugnação e recurso representam necessariamente a mesma etapa procedimental.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     },
@@ -216,9 +216,9 @@
           "text": "correto apenas para IPTU."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: incorreto, pois suspensão da exigibilidade não se confunde com extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     },
@@ -245,9 +245,9 @@
           "text": "anistia → prescrição."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: parcelamento → suspensão; pagamento → extinção.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     },
@@ -274,9 +274,9 @@
           "text": "I, II, III e IV."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: I, III e IV apenas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     },
@@ -303,9 +303,9 @@
           "text": "imunidade tributária. Não há"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: presunção relativa de certeza e liquidez.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PROCESSO ADMINISTRATIVO TRIBUTÁRIO: DEFESA, IMPUGNAÇÃO, RECURSOS E JULGAMENTO"
     }
@@ -349,5 +349,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "4d1945331f974cd3"
+  "contentHash": "b62deeceae72fdab"
 }

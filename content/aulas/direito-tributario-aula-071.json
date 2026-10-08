@@ -182,9 +182,9 @@
           "text": "de 30 dias em qualquer hipótese."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: de até um ano.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -211,9 +211,9 @@
           "text": "passa a constituir ISS."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: será exigida nova inscrição.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -240,9 +240,9 @@
           "text": "são necessariamente gratuitos."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: sofrem acréscimo de 10%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -269,9 +269,9 @@
           "text": "a serviço funerário."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a fumo em geral.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -298,9 +298,9 @@
           "text": "exclusivamente comercial."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: exclusivamente comercial.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -327,9 +327,9 @@
           "text": "constitui ITBI."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: aparece entre as hipóteses não sujeitas ao pagamento estudadas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -356,9 +356,9 @@
           "text": "constitui TSU."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode enquadrar-se entre as hipóteses não sujeitas ao pagamento.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -385,9 +385,9 @@
           "text": "a licença torna-se permanente."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a licença será cancelada.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -414,9 +414,9 @@
           "text": "será automaticamente cancelada em qualquer situação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: poderá ser prorrogada a requerimento do contribuinte.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -443,9 +443,9 @@
           "text": "simples pintura e limpeza de prédio."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: simples pintura e limpeza de prédio.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -472,9 +472,9 @@
           "text": "constitui publicidade."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: exige prévio pedido de licença e pagamento da taxa devida.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     },
@@ -501,9 +501,9 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 40%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310"
     }
@@ -569,5 +569,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "c08b8bab953a9d5b"
+  "contentHash": "bdbe6a2a6fe685fe"
 }

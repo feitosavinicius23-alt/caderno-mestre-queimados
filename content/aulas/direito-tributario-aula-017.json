@@ -170,9 +170,9 @@
           "text": "a qualquer valor estimado pelo fiscal antes do lançamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: ao crédito tributário regularmente inscrito na repartição competente após esgotado o prazo legal para pagamento, observadas as condições legais.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     },
@@ -199,9 +199,9 @@
           "text": "a inscrição deve observar requisitos legais."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: a presunção decorrente da inscrição é absoluta e jamais admite prova em contrário.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     },
@@ -228,9 +228,9 @@
           "text": "a suspensão transforma o crédito em isenção."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a situação pode permitir certidão positiva com efeitos de negativa, nos termos do art. 206.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     },
@@ -257,9 +257,9 @@
           "text": "sigilo fiscal existe apenas para impostos federais."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: a regra é a proteção das informações obtidas em razão do ofício, ressalvadas hipóteses legais de divulgação/intercâmbio.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     },
@@ -286,9 +286,9 @@
           "text": "I, II, III e IV."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: I, II e IV apenas.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     },
@@ -315,9 +315,9 @@
           "text": "ITBI → transmissão causa mortis gratuita. Não há"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: taxa de serviço → serviço específico e divisível; contribuição de melhoria → obra pública + valorização imobiliária.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
     }
@@ -363,5 +363,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "faabacb1ca0e1681"
+  "contentHash": "eca21f5dcc598439"
 }

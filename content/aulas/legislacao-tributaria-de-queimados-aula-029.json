@@ -106,9 +106,9 @@
           "text": "uma vez por ano."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: mensalmente, até o dia 15 do mês subsequente ao faturamento, segundo a disciplina local.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -135,9 +135,9 @@
           "text": "arbitramento deve observar fundamento e critérios legais."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta porque a questão pede a exceção ou a afirmação incorreta: a emissão da NFS-e, isoladamente, substitui a necessidade de ocorrência do fato tributável.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -164,9 +164,9 @@
           "text": "o fiscal escolheu livremente o sujeito passivo."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: pode ocupar a posição de responsável tributário.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -193,9 +193,9 @@
           "text": "usar obrigatoriamente o valor informado verbalmente pelo contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: aplicar os critérios técnicos e o procedimento legalmente previstos.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -222,9 +222,9 @@
           "text": "extinguiu os créditos de ISS."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: foi tratada automaticamente como anistia.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -251,9 +251,9 @@
           "text": "patrimônio líquido."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: preço do serviço.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -280,9 +280,9 @@
           "text": "o banco utilizado no pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a situação do imóvel.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     },
@@ -309,9 +309,9 @@
           "text": "três hipóteses de suspensão. Sem respostas registradas de Vinícius, ISS local continua EM APRENDIZAGEM. Não será marcado como dominado até aparecer posteriormente em questões misturadas e haver retenção comprovada. RECUPERAÇÃO FINAL: dia ordinário do ISS variável em Queimados? O recebimento do preço é condição para o vencimento? Prorrogação é necessariamente moratória? NFS-e é fato gerador? Prestador é contribuinte ou responsável? Tomador retentor é necessariamente contribuinte? Arbitramento permite escolha livre? Qual é a base geral do ISS? REGRA DE OURO: NO ISS DE QUEIMADOS, O AGENTE FISCAL PRECISA DOMINAR NÃO SÓ A INCIDÊNCIA, MAS A MECÂNICA LOCAL: RECOLHIMENTO, DOCUMENTAÇÃO ELETRÔNICA, RETENÇÃO, RESPONSABILIDADE E ARBITRAMENTO. PROCEDIMENTO FISCAL NÃO É DISCRICIONARIEDADE PARA INVENTAR O TRIBUTO."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: exclusão — extinção — suspensão.",
+      "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL"
     }
@@ -353,5 +353,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "baee9121a5e4f30f"
+  "contentHash": "8be76599813bfbf2"
 }
