@@ -14526,3 +14526,331 @@ D) 50%.
 327-V = SEM APRESENTAÇÃO DA LICENÇA NO COMÉRCIO INFORMAL EM VIA/LOGRADOURO → APREENSÃO; 30 DIAS PARA REAVER; PERECÍVEL 48 HORAS; MULTA 30 UFIR EM DOBRO NA REINCIDÊNCIA; TAXA NÃO PAGA APURADA = 10%.
 327-VI = TRANSPORTE SEM AUTORIZAÇÃO → APREENSÃO DO VEÍCULO + 100% DAS TAXAS DO PERÍODO; §2º = 474,20 UFIR POR VEÍCULO.
 STATUS: em aprendizagem, sem gabarito nem domínio presumido. Caderno de erros: aguardando respostas; não atribuir erros inexistentes. Próxima aula: art. 327, §3º — multas por obrigações acessórias (LC 062/2012), depois contribuição de melhoria (art. 328 e seguintes).
+
+
+
+
+AULA 76 — AGENTE FISCAL DE QUEIMADOS/RJ
+Código Tributário Municipal — Art. 327, §3º: 11 multas por descumprimento de obrigações acessórias
+Objetivo: reconhecer a CONDUTA, a CLASSE (bens, atividades, alterações, dados de cálculo, documentos, obstrução ou interdição) e o VALOR EM UFIRQ. Questões autorais de treino no estilo IAN, sem gabarito antecipado.
+
+
+FONTE E CONTROLE DE VERSÃO
+Base: Código Tributário Municipal de Queimados (LC 001/1995), texto consolidado pela Procuradoria em 03/05/2024, páginas 113–115, e alteração expressa da LC 062/2012, art. 30. O consolidado reproduz também uma redação anterior (LC 034/2006), com valores fracionários em UFIR. PARA ESTA AULA, UTILIZAR A REDAÇÃO MAIS RECENTE APRESENTADA NO §3º: VALORES INTEIROS EM UFIRQ (2012). Não misturar 200/600/300 com 205,6468/616,9394/308,4697. Alteração de 2026 encontrada na legislação municipal (LC 110/2026) trata do IPTU/art. 206-A, não deste §3º. Não foi possível confirmar aqui uma atualização posterior específica do §3º; caso surja, revalidar antes da prova.
+
+
+1. O QUE É OBRIGAÇÃO ACESSÓRIA?
+Obrigação principal: pagar tributo ou penalidade pecuniária, nas condições legais. Obrigação acessória: fazer, não fazer ou tolerar providências instrumentais para arrecadação/fiscalização — por exemplo, inscrever bens e atividades, comunicar mudanças, apresentar documentos e prestar informações. O CTN, art. 113, §§2º e 3º, explica que o descumprimento da acessória converte-se em obrigação principal relativamente à penalidade pecuniária.
+ATENÇÃO: pagar um tributo não apaga automaticamente infração cadastral/documental; e não dever determinado imposto não equivale, por si só, à dispensa de toda obrigação acessória.
+Regra operacional do fiscal: primeiro IDENTIFIQUE A CONDUTA; depois LOCALIZE O INCISO; somente então escolha o VALOR E A UNIDADE.
+
+
+2. LEI SECA GUIADA — INCISOS I A XI
+I — Deixar de fazer inscrição no Cadastro Fiscal da Prefeitura de BENS sujeitos à tributação municipal: 200 UFIRQ.
+II — Deixar de fazer inscrição de ATIVIDADES sujeitas à tributação municipal: 600 UFIRQ.
+Pegadinha: trocar bens por atividades e manter o mesmo valor. Não são iguais: BENS 200, ATIVIDADES 600.
+
+
+III — Apresentar ficha cadastral, livros, documentos ou declarações relativos a BENS com omissão ou dados inverídicos: 300 UFIRQ.
+IV — Apresentar esses documentos relativos a ATIVIDADES com omissão ou dados inverídicos: 300 UFIRQ.
+Pegadinha: no par I/II os valores são DIFERENTES; no par III/IV são IGUAIS.
+Macete: NÃO INSCREVEU = 200/600; INSCRITO MAS DECLAROU OMISSO/FALSO = 300/300.
+
+
+V — Deixar de comunicar no prazo alterações de ordem MOBILIÁRIA/MERCANTIL que modifiquem ou extingam fatos antes registrados: 500 UFIRQ.
+VI — Deixar de comunicar no prazo alterações de ordem IMOBILIÁRIA que modifiquem fatos antes registrados: 480 UFIRQ.
+Atenção ao vocabulário: MOBILIÁRIA/MERCANTIL se relaciona ao cadastro de atividades/estabelecimentos; IMOBILIÁRIA ao cadastro dos imóveis. NÃO confundir 'mobiliária' com 'móveis de casa'.
+Macete: MERCANTIL 500; IMÓVEL 480.
+Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência.
+
+
+VII — Não apresentar no prazo elementos básicos de identificação, características do fato gerador ou base de cálculo de TLLE/TVEL, ISS e Taxa de Fiscalização de Transportes Coletivos de Passageiros: 550 UFIRQ.
+VIII — Mesma falta de elementos, mas para IPTU, ITBI, Taxa de Controle e Fiscalização Ambiental, Taxa de Vistoria, Taxa de Serviços Diversos e Contribuições de Melhoria: 520 UFIRQ.
+A diferença não é 'um grupo de impostos contra um grupo de taxas': ISS está no VII; IPTU e ITBI estão no VIII. Memorize a distribuição EXATA.
+Macete: ISS/TLLE/TVEL/TRANSPORTE = 550; IPTU/ITBI/AMBIENTAL/VISTORIA/SERVIÇOS DIVERSOS/CONTRIBUIÇÃO DE MELHORIA = 520.
+
+
+IX — Não enviar à Prefeitura documento exigido por lei ou regulamento fiscal, estando obrigado a fazê-lo: 550 UFIRQ.
+Pegadinha: este inciso fala em documento obrigatório em geral, não necessariamente em elemento de cálculo dos tributos listados no VII/VIII.
+
+
+X — Negar informações ou embaraçar, iludir, dificultar ou impedir a ação dos agentes do Fisco a serviço da Fazenda Pública: 600 UFIRQ.
+Pegadinha: recusa/embaraço à ação fiscal não é simples atraso de documento; identificar a conduta concreta.
+
+
+XI — Deixar de cumprir edital de interdição: 300 UFIRQ.
+Pegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes.
+
+
+3. TABELA MENTAL — SETE ÂNCORAS
+200 UFIRQ = NÃO INSCREVEU BENS.
+600 UFIRQ = NÃO INSCREVEU ATIVIDADES; OU EMBARAÇOU O FISCO (X).
+300 UFIRQ = DECLARAÇÃO OMISSA/INVERÍDICA SOBRE BENS OU ATIVIDADES; OU DESCUMPRIU EDITAL DE INTERDIÇÃO.
+500 UFIRQ = ALTERAÇÃO MOBILIÁRIA/MERCANTIL NÃO COMUNICADA.
+480 UFIRQ = ALTERAÇÃO IMOBILIÁRIA NÃO COMUNICADA.
+550 UFIRQ = DADOS DO GRUPO ISS/TLLE/TVEL/TRANSPORTE; OU DOCUMENTO OBRIGATÓRIO NÃO ENVIADO.
+520 UFIRQ = DADOS DO GRUPO IPTU/ITBI/AMBIENTAL/VISTORIA/SERVIÇOS DIVERSOS/CONTRIBUIÇÃO DE MELHORIA.
+Sempre ler a unidade UFIRQ; não converter automaticamente em reais nem usar números fracionários da redação antiga.
+
+
+4. TRÊS CASOS RESOLVIDOS — COMO RACIOCINAR
+CASO A: empresa exerce atividade sujeita à tributação municipal, mas não fez inscrição cadastral dessa atividade. Palavra decisiva = ATIVIDADE NÃO INSCRITA; inciso II; multa 600 UFIRQ. Não é inciso IV, porque o caso não descreve apresentação de declaração com omissão/dados inverídicos.
+CASO B: contribuinte deixou de informar alteração imobiliária que modifica dado anteriormente registrado. Palavra decisiva = ALTERAÇÃO IMOBILIÁRIA NÃO COMUNICADA; inciso VI; multa 480 UFIRQ. Não confundir com mudança mercantil = 500.
+CASO C: sujeito obrigado deixa de fornecer dados básicos para determinar a base de cálculo do ITBI. Palavra decisiva = ELEMENTOS BÁSICOS DO ITBI; inciso VIII; multa 520 UFIRQ. Se a mesma questão trocasse ITBI por ISS, mudaria para o inciso VII e 550.
+O mecanismo da IAN a vigiar: troca de substantivo ('bem'/'atividade'), troca do tributo, troca do tipo de obrigação ('inscrever'/'declarar'/'comunicar') e troca da unidade UFIRQ/UFIR.
+
+
+5. RECUPERAÇÃO ATIVA E INTERCALAÇÃO
+Antes das questões, feche o texto e recupere em voz alta:
+— Não inscreveu BEM: quanto?
+— Não inscreveu ATIVIDADE: quanto?
+— Apresentou documento omisso relativo a BEM: quanto?
+— Documento omisso relativo a ATIVIDADE: quanto?
+— Alteração MERCANTIL não comunicada: quanto?
+— Alteração IMOBILIÁRIA não comunicada: quanto?
+— Elementos de cálculo do ISS: quanto?
+— Elementos de cálculo do IPTU: quanto?
+— Não enviou documento fiscal obrigatório: quanto?
+— Embaraçou ação do Fisco: quanto?
+— Descumpriu edital de interdição: quanto?
+Retomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%.
+Português de prova: 'deixar de' marca omissão; 'ou' separa condutas alternativas; 'até' exprime limite; 'EXCETO' pede a única incompatível. Leia sempre o comando ANTES das alternativas.
+
+
+6. TESTE CUMULATIVO AUTORAL — PERFIL IAN (SEM GABARITO ANTECIPADO)
+Não consulte o quadro. Registre apenas '1B, 2A...' e responda antes da correção. As alternativas foram criadas para esta aula, não extraídas nem atribuídas ao arquivo de 911 questões.
+
+
+1) Deixar de inscrever no Cadastro Fiscal bens sujeitos à tributação municipal acarreta, pelo art. 327, §3º:
+A) 300 UFIRQ. B) 200 UFIRQ. C) 600 UFIRQ. D) 480 UFIRQ.
+
+
+2) A falta de inscrição cadastral de atividades sujeitas à tributação municipal corresponde a:
+A) 200 UFIRQ. B) 300 UFIRQ. C) 600 UFIRQ. D) 550 UFIRQ.
+
+
+3) A apresentação de declaração relativa a bens sujeitos à tributação municipal com omissão ou dados inverídicos corresponde a:
+A) 300 UFIRQ. B) 200 UFIRQ. C) 500 UFIRQ. D) 600 UFIRQ.
+
+
+4) O mesmo vício de omissão ou dados inverídicos em documentos relativos a atividades sujeitas à tributação municipal corresponde a:
+A) 600 UFIRQ. B) 480 UFIRQ. C) 550 UFIRQ. D) 300 UFIRQ.
+
+
+5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:
+A) 480 UFIRQ. B) 500 UFIRQ. C) 520 UFIRQ. D) 200 UFIRQ.
+
+
+6) Não comunicar no prazo alteração de ordem IMOBILIÁRIA que modifique fato antes registrado:
+A) 480 UFIRQ. B) 500 UFIRQ. C) 550 UFIRQ. D) 300 UFIRQ.
+
+
+7) Deixar de apresentar tempestivamente elementos básicos do fato gerador ou base de cálculo do ISS, nas condições do inciso VII:
+A) 520 UFIRQ. B) 600 UFIRQ. C) 550 UFIRQ. D) 300 UFIRQ.
+
+
+8) Deixar de apresentar os mesmos elementos para o ITBI, nas condições do inciso VIII:
+A) 550 UFIRQ. B) 520 UFIRQ. C) 500 UFIRQ. D) 480 UFIRQ.
+
+
+9) Deixar de enviar à Prefeitura documento exigido por lei ou regulamento fiscal, quando obrigado:
+A) 550 UFIRQ. B) 520 UFIRQ. C) 600 UFIRQ. D) 200 UFIRQ.
+
+
+10) Negar informações ou embaraçar a ação dos agentes do Fisco:
+A) 300 UFIRQ. B) 550 UFIRQ. C) 480 UFIRQ. D) 600 UFIRQ.
+
+
+11) Deixar de cumprir edital de interdição:
+A) 600 UFIRQ. B) 300 UFIRQ. C) 500 UFIRQ. D) 200 UFIRQ.
+
+
+12) Assinale a CORRETA:
+A) não inscrever bens e não inscrever atividades têm multa idêntica.
+B) declarações omissas relativas a bens e a atividades têm multas de 200 e 600 UFIRQ, respectivamente.
+C) não inscrever bens = 200 UFIRQ; não inscrever atividades = 600 UFIRQ.
+D) alterações imobiliárias e mercantis não comunicadas geram ambas 550 UFIRQ.
+
+
+13) Assinale a INCORRETA:
+A) não apresentar elementos básicos para ISS integra o grupo de 550 UFIRQ.
+B) não apresentar elementos básicos para IPTU integra o grupo de 520 UFIRQ.
+C) não apresentar elementos básicos para ITBI integra o grupo de 550 UFIRQ.
+D) deixar de enviar documento fiscal obrigatório pode gerar 550 UFIRQ.
+
+
+14) Sobre os incisos III e IV, julgue:
+I. Ambos envolvem omissão ou dados inverídicos em documentos/declarações.
+II. O inciso III se refere a bens; o IV, a atividades.
+III. Ambos trazem 300 UFIRQ.
+A) apenas I. B) apenas II. C) apenas I e III. D) I, II e III.
+
+
+15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:
+A) IPTU. B) ITBI. C) Contribuições de Melhoria. D) ISS.
+
+
+16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:
+A) 550 UFIRQ. B) 520 UFIRQ. C) 300 UFIRQ. D) 200 UFIRQ.
+
+
+17) A redação do §3º adotada nesta aula corresponde aos valores:
+A) fracionários em UFIR da LC 034/2006.
+B) inteiros em UFIRQ da LC 062/2012.
+C) percentuais fixos sobre ISS de 10% a 50%.
+D) exclusivamente em reais, sem unidade fiscal.
+
+
+18) Recuperação do art. 327, II (redação de 2012): exercício de atividade sujeita à taxa sem licença:
+A) apenas advertência.
+B) interdição até regularização sem multa, em qualquer hipótese.
+C) interdição até 30 dias e multa de 100% do valor da taxa.
+D) somente multa de 7,8093 UFIR.
+
+
+19) Recuperação do art. 322: a isenção da Taxa de Licença do comércio informal:
+A) dispensa a inscrição cadastral.
+B) não exime da inscrição junto ao Fisco.
+C) elimina qualquer obrigação acessória.
+D) afasta a fiscalização.
+
+
+20) Recuperação de ISS: atraso de 95 dias, segundo a escada estudada do art. 280:
+A) 20%. B) 30%. C) 40%. D) 50%.
+
+
+7. CONTROLE DE APRENDIZAGEM E CADERNO DE ERROS
+Não presumir domínio sem respostas. Para cada item errado, registrar: questão/inciso; alternativa escolhida; causa provável (troca de grupo, unidade, redação antiga, comando INCORRETA/EXCETO ou desatenção); regra legal correta; pegadinha; revisão em 24h, 72h e 7 dias. Até a resolução, status = APRENDIZAGEM; nenhum erro individual imputado ao aluno.
+
+
+8. FECHAMENTO / PRÓXIMO PONTO
+Mapa final: 200 bens sem inscrição; 600 atividades sem inscrição/embaraço; 300 declarações omissas sobre bens/atividades/edital; 500 mudança mercantil; 480 mudança imobiliária; 550 ISS-TLLE/TVEL-transporte/documento obrigatório; 520 IPTU-ITBI-ambiental-vistoria-serviços diversos-contribuição de melhoria.
+Aula 76 termina no ART. 327, §3º, INCISO XI. Próxima aula: ART. 328 EM DIANTE — CONTRIBUIÇÃO DE MELHORIA, com hipótese de incidência, limites, obras e programas.
+
+
+════════════════════════════════════════════════════════════════════
+AULA 77 — AGENTE FISCAL DE QUEIMADOS/RJ
+CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 328 A 333
+CONTRIBUIÇÃO DE MELHORIA: OBRAS, LIMITES, PROGRAMAS, CONTRIBUINTE E ÔNUS REAL
+════════════════════════════════════════════════════════════════════
+1. PONTO DE PARTIDA E OBJETIVO
+Esta aula continua exatamente após a Aula 76, encerrada no art. 327, §3º, XI. Entramos no Título VIII do Código Tributário Municipal de Queimados. Ao final, o candidato deverá: (a) identificar obras potencialmente sujeitas à contribuição de melhoria; (b) distinguir obra pública de valorização imobiliária; (c) aplicar limite total e limite individual; (d) reconhecer as despesas computáveis; (e) distinguir programas ordinário e extraordinário; (f) identificar o sujeito passivo e a natureza de ônus real.
+Fonte principal: Código Tributário Municipal de Queimados, versão consolidada em 03/05/2024, arts. 328 a 333 (páginas impressas 115–116). Fonte de integração nacional: CTN, art. 81, Lei nº 5.172/1966, texto compilado do Planalto. Questões abaixo são AUTORAIS no estilo de literalidade e distratores, e NÃO são apresentadas como questões originais da IAN ou extraídas do arquivo de 911 questões.
+2. RECUPERAÇÃO ATIVA INICIAL (NÃO CONSULTE O CADERNO)
+R1. Qual a multa, em UFIRQ, por deixar de inscrever bens sujeitos à tributação municipal, no art. 327, §3º?
+R2. E por deixar de inscrever atividades?
+R3. Qual é a multa por embaraçar a fiscalização?
+R4. A isenção da Taxa de Licença para comércio informal elimina a obrigação de inscrição?
+R5. Em que condições a atividade secundária corresponde a 20% na Taxa de Licença?
+Não há gabarito nesta aula antes das respostas. As respostas serão corrigidas posteriormente e os erros alimentarão o caderno de erros.
+3. ART. 328 — HIPÓTESE DE INCIDÊNCIA: OBRA PÚBLICA
+Literalidade municipal: “A hipótese de incidência da contribuição de melhoria é a realização de obra pública.”
+Atenção: para a cobrança válida no sistema tributário brasileiro, o art. 81 do CTN vincula a contribuição a obra pública DA QUAL DECORRA VALORIZAÇÃO IMOBILIÁRIA. A formulação municipal, isoladamente, não autoriza cobrar de qualquer imóvel por qualquer obra sem valorização. A contribuição de melhoria não é taxa de serviço nem imposto sobre a propriedade.
+Fórmula conceitual: OBRA PÚBLICA + VALORIZAÇÃO DE IMÓVEL BENEFICIADO = HIPÓTESE TRIBUTÁRIA A EXAMINAR.
+Exemplo didático: pavimentação de rua que eleva o valor de imóveis próximos pode ensejar contribuição de melhoria, respeitados limites e procedimentos legais. Já a mera existência de obra sem acréscimo de valor demonstrável não basta, por si só, para cobrar contribuição de melhoria daquele imóvel.
+Pegadinha: “Toda obra pública gera automaticamente contribuição de melhoria para todos os moradores da cidade.” INCORRETO.
+4. ART. 328, PARÁGRAFO ÚNICO — QUATRO GRUPOS DE OBRAS
+I — Abertura, alargamento, pavimentação, iluminação, arborização, esgotos pluviais e outros melhoramentos de praças e vias públicas.
+II — Construção e ampliação de parques, campos de desportos, pontes, túneis e viadutos.
+III — Abastecimento de água potável e redes de esgotamento sanitário.
+IV — Instalação de redes elétricas e suprimento de gás.
+Macete: VIAS/PRAÇAS; PARQUES/PONTES; ÁGUA/ESGOTO; ENERGIA/GÁS.
+Pegadinha: trocar obras de abastecimento de água potável por consumo mensal de água.
+A contribuição se relaciona à OBRA, não à conta periódica de consumo.
+5. ART. 329 — LIMITE TOTAL E DESPESAS COMPUTÁVEIS
+A contribuição de melhoria tem como LIMITE TOTAL a despesa realizada. Integram essa despesa: estudos, projetos, fiscalização, desapropriações, administração, execução e financiamento, além dos respectivos encargos.
+Mapa: ESTUDOS + PROJETOS + FISCALIZAÇÃO + DESAPROPRIAÇÕES + ADMINISTRAÇÃO + EXECUÇÃO + FINANCIAMENTO + ENCARGOS.
+§1º — Para cada obra ou conjunto de obras do mesmo projeto, os elementos devem ser definidos em MEMORIAL DESCRITIVO e ORÇAMENTO DETALHADO DE CUSTO elaborados pelo Município.
+§2º — O PREFEITO pode REDUZIR EM ATÉ 50% o limite total, considerando a natureza da obra, benefícios aos usuários, nível de renda dos contribuintes e volume/quantidade de equipamentos públicos existentes na zona de influência.
+Pegadinha 1: “O Prefeito deve reduzir obrigatoriamente em 50%.” FALSO: a lei usa PODE e ATÉ.
+Pegadinha 2: “O limite total corresponde apenas à execução material, excluindo projetos e desapropriações.” FALSO.
+Integração com CTN, art. 81: há DOIS LIMITES, que não se confundem:
+— LIMITE TOTAL = despesa realizada com a obra;
+— LIMITE INDIVIDUAL = acréscimo de valor que a obra causar em cada imóvel beneficiado.
+Exemplo resolvido (apenas ilustrativo): obra custou R$ 800.000. O total cobrado dos contribuintes não pode ultrapassar a despesa; se o Prefeito reduzir o limite total em 25% nas condições legais, o teto total pasa ao teto calculado no exemplo.
+Memória: TOTAL = CUSTO; INDIVIDUAL = VALORIZAÇÃO.
+6. ART. 330 — QUEM EXECUTA A OBRA
+A contribuição pode decorrer de obras públicas realizadas pela Administração Municipal DIRETA ou INDIRETA, inclusive obras resultantes de CONVÊNIO com a União, com o Estado ou com entidade federal ou estadual.
+Pegadinha: “Se a obra resultou de convênio com o Estado, a contribuição de melhoria municipal fica sempre proibida.” FALSO. O dispositivo inclui expressamente essas situações, respeitadas as demais exigências.
+Não confundir: execução por administração indireta não transforma a contribuição em tarifa de concessionária.
+7. ART. 331 — PROGRAMAS ORDINÁRIO E EXTRAORDINÁRIO
+I — ORDINÁRIO: obras preferenciais e de iniciativa da própria Administração.
+II — EXTRAORDINÁRIO: obra de MENOR INTERESSE GERAL, solicitada por PELO MENOS 2/3 DOS CONTRIBUINTES INTERESSADOS.
+Macete: ORDINÁRIO = INICIATIVA ADMINISTRATIVA; EXTRAORDINÁRIO = PEDIDO DE 2/3 + MENOR INTERESSE GERAL.
+“Pelo menos 2/3” significa igual ou superior a 2/3, não exatamente 2/3.
+Exemplo resolvido: se houver 90 contribuintes interessados, 2/3 = 60; o requisito numérico será atendido por solicitação de 60 ou mais, desde que a obra se enquadre nos demais termos legais.
+Pegadinhas: substituir 2/3 por maioria simples; dizer que toda obra solicitada por moradores é automaticamente extraordinária; inverter iniciativa administrativa e solicitação dos interessados.
+8. ART. 332 — SUJEITO PASSIVO
+Contribuinte é o PROPRIETÁRIO, o TITULAR DO DOMÍNIO ÚTIL ou o POSSUIDOR, A QUALQUER TÍTULO, de imóvel situado na ZONA DE INFLUÊNCIA DA OBRA.
+§1º — Para determinação do sujeito passivo, o dispositivo remete ao §1º do art. 177 do próprio Código. Nesta aula não se presume o conteúdo dessa remissão sem leitura específica.
+§2º — BENS INDIVISOS: lançamento em nome de qualquer um dos titulares; a esse titular cabe o direito de exigir dos demais as parcelas que lhes couberem.
+§3º — Os demais imóveis serão lançados em nome dos respectivos titulares.
+Atenção: zona de influência não significa necessariamente apenas imóveis com frente diretamente para a obra. A delimitação será tratada nos arts. 334–335.
+Pegadinha: “Apenas o proprietário registrado pode ser contribuinte.” INCORRETO, pois a literalidade inclui domínio útil e posse a qualquer título.
+9. ART. 333 — ÔNUS REAL
+A contribuição de melhoria constitui ÔNUS REAL, acompanhando o imóvel MESMO APÓS A TRANSMISSÃO.
+Tradução simples: não é uma obrigação que desaparece automaticamente porque o imóvel foi vendido. A lei municipal estabelece a vinculação do ônus ao próprio imóvel, observadas as normas tributárias aplicáveis.
+Macete: 333 = ÔNUS REAL → SEGUE O IMÓVEL.
+Pegadinha: “A alienação extingue automaticamente a contribuição de melhoria.” INCORRETO.
+10. PORTUGUÊS E INTERPRETAÇÃO DE LEI — QUANTIFICADORES
+ATÉ 50% = teto da redução permitida, não redução obrigatória.
+PELO MENOS 2/3 = mínimo inclusivo, não número exato nem maioria simples.
+DIRETA OU INDIRETA = a norma admite ambas.
+A QUALQUER TÍTULO = expressão ampliativa do conceito de possuidor.
+AINDA APÓS A TRANSMISSÃO = permanência do ônus real.
+Essas palavras são alvos de distratores CORRETA/INCORRETA/EXCETO.
+11. TESTE CUMULATIVO AUTORAL — 20 QUESTÕES, SEM GABARITO ANTECIPADO
+1) Segundo a literalidade do art. 328 do Código Municipal, a hipótese de incidência é:
+A) consumo de energia. B) realização de obra pública. C) propriedade de veículo. D) prestação de serviço privado.
+2) Considerando o art. 81 do CTN, a contribuição de melhoria pressupõe:
+A) apenas gasto municipal sem qualquer benefício imobiliário. B) obra pública da qual decorra valorização imobiliária. C) mera manutenção rotineira sem obra. D) qualquer taxa de limpeza.
+3) Integra o rol do art. 328, parágrafo único:
+A) pagamento mensal de internet. B) compra de material de escritório. C) pavimentação de vias públicas. D) salário de empregado privado.
+4) É exemplo de obra do inciso II:
+A) ampliação de parque. B) cobrança de IPTU. C) fiscalização de ISS. D) emissão de alvará.
+5) Pertence ao inciso III:
+A) instalação de rede elétrica. B) abastecimento de água potável e rede de esgotamento sanitário. C) abertura de via. D) construção de viaduto.
+6) O inciso IV contempla:
+A) parques e pontes. B) serviços postais. C) redes elétricas e suprimento de gás. D) licença de publicidade.
+7) O limite TOTAL da contribuição de melhoria, conforme o art. 329, é:
+A) sempre o valor venal de todos os imóveis. B) a despesa realizada com a obra. C) o lucro das empresas. D) o preço mensal da água.
+8) Integram as despesas computáveis:
+A) apenas o cimento empregado. B) somente a mão de obra direta. C) estudos, projetos, fiscalização, desapropriações, administração, execução, financiamento e encargos. D) apenas o IPTU.
+9) Para cada obra ou conjunto do mesmo projeto, o §1º exige:
+A) apenas comunicação verbal. B) memorial descritivo e orçamento detalhado de custo. C) somente cadastro eleitoral. D) apenas registro em cartório.
+10) A redução do limite total autorizada ao Prefeito é:
+A) exatamente 50% em todos os casos. B) até 50%, consideradas as circunstâncias legais. C) 80% obrigatórios. D) proibida em qualquer hipótese.
+11) O limite INDIVIDUAL do CTN é:
+A) o acréscimo de valor que a obra resultar para cada imóvel beneficiado. B) o salário do proprietário. C) o custo total da obra para cada imóvel. D) a renda mensal da família.
+12) Obra executada pela Administração Municipal indireta ou por convênio com o Estado:
+A) é excluída automaticamente. B) pode enquadrar-se no art. 330. C) gera apenas ISS. D) dispensa os demais requisitos tributários.
+13) Programa ORDINÁRIO é:
+A) obra de menor interesse geral solicitada por 2/3. B) obra preferencial e de iniciativa da própria Administração. C) obra necessariamente privada. D) obra sem interesse público.
+14) Programa EXTRAORDINÁRIO exige, nos termos do art. 331:
+A) 1/3 dos contribuintes interessados. B) maioria simples, sempre. C) pelo menos 2/3 dos interessados e obra de menor interesse geral. D) unanimidade obrigatória.
+15) Em grupo de 150 contribuintes interessados, o número mínimo de solicitações para cumprir a fração de 2/3 é:
+A) 50. B) 75. C) 100. D) 120.
+16) É contribuinte da contribuição de melhoria:
+A) exclusivamente o inquilino, independentemente de posse. B) somente proprietário com escritura. C) proprietário, titular do domínio útil ou possuidor a qualquer título, na zona de influência. D) qualquer morador de outro Município sem imóvel beneficiado.
+17) Bens indivisos:
+A) é proibido lançamento. B) o lançamento pode ocorrer em nome de qualquer titular, que poderá exigir as parcelas cabíveis dos demais. C) todos ficam isentos. D) exige-se necessariamente uma guia para cada herdeiro.
+18) O art. 333 caracteriza a contribuição de melhoria como:
+A) ônus real que acompanha o imóvel após transmissão. B) obrigação que desaparece com a venda. C) taxa de coleta de lixo. D) imposto sobre serviço.
+19) INCORRETA — assinale:
+A) Até 50% exprime limite máximo de redução. B) Pelo menos 2/3 admite quantidade superior ao mínimo.
+C) Pelo menos 2/3 significa exatamente metade dos interessados. D) A obra pode ser executada pela Administração direta ou indireta.
+20) REVISÃO INTERCALADA — no art. 327, §3º, a multa pela falta de inscrição de atividades sujeitas à tributação municipal é:
+A) 200 UFIRQ. B) 300 UFIRQ. C) 480 UFIRQ. D) 600 UFIRQ.
+12. TAREFA DE RECUPERAÇÃO SEM CONSULTA
+Em voz alta, explique em 30 segundos: (i) quais são os dois limites da contribuição de melhoria; (ii) quais os quatro grupos de obras; (iii) o que diferencia programa ordinário de extraordinário; (iv) quem pode ser contribuinte; (v) o significado de ônus real.
+Responder ao teste no formato 1B, 2A, 3C... quando for oportuno. Somente depois haverá correção de cada alternativa, identificação da pegadinha e registro de erros reais.
+13. CONTROLE DE RETENÇÃO E CONTINUIDADE
+Arts. 328 a 333: em aprendizagem e retenção inicial, não dominados. Nenhum erro atribuído sem resposta. Repetições: em 24 horas, 72 horas e sete dias, com assuntos misturados.
+Registro de erros: questão, resposta, causa, regra correta e revisão.
+PRÓXIMA AULA 78: ARTS. 334 A 337 — ZONA DE INFLUÊNCIA, COMISSÃO, BASE DE CÁLCULO E FÓRMULAS MUNICIPAIS DA CONTRIBUIÇÃO DE MELHORIA.
+FIM DA AULA 77.
+
+
+COMPLEMENTO DA AULA 77 — EXEMPLO RESOLVIDO DO ART. 329
+Uma obra de oitocentos mil reais tem teto total de oitocentos mil reais. Se houver redução de vinte e cinco por cento, o teto total cai para seiscentos mil reais.
+Se determinado imóvel valorizou trinta mil reais, o limite individual não ultrapassa essa valorização, ainda que o rateio sugerisse quarenta e dois mil reais. O Município não é obrigado a cobrar o máximo.

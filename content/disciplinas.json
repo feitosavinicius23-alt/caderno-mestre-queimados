@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 62,
-    "totalQuestoes": 401,
-    "tempoEstimadoMin": 258,
+    "totalAulas": 64,
+    "totalQuestoes": 441,
+    "tempoEstimadoMin": 271,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -67,7 +67,8 @@
       "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
       "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
       "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
-      "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)"
+      "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
+      "AGENTE FISCAL DE QUEIMADOS/RJ"
     ],
     "aulas": [
       {
@@ -441,6 +442,18 @@
         "numero": 75,
         "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
         "slug": "agente-fiscal-de-queimados-rj-taxa-de-licenca-infracoes-e-penalidades-art-327-ca"
+      },
+      {
+        "id": "direito-tributario-aula-076",
+        "numero": 76,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+        "slug": "agente-fiscal-de-queimados-rj"
+      },
+      {
+        "id": "direito-tributario-aula-077",
+        "numero": 77,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+        "slug": "agente-fiscal-de-queimados-rj-aula-77"
       }
     ]
   },

@@ -1,0 +1,719 @@
+{
+  "id": "direito-tributario-aula-076",
+  "numero": 76,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "slug": "agente-fiscal-de-queimados-rj",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "ordem": 76,
+  "data": "2026-10-08",
+  "tempoEstimadoMin": 6,
+  "resumo": "Mapa final: 200 bens sem inscrição; 600 atividades sem inscrição/embaraço; 300 declarações omissas sobre bens/atividades/edital; 500 mudança mercantil; 480 mudança imobiliária; 550 ISS-TLLE/TVEL-transporte/documento obrigatório; 520 IPTU-ITBI-ambiental-vistoria-serviços diversos-contribuição de melhoria.\nAula 76 termina no ART. 327, §3º, INCISO XI. Próxima aula: ART. 328 EM DIANTE — CONTRIBUIÇÃO DE MELHORIA, com hipótese de incidência, limites, obras e programas.\n\n════════════════════════════════════════════════════════════════════",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-076-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Código Tributário Municipal — Art. 327, §3º: 11 multas por descumprimento de obrigações acessórias\nObjetivo: reconhecer a CONDUTA, a CLASSE (bens, atividades, alterações, dados de cálculo, documentos, obstrução ou interdição) e o VALOR EM UFIRQ. Questões autorais de treino no estilo IAN, sem gabarito antecipado."
+    },
+    {
+      "id": "direito-tributario-aula-076-b2",
+      "tipo": "teoria",
+      "titulo": "FONTE E CONTROLE DE VERSÃO",
+      "texto": "Base: Código Tributário Municipal de Queimados (LC 001/1995), texto consolidado pela Procuradoria em 03/05/2024, páginas 113–115, e alteração expressa da LC 062/2012, art. 30. O consolidado reproduz também uma redação anterior (LC 034/2006), com valores fracionários em UFIR. PARA ESTA AULA, UTILIZAR A REDAÇÃO MAIS RECENTE APRESENTADA NO §3º: VALORES INTEIROS EM UFIRQ (2012). Não misturar 200/600/300 com 205,6468/616,9394/308,4697. Alteração de 2026 encontrada na legislação municipal (LC 110/2026) trata do IPTU/art. 206-A, não deste §3º. Não foi possível confirmar aqui uma atualização posterior específica do §3º; caso surja, revalidar antes da prova."
+    },
+    {
+      "id": "direito-tributario-aula-076-b3",
+      "tipo": "teoria",
+      "titulo": "1. O QUE É OBRIGAÇÃO ACESSÓRIA?",
+      "texto": "Obrigação principal: pagar tributo ou penalidade pecuniária, nas condições legais. Obrigação acessória: fazer, não fazer ou tolerar providências instrumentais para arrecadação/fiscalização — por exemplo, inscrever bens e atividades, comunicar mudanças, apresentar documentos e prestar informações. O CTN, art. 113, §§2º e 3º, explica que o descumprimento da acessória converte-se em obrigação principal relativamente à penalidade pecuniária.\nATENÇÃO: pagar um tributo não apaga automaticamente infração cadastral/documental; e não dever determinado imposto não equivale, por si só, à dispensa de toda obrigação acessória.\nRegra operacional do fiscal: primeiro IDENTIFIQUE A CONDUTA; depois LOCALIZE O INCISO; somente então escolha o VALOR E A UNIDADE."
+    },
+    {
+      "id": "direito-tributario-aula-076-b4",
+      "tipo": "lei-seca",
+      "titulo": "2. LEI SECA GUIADA — INCISOS I A XI",
+      "texto": "I — Deixar de fazer inscrição no Cadastro Fiscal da Prefeitura de BENS sujeitos à tributação municipal: 200 UFIRQ.\nII — Deixar de fazer inscrição de ATIVIDADES sujeitas à tributação municipal: 600 UFIRQ."
+    },
+    {
+      "id": "direito-tributario-aula-076-b5",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: trocar bens por atividades e manter o mesmo valor. Não são iguais: BENS 200, ATIVIDADES 600.",
+      "texto": "III — Apresentar ficha cadastral, livros, documentos ou declarações relativos a BENS com omissão ou dados inverídicos: 300 UFIRQ.\nIV — Apresentar esses documentos relativos a ATIVIDADES com omissão ou dados inverídicos: 300 UFIRQ."
+    },
+    {
+      "id": "direito-tributario-aula-076-b6",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: no par I/II os valores são DIFERENTES; no par III/IV são IGUAIS.",
+      "texto": "Macete: NÃO INSCREVEU = 200/600; INSCRITO MAS DECLAROU OMISSO/FALSO = 300/300.\nV — Deixar de comunicar no prazo alterações de ordem MOBILIÁRIA/MERCANTIL que modifiquem ou extingam fatos antes registrados: 500 UFIRQ.\nVI — Deixar de comunicar no prazo alterações de ordem IMOBILIÁRIA que modifiquem fatos antes registrados: 480 UFIRQ.\nAtenção ao vocabulário: MOBILIÁRIA/MERCANTIL se relaciona ao cadastro de atividades/estabelecimentos; IMOBILIÁRIA ao cadastro dos imóveis. NÃO confundir 'mobiliária' com 'móveis de casa'.\nMacete: MERCANTIL 500; IMÓVEL 480.\nNota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência.\nVII — Não apresentar no prazo elementos básicos de identificação, características do fato gerador ou base de cálculo de TLLE/TVEL, ISS e Taxa de Fiscalização de Transportes Coletivos de Passageiros: 550 UFIRQ.\nVIII — Mesma falta de elementos, mas para IPTU, ITBI, Taxa de Controle e Fiscalização Ambiental, Taxa de Vistoria, Taxa de Serviços Diversos e Contribuições de Melhoria: 520 UFIRQ.\nA diferença não é 'um grupo de impostos contra um grupo de taxas': ISS está no VII; IPTU e ITBI estão no VIII. Memorize a distribuição EXATA.\nMacete: ISS/TLLE/TVEL/TRANSPORTE = 550; IPTU/ITBI/AMBIENTAL/VISTORIA/SERVIÇOS DIVERSOS/CONTRIBUIÇÃO DE MELHORIA = 520.\nIX — Não enviar à Prefeitura documento exigido por lei ou regulamento fiscal, estando obrigado a fazê-lo: 550 UFIRQ.\nPegadinha: este inciso fala em documento obrigatório em geral, não necessariamente em elemento de cálculo dos tributos listados no VII/VIII.\nX — Negar informações ou embaraçar, iludir, dificultar ou impedir a ação dos agentes do Fisco a serviço da Fazenda Pública: 600 UFIRQ."
+    },
+    {
+      "id": "direito-tributario-aula-076-b7",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: recusa/embaraço à ação fiscal não é simples atraso de documento; identificar a conduta concreta.",
+      "texto": "XI — Deixar de cumprir edital de interdição: 300 UFIRQ.\nPegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes."
+    },
+    {
+      "id": "direito-tributario-aula-076-b8",
+      "tipo": "teoria",
+      "titulo": "3. TABELA MENTAL — SETE ÂNCORAS",
+      "texto": "200 UFIRQ = NÃO INSCREVEU BENS.\n600 UFIRQ = NÃO INSCREVEU ATIVIDADES; OU EMBARAÇOU O FISCO (X).\n300 UFIRQ = DECLARAÇÃO OMISSA/INVERÍDICA SOBRE BENS OU ATIVIDADES; OU DESCUMPRIU EDITAL DE INTERDIÇÃO.\n500 UFIRQ = ALTERAÇÃO MOBILIÁRIA/MERCANTIL NÃO COMUNICADA.\n480 UFIRQ = ALTERAÇÃO IMOBILIÁRIA NÃO COMUNICADA.\n550 UFIRQ = DADOS DO GRUPO ISS/TLLE/TVEL/TRANSPORTE; OU DOCUMENTO OBRIGATÓRIO NÃO ENVIADO.\n520 UFIRQ = DADOS DO GRUPO IPTU/ITBI/AMBIENTAL/VISTORIA/SERVIÇOS DIVERSOS/CONTRIBUIÇÃO DE MELHORIA.\nSempre ler a unidade UFIRQ; não converter automaticamente em reais nem usar números fracionários da redação antiga."
+    },
+    {
+      "id": "direito-tributario-aula-076-b9",
+      "tipo": "teoria",
+      "titulo": "4. TRÊS CASOS RESOLVIDOS — COMO RACIOCINAR",
+      "texto": "CASO A: empresa exerce atividade sujeita à tributação municipal, mas não fez inscrição cadastral dessa atividade. Palavra decisiva = ATIVIDADE NÃO INSCRITA; inciso II; multa 600 UFIRQ. Não é inciso IV, porque o caso não descreve apresentação de declaração com omissão/dados inverídicos.\nCASO B: contribuinte deixou de informar alteração imobiliária que modifica dado anteriormente registrado. Palavra decisiva = ALTERAÇÃO IMOBILIÁRIA NÃO COMUNICADA; inciso VI; multa 480 UFIRQ. Não confundir com mudança mercantil = 500.\nCASO C: sujeito obrigado deixa de fornecer dados básicos para determinar a base de cálculo do ITBI. Palavra decisiva = ELEMENTOS BÁSICOS DO ITBI; inciso VIII; multa 520 UFIRQ. Se a mesma questão trocasse ITBI por ISS, mudaria para o inciso VII e 550.\nO mecanismo da IAN a vigiar: troca de substantivo ('bem'/'atividade'), troca do tributo, troca do tipo de obrigação ('inscrever'/'declarar'/'comunicar') e troca da unidade UFIRQ/UFIR."
+    },
+    {
+      "id": "direito-tributario-aula-076-b10",
+      "tipo": "revisao",
+      "titulo": "5. RECUPERAÇÃO ATIVA E INTERCALAÇÃO",
+      "texto": "Antes das questões, feche o texto e recupere em voz alta:\n— Não inscreveu BEM: quanto?\n— Não inscreveu ATIVIDADE: quanto?\n— Apresentou documento omisso relativo a BEM: quanto?\n— Documento omisso relativo a ATIVIDADE: quanto?\n— Alteração MERCANTIL não comunicada: quanto?\n— Alteração IMOBILIÁRIA não comunicada: quanto?\n— Elementos de cálculo do ISS: quanto?\n— Elementos de cálculo do IPTU: quanto?\n— Não enviou documento fiscal obrigatório: quanto?\n— Embaraçou ação do Fisco: quanto?\n— Descumpriu edital de interdição: quanto?\nRetomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%.\nPortuguês de prova: 'deixar de' marca omissão; 'ou' separa condutas alternativas; 'até' exprime limite; 'EXCETO' pede a única incompatível. Leia sempre o comando ANTES das alternativas."
+    },
+    {
+      "id": "direito-tributario-aula-076-b11",
+      "tipo": "questao",
+      "titulo": "6. TESTE CUMULATIVO AUTORAL — PERFIL IAN (SEM GABARITO ANTECIPADO)",
+      "texto": "Não consulte o quadro. Registre apenas '1B, 2A...' e responda antes da correção. As alternativas foram criadas para esta aula, não extraídas nem atribuídas ao arquivo de 911 questões.",
+      "questionIds": [
+        "direito-tributario-aula-076-q-001",
+        "direito-tributario-aula-076-q-002",
+        "direito-tributario-aula-076-q-003",
+        "direito-tributario-aula-076-q-004",
+        "direito-tributario-aula-076-q-005",
+        "direito-tributario-aula-076-q-006",
+        "direito-tributario-aula-076-q-007",
+        "direito-tributario-aula-076-q-008",
+        "direito-tributario-aula-076-q-009",
+        "direito-tributario-aula-076-q-010",
+        "direito-tributario-aula-076-q-011",
+        "direito-tributario-aula-076-q-012",
+        "direito-tributario-aula-076-q-013",
+        "direito-tributario-aula-076-q-014",
+        "direito-tributario-aula-076-q-015",
+        "direito-tributario-aula-076-q-016",
+        "direito-tributario-aula-076-q-017",
+        "direito-tributario-aula-076-q-018",
+        "direito-tributario-aula-076-q-019",
+        "direito-tributario-aula-076-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-076-b12",
+      "tipo": "teoria",
+      "titulo": "7. CONTROLE DE APRENDIZAGEM E CADERNO DE ERROS",
+      "texto": "Não presumir domínio sem respostas. Para cada item errado, registrar: questão/inciso; alternativa escolhida; causa provável (troca de grupo, unidade, redação antiga, comando INCORRETA/EXCETO ou desatenção); regra legal correta; pegadinha; revisão em 24h, 72h e 7 dias. Até a resolução, status = APRENDIZAGEM; nenhum erro individual imputado ao aluno."
+    },
+    {
+      "id": "direito-tributario-aula-076-b13",
+      "tipo": "fechamento",
+      "titulo": "8. FECHAMENTO / PRÓXIMO PONTO",
+      "texto": "Mapa final: 200 bens sem inscrição; 600 atividades sem inscrição/embaraço; 300 declarações omissas sobre bens/atividades/edital; 500 mudança mercantil; 480 mudança imobiliária; 550 ISS-TLLE/TVEL-transporte/documento obrigatório; 520 IPTU-ITBI-ambiental-vistoria-serviços diversos-contribuição de melhoria.\nAula 76 termina no ART. 327, §3º, INCISO XI. Próxima aula: ART. 328 EM DIANTE — CONTRIBUIÇÃO DE MELHORIA, com hipótese de incidência, limites, obras e programas.\n\n════════════════════════════════════════════════════════════════════"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-076-q-001",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 1,
+      "question": "1) Deixar de inscrever no Cadastro Fiscal bens sujeitos à tributação municipal acarreta, pelo art. 327, §3º:",
+      "options": [
+        {
+          "id": "A",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "200 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "480 UFIRQ. 2) A falta de inscrição cadastral de atividades sujeitas à tributação municipal corresponde a:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-002",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 2,
+      "question": "2) A falta de inscrição cadastral de atividades sujeitas à tributação municipal corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "200 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "550 UFIRQ. 3) A apresentação de declaração relativa a bens sujeitos à tributação municipal com omissão ou dados inverídicos corresponde a:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-003",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 3,
+      "question": "3) A apresentação de declaração relativa a bens sujeitos à tributação municipal com omissão ou dados inverídicos corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "200 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "500 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "600 UFIRQ. 4) O mesmo vício de omissão ou dados inverídicos em documentos relativos a atividades sujeitas à tributação municipal corresponde a:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-004",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 4,
+      "question": "4) O mesmo vício de omissão ou dados inverídicos em documentos relativos a atividades sujeitas à tributação municipal corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "480 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "300 UFIRQ. 5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-005",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 5,
+      "question": "5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "480 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "500 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "520 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "200 UFIRQ. 6) Não comunicar no prazo alteração de ordem IMOBILIÁRIA que modifique fato antes registrado:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-006",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 6,
+      "question": "6) Não comunicar no prazo alteração de ordem IMOBILIÁRIA que modifique fato antes registrado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "480 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "500 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "300 UFIRQ. 7) Deixar de apresentar tempestivamente elementos básicos do fato gerador ou base de cálculo do ISS, nas condições do inciso VII:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-007",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 7,
+      "question": "7) Deixar de apresentar tempestivamente elementos básicos do fato gerador ou base de cálculo do ISS, nas condições do inciso VII:",
+      "options": [
+        {
+          "id": "A",
+          "text": "520 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "300 UFIRQ. 8) Deixar de apresentar os mesmos elementos para o ITBI, nas condições do inciso VIII:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-008",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 8,
+      "question": "8) Deixar de apresentar os mesmos elementos para o ITBI, nas condições do inciso VIII:",
+      "options": [
+        {
+          "id": "A",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "520 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "500 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "480 UFIRQ. 9) Deixar de enviar à Prefeitura documento exigido por lei ou regulamento fiscal, quando obrigado:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-009",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 9,
+      "question": "9) Deixar de enviar à Prefeitura documento exigido por lei ou regulamento fiscal, quando obrigado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "520 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "200 UFIRQ. 10) Negar informações ou embaraçar a ação dos agentes do Fisco:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-010",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 10,
+      "question": "10) Negar informações ou embaraçar a ação dos agentes do Fisco:",
+      "options": [
+        {
+          "id": "A",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "480 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "600 UFIRQ. 11) Deixar de cumprir edital de interdição:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-011",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 11,
+      "question": "11) Deixar de cumprir edital de interdição:",
+      "options": [
+        {
+          "id": "A",
+          "text": "600 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "500 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "200 UFIRQ. 12) Assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-012",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 12,
+      "question": "12) Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "não inscrever bens e não inscrever atividades têm multa idêntica."
+        },
+        {
+          "id": "B",
+          "text": "declarações omissas relativas a bens e a atividades têm multas de 200 e 600 UFIRQ, respectivamente."
+        },
+        {
+          "id": "C",
+          "text": "não inscrever bens = 200 UFIRQ; não inscrever atividades = 600 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "alterações imobiliárias e mercantis não comunicadas geram ambas 550 UFIRQ. 13) Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-013",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 13,
+      "question": "13) Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "não apresentar elementos básicos para ISS integra o grupo de 550 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "não apresentar elementos básicos para IPTU integra o grupo de 520 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "não apresentar elementos básicos para ITBI integra o grupo de 550 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "deixar de enviar documento fiscal obrigatório pode gerar 550 UFIRQ. 14) Sobre os incisos III e IV, julgue: I. Ambos envolvem omissão ou dados inverídicos em documentos/declarações. II. O inciso III se refere a bens; o IV, a atividades. III. Ambos trazem 300 UFIRQ."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-014",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 14,
+      "question": "III. Ambos trazem 300 UFIRQ.",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas I."
+        },
+        {
+          "id": "B",
+          "text": "apenas II."
+        },
+        {
+          "id": "C",
+          "text": "apenas I e III."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. 15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-015",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 15,
+      "question": "15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "IPTU."
+        },
+        {
+          "id": "B",
+          "text": "ITBI."
+        },
+        {
+          "id": "C",
+          "text": "Contribuições de Melhoria."
+        },
+        {
+          "id": "D",
+          "text": "ISS. 16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-016",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 16,
+      "question": "16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "550 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "520 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "200 UFIRQ. 17) A redação do §3º adotada nesta aula corresponde aos valores:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-017",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 17,
+      "question": "17) A redação do §3º adotada nesta aula corresponde aos valores:",
+      "options": [
+        {
+          "id": "A",
+          "text": "fracionários em UFIR da LC 034/2006."
+        },
+        {
+          "id": "B",
+          "text": "inteiros em UFIRQ da LC 062/2012."
+        },
+        {
+          "id": "C",
+          "text": "percentuais fixos sobre ISS de 10% a 50%."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente em reais, sem unidade fiscal. 18) Recuperação do art. 327, II (redação de 2012): exercício de atividade sujeita à taxa sem licença:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-018",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 18,
+      "question": "18) Recuperação do art. 327, II (redação de 2012): exercício de atividade sujeita à taxa sem licença:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas advertência."
+        },
+        {
+          "id": "B",
+          "text": "interdição até regularização sem multa, em qualquer hipótese."
+        },
+        {
+          "id": "C",
+          "text": "interdição até 30 dias e multa de 100% do valor da taxa."
+        },
+        {
+          "id": "D",
+          "text": "somente multa de 7,8093 UFIR. 19) Recuperação do art. 322: a isenção da Taxa de Licença do comércio informal:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-019",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 19,
+      "question": "19) Recuperação do art. 322: a isenção da Taxa de Licença do comércio informal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "dispensa a inscrição cadastral."
+        },
+        {
+          "id": "B",
+          "text": "não exime da inscrição junto ao Fisco."
+        },
+        {
+          "id": "C",
+          "text": "elimina qualquer obrigação acessória."
+        },
+        {
+          "id": "D",
+          "text": "afasta a fiscalização. 20) Recuperação de ISS: atraso de 95 dias, segundo a escada estudada do art. 280:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-076-q-020",
+      "lessonId": "direito-tributario-aula-076",
+      "numero": 20,
+      "question": "20) Recuperação de ISS: atraso de 95 dias, segundo a escada estudada do art. 280:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20%."
+        },
+        {
+          "id": "B",
+          "text": "30%."
+        },
+        {
+          "id": "C",
+          "text": "40%."
+        },
+        {
+          "id": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-076-b10",
+      "titulo": "5. RECUPERAÇÃO ATIVA E INTERCALAÇÃO",
+      "texto": "Antes das questões, feche o texto e recupere em voz alta:\n— Não inscreveu BEM: quanto?\n— Não inscreveu ATIVIDADE: quanto?\n— Apresentou documento omisso relativo a BEM: quanto?\n— Documento omisso relativo a ATIVIDADE: quanto?\n— Alteração MERCANTIL não comunicada: quanto?\n— Alteração IMOBILIÁRIA não comunicada: quanto?\n— Elementos de cálculo do ISS: quanto?\n— Elementos de cálculo do IPTU: quanto?\n— Não enviou documento fiscal obrigatório: quanto?\n— Embaraçou ação do Fisco: quanto?\n— Descumpriu edital de interdição: quanto?\nRetomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%.\nPortuguês de prova: 'deixar de' marca omissão; 'ou' separa condutas alternativas; 'até' exprime limite; 'EXCETO' pede a única incompatível. Leia sempre o comando ANTES das alternativas."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-076-b4",
+      "titulo": "2. LEI SECA GUIADA — INCISOS I A XI",
+      "texto": "I — Deixar de fazer inscrição no Cadastro Fiscal da Prefeitura de BENS sujeitos à tributação municipal: 200 UFIRQ.\nII — Deixar de fazer inscrição de ATIVIDADES sujeitas à tributação municipal: 600 UFIRQ."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-08",
+  "contentHash": "a3cbe73687e4ea90"
+}

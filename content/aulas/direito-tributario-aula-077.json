@@ -1,0 +1,829 @@
+{
+  "id": "direito-tributario-aula-077",
+  "numero": 77,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "slug": "agente-fiscal-de-queimados-rj-aula-77",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "ordem": 77,
+  "data": "2026-10-08",
+  "tempoEstimadoMin": 7,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-077-b1",
+      "tipo": "teoria",
+      "titulo": "CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 328 A 333",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-077-b2",
+      "tipo": "teoria",
+      "titulo": "CONTRIBUIÇÃO DE MELHORIA: OBRAS, LIMITES, PROGRAMAS, CONTRIBUINTE E ÔNUS REAL",
+      "texto": "════════════════════════════════════════════════════════════════════"
+    },
+    {
+      "id": "direito-tributario-aula-077-b3",
+      "tipo": "teoria",
+      "titulo": "1. PONTO DE PARTIDA E OBJETIVO",
+      "texto": "Esta aula continua exatamente após a Aula 76, encerrada no art. 327, §3º, XI. Entramos no Título VIII do Código Tributário Municipal de Queimados. Ao final, o candidato deverá: (a) identificar obras potencialmente sujeitas à contribuição de melhoria; (b) distinguir obra pública de valorização imobiliária; (c) aplicar limite total e limite individual; (d) reconhecer as despesas computáveis; (e) distinguir programas ordinário e extraordinário; (f) identificar o sujeito passivo e a natureza de ônus real.\nFonte principal: Código Tributário Municipal de Queimados, versão consolidada em 03/05/2024, arts. 328 a 333 (páginas impressas 115–116). Fonte de integração nacional: CTN, art. 81, Lei nº 5.172/1966, texto compilado do Planalto. Questões abaixo são AUTORAIS no estilo de literalidade e distratores, e NÃO são apresentadas como questões originais da IAN ou extraídas do arquivo de 911 questões."
+    },
+    {
+      "id": "direito-tributario-aula-077-b4",
+      "tipo": "revisao",
+      "titulo": "2. RECUPERAÇÃO ATIVA INICIAL (NÃO CONSULTE O CADERNO)",
+      "texto": "R1. Qual a multa, em UFIRQ, por deixar de inscrever bens sujeitos à tributação municipal, no art. 327, §3º?\nR2. E por deixar de inscrever atividades?\nR3. Qual é a multa por embaraçar a fiscalização?\nR4. A isenção da Taxa de Licença para comércio informal elimina a obrigação de inscrição?\nR5. Em que condições a atividade secundária corresponde a 20% na Taxa de Licença?\nNão há gabarito nesta aula antes das respostas. As respostas serão corrigidas posteriormente e os erros alimentarão o caderno de erros."
+    },
+    {
+      "id": "direito-tributario-aula-077-b5",
+      "tipo": "teoria",
+      "titulo": "3. ART. 328 — HIPÓTESE DE INCIDÊNCIA: OBRA PÚBLICA",
+      "texto": "Literalidade municipal: “A hipótese de incidência da contribuição de melhoria é a realização de obra pública.”\nAtenção: para a cobrança válida no sistema tributário brasileiro, o art. 81 do CTN vincula a contribuição a obra pública DA QUAL DECORRA VALORIZAÇÃO IMOBILIÁRIA. A formulação municipal, isoladamente, não autoriza cobrar de qualquer imóvel por qualquer obra sem valorização. A contribuição de melhoria não é taxa de serviço nem imposto sobre a propriedade.\nFórmula conceitual: OBRA PÚBLICA + VALORIZAÇÃO DE IMÓVEL BENEFICIADO = HIPÓTESE TRIBUTÁRIA A EXAMINAR.\nExemplo didático: pavimentação de rua que eleva o valor de imóveis próximos pode ensejar contribuição de melhoria, respeitados limites e procedimentos legais. Já a mera existência de obra sem acréscimo de valor demonstrável não basta, por si só, para cobrar contribuição de melhoria daquele imóvel."
+    },
+    {
+      "id": "direito-tributario-aula-077-b6",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: “Toda obra pública gera automaticamente contribuição de melhoria para todos os moradores da cidade.” INCORRETO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-077-b7",
+      "tipo": "teoria",
+      "titulo": "4. ART. 328, PARÁGRAFO ÚNICO — QUATRO GRUPOS DE OBRAS",
+      "texto": "I — Abertura, alargamento, pavimentação, iluminação, arborização, esgotos pluviais e outros melhoramentos de praças e vias públicas.\nII — Construção e ampliação de parques, campos de desportos, pontes, túneis e viadutos.\nIII — Abastecimento de água potável e redes de esgotamento sanitário.\nIV — Instalação de redes elétricas e suprimento de gás.\nMacete: VIAS/PRAÇAS; PARQUES/PONTES; ÁGUA/ESGOTO; ENERGIA/GÁS."
+    },
+    {
+      "id": "direito-tributario-aula-077-b8",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: trocar obras de abastecimento de água potável por consumo mensal de água.",
+      "texto": "A contribuição se relaciona à OBRA, não à conta periódica de consumo."
+    },
+    {
+      "id": "direito-tributario-aula-077-b9",
+      "tipo": "teoria",
+      "titulo": "5. ART. 329 — LIMITE TOTAL E DESPESAS COMPUTÁVEIS",
+      "texto": "A contribuição de melhoria tem como LIMITE TOTAL a despesa realizada. Integram essa despesa: estudos, projetos, fiscalização, desapropriações, administração, execução e financiamento, além dos respectivos encargos.\nMapa: ESTUDOS + PROJETOS + FISCALIZAÇÃO + DESAPROPRIAÇÕES + ADMINISTRAÇÃO + EXECUÇÃO + FINANCIAMENTO + ENCARGOS."
+    },
+    {
+      "id": "direito-tributario-aula-077-b10",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§1º — Para cada obra ou conjunto de obras do mesmo projeto, os elementos devem ser definidos em MEMORIAL DESCRITIVO e ORÇAMENTO DETALHADO DE CUSTO elaborados pelo Município."
+    },
+    {
+      "id": "direito-tributario-aula-077-b11",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§2º — O PREFEITO pode REDUZIR EM ATÉ 50% o limite total, considerando a natureza da obra, benefícios aos usuários, nível de renda dos contribuintes e volume/quantidade de equipamentos públicos existentes na zona de influência."
+    },
+    {
+      "id": "direito-tributario-aula-077-b12",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha 1: “O Prefeito deve reduzir obrigatoriamente em 50%.” FALSO: a lei usa PODE e ATÉ.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-077-b13",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha 2: “O limite total corresponde apenas à execução material, excluindo projetos e desapropriações.” FALSO.",
+      "texto": "Integração com CTN, art. 81: há DOIS LIMITES, que não se confundem:\n— LIMITE TOTAL = despesa realizada com a obra;\n— LIMITE INDIVIDUAL = acréscimo de valor que a obra causar em cada imóvel beneficiado.\nExemplo resolvido (apenas ilustrativo): obra custou R$ 800.000. O total cobrado dos contribuintes não pode ultrapassar a despesa; se o Prefeito reduzir o limite total em 25% nas condições legais, o teto total pasa ao teto calculado no exemplo."
+    },
+    {
+      "id": "direito-tributario-aula-077-b14",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "TOTAL = CUSTO; INDIVIDUAL = VALORIZAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-077-b15",
+      "tipo": "teoria",
+      "titulo": "6. ART. 330 — QUEM EXECUTA A OBRA",
+      "texto": "A contribuição pode decorrer de obras públicas realizadas pela Administração Municipal DIRETA ou INDIRETA, inclusive obras resultantes de CONVÊNIO com a União, com o Estado ou com entidade federal ou estadual.\nPegadinha: “Se a obra resultou de convênio com o Estado, a contribuição de melhoria municipal fica sempre proibida.” FALSO. O dispositivo inclui expressamente essas situações, respeitadas as demais exigências.\nNão confundir: execução por administração indireta não transforma a contribuição em tarifa de concessionária."
+    },
+    {
+      "id": "direito-tributario-aula-077-b16",
+      "tipo": "teoria",
+      "titulo": "7. ART. 331 — PROGRAMAS ORDINÁRIO E EXTRAORDINÁRIO",
+      "texto": "I — ORDINÁRIO: obras preferenciais e de iniciativa da própria Administração.\nII — EXTRAORDINÁRIO: obra de MENOR INTERESSE GERAL, solicitada por PELO MENOS 2/3 DOS CONTRIBUINTES INTERESSADOS.\nMacete: ORDINÁRIO = INICIATIVA ADMINISTRATIVA; EXTRAORDINÁRIO = PEDIDO DE 2/3 + MENOR INTERESSE GERAL.\n“Pelo menos 2/3” significa igual ou superior a 2/3, não exatamente 2/3.\nExemplo resolvido: se houver 90 contribuintes interessados, 2/3 = 60; o requisito numérico será atendido por solicitação de 60 ou mais, desde que a obra se enquadre nos demais termos legais.\nPegadinhas: substituir 2/3 por maioria simples; dizer que toda obra solicitada por moradores é automaticamente extraordinária; inverter iniciativa administrativa e solicitação dos interessados."
+    },
+    {
+      "id": "direito-tributario-aula-077-b17",
+      "tipo": "teoria",
+      "titulo": "8. ART. 332 — SUJEITO PASSIVO",
+      "texto": "Contribuinte é o PROPRIETÁRIO, o TITULAR DO DOMÍNIO ÚTIL ou o POSSUIDOR, A QUALQUER TÍTULO, de imóvel situado na ZONA DE INFLUÊNCIA DA OBRA."
+    },
+    {
+      "id": "direito-tributario-aula-077-b18",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§1º — Para determinação do sujeito passivo, o dispositivo remete ao §1º do art. 177 do próprio Código. Nesta aula não se presume o conteúdo dessa remissão sem leitura específica."
+    },
+    {
+      "id": "direito-tributario-aula-077-b19",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§2º — BENS INDIVISOS: lançamento em nome de qualquer um dos titulares; a esse titular cabe o direito de exigir dos demais as parcelas que lhes couberem."
+    },
+    {
+      "id": "direito-tributario-aula-077-b20",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§3º — Os demais imóveis serão lançados em nome dos respectivos titulares."
+    },
+    {
+      "id": "direito-tributario-aula-077-b21",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Atenção: zona de influência não significa necessariamente apenas imóveis com frente diretamente para a obra. A delimitação será tratada nos arts. 334–335.\nPegadinha: “Apenas o proprietário registrado pode ser contribuinte.” INCORRETO, pois a literalidade inclui domínio útil e posse a qualquer título."
+    },
+    {
+      "id": "direito-tributario-aula-077-b22",
+      "tipo": "teoria",
+      "titulo": "9. ART. 333 — ÔNUS REAL",
+      "texto": "A contribuição de melhoria constitui ÔNUS REAL, acompanhando o imóvel MESMO APÓS A TRANSMISSÃO.\nTradução simples: não é uma obrigação que desaparece automaticamente porque o imóvel foi vendido. A lei municipal estabelece a vinculação do ônus ao próprio imóvel, observadas as normas tributárias aplicáveis.\nMacete: 333 = ÔNUS REAL → SEGUE O IMÓVEL."
+    },
+    {
+      "id": "direito-tributario-aula-077-b23",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: “A alienação extingue automaticamente a contribuição de melhoria.” INCORRETO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-077-b24",
+      "tipo": "teoria",
+      "titulo": "10. PORTUGUÊS E INTERPRETAÇÃO DE LEI — QUANTIFICADORES",
+      "texto": "ATÉ 50% = teto da redução permitida, não redução obrigatória.\nPELO MENOS 2/3 = mínimo inclusivo, não número exato nem maioria simples.\nDIRETA OU INDIRETA = a norma admite ambas.\nA QUALQUER TÍTULO = expressão ampliativa do conceito de possuidor.\nAINDA APÓS A TRANSMISSÃO = permanência do ônus real.\nEssas palavras são alvos de distratores CORRETA/INCORRETA/EXCETO."
+    },
+    {
+      "id": "direito-tributario-aula-077-b25",
+      "tipo": "questao",
+      "titulo": "11. TESTE CUMULATIVO AUTORAL — 20 QUESTÕES, SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-077-q-001",
+        "direito-tributario-aula-077-q-002",
+        "direito-tributario-aula-077-q-003",
+        "direito-tributario-aula-077-q-004",
+        "direito-tributario-aula-077-q-005",
+        "direito-tributario-aula-077-q-006",
+        "direito-tributario-aula-077-q-007",
+        "direito-tributario-aula-077-q-008",
+        "direito-tributario-aula-077-q-009",
+        "direito-tributario-aula-077-q-010",
+        "direito-tributario-aula-077-q-011",
+        "direito-tributario-aula-077-q-012",
+        "direito-tributario-aula-077-q-013",
+        "direito-tributario-aula-077-q-014",
+        "direito-tributario-aula-077-q-015",
+        "direito-tributario-aula-077-q-016",
+        "direito-tributario-aula-077-q-017",
+        "direito-tributario-aula-077-q-018",
+        "direito-tributario-aula-077-q-019",
+        "direito-tributario-aula-077-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-077-b26",
+      "tipo": "teoria",
+      "titulo": "12. TAREFA DE RECUPERAÇÃO SEM CONSULTA",
+      "texto": "Em voz alta, explique em 30 segundos: (i) quais são os dois limites da contribuição de melhoria; (ii) quais os quatro grupos de obras; (iii) o que diferencia programa ordinário de extraordinário; (iv) quem pode ser contribuinte; (v) o significado de ônus real.\nResponder ao teste no formato 1B, 2A, 3C... quando for oportuno. Somente depois haverá correção de cada alternativa, identificação da pegadinha e registro de erros reais."
+    },
+    {
+      "id": "direito-tributario-aula-077-b27",
+      "tipo": "teoria",
+      "titulo": "13. CONTROLE DE RETENÇÃO E CONTINUIDADE",
+      "texto": "Arts. 328 a 333: em aprendizagem e retenção inicial, não dominados. Nenhum erro atribuído sem resposta. Repetições: em 24 horas, 72 horas e sete dias, com assuntos misturados.\nRegistro de erros: questão, resposta, causa, regra correta e revisão.\nPRÓXIMA AULA 78: ARTS. 334 A 337 — ZONA DE INFLUÊNCIA, COMISSÃO, BASE DE CÁLCULO E FÓRMULAS MUNICIPAIS DA CONTRIBUIÇÃO DE MELHORIA.\nFIM DA AULA 77."
+    },
+    {
+      "id": "direito-tributario-aula-077-b28",
+      "tipo": "teoria",
+      "titulo": "COMPLEMENTO DA AULA 77 — EXEMPLO RESOLVIDO DO ART. 329",
+      "texto": "Uma obra de oitocentos mil reais tem teto total de oitocentos mil reais. Se houver redução de vinte e cinco por cento, o teto total cai para seiscentos mil reais.\nSe determinado imóvel valorizou trinta mil reais, o limite individual não ultrapassa essa valorização, ainda que o rateio sugerisse quarenta e dois mil reais. O Município não é obrigado a cobrar o máximo."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-077-q-001",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 1,
+      "question": "1) Segundo a literalidade do art. 328 do Código Municipal, a hipótese de incidência é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "consumo de energia."
+        },
+        {
+          "id": "B",
+          "text": "realização de obra pública."
+        },
+        {
+          "id": "C",
+          "text": "propriedade de veículo."
+        },
+        {
+          "id": "D",
+          "text": "prestação de serviço privado. 2) Considerando o art. 81 do CTN, a contribuição de melhoria pressupõe:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-002",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 2,
+      "question": "2) Considerando o art. 81 do CTN, a contribuição de melhoria pressupõe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas gasto municipal sem qualquer benefício imobiliário."
+        },
+        {
+          "id": "B",
+          "text": "obra pública da qual decorra valorização imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "mera manutenção rotineira sem obra."
+        },
+        {
+          "id": "D",
+          "text": "qualquer taxa de limpeza. 3) Integra o rol do art. 328, parágrafo único:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-003",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 3,
+      "question": "3) Integra o rol do art. 328, parágrafo único:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pagamento mensal de internet."
+        },
+        {
+          "id": "B",
+          "text": "compra de material de escritório."
+        },
+        {
+          "id": "C",
+          "text": "pavimentação de vias públicas."
+        },
+        {
+          "id": "D",
+          "text": "salário de empregado privado. 4) É exemplo de obra do inciso II:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-004",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 4,
+      "question": "4) É exemplo de obra do inciso II:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ampliação de parque."
+        },
+        {
+          "id": "B",
+          "text": "cobrança de IPTU."
+        },
+        {
+          "id": "C",
+          "text": "fiscalização de ISS."
+        },
+        {
+          "id": "D",
+          "text": "emissão de alvará. 5) Pertence ao inciso III:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-005",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 5,
+      "question": "5) Pertence ao inciso III:",
+      "options": [
+        {
+          "id": "A",
+          "text": "instalação de rede elétrica."
+        },
+        {
+          "id": "B",
+          "text": "abastecimento de água potável e rede de esgotamento sanitário."
+        },
+        {
+          "id": "C",
+          "text": "abertura de via."
+        },
+        {
+          "id": "D",
+          "text": "construção de viaduto. 6) O inciso IV contempla:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-006",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 6,
+      "question": "6) O inciso IV contempla:",
+      "options": [
+        {
+          "id": "A",
+          "text": "parques e pontes."
+        },
+        {
+          "id": "B",
+          "text": "serviços postais."
+        },
+        {
+          "id": "C",
+          "text": "redes elétricas e suprimento de gás."
+        },
+        {
+          "id": "D",
+          "text": "licença de publicidade. 7) O limite TOTAL da contribuição de melhoria, conforme o art. 329, é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-007",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 7,
+      "question": "7) O limite TOTAL da contribuição de melhoria, conforme o art. 329, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sempre o valor venal de todos os imóveis."
+        },
+        {
+          "id": "B",
+          "text": "a despesa realizada com a obra."
+        },
+        {
+          "id": "C",
+          "text": "o lucro das empresas."
+        },
+        {
+          "id": "D",
+          "text": "o preço mensal da água. 8) Integram as despesas computáveis:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-008",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 8,
+      "question": "8) Integram as despesas computáveis:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas o cimento empregado."
+        },
+        {
+          "id": "B",
+          "text": "somente a mão de obra direta."
+        },
+        {
+          "id": "C",
+          "text": "estudos, projetos, fiscalização, desapropriações, administração, execução, financiamento e encargos."
+        },
+        {
+          "id": "D",
+          "text": "apenas o IPTU. 9) Para cada obra ou conjunto do mesmo projeto, o §1º exige:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-009",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 9,
+      "question": "9) Para cada obra ou conjunto do mesmo projeto, o §1º exige:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas comunicação verbal."
+        },
+        {
+          "id": "B",
+          "text": "memorial descritivo e orçamento detalhado de custo."
+        },
+        {
+          "id": "C",
+          "text": "somente cadastro eleitoral."
+        },
+        {
+          "id": "D",
+          "text": "apenas registro em cartório. 10) A redução do limite total autorizada ao Prefeito é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-010",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 10,
+      "question": "10) A redução do limite total autorizada ao Prefeito é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exatamente 50% em todos os casos."
+        },
+        {
+          "id": "B",
+          "text": "até 50%, consideradas as circunstâncias legais."
+        },
+        {
+          "id": "C",
+          "text": "80% obrigatórios."
+        },
+        {
+          "id": "D",
+          "text": "proibida em qualquer hipótese. 11) O limite INDIVIDUAL do CTN é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-011",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 11,
+      "question": "11) O limite INDIVIDUAL do CTN é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o acréscimo de valor que a obra resultar para cada imóvel beneficiado."
+        },
+        {
+          "id": "B",
+          "text": "o salário do proprietário."
+        },
+        {
+          "id": "C",
+          "text": "o custo total da obra para cada imóvel."
+        },
+        {
+          "id": "D",
+          "text": "a renda mensal da família. 12) Obra executada pela Administração Municipal indireta ou por convênio com o Estado:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-012",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 12,
+      "question": "12) Obra executada pela Administração Municipal indireta ou por convênio com o Estado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é excluída automaticamente."
+        },
+        {
+          "id": "B",
+          "text": "pode enquadrar-se no art. 330."
+        },
+        {
+          "id": "C",
+          "text": "gera apenas ISS."
+        },
+        {
+          "id": "D",
+          "text": "dispensa os demais requisitos tributários. 13) Programa ORDINÁRIO é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-013",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 13,
+      "question": "13) Programa ORDINÁRIO é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "obra de menor interesse geral solicitada por 2/3."
+        },
+        {
+          "id": "B",
+          "text": "obra preferencial e de iniciativa da própria Administração."
+        },
+        {
+          "id": "C",
+          "text": "obra necessariamente privada."
+        },
+        {
+          "id": "D",
+          "text": "obra sem interesse público. 14) Programa EXTRAORDINÁRIO exige, nos termos do art. 331:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-014",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 14,
+      "question": "14) Programa EXTRAORDINÁRIO exige, nos termos do art. 331:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3 dos contribuintes interessados."
+        },
+        {
+          "id": "B",
+          "text": "maioria simples, sempre."
+        },
+        {
+          "id": "C",
+          "text": "pelo menos 2/3 dos interessados e obra de menor interesse geral."
+        },
+        {
+          "id": "D",
+          "text": "unanimidade obrigatória. 15) Em grupo de 150 contribuintes interessados, o número mínimo de solicitações para cumprir a fração de 2/3 é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-015",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 15,
+      "question": "15) Em grupo de 150 contribuintes interessados, o número mínimo de solicitações para cumprir a fração de 2/3 é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50."
+        },
+        {
+          "id": "B",
+          "text": "75."
+        },
+        {
+          "id": "C",
+          "text": "100."
+        },
+        {
+          "id": "D",
+          "text": "120. 16) É contribuinte da contribuição de melhoria:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-016",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 16,
+      "question": "16) É contribuinte da contribuição de melhoria:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente o inquilino, independentemente de posse."
+        },
+        {
+          "id": "B",
+          "text": "somente proprietário com escritura."
+        },
+        {
+          "id": "C",
+          "text": "proprietário, titular do domínio útil ou possuidor a qualquer título, na zona de influência."
+        },
+        {
+          "id": "D",
+          "text": "qualquer morador de outro Município sem imóvel beneficiado. 17) Bens indivisos:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-017",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 17,
+      "question": "17) Bens indivisos:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é proibido lançamento."
+        },
+        {
+          "id": "B",
+          "text": "o lançamento pode ocorrer em nome de qualquer titular, que poderá exigir as parcelas cabíveis dos demais."
+        },
+        {
+          "id": "C",
+          "text": "todos ficam isentos."
+        },
+        {
+          "id": "D",
+          "text": "exige-se necessariamente uma guia para cada herdeiro. 18) O art. 333 caracteriza a contribuição de melhoria como:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-018",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 18,
+      "question": "18) O art. 333 caracteriza a contribuição de melhoria como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ônus real que acompanha o imóvel após transmissão."
+        },
+        {
+          "id": "B",
+          "text": "obrigação que desaparece com a venda."
+        },
+        {
+          "id": "C",
+          "text": "taxa de coleta de lixo."
+        },
+        {
+          "id": "D",
+          "text": "imposto sobre serviço. 19) INCORRETA — assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-019",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 19,
+      "question": "19) INCORRETA — assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Até 50% exprime limite máximo de redução."
+        },
+        {
+          "id": "B",
+          "text": "Pelo menos 2/3 admite quantidade superior ao mínimo."
+        },
+        {
+          "id": "C",
+          "text": "Pelo menos 2/3 significa exatamente metade dos interessados."
+        },
+        {
+          "id": "D",
+          "text": "A obra pode ser executada pela Administração direta ou indireta. 20) REVISÃO INTERCALADA — no art. 327, §3º, a multa pela falta de inscrição de atividades sujeitas à tributação municipal é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-077-q-020",
+      "lessonId": "direito-tributario-aula-077",
+      "numero": 20,
+      "question": "20) REVISÃO INTERCALADA — no art. 327, §3º, a multa pela falta de inscrição de atividades sujeitas à tributação municipal é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "200 UFIRQ."
+        },
+        {
+          "id": "B",
+          "text": "300 UFIRQ."
+        },
+        {
+          "id": "C",
+          "text": "480 UFIRQ."
+        },
+        {
+          "id": "D",
+          "text": "600 UFIRQ."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-077-b4",
+      "titulo": "2. RECUPERAÇÃO ATIVA INICIAL (NÃO CONSULTE O CADERNO)",
+      "texto": "R1. Qual a multa, em UFIRQ, por deixar de inscrever bens sujeitos à tributação municipal, no art. 327, §3º?\nR2. E por deixar de inscrever atividades?\nR3. Qual é a multa por embaraçar a fiscalização?\nR4. A isenção da Taxa de Licença para comércio informal elimina a obrigação de inscrição?\nR5. Em que condições a atividade secundária corresponde a 20% na Taxa de Licença?\nNão há gabarito nesta aula antes das respostas. As respostas serão corrigidas posteriormente e os erros alimentarão o caderno de erros."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-077-b10",
+      "titulo": "5. ART. 329 — LIMITE TOTAL E DESPESAS COMPUTÁVEIS",
+      "texto": "§1º — Para cada obra ou conjunto de obras do mesmo projeto, os elementos devem ser definidos em MEMORIAL DESCRITIVO e ORÇAMENTO DETALHADO DE CUSTO elaborados pelo Município."
+    },
+    {
+      "id": "direito-tributario-aula-077-b11",
+      "titulo": "5. ART. 329 — LIMITE TOTAL E DESPESAS COMPUTÁVEIS",
+      "texto": "§2º — O PREFEITO pode REDUZIR EM ATÉ 50% o limite total, considerando a natureza da obra, benefícios aos usuários, nível de renda dos contribuintes e volume/quantidade de equipamentos públicos existentes na zona de influência."
+    },
+    {
+      "id": "direito-tributario-aula-077-b18",
+      "titulo": "8. ART. 332 — SUJEITO PASSIVO",
+      "texto": "§1º — Para determinação do sujeito passivo, o dispositivo remete ao §1º do art. 177 do próprio Código. Nesta aula não se presume o conteúdo dessa remissão sem leitura específica."
+    },
+    {
+      "id": "direito-tributario-aula-077-b19",
+      "titulo": "8. ART. 332 — SUJEITO PASSIVO",
+      "texto": "§2º — BENS INDIVISOS: lançamento em nome de qualquer um dos titulares; a esse titular cabe o direito de exigir dos demais as parcelas que lhes couberem."
+    },
+    {
+      "id": "direito-tributario-aula-077-b20",
+      "titulo": "8. ART. 332 — SUJEITO PASSIVO",
+      "texto": "§3º — Os demais imóveis serão lançados em nome dos respectivos titulares."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-08",
+  "contentHash": "521eccb8b42b8807"
+}
