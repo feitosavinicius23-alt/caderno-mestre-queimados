@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "preview": "vite preview --host 0.0.0.0 --allowedHosts all",
-    "build": "npm run sync-content && npm run build:search-index && npm run build:sitemap && vite build",
+    "build": "npm run sync-content && node scripts/curate-missing-gabaritos.mjs && npm run build:search-index && npm run build:sitemap && vite build",
     "build:app": "vite build",
     "typecheck": "tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json",
     "lint": "eslint . --max-warnings=0",
