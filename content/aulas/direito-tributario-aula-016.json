@@ -138,7 +138,8 @@
       "explanation": "A alternativa B é a resposta correta: de obra pública da qual decorra valorização imobiliária, observados os requisitos legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     },
     {
       "id": "direito-tributario-aula-016-q-002",
@@ -167,7 +168,8 @@
       "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: o limite individual corresponde necessariamente ao custo integral da obra dividido igualmente entre todos os imóveis.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     },
     {
       "id": "direito-tributario-aula-016-q-003",
@@ -196,7 +198,8 @@
       "explanation": "A alternativa A é a resposta correta: a valorização imobiliária decorrente da obra.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     },
     {
       "id": "direito-tributario-aula-016-q-004",
@@ -225,7 +228,8 @@
       "explanation": "A alternativa B é a resposta correta: contribuição de melhoria → obra pública + valorização imobiliária.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     },
     {
       "id": "direito-tributario-aula-016-q-005",
@@ -254,7 +258,8 @@
       "explanation": "A alternativa B é a resposta correta: I, III e IV apenas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     },
     {
       "id": "direito-tributario-aula-016-q-006",
@@ -283,7 +288,8 @@
       "explanation": "A alternativa A é a resposta correta: taxa de serviço, admitida utilização potencial nas condições legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES"
+      "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
+      "legalBasis": "Pegadinha: ratear o custo da obra igualmente entre todos os imóveis, ignorando a valorização individual, não corresponde à lógica do art. 81."
     }
   ],
   "gabaritos": [],
@@ -323,5 +329,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "65afdcf7913675be"
+  "contentHash": "9b70e3aaceb967ee"
 }

@@ -125,7 +125,8 @@
       "explanation": "o distrator clássico é inverter constituir e cobrar.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "ANTES DO CRÉDITO DEFINITIVAMENTE CONSTITUÍDO, VIGIE A DECADÊNCIA. DEPOIS DA CONSTITUIÇÃO DEFINITIVA, VIGIE A PRESCRIÇÃO. ART. 173, I E ART. 150, §4º NÃO TÊM O MESMO MARCO; ART. 174 COMEÇA NA CONSTITUIÇÃO DEFINITIVA."
     },
     {
       "id": "direito-tributario-aula-009-q-002",
@@ -154,7 +155,8 @@
       "explanation": "literalidade do art. 173, I; cuidado com a palavra “sempre” ligada ao fato gerador.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "A regra geral do art. 173, I, do CTN estabelece prazo de 5 anos contado do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado."
     },
     {
       "id": "direito-tributario-aula-009-q-003",
@@ -183,7 +185,8 @@
       "explanation": "no art. 174, a expressão decisiva é constituição definitiva do crédito.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "ART. 173, II — também é importante reconhecer que o direito de constituir o crédito extingue-se em cinco anos contados da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado."
     },
     {
       "id": "direito-tributario-aula-009-q-004",
@@ -212,7 +215,8 @@
       "explanation": "aqui aparece a regra específica do art. 150, §4º; não a misture mecanicamente com o art. 173, I.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "HOMOLOGAÇÃO + PAGAMENTO ANTECIPADO + SEM DOLO/FRAUDE/SIMULAÇÃO → atenção ao ART. 150, §4º → 5 anos do FATO GERADOR."
     },
     {
       "id": "direito-tributario-aula-009-q-005",
@@ -241,7 +245,8 @@
       "explanation": "“necessariamente” e “em qualquer situação” apagam regimes diferentes e tornam a alternativa errada.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "Trocar “constituir” por “cobrar”; afirmar que decadência e prescrição possuem necessariamente o mesmo marco inicial; colocar fato gerador como marco do art. 174; colocar constituição definitiva como marco geral do art. 173, I; esquecer a regra específica do art. 150, §4º; usar “sempre”, “em qualquer hipótese” e “automaticamente” para eliminar as diferenças entre modalidades de lançamento."
     },
     {
       "id": "direito-tributario-aula-009-q-006",
@@ -270,7 +275,8 @@
       "explanation": "I e II são hipóteses legais de interrupção; III é falsa porque decadência e prescrição atuam em momentos distintos.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE"
+      "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
+      "legalBasis": "O art. 174 prevê hipóteses que interrompem a prescrição. Para nossa primeira volta, fixe especialmente: despacho do juiz que ordenar a citação em execução fiscal; protesto judicial; qualquer ato judicial que constitua em mora o devedor; e qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor."
     }
   ],
   "gabaritos": [
@@ -326,5 +332,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "05b06c04ca4083ca"
+  "contentHash": "e67b6ca4cde2a1e4"
 }

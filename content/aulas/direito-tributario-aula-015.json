@@ -138,7 +138,8 @@
       "explanation": "A alternativa B é a resposta correta: do exercício regular do poder de polícia ou da utilização efetiva ou potencial de serviço público específico e divisível, nas condições legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Para a taxa, interessa o EXERCÍCIO REGULAR do poder de polícia. O parágrafo único do art. 78 relaciona a regularidade ao desempenho pelo órgão competente, nos limites da lei aplicável, com observância do processo legal e, quando a atividade for discricionária, sem abuso ou desvio de poder."
     },
     {
       "id": "direito-tributario-aula-015-q-002",
@@ -167,7 +168,8 @@
       "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: taxa de serviço exige necessariamente utilização efetiva, sendo juridicamente impossível utilização potencial.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Regra mental: UTI UNIVERSI/GERAL E INDIVISÍVEL → ALERTA: NÃO É O MODELO DO ART. 79 PARA TAXA DE SERVIÇO."
     },
     {
       "id": "direito-tributario-aula-015-q-003",
@@ -196,7 +198,8 @@
       "explanation": "A alternativa B é a resposta correta: exige atenção, pois falta o caráter específico e divisível exigido para a taxa de serviço.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Regra mental: UTI UNIVERSI/GERAL E INDIVISÍVEL → ALERTA: NÃO É O MODELO DO ART. 79 PARA TAXA DE SERVIÇO."
     },
     {
       "id": "direito-tributario-aula-015-q-004",
@@ -225,7 +228,8 @@
       "explanation": "A alternativa B é a resposta correta: taxa → tributo vinculado à atuação estatal que fundamenta sua cobrança.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Para a taxa, interessa o EXERCÍCIO REGULAR do poder de polícia. O parágrafo único do art. 78 relaciona a regularidade ao desempenho pelo órgão competente, nos limites da lei aplicável, com observância do processo legal e, quando a atividade for discricionária, sem abuso ou desvio de poder."
     },
     {
       "id": "direito-tributario-aula-015-q-005",
@@ -254,7 +258,8 @@
       "explanation": "A alternativa B é a resposta correta: I, II e IV apenas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Para a taxa, interessa o EXERCÍCIO REGULAR do poder de polícia. O parágrafo único do art. 78 relaciona a regularidade ao desempenho pelo órgão competente, nos limites da lei aplicável, com observância do processo legal e, quando a atividade for discricionária, sem abuso ou desvio de poder."
     },
     {
       "id": "direito-tributario-aula-015-q-006",
@@ -283,7 +288,8 @@
       "explanation": "A alternativa B é a resposta correta: incorreta, pois o CTN admite utilização potencial nas condições legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS"
+      "topic": "TAXAS MUNICIPAIS: PODER DE POLÍCIA E SERVIÇOS PÚBLICOS",
+      "legalBasis": "Regra mental: UTI UNIVERSI/GERAL E INDIVISÍVEL → ALERTA: NÃO É O MODELO DO ART. 79 PARA TAXA DE SERVIÇO."
     }
   ],
   "gabaritos": [],
@@ -323,5 +329,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "24939a75c782757c"
+  "contentHash": "341352335e35f4cf"
 }

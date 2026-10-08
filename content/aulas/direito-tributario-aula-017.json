@@ -174,7 +174,8 @@
       "explanation": "A alternativa B é a resposta correta: ao crédito tributário regularmente inscrito na repartição competente após esgotado o prazo legal para pagamento, observadas as condições legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO; INADIMPLEMENTO NAS CONDIÇÕES LEGAIS PODE LEVAR À INSCRIÇÃO EM DÍVIDA ATIVA. INSCRIÇÃO REGULAR GERA PRESUNÇÃO RELATIVA DE CERTEZA E LIQUIDEZ. CRÉDITO EXISTENTE NEM SEMPRE IMPEDE EFEITOS DE CERTIDÃO NEGATIVA: LEMBRE O ART. 206."
     },
     {
       "id": "direito-tributario-aula-017-q-002",
@@ -203,7 +204,8 @@
       "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: a presunção decorrente da inscrição é absoluta e jamais admite prova em contrário.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
     },
     {
       "id": "direito-tributario-aula-017-q-003",
@@ -232,7 +234,8 @@
       "explanation": "A alternativa B é a resposta correta: a situação pode permitir certidão positiva com efeitos de negativa, nos termos do art. 206.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "Exemplo: contribuinte possui crédito tributário com exigibilidade suspensa por parcelamento. Isso não significa necessariamente que receberá uma certidão “positiva simples”; o art. 206 deve ser lembrado."
     },
     {
       "id": "direito-tributario-aula-017-q-004",
@@ -261,7 +264,8 @@
       "explanation": "A alternativa B é a resposta correta: a regra é a proteção das informações obtidas em razão do ofício, ressalvadas hipóteses legais de divulgação/intercâmbio.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "O art. 195 traz regra de grande importância: para os efeitos da legislação tributária, não têm aplicação disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos comerciantes, industriais ou produtores, nem a obrigação destes de exibi-los, observados os limites jurídicos aplicáveis."
     },
     {
       "id": "direito-tributario-aula-017-q-005",
@@ -290,7 +294,8 @@
       "explanation": "A alternativa B é a resposta correta: I, II e IV apenas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "FATO GERADOR FAZ NASCER A OBRIGAÇÃO; LANÇAMENTO CONSTITUI O CRÉDITO; INADIMPLEMENTO NAS CONDIÇÕES LEGAIS PODE LEVAR À INSCRIÇÃO EM DÍVIDA ATIVA. INSCRIÇÃO REGULAR GERA PRESUNÇÃO RELATIVA DE CERTEZA E LIQUIDEZ. CRÉDITO EXISTENTE NEM SEMPRE IMPEDE EFEITOS DE CERTIDÃO NEGATIVA: LEMBRE O ART. 206."
     },
     {
       "id": "direito-tributario-aula-017-q-006",
@@ -319,7 +324,8 @@
       "explanation": "A alternativa B é a resposta correta: taxa de serviço → serviço específico e divisível; contribuição de melhoria → obra pública + valorização imobiliária.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES"
+      "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
+      "legalBasis": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
     }
   ],
   "gabaritos": [],
@@ -363,5 +369,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "eca21f5dcc598439"
+  "contentHash": "24fcc1cdce61c88e"
 }

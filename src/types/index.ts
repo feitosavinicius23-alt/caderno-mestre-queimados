@@ -39,6 +39,7 @@ export interface Question {
   options: QuestionOption[];
   correctAnswer: string;
   explanation: string;
+  legalBasis?: string;
   subject: string;
   topic: string;
 }

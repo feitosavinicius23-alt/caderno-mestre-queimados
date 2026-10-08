@@ -129,6 +129,11 @@ export function QuestionCard({ question, lessonId, disciplina, assunto, mostrarO
             {question.explanation ? <p style={{ margin: 0 }}>{question.explanation}</p> : (
               !question.correctAnswer ? <p style={{ margin: 0 }}>Esta questão foi registrada, mas o documento ainda não fornece o gabarito comentado.</p> : null
             )}
+            {question.legalBasis ? (
+              <p className="fraco" style={{ margin: '0.7em 0 0' }}>
+                <strong>Base legal (texto estudado):</strong> {question.legalBasis}
+              </p>
+            ) : null}
             {question.topic ? (
               <p className="fraco" style={{ margin: '0.7em 0 0' }}>
                 Assunto: {question.topic}

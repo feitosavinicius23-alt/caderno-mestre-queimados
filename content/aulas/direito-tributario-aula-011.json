@@ -150,7 +150,8 @@
       "explanation": "memorize os 3 Is municipais. As demais alternativas introduzem imposto estadual ou federal.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     },
     {
       "id": "direito-tributario-aula-011-q-002",
@@ -179,7 +180,8 @@
       "explanation": "o distrator confunde destino da receita com titularidade da competência.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     },
     {
       "id": "direito-tributario-aula-011-q-003",
@@ -208,7 +210,8 @@
       "explanation": "ICMS continua estadual; a repartição não altera sua natureza competencial.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     },
     {
       "id": "direito-tributario-aula-011-q-004",
@@ -237,7 +240,8 @@
       "explanation": "fiscalização/cobrança municipal do ITR nas condições constitucionais não equivale a competência para instituí-lo.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     },
     {
       "id": "direito-tributario-aula-011-q-005",
@@ -266,7 +270,8 @@
       "explanation": "III é falsa justamente por confundir repartição com competência.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     },
     {
       "id": "direito-tributario-aula-011-q-006",
@@ -295,7 +300,8 @@
       "explanation": "esta é a regra prática mais importante da aula: RECEBER NÃO É INSTITUIR.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS"
+      "topic": "COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “COMPETÊNCIA TRIBUTÁRIA MUNICIPAL E REPARTIÇÃO DE RECEITAS”."
     }
   ],
   "gabaritos": [
@@ -364,5 +370,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "47a7b8f30e9e9453"
+  "contentHash": "e795dc57b249cc9f"
 }

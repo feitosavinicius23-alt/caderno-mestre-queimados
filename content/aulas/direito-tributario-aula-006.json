@@ -138,7 +138,8 @@
       "explanation": "o distrator A usa uma palavra absoluta — “impede” — para transformar a enumeração em lista fechada.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "ART. 187 → crédito tributário não se submete ao concurso/habilitação nas situações previstas; preferência entre entes segue a ordem legal."
     },
     {
       "id": "direito-tributario-aula-006-q-002",
@@ -167,7 +168,8 @@
       "explanation": "a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "2-B: a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa."
     },
     {
       "id": "direito-tributario-aula-006-q-003",
@@ -196,7 +198,8 @@
       "explanation": "questão típica de exceção. A reserva de patrimônio suficiente afasta a aplicação da presunção prevista no dispositivo.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "ART. 185-A → citado + não paga/não apresenta bens + não encontrados bens penhoráveis → juiz pode determinar indisponibilidade, limitada ao exigível."
     },
     {
       "id": "direito-tributario-aula-006-q-004",
@@ -225,7 +228,8 @@
       "explanation": "“ilimitada” denuncia o exagero. A indisponibilidade deve observar o limite legal ligado ao valor exigível.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "ART. 185-A → citado + não paga/não apresenta bens + não encontrados bens penhoráveis → juiz pode determinar indisponibilidade, limitada ao exigível."
     },
     {
       "id": "direito-tributario-aula-006-q-005",
@@ -254,7 +258,8 @@
       "explanation": "literalidade importante do art. 186. Não aplique essa frase mecanicamente à falência sem observar sua disciplina específica.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "TRABALHO/ACIDENTE DE TRABALHO → podem ficar à frente do crédito tributário na regra geral do art. 186."
     },
     {
       "id": "direito-tributario-aula-006-q-006",
@@ -283,7 +288,8 @@
       "explanation": "memorize a hierarquia legal para não cair no impulso de privilegiar o Município por ser uma prova municipal.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO"
+      "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "ART. 187 → crédito tributário não se submete ao concurso/habilitação nas situações previstas; preferência entre entes segue a ordem legal."
     }
   ],
   "gabaritos": [
@@ -353,5 +359,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "434ed98a9e5350a5"
+  "contentHash": "0c7b132bc7329997"
 }

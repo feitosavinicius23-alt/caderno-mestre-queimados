@@ -203,7 +203,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     },
     {
       "id": "direito-tributario-aula-002-q-002",
@@ -232,7 +233,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     },
     {
       "id": "direito-tributario-aula-002-q-003",
@@ -261,7 +263,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     },
     {
       "id": "direito-tributario-aula-002-q-004",
@@ -290,7 +293,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     },
     {
       "id": "direito-tributario-aula-002-q-005",
@@ -319,7 +323,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     },
     {
       "id": "direito-tributario-aula-002-q-006",
@@ -348,7 +353,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Crédito Tributário e Lançamento"
+      "topic": "Crédito Tributário e Lançamento",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Crédito Tributário e Lançamento”."
     }
   ],
   "gabaritos": [
@@ -398,5 +404,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "95889d7a45b05a63"
+  "contentHash": "2a224dc402fcb200"
 }

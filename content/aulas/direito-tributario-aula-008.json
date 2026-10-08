@@ -138,7 +138,8 @@
       "explanation": "B atribui ao responsável a característica típica do contribuinte.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ARTS. 134 E 135 — TERCEIROS. ART. 134: impossibilidade de exigir do contribuinte + intervenção ou omissão do terceiro nos atos pelos quais for responsável → responsabilidade solidária nas hipóteses legais. ART. 135: responsabilidade pessoal por créditos resultantes de atos praticados com EXCESSO DE PODERES ou INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS. Inclui, nas condições legais, mandatários, prepostos, empre…"
     },
     {
       "id": "direito-tributario-aula-008-q-002",
@@ -167,7 +168,8 @@
       "explanation": "núcleo = “expressamente” + vínculo; a banca pode trocar lei por escolha administrativa.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ART. 128 — A lei pode atribuir expressamente responsabilidade pelo crédito a terceira pessoa vinculada ao fato gerador, excluindo a responsabilidade do contribuinte ou atribuindo-a em caráter total ou parcial. Palavras-chave: EXPRESSAMENTE + VINCULADA. Não aceite alternativa dizendo que a Administração escolhe livremente qualquer terceiro sem base legal."
     },
     {
       "id": "direito-tributario-aula-008-q-003",
@@ -196,7 +198,8 @@
       "explanation": "“irrelevante em qualquer hipótese” apaga a ressalva da prova de quitação.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ART. 130 — IMÓVEL. Créditos relativos a impostos cujo fato gerador seja propriedade, domínio útil ou posse de imóveis, taxas referentes a esses bens e contribuição de melhoria sub-rogam-se na pessoa dos adquirentes, salvo prova de quitação no título. Na arrematação em hasta pública, a sub-rogação ocorre sobre o preço. Memória: IMÓVEL + DÉBITO VINCULADO AO BEM → ATENÇÃO À SUB-ROGAÇÃO E ÀS RESSALVAS."
     },
     {
       "id": "direito-tributario-aula-008-q-004",
@@ -225,7 +228,8 @@
       "explanation": "grave: cessou = integral; prosseguiu/recomeçou em até seis meses = subsidiária.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ART. 133 — FUNDO DE COMÉRCIO/ESTABELECIMENTO. Quem adquire fundo ou estabelecimento e continua a exploração pode responder pelos tributos relativos ao fundo/estabelecimento devidos até a data do ato. Distinção de prova: ALIENANTE CESSA A EXPLORAÇÃO → responsabilidade do adquirente pode ser INTEGRAL. ALIENANTE PROSSEGUE OU INICIA, DENTRO DE 6 MESES, NOVA ATIVIDADE → responsabilidade do adquirente é SUBSIDIÁRIA. Mem…"
     },
     {
       "id": "direito-tributario-aula-008-q-005",
@@ -254,7 +258,8 @@
       "explanation": "II usa “todo”, “automaticamente” e “apenas por ser sócio”, ignorando requisitos legais.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ARTS. 134 E 135 — TERCEIROS. ART. 134: impossibilidade de exigir do contribuinte + intervenção ou omissão do terceiro nos atos pelos quais for responsável → responsabilidade solidária nas hipóteses legais. ART. 135: responsabilidade pessoal por créditos resultantes de atos praticados com EXCESSO DE PODERES ou INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS. Inclui, nas condições legais, mandatários, prepostos, empre…"
     },
     {
       "id": "direito-tributario-aula-008-q-006",
@@ -283,7 +288,8 @@
       "explanation": "cargo não basta por si só; procure excesso de poderes ou infração qualificada.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS"
+      "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
+      "legalBasis": "ARTS. 134 E 135 — TERCEIROS. ART. 134: impossibilidade de exigir do contribuinte + intervenção ou omissão do terceiro nos atos pelos quais for responsável → responsabilidade solidária nas hipóteses legais. ART. 135: responsabilidade pessoal por créditos resultantes de atos praticados com EXCESSO DE PODERES ou INFRAÇÃO DE LEI, CONTRATO SOCIAL OU ESTATUTOS. Inclui, nas condições legais, mandatários, prepostos, empre…"
     }
   ],
   "gabaritos": [
@@ -384,5 +390,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "0e9bf08b48f46393"
+  "contentHash": "ea4513a1bb8fadeb"
 }

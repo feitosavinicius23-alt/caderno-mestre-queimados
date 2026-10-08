@@ -155,7 +155,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO”."
     },
     {
       "id": "direito-tributario-aula-003-q-002",
@@ -184,7 +185,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO”."
     },
     {
       "id": "direito-tributario-aula-003-q-003",
@@ -213,7 +215,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO”."
     },
     {
       "id": "direito-tributario-aula-003-q-004",
@@ -242,7 +245,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO”."
     },
     {
       "id": "direito-tributario-aula-003-q-005",
@@ -271,7 +275,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO"
+      "topic": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO”."
     }
   ],
   "gabaritos": [
@@ -322,5 +327,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "975929c74925aec1"
+  "contentHash": "331da3bc7005d562"
 }

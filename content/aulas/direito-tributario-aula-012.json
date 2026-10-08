@@ -143,7 +143,8 @@
       "explanation": "o distrator reduz indevidamente o fato gerador à propriedade registrada.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Seguimos da competência municipal estudada na Aula 11. Agora entramos no primeiro dos três impostos municipais: IPTU — Imposto sobre a Propriedade Predial e Territorial Urbana. A competência é dos Municípios, conforme art. 156, I, da Constituição."
     },
     {
       "id": "direito-tributario-aula-012-q-002",
@@ -172,7 +173,8 @@
       "explanation": "literalidade decisiva: pelo menos 2 dos 5 melhoramentos.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Para o CTN, a zona urbana é definida em lei municipal. Como regra do art. 32, §1º, exige-se a existência de pelo menos 2 dos 5 melhoramentos, construídos ou mantidos pelo Poder Público: I — meio-fio ou calçamento, com canalização de águas pluviais; II — abastecimento de água; III — sistema de esgotos sanitários; IV — rede de iluminação pública, com ou sem posteamento para distribuição domiciliar; V — escola primár…"
     },
     {
       "id": "direito-tributario-aula-012-q-003",
@@ -201,7 +203,8 @@
       "explanation": "associação automática — IPTU = valor venal.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Seguimos da competência municipal estudada na Aula 11. Agora entramos no primeiro dos três impostos municipais: IPTU — Imposto sobre a Propriedade Predial e Territorial Urbana. A competência é dos Municípios, conforme art. 156, I, da Constituição."
     },
     {
       "id": "direito-tributario-aula-012-q-004",
@@ -230,7 +233,8 @@
       "explanation": "“somente” cria a armadilha; o CTN também contempla titular do domínio útil e possuidor.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Seguimos da competência municipal estudada na Aula 11. Agora entramos no primeiro dos três impostos municipais: IPTU — Imposto sobre a Propriedade Predial e Territorial Urbana. A competência é dos Municípios, conforme art. 156, I, da Constituição."
     },
     {
       "id": "direito-tributario-aula-012-q-005",
@@ -259,7 +263,8 @@
       "explanation": "todas as assertivas estão corretas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Seguimos da competência municipal estudada na Aula 11. Agora entramos no primeiro dos três impostos municipais: IPTU — Imposto sobre a Propriedade Predial e Territorial Urbana. A competência é dos Municípios, conforme art. 156, I, da Constituição."
     },
     {
       "id": "direito-tributario-aula-012-q-006",
@@ -288,7 +293,8 @@
       "explanation": "a banca tenta apagar a regra especial das áreas urbanizáveis ou de expansão urbana.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE"
+      "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
+      "legalBasis": "Para o CTN, a zona urbana é definida em lei municipal. Como regra do art. 32, §1º, exige-se a existência de pelo menos 2 dos 5 melhoramentos, construídos ou mantidos pelo Poder Público: I — meio-fio ou calçamento, com canalização de águas pluviais; II — abastecimento de água; III — sistema de esgotos sanitários; IV — rede de iluminação pública, com ou sem posteamento para distribuição domiciliar; V — escola primár…"
     }
   ],
   "gabaritos": [
@@ -338,5 +344,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "2ee3347e29e8d1a3"
+  "contentHash": "111ebff27a364151"
 }

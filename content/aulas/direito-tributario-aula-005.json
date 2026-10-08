@@ -96,7 +96,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     },
     {
       "id": "direito-tributario-aula-005-q-002",
@@ -125,7 +126,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     },
     {
       "id": "direito-tributario-aula-005-q-003",
@@ -154,7 +156,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     },
     {
       "id": "direito-tributario-aula-005-q-004",
@@ -183,7 +186,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     },
     {
       "id": "direito-tributario-aula-005-q-005",
@@ -212,7 +216,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     },
     {
       "id": "direito-tributario-aula-005-q-006",
@@ -241,7 +246,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Exclusão do Crédito Tributário"
+      "topic": "Exclusão do Crédito Tributário",
+      "legalBasis": "No CTN, art. 175, existem duas hipóteses de exclusão:"
     }
   ],
   "gabaritos": [
@@ -321,5 +327,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "40511711769a283b"
+  "contentHash": "672a19131dba18bc"
 }

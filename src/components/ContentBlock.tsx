@@ -101,6 +101,11 @@ function PrintQuestionCard({ question }: { question: Question }) {
           <strong>{question.correctAnswer ? `Alternativa correta: ${question.correctAnswer}` : 'Gabarito ainda não disponível'}</strong>
         </p>
         {question.explanation ? <p style={{ margin: 0 }}>{question.explanation}</p> : null}
+        {question.legalBasis ? (
+          <p className="fraco" style={{ margin: '0.7em 0 0' }}>
+            <strong>Base legal (texto estudado):</strong> {question.legalBasis}
+          </p>
+        ) : null}
         {question.topic ? <p className="fraco" style={{ margin: '0.7em 0 0' }}>Assunto: {question.topic}</p> : null}
       </div>
     </article>

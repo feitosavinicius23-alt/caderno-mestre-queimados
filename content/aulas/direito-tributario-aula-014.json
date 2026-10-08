@@ -180,7 +180,8 @@
       "explanation": "A alternativa B é a resposta correta: a prestação de serviços constantes da lista anexa, ainda que não constituam atividade preponderante do prestador.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "A Constituição, art. 156, III, atribui aos Municípios e ao Distrito Federal competência para instituir imposto sobre serviços de qualquer natureza não compreendidos no art. 155, II, definidos em lei complementar. A lei complementar nacional central é a LC 116/2003."
     },
     {
       "id": "direito-tributario-aula-014-q-002",
@@ -209,7 +210,8 @@
       "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: o ISS é sempre devido no Município do estabelecimento prestador, sem qualquer exceção.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
     },
     {
       "id": "direito-tributario-aula-014-q-003",
@@ -238,7 +240,8 @@
       "explanation": "A alternativa B é a resposta correta: não basta, por si só, para caracterizar a não incidência por exportação; devem ser observados os requisitos legais e o local do resultado.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
     },
     {
       "id": "direito-tributario-aula-014-q-004",
@@ -267,7 +270,8 @@
       "explanation": "A alternativa C é a resposta correta: IPTU → valor venal do imóvel; ISS → preço do serviço.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
     },
     {
       "id": "direito-tributario-aula-014-q-005",
@@ -296,7 +300,8 @@
       "explanation": "A alternativa B é a resposta correta: I, II e IV apenas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
     },
     {
       "id": "direito-tributario-aula-014-q-006",
@@ -325,7 +330,8 @@
       "explanation": "A alternativa B é a resposta correta: incorreta, porque a competência municipal deve observar a Constituição e a lei complementar nacional que define os serviços tributáveis.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS"
+      "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
+      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
     }
   ],
   "gabaritos": [],
@@ -371,5 +377,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "574d352fe0535b86"
+  "contentHash": "c1a13c241dccb12d"
 }

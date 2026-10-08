@@ -137,7 +137,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "O art. 156 do CTN apresenta as hipóteses de extinção. Para a prova, você precisa primeiro reconhecer a lista e depois dominar as diferenças que viram distratores."
     },
     {
       "id": "direito-tributario-aula-004-q-002",
@@ -166,7 +167,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "RESPOSTAS: art. 151 — moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações judiciais; parcelamento. O lançamento constitui o crédito tributário. O lançamento por homologação envolve pagamento antecipado. Multa não é tributo. Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado…"
     },
     {
       "id": "direito-tributario-aula-004-q-003",
@@ -195,7 +197,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "RESPOSTAS: art. 151 — moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações judiciais; parcelamento. O lançamento constitui o crédito tributário. O lançamento por homologação envolve pagamento antecipado. Multa não é tributo. Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado…"
     },
     {
       "id": "direito-tributario-aula-004-q-004",
@@ -224,7 +227,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "A prescrição do art. 174 é de cinco anos, contados da constituição definitiva do crédito tributário. Não confunda o marco inicial: a banca pode colocar “fato gerador” no lugar de “constituição definitiva”."
     },
     {
       "id": "direito-tributario-aula-004-q-005",
@@ -253,7 +257,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO"
+      "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
+      "legalBasis": "RESPOSTAS: art. 151 — moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações judiciais; parcelamento. O lançamento constitui o crédito tributário. O lançamento por homologação envolve pagamento antecipado. Multa não é tributo. Contribuinte tem relação pessoal e direta com o fato gerador; responsável é obrigado…"
     }
   ],
   "gabaritos": [
@@ -311,5 +316,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "cc88d0dbb73ae186"
+  "contentHash": "ad48b8a6ae5ad7b4"
 }

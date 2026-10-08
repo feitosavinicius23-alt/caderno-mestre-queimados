@@ -326,7 +326,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-002",
@@ -355,7 +356,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-003",
@@ -384,7 +386,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-004",
@@ -413,7 +416,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-005",
@@ -442,7 +446,8 @@
       "explanation": "",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-006",
@@ -471,7 +476,8 @@
       "explanation": "A está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-007",
@@ -500,7 +506,8 @@
       "explanation": "Transmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-008",
@@ -529,7 +536,8 @@
       "explanation": "A multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-009",
@@ -558,7 +566,8 @@
       "explanation": "O responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-010",
@@ -587,7 +596,8 @@
       "explanation": "I e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     },
     {
       "id": "direito-tributario-aula-001-q-011",
@@ -616,7 +626,8 @@
       "explanation": "Essa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "Direito Tributário"
+      "topic": "Direito Tributário",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “Direito Tributário”."
     }
   ],
   "gabaritos": [
@@ -702,5 +713,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-08",
-  "contentHash": "db223d82e174a678"
+  "contentHash": "2c445853905a6c51"
 }
