@@ -15136,3 +15136,258 @@ STATUS: arts. 334–337 em APRENDIZAGEM INICIAL, não dominados. Nenhum erro rea
 
 PRÓXIMA AULA 79: ARTS. 338 A 342 — EDITAL PRÉVIO, PRAZO DE 30 DIAS PARA IMPUGNAÇÃO, LANÇAMENTO, NOTIFICAÇÃO E EFEITOS DOS RECURSOS.
 FIM DA AULA 78.
+
+
+════════════════════════════════════════════════════
+AULA 79 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026
+CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 338 A 342
+CONTRIBUIÇÃO DE MELHORIA: EDITAL, IMPUGNAÇÃO, LANÇAMENTO, NOTIFICAÇÃO E RECURSOS
+Fonte: Código Tributário de Queimados, consolidação da Procuradoria-Geral do Município em 03/05/2024, pp. 118–119; CTN, arts. 81 e 151, III.
+Exercícios autorais para treino de literalidade e distratores, não identificados como questões oficiais da IAN.
+════════════════════════════════════════════════════
+
+
+1. RECUPERAÇÃO ATIVA — ANTES DE CONSULTAR
+Responda mentalmente: (a) quem aprova a zona de influência da obra: comissão ou Prefeito? (b) qual é o limite total da Contribuição de Melhoria? (c) qual é o limite individual? (d) qual fórmula corresponde às redes de água, esgoto, energia e gás? (e) uma obra do programa extraordinário depende de solicitação de qual fração dos contribuintes interessados?
+Estas perguntas recuperam as Aulas 77 e 78. Não há resposta individual registrada; não presumir acerto nem erro.
+
+
+2. ART. 338 — O EDITAL ANTERIOR À COBRANÇA
+Para cobrar a Contribuição de Melhoria, a Prefeitura deve publicar PREVIAMENTE edital contendo CINCO elementos:
+I — memorial descritivo da obra e seu custo total;
+II — determinação da parcela do custo total a ser ressarcida pela contribuição;
+III — delimitação da zona de influência e respectivos índices de hierarquização de benefício dos imóveis, SE FOR O CASO;
+IV — relação dos imóveis localizados na zona de influência, com testada, área territorial e faixa a que pertencem;
+V — valor da contribuição correspondente a CADA imóvel.
+Macete 338 = OBRA/CUSTO → PARCELA A RESSARCIR → ZONA/ÍNDICES → LISTA DE IMÓVEIS → VALOR INDIVIDUAL.
+Distinção: custo total da obra (inciso I) não é necessariamente a parcela que será ressarcida (inciso II). E a relação de imóveis (inciso IV) não substitui a informação sobre quanto caberá a cada um (inciso V).
+Exemplo: obra de R$ 900.000, com parcela de R$ 600.000 a ressarcir. O edital precisa distinguir esses valores e identificar os imóveis alcançados, os dados territoriais e a contribuição atribuída a cada imóvel. Os limites do CTN continuam aplicáveis.
+Pegadinhas: omitir valor individual; confundir zona de influência com todo o Município; dizer que índices são obrigatórios sem a ressalva "se for o caso"; confundir edital prévio à COBRANÇA com afirmação de que a obra só pode começar depois do edital — o art. 338, por si só, não estabelece essa última equivalência.
+
+
+3. ART. 339 — PRIMEIRO PRAZO DE 30 DIAS: IMPUGNAÇÃO DO EDITAL
+Quem? Os titulares dos imóveis relacionados na forma do art. 338, IV.
+O quê? Podem impugnar QUALQUER dos elementos constantes do edital.
+Quando? Em 30 dias, contados da DATA DE PUBLICAÇÃO DO EDITAL.
+Quem suporta o ônus da prova? O IMPUGNANTE.
+Macete: 339 = PUBLICAÇÃO + 30 DIAS + QUALQUER ELEMENTO + ÔNUS DO IMPUGNANTE.
+Exemplo: o edital informa testada de 20 m, mas o contribuinte sustenta que o imóvel possui 12 m. Ele poderá impugnar e deverá apresentar os elementos probatórios pertinentes.
+Cuidado: não troque "data da publicação" por "data em que o contribuinte tomou conhecimento informal". A regra literal do art. 339 utiliza a publicação do edital.
+
+
+4. ART. 340 — QUANDO ACONTECE O LANÇAMENTO?
+O lançamento pode ocorrer quando a obra estiver:
+(a) executada em sua TOTALIDADE; OU
+(b) executada EM PARTE SUFICIENTE para justificar o início da cobrança.
+Nesse momento, procede-se ao LANÇAMENTO referente aos imóveis.
+Exemplo: obra de drenagem com trecho concluído que, conforme os requisitos legais, já justifique o início da cobrança em relação aos imóveis alcançados. A lei municipal não exige, em todas as hipóteses, a conclusão de 100% da obra para o lançamento.
+Atenção: "parte suficiente" não é sinônimo de "qualquer etapa mínima" ou de cobrança antes da execução. É necessário que a execução parcial seja suficiente para justificar a cobrança.
+Macete: 340 = OBRA TOTAL OU PARTE SUFICIENTE → LANÇAMENTO.
+
+
+5. ART. 341 — NOTIFICAÇÃO DO LANÇAMENTO
+A notificação poderá ser feita DIRETAMENTE ou POR EDITAL e deverá conter:
+I — identificação do contribuinte e valor da contribuição cobrada;
+II — prazos para pagamento, à vista ou parceladamente, e respectivos locais de pagamento;
+III — prazo para impugnação do lançamento.
+Não confunda o edital do art. 338, que traz informações da obra e do rateio, com a notificação do art. 341, que comunica o lançamento e os meios/prazos de pagamento e defesa.
+
+
+ART. 341, PARÁGRAFO ÚNICO — SEGUNDO PRAZO DE 30 DIAS
+Dentro de 30 dias contados do RECEBIMENTO DA NOTIFICAÇÃO DE LANÇAMENTO, o contribuinte poderá apresentar IMPUGNAÇÃO POR ESCRITO contra:
+I — erro na localização ou na área territorial do imóvel;
+II — valor da Contribuição de Melhoria;
+III — número de prestações.
+Macete: 341 = RECEBIMENTO DA NOTIFICAÇÃO + 30 DIAS + ESCRITO + LOCALIZAÇÃO/ÁREA, VALOR, PRESTAÇÕES.
+Exemplo: o lançamento atribui 10 prestações, mas o contribuinte entende haver erro no número. O art. 341, parágrafo único, III, contempla essa matéria de impugnação.
+NÃO CONFUNDIR OS DOIS PRAZOS:
+Art. 339 — 30 dias da PUBLICAÇÃO DO EDITAL; impugna QUALQUER ELEMENTO do edital; ônus da prova do impugnante.
+Art. 341 — 30 dias do RECEBIMENTO DA NOTIFICAÇÃO; impugna POR ESCRITO localização/área, valor ou número de prestações.
+A contagem efetiva dos dias deve observar também as regras gerais de prazo da legislação aplicável; não inventar datas de vencimento sem calendário e expediente verificados.
+
+
+6. ART. 342 — O QUE A IMPUGNAÇÃO NÃO PARALISA
+Pedidos de impugnação, reclamações e quaisquer recursos administrativos:
+(a) NÃO SUSPENDEM o início nem o prosseguimento das obras;
+(b) NÃO OBSTAM a Prefeitura na prática dos atos necessários ao lançamento e à cobrança da contribuição;
+(c) NÃO ESTENDEM seus efeitos aos demais contribuintes que não apresentaram impugnação.
+Macete: RECURSO NÃO PARALISA OBRA, NÃO BLOQUEIA ATOS MUNICIPAIS E NÃO SE ESTENDE AUTOMATICAMENTE A TERCEIROS.
+Precisão jurídica essencial: a redação do art. 342 sobre continuidade das obras e atos de lançamento/cobrança NÃO autoriza concluir que todo recurso administrativo seja incapaz de suspender a EXIGIBILIDADE do crédito. O CTN, art. 151, III, prevê suspensão da exigibilidade por reclamações e recursos nos termos das leis reguladoras do processo tributário administrativo. São planos distintos: continuidade da obra e dos atos administrativos versus eventual suspensão da exigibilidade de determinado crédito, quando preenchidos os requisitos legais.
+Exemplo: o proprietário do imóvel A impugna a área cadastrada. Isso não paralisa a pavimentação nem torna automaticamente suspensos os procedimentos dos imóveis B e C.
+
+
+7. CASO PRÁTICO INTEGRADO
+A Prefeitura executa obra que valoriza imóveis em sua zona de influência. Publica edital com memorial, custo total de R$ 800.000, parcela de R$ 500.000 a ressarcir, delimitação da zona, relação de imóveis e valores individuais. Um titular percebe erro na área do seu lote.
+ETAPA 1: art. 338 — verificar os cinco elementos do edital.
+ETAPA 2: art. 339 — impugnação de elemento do edital em 30 dias da publicação; ônus da prova do impugnante.
+ETAPA 3: art. 340 — obra total ou parte suficiente permite proceder ao lançamento.
+ETAPA 4: art. 341 — notificação direta ou por edital com identificação/valor, prazo/local de pagamento e prazo de impugnação.
+ETAPA 5: art. 341, parágrafo único — impugnação escrita em 30 dias do recebimento da notificação quanto a localização/área, valor ou prestações.
+ETAPA 6: art. 342 — impugnação não paralisa obra nem os atos municipais e não se estende automaticamente a não impugnantes; analisar separadamente eventual suspensão da exigibilidade nos termos do CTN.
+Pegadinha central: existem DOIS marcos iniciais diferentes para os prazos de 30 dias.
+
+
+8. PORTUGUÊS APLICADO À LEI
+"Previamente": antes da cobrança, conforme o art. 338.
+"Se for o caso": ressalva condicional relativa aos índices.
+"Qualquer dos elementos": amplitude da impugnação do art. 339.
+"Na sua totalidade OU em parte suficiente": alternativas de estágio de execução.
+"Diretamente OU por edital": duas modalidades de notificação.
+"Não suspendem" e "nem terão efeito": negações coordenadas; atenção à extensão exata do objeto negado.
+"Não sendo extensivo": o efeito não se transmite automaticamente aos demais contribuintes.
+
+
+9. QUESTÕES CUMULATIVAS — 20 ITENS AUTORAIS, SEM GABARITO ANTECIPADO
+Responda em sequência (ex.: 1B, 2C...). Não consultar o quadro. A correção futura deverá examinar alternativa por alternativa e registrar erros reais somente após resposta.
+
+
+1) Para a cobrança da Contribuição de Melhoria, o art. 338 exige:
+A) exclusivamente notificação verbal.
+B) publicação prévia de edital com os elementos legais.
+C) apenas avaliação do imóvel pelo contribuinte.
+D) somente decisão judicial.
+
+
+2) É elemento obrigatório do edital do art. 338:
+A) nome do banco escolhido pelo contribuinte.
+B) renda familiar de todos os moradores.
+C) memorial descritivo da obra e seu custo total.
+D) valor do ISS de cada imóvel.
+
+
+3) A determinação da parcela do custo total a ser ressarcida:
+A) é dispensada quando há memorial.
+B) é elemento próprio do art. 338.
+C) substitui a delimitação da zona.
+D) é sempre igual ao valor venal dos imóveis.
+
+
+4) Sobre os índices de hierarquização no edital, assinale a CORRETA:
+A) são exigidos sem exceção em todas as obras.
+B) são proibidos em obras públicas.
+C) devem constar quando for o caso, com a delimitação da zona de influência.
+D) substituem o custo da obra.
+
+
+5) A relação de imóveis do edital deve trazer, entre outros dados:
+A) testada, área territorial e faixa a que pertencem.
+B) somente nome do Prefeito.
+C) salário do possuidor.
+D) valor do IPVA.
+
+
+6) O art. 338 exige, quanto a cada imóvel:
+A) apenas o custo total do Município.
+B) o valor da contribuição correspondente a ele.
+C) o número do CPF dos vizinhos.
+D) exclusivamente o valor do ISS.
+
+
+7) O prazo do art. 339 é:
+A) 15 dias do recebimento da notificação.
+B) 30 dias da publicação do edital.
+C) 60 dias da conclusão da obra.
+D) 30 dias do pagamento da primeira prestação.
+
+
+8) Pelo art. 339, a impugnação pode atingir:
+A) somente o valor individual.
+B) apenas a testada.
+C) qualquer dos elementos do edital.
+D) apenas o número de prestações.
+
+
+9) O ônus da prova na impugnação do art. 339 cabe:
+A) necessariamente ao vizinho.
+B) ao impugnante.
+C) exclusivamente à comissão do art. 335.
+D) ao cartório.
+
+
+10) A obra permite lançamento da contribuição quando:
+A) qualquer projeto é apenas anunciado.
+B) for executada totalmente ou em parte suficiente para justificar a cobrança.
+C) todos os contribuintes pagarem antes de qualquer execução.
+D) a comissão concluir seus trabalhos, sem obra.
+
+
+11) A notificação do lançamento do art. 341 poderá ocorrer:
+A) somente pessoalmente.
+B) somente por carta registrada.
+C) diretamente ou por edital.
+D) apenas por sentença.
+
+
+12) NÃO é conteúdo exigido da notificação do art. 341:
+A) identificação do contribuinte e valor cobrado.
+B) prazos e locais de pagamento.
+C) prazo para impugnação do lançamento.
+D) relatório de todas as despesas privadas do contribuinte.
+
+
+13) O prazo de impugnação escrita do art. 341, parágrafo único, é de:
+A) 30 dias do recebimento da notificação de lançamento.
+B) 30 dias da publicação do edital do art. 338, necessariamente.
+C) 10 dias da conclusão da obra.
+D) 90 dias da aprovação da zona.
+
+
+14) É matéria expressamente prevista na impugnação do art. 341, parágrafo único:
+A) eleição do Prefeito.
+B) erro na localização ou na área territorial do imóvel.
+C) contratação de servidores.
+D) orçamento do Estado.
+
+
+15) A impugnação do art. 341, parágrafo único, pode questionar:
+A) valor da contribuição e número de prestações.
+B) somente o nome da rua.
+C) exclusivamente o índice de inflação nacional.
+D) apenas a data de inauguração da praça.
+
+
+16) Segundo o art. 342, a apresentação de recurso administrativo:
+A) paralisa obrigatoriamente a obra.
+B) impede sempre qualquer lançamento.
+C) não suspende o início ou prosseguimento das obras nem obsta os atos necessários ao lançamento e cobrança.
+D) cancela automaticamente a contribuição de todos.
+
+
+17) Assinale a INCORRETA:
+A) O recurso de um contribuinte não se estende automaticamente aos demais não impugnantes.
+B) O art. 342 permite que as obras prossigam.
+C) O art. 342, por si só, elimina todas as hipóteses de suspensão da exigibilidade previstas no CTN.
+D) O CTN prevê hipóteses próprias de suspensão da exigibilidade.
+
+
+18) Qual comparação está CORRETA?
+A) Art. 339: recebimento da notificação; art. 341: publicação do edital.
+B) Ambos os prazos começam sempre com a conclusão física da obra.
+C) Art. 339: publicação do edital; art. 341, parágrafo único: recebimento da notificação.
+D) Nenhum dos dois dispositivos prevê 30 dias.
+
+
+19) RECUPERAÇÃO — AULA 78. A proposta de zona de influência e índices é elaborada por comissão e aprovada:
+A) pelo Prefeito.
+B) por todos os moradores.
+C) pelo titular do imóvel mais caro.
+D) pelo cartório.
+
+
+20) RECUPERAÇÃO — AULAS 77/78. Quanto à Contribuição de Melhoria:
+A) o limite individual é sempre o custo total da obra.
+B) a obra do programa extraordinário exige necessariamente unanimidade.
+C) o limite total é a despesa da obra e o individual é a valorização do imóvel, nos termos do CTN.
+D) não há relação com valorização imobiliária.
+
+
+10. RETENÇÃO E CONTROLE
+338 = EDITAL PRÉVIO + CINCO ELEMENTOS.
+339 = PUBLICAÇÃO DO EDITAL + 30 DIAS + QUALQUER ELEMENTO + ÔNUS DO IMPUGNANTE.
+340 = OBRA TOTAL OU PARTE SUFICIENTE → LANÇAMENTO.
+341 = NOTIFICAÇÃO DIRETA OU POR EDITAL + VALOR/PAGAMENTO/DEFESA.
+341, PARÁGRAFO ÚNICO = RECEBIMENTO DA NOTIFICAÇÃO + 30 DIAS + ESCRITO + LOCALIZAÇÃO/ÁREA, VALOR, PRESTAÇÕES.
+342 = RECURSOS NÃO PARALISAM OBRA NEM OBSTAM ATOS DE LANÇAMENTO/COBRANÇA; NÃO SE ESTENDEM A TERCEIROS. CTN 151, III: distinguir eventual suspensão da exigibilidade.
+STATUS: aprendizagem inicial, sem respostas recebidas e sem erros individualizados. Próximas recuperações: aproximadamente 24h, 72h e 7 dias, com questões misturadas. Não marcar como dominado antes de retenção demonstrada.
+PRÓXIMA AULA 80: ARTS. 343 A 346 — PAGAMENTO, LIMITE ANUAL DO PARCELAMENTO, MULTA E JUROS, CONVÊNIOS.
+FIM DA AULA 79.

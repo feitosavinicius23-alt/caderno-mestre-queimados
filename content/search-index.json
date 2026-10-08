@@ -1,7 +1,7 @@
 {
-  "contentVersion": 29,
-  "geradoEm": "2026-10-08T19:58:59.319Z",
-  "total": 1727,
+  "contentVersion": 30,
+  "geradoEm": "2026-10-08T23:16:25.675Z",
+  "total": 1766,
   "documentos": [
     {
       "tipo": "aula",
@@ -17067,6 +17067,413 @@
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
       "slug": "agente-fiscal-de-queimados-rj-08-10-2026",
       "texto": "A) Qual a diferença entre limite total e limite individual da contribuição de melhoria?\nB) Programa extraordinário exige qual fração dos interessados?\nC) Quem pode ser contribuinte da contribuição de melhoria?\nD) O que significa ônus real?\nE) A isenção da Taxa de Licença para comércio informal dispensa inscrição?\nNão registrar erro sem resposta do estudante. Respostas serão retomadas em revisão po"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-079",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026 AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b1",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 338 A 342",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 338 A 342"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b2",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "CONTRIBUIÇÃO DE MELHORIA: EDITAL, IMPUGNAÇÃO, LANÇAMENTO, NOTIFICAÇÃO E RECURSOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "CONTRIBUIÇÃO DE MELHORIA: EDITAL, IMPUGNAÇÃO, LANÇAMENTO, NOTIFICAÇÃO E RECURSOS Fonte: Código Tributário de Queimados, consolidação da Procuradoria-Geral do Município em 03/05/2024, pp. 118–119; CTN, arts. 81 e 151, III.\nExercícios autorais para treino de literalidade e distratores, não identificados como questões oficiais da IAN.\n════════════════════════════════════════════════════"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b3",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "1. RECUPERAÇÃO ATIVA — ANTES DE CONSULTAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA — ANTES DE CONSULTAR Responda mentalmente: (a) quem aprova a zona de influência da obra: comissão ou Prefeito? (b) qual é o limite total da Contribuição de Melhoria? (c) qual é o limite individual? (d) qual fórmula corresponde às redes de água, esgoto, energia e gás? (e) uma obra do programa extraordinário depende de solicitação de qual fração dos contribuintes interessados?\nE"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b4",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "2. ART. 338 — O EDITAL ANTERIOR À COBRANÇA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 338 — O EDITAL ANTERIOR À COBRANÇA Para cobrar a Contribuição de Melhoria, a Prefeitura deve publicar PREVIAMENTE edital contendo CINCO elementos:\nI — memorial descritivo da obra e seu custo total;\nII — determinação da parcela do custo total a ser ressarcida pela contribuição;\nIII — delimitação da zona de influência e respectivos índices de hierarquização de benefício dos imóveis, SE FOR O"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b5",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "3. ART. 339 — PRIMEIRO PRAZO DE 30 DIAS: IMPUGNAÇÃO DO EDITAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "3. ART. 339 — PRIMEIRO PRAZO DE 30 DIAS: IMPUGNAÇÃO DO EDITAL Quem? Os titulares dos imóveis relacionados na forma do art. 338, IV.\nO quê? Podem impugnar QUALQUER dos elementos constantes do edital.\nQuando? Em 30 dias, contados da DATA DE PUBLICAÇÃO DO EDITAL.\nQuem suporta o ônus da prova? O IMPUGNANTE.\nMacete: 339 = PUBLICAÇÃO + 30 DIAS + QUALQUER ELEMENTO + ÔNUS DO IMPUGNANTE.\nExemplo: o edital "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b6",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "4. ART. 340 — QUANDO ACONTECE O LANÇAMENTO?",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "4. ART. 340 — QUANDO ACONTECE O LANÇAMENTO? O lançamento pode ocorrer quando a obra estiver:\n(a) executada em sua TOTALIDADE; OU\n(b) executada EM PARTE SUFICIENTE para justificar o início da cobrança.\nNesse momento, procede-se ao LANÇAMENTO referente aos imóveis.\nExemplo: obra de drenagem com trecho concluído que, conforme os requisitos legais, já justifique o início da cobrança em relação aos imó"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b7",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "5. ART. 341 — NOTIFICAÇÃO DO LANÇAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "5. ART. 341 — NOTIFICAÇÃO DO LANÇAMENTO A notificação poderá ser feita DIRETAMENTE ou POR EDITAL e deverá conter:\nI — identificação do contribuinte e valor da contribuição cobrada;\nII — prazos para pagamento, à vista ou parceladamente, e respectivos locais de pagamento;\nIII — prazo para impugnação do lançamento.\nNão confunda o edital do art. 338, que traz informações da obra e do rateio, com a not"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b8",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "ART. 341, PARÁGRAFO ÚNICO — SEGUNDO PRAZO DE 30 DIAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "ART. 341, PARÁGRAFO ÚNICO — SEGUNDO PRAZO DE 30 DIAS Dentro de 30 dias contados do RECEBIMENTO DA NOTIFICAÇÃO DE LANÇAMENTO, o contribuinte poderá apresentar IMPUGNAÇÃO POR ESCRITO contra:\nI — erro na localização ou na área territorial do imóvel;\nII — valor da Contribuição de Melhoria;\nIII — número de prestações.\nMacete: 341 = RECEBIMENTO DA NOTIFICAÇÃO + 30 DIAS + ESCRITO + LOCALIZAÇÃO/ÁREA, VALO"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-079-b9",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 339 — 30 dias da PUBLICAÇÃO DO EDITAL; impugna QUALQUER ELEMENTO do edital; ônus da prova do impugnante."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-079-b10",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 341 — 30 dias do RECEBIMENTO DA NOTIFICAÇÃO; impugna POR ESCRITO localização/área, valor ou número de prestações."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b11",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "NÃO CONFUNDIR OS DOIS PRAZOS:",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "NÃO CONFUNDIR OS DOIS PRAZOS: A contagem efetiva dos dias deve observar também as regras gerais de prazo da legislação aplicável; não inventar datas de vencimento sem calendário e expediente verificados."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b12",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "6. ART. 342 — O QUE A IMPUGNAÇÃO NÃO PARALISA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "6. ART. 342 — O QUE A IMPUGNAÇÃO NÃO PARALISA Pedidos de impugnação, reclamações e quaisquer recursos administrativos:\n(a) NÃO SUSPENDEM o início nem o prosseguimento das obras;\n(b) NÃO OBSTAM a Prefeitura na prática dos atos necessários ao lançamento e à cobrança da contribuição;\n(c) NÃO ESTENDEM seus efeitos aos demais contribuintes que não apresentaram impugnação.\nMacete: RECURSO NÃO PARALISA O"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b13",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "7. CASO PRÁTICO INTEGRADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "exemplo",
+      "texto": "7. CASO PRÁTICO INTEGRADO A Prefeitura executa obra que valoriza imóveis em sua zona de influência. Publica edital com memorial, custo total de R$ 800.000, parcela de R$ 500.000 a ressarcir, delimitação da zona, relação de imóveis e valores individuais. Um titular percebe erro na área do seu lote.\nETAPA 1: art. 338 — verificar os cinco elementos do edital.\nETAPA 2: art. 339 — impugnação de element"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b14",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Pegadinha central: existem DOIS marcos iniciais diferentes para os prazos de 30 dias.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha central: existem DOIS marcos iniciais diferentes para os prazos de 30 dias."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b15",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "8. PORTUGUÊS APLICADO À LEI",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "8. PORTUGUÊS APLICADO À LEI \"Previamente\": antes da cobrança, conforme o art. 338.\n\"Se for o caso\": ressalva condicional relativa aos índices.\n\"Qualquer dos elementos\": amplitude da impugnação do art. 339.\n\"Na sua totalidade OU em parte suficiente\": alternativas de estágio de execução.\n\"Diretamente OU por edital\": duas modalidades de notificação.\n\"Não suspendem\" e \"nem terão efeito\": negações coor"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b16",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "9. QUESTÕES CUMULATIVAS — 20 ITENS AUTORAIS, SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "questao",
+      "texto": "9. QUESTÕES CUMULATIVAS — 20 ITENS AUTORAIS, SEM GABARITO ANTECIPADO Responda em sequência (ex.: 1B, 2C...). Não consultar o quadro. A correção futura deverá examinar alternativa por alternativa e registrar erros reais somente após resposta."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-079-b17",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "10. RETENÇÃO E CONTROLE",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "blocoTipo": "teoria",
+      "texto": "10. RETENÇÃO E CONTROLE 338 = EDITAL PRÉVIO + CINCO ELEMENTOS.\n339 = PUBLICAÇÃO DO EDITAL + 30 DIAS + QUALQUER ELEMENTO + ÔNUS DO IMPUGNANTE.\n340 = OBRA TOTAL OU PARTE SUFICIENTE → LANÇAMENTO.\n341 = NOTIFICAÇÃO DIRETA OU POR EDITAL + VALOR/PAGAMENTO/DEFESA.\n341, PARÁGRAFO ÚNICO = RECEBIMENTO DA NOTIFICAÇÃO + 30 DIAS + ESCRITO + LOCALIZAÇÃO/ÁREA, VALOR, PRESTAÇÕES.\n342 = RECURSOS NÃO PARALISAM OBRA"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-001",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 1 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "1) Para a cobrança da Contribuição de Melhoria, o art. 338 exige:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-002",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 2 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "2) É elemento obrigatório do edital do art. 338:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-003",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 3 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "3) A determinação da parcela do custo total a ser ressarcida:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-004",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 4 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "4) Sobre os índices de hierarquização no edital, assinale a CORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-005",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 5 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "5) A relação de imóveis do edital deve trazer, entre outros dados:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-006",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 6 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "6) O art. 338 exige, quanto a cada imóvel:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-007",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 7 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "7) O prazo do art. 339 é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-008",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 8 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "8) Pelo art. 339, a impugnação pode atingir:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-009",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 9 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "9) O ônus da prova na impugnação do art. 339 cabe:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-010",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 10 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "10) A obra permite lançamento da contribuição quando:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-011",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 11 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "11) A notificação do lançamento do art. 341 poderá ocorrer:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-012",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 12 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "12) NÃO é conteúdo exigido da notificação do art. 341:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-013",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 13 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "13) O prazo de impugnação escrita do art. 341, parágrafo único, é de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-014",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 14 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "14) É matéria expressamente prevista na impugnação do art. 341, parágrafo único:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-015",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 15 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "15) A impugnação do art. 341, parágrafo único, pode questionar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-016",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 16 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "16) Segundo o art. 342, a apresentação de recurso administrativo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-017",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 17 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "17) Assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-018",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 18 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "18) Qual comparação está CORRETA?"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-019",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 19 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "19) RECUPERAÇÃO — AULA 78. A proposta de zona de influência e índices é elaborada por comissão e aprovada:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-079-q-020",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "Questão 20 — AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "20) RECUPERAÇÃO — AULAS 77/78. Quanto à Contribuição de Melhoria:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-079-b3",
+      "lessonId": "direito-tributario-aula-079",
+      "titulo": "1. RECUPERAÇÃO ATIVA — ANTES DE CONSULTAR",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79",
+      "texto": "Responda mentalmente: (a) quem aprova a zona de influência da obra: comissão ou Prefeito? (b) qual é o limite total da Contribuição de Melhoria? (c) qual é o limite individual? (d) qual fórmula corresponde às redes de água, esgoto, energia e gás? (e) uma obra do programa extraordinário depende de solicitação de qual fração dos contribuintes interessados?\nEstas perguntas recuperam as Aulas 77 e 78."
     },
     {
       "tipo": "aula",

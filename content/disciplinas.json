@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 65,
-    "totalQuestoes": 461,
-    "tempoEstimadoMin": 277,
+    "totalAulas": 66,
+    "totalQuestoes": 481,
+    "tempoEstimadoMin": 284,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -461,6 +461,12 @@
         "numero": 78,
         "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
         "slug": "agente-fiscal-de-queimados-rj-08-10-2026"
+      },
+      {
+        "id": "direito-tributario-aula-079",
+        "numero": 79,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+        "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79"
       }
     ]
   },
