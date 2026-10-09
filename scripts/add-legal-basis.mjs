@@ -30,6 +30,10 @@ const manualBasis = {
   },
 };
 
+manualBasis['legislacao-tributaria-de-queimados-aula-043'] = {
+  3: 'CTM de Queimados, art. 122, § 1º, I: a autoridade fiscal pode exigir, a qualquer tempo, a exibição de livros comerciais e fiscais e documentos em geral.',
+};
+
 function chooseBasis(question, lesson) {
   const manual = manualBasis[lesson.id]?.[question.numero];
   if (manual) return manual;
