@@ -227,7 +227,7 @@
         }
       ],
       "correctAnswer": "C",
-      "explanation": "A alternativa C é a resposta correta: a prorrogação excepcional apenas alterou o vencimento e, por si só, não se confunde com moratória, anistia ou remissão. A alternativa B está errada porque o Decreto Municipal nº 3.403/2026 não concedeu anistia.",
+      "explanation": "A alternativa C é a resposta correta: não se confunde, por si só, com moratória.",
       "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
@@ -361,5 +361,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "64fedc71781fac3d"
+  "contentHash": "be6aaacdc09d9839"
 }

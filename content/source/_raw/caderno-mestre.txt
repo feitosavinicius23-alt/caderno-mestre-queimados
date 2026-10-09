@@ -15725,3 +15725,160 @@ CONTROLE PEDAGÓGICO: arts. 347-351 em aprendizagem inicial. Questões 1-18 cobr
 ÂNCORAS: 347 = PRAZOS CONTÍNUOS, EXCLUI INÍCIO, INCLUI VENCIMENTO, EXPEDIENTE NORMAL. 348 = PREÇO PÚBLICO POR DECRETO, CUSTO UNITÁRIO. 349 = UNIDADE FISCAL POR DECRETO. 350 = ANEXOS I A XVI. 351 = DECRETO DO PREFEITO, 60 DIAS DA PUBLICAÇÃO ORIGINAL.
 PRÓXIMA AULA 82: ART. 352 E SEGUINTES — SOLIDARIEDADE E RESPONSABILIDADE PELO ISS, COM REVISÃO MISTA.
 FIM DA AULA 81.
+
+
+AULA 82 — AGENTE FISCAL DE QUEIMADOS/RJ
+CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 352 A 356
+TEMA: SOLIDARIEDADE, RETENÇÃO NA FONTE E SUBSTITUIÇÃO TRIBUTÁRIA DO ISS
+Data: 09/10/2026 | Prova-alvo: 22/11/2026 | Duração estimada: 35–45 minutos.
+EXCLUSIVAMENTE AGENTE FISCAL. Conhecimentos Específicos, com intercalação de Português e revisão municipal.
+FONTE: Código Tributário de Queimados consolidado em 03/05/2024, páginas 121–123 (https://drive.google.com/file/d/160vHEtyzRWLrbVym_tIWQ6rYqct2aFjT/view); CTN, arts. 124 e 125 (https://planalto.gov.br/ccivil_03/leis/l5172compilado.htm); Súmula Vinculante 31 do STF (https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1286). Os arts. 352–383 foram introduzidos pela LC municipal 005/1997; o §5º do art. 352 recebeu redação pela LC 019/2002. A consolidação consultada é de 2024, não sendo aqui afirmada conferência exaustiva de todas as alterações posteriores.
+PERFIL DE QUESTÕES: consultadas provas IAN de 2024 (Auditor de Controle Interno de Três Rios) e 2026 (Contador e Controlador Interno da Câmara de Jardim/MS). Nelas aparecem quatro alternativas, CORRETA/INCORRETA, EXCETO e assertivas. As 24 questões desta aula são AUTORAIS, sem atribuição de gabarito a arquivo de 911 questões, que não foi localizado nesta execução.
+
+
+1. RECUPERAÇÃO ATIVA (ANTES DA LEITURA)
+Sem consultar, responda mentalmente: (a) no art. 347, exclui-se qual dia na contagem? (b) se o vencimento cai em dia sem expediente, qual a solução? (c) preço público do art. 348 é fixado por qual instrumento? (d) art. 344: o teto de 3% é mensal, anual ou global? (e) art. 339: 30 dias começam na publicação do edital ou no recebimento da notificação?
+Não há resposta do aluno registrada: nenhuma questão anterior é presumida correta.
+
+
+2. ART. 352, CAPUT — SOLIDARIEDADE PELO ISS
+O Código Municipal considera solidariamente obrigados perante a Fazenda Municipal, quanto ao imposto relativo aos serviços em que forem parte, os que tenham interesse comum na situação que constitua fato gerador da obrigação principal.
+Explicação: solidariedade passiva significa que, nas hipóteses legais, mais de uma pessoa pode responder pela mesma obrigação tributária. Não é uma divisão automática em cotas independentes. Interesse comum precisa relacionar-se à situação constitutiva do fato gerador; simples afinidade econômica não basta para inventar solidariedade.
+Exemplo: dois sujeitos participam conjuntamente da situação legalmente descrita como geradora da obrigação de ISS. Havendo enquadramento legal, a Fazenda pode exigir o tributo de coobrigado, sem duplicar a arrecadação.
+Conexão CTN: o art. 124 contempla interesse comum ou designação expressa por lei, sem benefício de ordem. O art. 125 dispõe, em regra, que o pagamento por um obrigado aproveita aos demais, que isenção/remissão segue as condições legais e que interrupção da prescrição pode produzir efeitos entre solidários.
+Macete: SOLIDARIEDADE = VÍNCULO LEGAL + MESMA OBRIGAÇÃO; NÃO É IMPOSTO COBRADO DUAS VEZES.
+
+
+3. ART. 352, §1º — TOMADOR QUE NÃO EXIGE COMPROVAÇÃO DE INSCRIÇÃO
+A consolidação municipal menciona tomadores de serviços prestados por empresas ou autônomos dos antigos números 31, 32, 33 e 34 da lista de serviços, ou outros serviços cujo local de pagamento seja Queimados. Estabelece solidariedade quando o tomador não exige do prestador comprovação de inscrição fiscal no órgão competente.
+Exemplo: tomador contrata serviço tributável sujeito à disciplina local e deixa de exigir comprovação de inscrição fiscal do prestador. Essa omissão é o elemento específico a identificar na hipótese do §1º.
+Atenção: a numeração 31–34 é remissão histórica da legislação municipal. Não a associe automaticamente a subitens da lista nacional atual da LC 116/2003; para incidência concreta, observe o regime vigente e o local legal de recolhimento.
+Pegadinha: trocar NÃO EXIGIR por EXIGIR inverte o fato descrito.
+
+
+4. ART. 352, §2º — REVOGADO
+O próprio consolidado marca expressamente o §2º como REVOGADO pela LC municipal 012/1999. Não memorizar texto pretérito como regra atual.
+Pegadinha: alternativa que trata o §2º como vigente.
+
+
+5. ART. 352, §3º — IMUNIDADE/ISENÇÃO NÃO ELIMINA DEVERES COMO RESPONSÁVEL
+O texto municipal estende a obrigação solidária a pessoas físicas ou jurídicas, ainda que alcançadas por imunidade ou isenção tributária.
+Interpretação: imunidade ou isenção referente a tributo próprio não autoriza, por si só, ignorar dever legal de reter/recolher ISS devido por serviço de terceiro. Não significa cobrar ISS sobre serviço constitucionalmente imune, nem criar fato gerador inexistente.
+Exemplo: entidade imune contrata serviço de terceiro tributável. A condição da entidade não dispensa automaticamente as obrigações de responsabilidade tributária previstas na lei.
+Macete: BENEFÍCIO PRÓPRIO ≠ DISPENSA AUTOMÁTICA DE DEVER RELATIVO A TERCEIRO.
+
+
+6. ART. 352, §4º — SEM BENEFÍCIO DE ORDEM
+O texto municipal afirma que a solidariedade não comporta benefício de ordem. O coobrigado não pode exigir que a Fazenda cobre necessariamente primeiro do prestador.
+O parágrafo admite, ainda, que o sujeito passivo atingido pague o imposto incidente sobre serviços antes do início do procedimento.
+Exemplo: A e B são devedores solidários do mesmo ISS. Não há direito automático de B exigir que o Município esgote antes a cobrança contra A.
+Atenção: sem benefício de ordem NÃO significa autorização para receber duas vezes a mesma dívida.
+Macete: SOLIDÁRIO NÃO ESCOLHE A ORDEM DA COBRANÇA.
+
+
+7. ART. 352, §5º — RESPONSÁVEIS PELA RETENÇÃO E RECOLHIMENTO
+O §5º, na redação consolidada da LC 019/2002, indica atividades empresariais/entidades responsáveis pela retenção e recolhimento do ISSQN sobre serviços a elas prestados, nas condições legais. A lista completa, para leitura literal, contém:
+I. empresas industriais em geral;
+II. bancos e demais entidades financeiras;
+III. seguradoras;
+IV. agências de propaganda;
+V. entidades da administração municipal direta, indireta ou fundacional;
+VI. entidades da administração estadual direta, indireta, fundacional e autarquias;
+VII. concessionárias de energia elétrica, telefonia e distribuição de água;
+VIII. entidades da administração federal direta, indireta, fundacional e autarquias;
+IX. estabelecimentos e instituições de ensino;
+X. empresas comerciais/industriais de laticínios, agropecuária, curtume, reflorestamento, produção/beneficiamento de óleo e similares;
+XI. cooperativas;
+XII. conselhos regionais, sindicatos de classe, associações e clubes recreativos;
+XIII. empresas de comunicações, radiodifusão, jornais e televisão;
+XIV. empresas importadoras e exportadoras;
+XV. armazéns em geral e silos;
+XVI. shopping centers;
+XVII. distribuidoras de derivados de petróleo;
+XVIII. construtoras, incorporadoras e empreiteiras;
+XIX. supermercados e hipermercados;
+XX. empresas que exploram planos de saúde ou assistência médica, odontológica e hospitalar por planos/convênios;
+XXI. sociedades de crédito, investimentos e financiamentos, crédito imobiliário, poupança e empréstimos;
+XXII. empresas de informática;
+XXIII. empresas de transporte aéreo e terrestre de passageiros e cargas;
+XXIV. condomínios;
+XXV. hospitais e clínicas privadas;
+XXVI. corretoras de títulos e valores mobiliários e de câmbio;
+XXVII. destilarias e usinas de álcool e açúcar;
+XXVIII. administradoras de consórcio;
+XXIX. agências, lojas e concessionárias de veículos, motos, tratores e máquinas agrícolas.
+Memorização por blocos: FINANÇAS (bancos, seguradoras, crédito, corretoras); PODER PÚBLICO (municipal, estadual, federal); SERVIÇOS ESSENCIAIS (energia, telefonia, água, ensino, saúde, transporte); COMÉRCIO/PRODUÇÃO (indústria, importação, supermercados, shopping, petróleo, veículos); ORGANIZAÇÕES (cooperativas, sindicatos, condomínios, associações).
+A lista é extensa, mas NÃO autoriza dizer que qualquer pagamento feito por qualquer dessas entidades gera ISS: é necessário serviço tributável, imposto devido e demais condições jurídicas aplicáveis.
+Pegadinhas literais: CONDOMÍNIOS (XXIV) constam; HOSPITAIS E CLÍNICAS PRIVADAS (XXV) constam; BANCOS (II) constam; a lista não se limita a órgãos municipais.
+
+
+8. ART. 353 — MÁQUINAS E APARELHOS DE TERCEIROS
+Caput: o proprietário do estabelecimento é solidariamente responsável pelo imposto relativo à EXPLORAÇÃO de máquinas e aparelhos pertencentes a terceiros, quando instalados no estabelecimento.
+Parágrafo único: o LOCADOR dessas máquinas e aparelhos é considerado solidário quanto ao imposto devido pelo LOCATÁRIO e relativo à exploração dos bens.
+Exemplo: empresa instala em estabelecimento equipamento de terceiro para atividade de serviço tributável. A norma municipal prevê solidariedade do proprietário do estabelecimento e, na hipótese do parágrafo único, do locador.
+ALERTA CONSTITUCIONAL: o STF, Súmula Vinculante 31, veda ISS sobre locação PURA de bens móveis. O art. 353 não cria ISS sobre simples aluguel de equipamento sem prestação tributável; deve haver efetiva hipótese de incidência de ISS na exploração.
+Macete: ESTABELECIMENTO + MÁQUINA DE TERCEIRO; LOCADOR + LOCATÁRIO; SEM ISS NA LOCAÇÃO PURA.
+
+
+9. ART. 354 — BENEFICIÁRIOS DE IMUNIDADE/ISENÇÃO
+Pessoas físicas ou jurídicas beneficiadas por imunidade ou isenção sujeitam-se às obrigações dos artigos anteriores, sob pena de responsabilidade solidária pelo imposto.
+Diferença: imunidade decorre da Constituição; isenção decorre da legislação infraconstitucional. Ambas não eliminam automaticamente deveres tributários relativos a terceiros.
+Pegadinha: "entidade imune jamais pode ser responsável por ISS devido por terceiro" — formulação absoluta incorreta.
+
+
+10. ART. 355 — COMISSÕES DE CORRETAGEM DE SEGUROS E CAPITALIZAÇÃO
+O imposto incidente sobre comissões percebidas por corretoras de seguros e de capitalização PODERÁ ser retido na fonte pelas empresas de seguro e capitalização, MEDIANTE PRÉVIO ACORDO entre a Secretaria Municipal de Economia e Finanças e os órgãos de classe respectivos.
+Três palavras decisivas: PODERÁ (não é sempre obrigatório pela simples leitura deste artigo); RETIDO NA FONTE; PRÉVIO ACORDO.
+Exemplo: seguradora paga comissão tributável a corretora. O art. 355 prevê possibilidade de retenção nos termos do acordo mencionado.
+Pegadinha: substituir "mediante prévio acordo" por "independentemente de acordo".
+
+
+11. ART. 356 — SUBSTITUIÇÃO TRIBUTÁRIA
+O Poder Executivo poderá, NOS CASOS INDICADOS EM LEI, atribuir ao tomador do serviço a posição indicada no dispositivo em substituição ao prestador, desde que o substituto seja contribuinte do ISS.
+Explicação: no regime de substituição, a lei atribui a terceiro o dever de recolher o tributo relativo à prestação. Não é livre escolha administrativa sem lei.
+Distinção: SOLIDARIEDADE liga coobrigados à mesma obrigação; SUBSTITUIÇÃO indica sujeito responsável por recolher em lugar de outro, nos termos legais. RETENÇÃO NA FONTE é técnica operacional de descontar/recolher valor quando cabível; não são sinônimos perfeitos.
+Pegadinha: "o Executivo pode criar qualquer substituição sem autorização legal" — incorreta.
+Nota de leitura: o art. 356 utiliza a expressão "qualidade de contribuinte" para o tomador; no enquadramento técnico do CTN, convém distinguir contribuinte direto do responsável/substituto, sem reescrever a literalidade municipal.
+
+
+12. ESQUEMA INTEGRADO DE FIXAÇÃO
+352 caput = INTERESSE COMUM; §1º = NÃO EXIGIR INSCRIÇÃO; §2º = REVOGADO; §3º = IMUNIDADE/ISENÇÃO NÃO AFASTA OBRIGAÇÕES; §4º = SEM BENEFÍCIO DE ORDEM; §5º = 29 CATEGORIAS DE TOMADORES.
+353 = DONO DO ESTABELECIMENTO E LOCADOR, NOS TERMOS LEGAIS.
+354 = BENEFICIÁRIOS DE IMUNIDADE/ISENÇÃO TAMBÉM CUMPREM DEVERES.
+355 = CORRETAGEM DE SEGUROS/CAPITALIZAÇÃO + RETENÇÃO POSSÍVEL + ACORDO PRÉVIO.
+356 = TOMADOR SUBSTITUTO NOS CASOS PREVISTOS EM LEI.
+PORTUGUÊS INTERCALADO: "poderá" ≠ "deverá"; "ainda que" introduz concessão; "se não exigirem" cria condição negativa; "mediante" significa por meio de/sob condição de; "desde que" introduz condição; "sem benefício de ordem" nega preferência obrigatória de cobrança.
+
+
+13. TESTE CUMULATIVO — 24 QUESTÕES AUTORAIS, SEM GABARITO ANTECIPADO
+Responda somente com a sequência (ex.: 1A 2C ...). Não consultar o material. Após resposta, corrigir cada alternativa e registrar erro, causa, regra, pegadinha e revisão.
+Q01. O caput do art. 352 vincula solidariedade à situação de: A) interesse comum no fato gerador; B) mesma profissão; C) mera proximidade geográfica; D) coincidência de sobrenomes.
+Q02 — INCORRETA. A) Solidariedade depende de fundamento legal; B) não há benefício de ordem; C) pagamento integral da mesma dívida por um coobrigado pode aproveitar aos demais; D) o Município pode arrecadar integralmente a mesma dívida duas vezes, uma de cada solidário.
+Q03. O §1º do art. 352 destaca como omissão relevante do tomador: A) exigir inscrição fiscal; B) não exigir comprovação de inscrição fiscal do prestador; C) exigir nota fiscal idônea em todos os casos; D) pagar antes do vencimento.
+Q04. O §2º do art. 352 está: A) vigente sem alterações; B) reservado à alíquota; C) revogado; D) convertido em anexo.
+Q05 — CORRETA. Sobre imunidade/isenção, o §3º indica que: A) extinguem sempre obrigações relativas a terceiros; B) afastam qualquer dever de retenção; C) não impedem por si sós a incidência de deveres legais de responsabilidade por ISS de terceiros; D) tornam imune todo prestador contratado.
+Q06. A solidariedade, conforme o §4º: A) exige cobrança prévia do prestador; B) comporta benefício de ordem; C) depende de autorização do tomador; D) não comporta benefício de ordem.
+Q07. Integra a lista do §5º: A) condomínios; B) apenas empresas industriais; C) somente bancos; D) exclusivamente órgãos da Prefeitura.
+Q08 — EXCETO. São categorias expressamente indicadas no §5º, EXCETO: A) hospitais e clínicas privadas; B) estabelecimentos de ensino; C) supermercados e hipermercados; D) exclusivamente pessoas físicas que não exerçam nenhuma das atividades descritas.
+Q09. O inciso VII do §5º menciona concessionárias de: A) apenas transporte ferroviário; B) energia elétrica, telefonia e distribuição de água; C) somente saneamento agrícola; D) somente pedágios.
+Q10 — ASSERTIVAS. I. Bancos estão na lista do §5º. II. Condomínios estão na lista. III. Hospitais privados estão na lista. A) somente I; B) somente II; C) I e II apenas; D) I, II e III.
+Q11. Pelo art. 353, pode responder solidariamente pelo ISS devido pela exploração tributável de máquinas de terceiros instaladas no local: A) o proprietário do estabelecimento; B) qualquer cliente ocasional; C) exclusivamente o Município; D) apenas o fabricante estrangeiro.
+Q12. Pelo parágrafo único do art. 353, o locador pode ser solidário quanto ao imposto devido: A) pelo vizinho; B) pelo locatário na exploração dos bens; C) por qualquer indústria; D) pela União.
+Q13 — CORRETA. A Súmula Vinculante 31 do STF determina que: A) todo aluguel de equipamento gera ISS; B) o ISS incide sobre toda compra de máquinas; C) locação pura de bem móvel não sofre ISS; D) não existe ISS em serviços prestados com equipamentos.
+Q14. O art. 354 indica que pessoas imunes ou isentas: A) nunca possuem deveres tributários relativos a terceiros; B) devem observar as obrigações legais anteriores; C) podem dispensar o cadastro de todos os prestadores; D) não podem ser pessoas jurídicas.
+Q15. O art. 355 refere-se à retenção do ISS sobre: A) comissão de corretagem de seguros e capitalização; B) salário de servidor; C) propriedade imobiliária; D) importação de mercadorias em geral.
+Q16 — INCORRETA. Segundo o art. 355: A) há referência a acordo prévio; B) a retenção é na fonte; C) as comissões são percebidas por corretoras; D) a retenção independe de qualquer acordo mencionado no dispositivo.
+Q17. O art. 356 condiciona a substituição do prestador pelo tomador: A) à vontade unilateral sem lei; B) aos casos indicados em lei e à condição legal do substituto; C) à conclusão de obra pública; D) à publicação do edital de contribuição de melhoria.
+Q18 — ASSERTIVAS. I. Solidariedade não se confunde necessariamente com substituição. II. Retenção na fonte é forma de operacionalizar recolhimento quando cabível. III. Isenção do tomador extingue automaticamente ISS devido por prestador não isento. A) I e II apenas; B) I e III apenas; C) II e III apenas; D) I, II e III.
+Q19 — PORTUGUÊS. Em "ainda que alcançadas por imunidade ou isenção", "ainda que" exprime: A) conclusão; B) concessão; C) finalidade; D) comparação.
+Q20 — PORTUGUÊS. Em "desde que o substituto seja contribuinte do ISS", a locução "desde que" exprime: A) condição; B) consequência inevitável; C) oposição; D) causa pretérita.
+Q21 — REVISÃO 347. Nos prazos fiscais contínuos, em regra: A) contam-se apenas dias úteis; B) inclui-se o início e exclui-se o fim; C) exclui-se o início e inclui-se o vencimento, observando expediente normal; D) não há regra sobre expediente.
+Q22 — REVISÃO 348. Para preço público, o primeiro critério do §1º é: A) alíquota do ISS; B) custo unitário; C) valor venal; D) contribuição de melhoria.
+Q23 — REVISÃO 344. Imóvel com valor venal atualizado de R$ 180.000 tem teto ANUAL de parcelamento da contribuição de melhoria de: A) R$ 1.800; B) R$ 3.600; C) R$ 5.400; D) R$ 18.000.
+Q24 — REVISÃO 339/341. Os 30 dias para impugnar o edital e os 30 dias para impugnar o lançamento contam, respectivamente: A) publicação do edital e recebimento da notificação; B) recebimento e publicação; C) conclusão da obra e orçamento; D) ambos necessariamente da publicação do Código.
+
+
+14. CADERNO DE ERROS E REVISÃO
+Status: 24 questões NÃO RESPONDIDAS; não atribuir percentual, erro ou domínio. Após respostas, para cada erro registrar: questão, alternativa marcada, causa provável (literalidade, confusão solidariedade/substituição, imunidade, condicionantes, SV31, memória), regra correta, distrator e revisão em 24h, 72h e 7 dias. Considerar dominado apenas após acerto em testes mistos posteriores. Recuperar também questões pendentes das Aulas 79–81, sem inventar desempenho.
+PONTO DE CONTINUIDADE: AULA 83 — ART. 357 (INCISOS I–VI) E ARTS. 358–360, COM REVISÃO DE SOLIDARIEDADE E TAXA AMBIENTAL.
+FIM DA AULA 82.

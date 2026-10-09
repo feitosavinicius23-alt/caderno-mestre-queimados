@@ -295,7 +295,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "A alternativa B é a resposta correta: o art. 124 estabelece regra de sigilo para as informações econômico-financeiras obtidas pela fiscalização, admitindo somente as exceções previstas no próprio Código. A alternativa A está errada porque a divulgação não é livre.",
+      "explanation": "A alternativa B é a resposta correta: há regra de sigilo, com exceções previstas no próprio Código.",
       "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)",
@@ -463,5 +463,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "1df6eb601c216fe2"
+  "contentHash": "36b95102298a319f"
 }

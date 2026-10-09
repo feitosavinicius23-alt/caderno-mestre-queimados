@@ -326,11 +326,11 @@
         },
         {
           "id": "D",
-          "text": "138 — denúncia espontânea."
+          "text": "138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a"
         }
       ],
       "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 138 trata de denúncia espontânea, não de parcelamento.",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
@@ -347,5 +347,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "0c6cf6fc829deba3"
+  "contentHash": "1ead40d12beae397"
 }
