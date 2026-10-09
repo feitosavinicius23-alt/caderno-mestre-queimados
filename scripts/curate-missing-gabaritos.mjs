@@ -38,7 +38,7 @@ const answers = {
   'direito-tributario-aula-078': {1:'A',2:'B',3:'C',4:'A',5:'B',6:'B',7:'C',8:'B',9:'B',10:'B',11:'C',12:'C',13:'B',14:'C',15:'C',16:'B',17:'C',18:'B',19:'A',20:'C'},
   'direito-tributario-aula-079': {1:'B',2:'C',3:'B',4:'C',5:'A',6:'B',7:'B',8:'C',9:'B',10:'B',11:'C',12:'D',13:'A',14:'B',15:'A',16:'C',17:'C',18:'C',19:'A',20:'C'},
   'legislacao-tributaria-de-queimados-aula-029': {1:'B',2:'B',3:'B',4:'B',5:'C',6:'B',7:'C',8:'C'},
-  'legislacao-tributaria-de-queimados-aula-043': {1:'B',2:'C',3:'B',4:'B',5:'C',6:'B',7:'B',8:'B',9:'C',10:'D'},
+  'legislacao-tributaria-de-queimados-aula-043': {1:'B',2:'C',3:'A',4:'B',5:'C',6:'B',7:'B',8:'B',9:'C',10:'D'},
   'lingua-portuguesa-aula-035': {1:'B',2:'A',3:'C',4:'C',5:'C',6:'A',7:'A',8:'A'},
 };
 
