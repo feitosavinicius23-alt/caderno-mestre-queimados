@@ -30,6 +30,17 @@ const manualBasis = {
   },
 };
 
+const lessonArticleRanges = {
+  'direito-tributario-aula-072': 'arts. 311 a 316',
+  'direito-tributario-aula-073': 'arts. 317 a 322',
+  'direito-tributario-aula-074': 'arts. 323 a 326',
+  'direito-tributario-aula-075': 'art. 327 e regras correlatas indicadas na aula',
+  'direito-tributario-aula-076': 'art. 327, § 3º',
+  'direito-tributario-aula-077': 'arts. 328 a 333 e CTN, art. 81',
+  'direito-tributario-aula-078': 'arts. 334 a 337 e CTN, art. 81',
+  'direito-tributario-aula-079': 'arts. 338 a 342',
+};
+
 manualBasis['legislacao-tributaria-de-queimados-aula-043'] = {
   3: 'CTM de Queimados, art. 122, § 1º, I: a autoridade fiscal pode exigir, a qualquer tempo, a exibição de livros comerciais e fiscais e documentos em geral.',
 };
@@ -63,6 +74,9 @@ function chooseBasis(question, lesson) {
     if (!best || score > best.score) best = { score, sentence };
   }
   if (!best) {
+    const explicit = String(question.question ?? '').match(/\b(CTN\s*,?\s*)?art(?:igo)?s?\.?\s*([0-9]+(?:\s*[,º§IVXLC0-9-]*)?)/i);
+    if (explicit) return `${explicit[1] ? 'CTN' : 'CTM de Queimados'}, art. ${explicit[2]} — conferir o trecho correspondente no texto da aula.`;
+    if (lessonArticleRanges[lesson.id]) return `CTM de Queimados, ${lessonArticleRanges[lesson.id]} — conferir o inciso ou parágrafo correspondente no texto da aula.`;
     const topic = lesson.topic ?? lesson.titulo ?? '';
     if (/\barts?\.\s*\d+/i.test(topic)) return `Base legal da aula: ${topic}. O dispositivo específico deve ser conferido no trecho legal correspondente da aula.`;
     return `Consulte a legislação indicada no texto da aula “${lesson.titulo}”.`;
