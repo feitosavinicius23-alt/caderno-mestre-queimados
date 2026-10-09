@@ -204,8 +204,8 @@
           "text": "dispensar sempre o sujeito passivo de prestar informações."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: o art. 122, § 1º, I, autoriza a autoridade fiscal a exigir, a qualquer tempo, a exibição de livros comerciais e fiscais e documentos em geral. Impedir inspeção seria o oposto de uma faculdade fiscalizatória.",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: impedir qualquer inspeção em estabelecimento tributável.",
       "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "CÓDIGO TRIBUTÁRIO DE QUEIMADOS: FISCALIZAÇÃO MUNICIPAL (ARTS. 121 A 126)",
@@ -463,5 +463,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "0c70b7bc9c2dd034"
+  "contentHash": "36b95102298a319f"
 }

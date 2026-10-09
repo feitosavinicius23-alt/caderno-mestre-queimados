@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 66,
-    "totalQuestoes": 481,
-    "tempoEstimadoMin": 284,
+    "totalAulas": 68,
+    "totalQuestoes": 501,
+    "tempoEstimadoMin": 300,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -69,7 +69,8 @@
       "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
       "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
       "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026"
+      "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
+      "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
     ],
     "aulas": [
       {
@@ -467,6 +468,18 @@
         "numero": 79,
         "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
         "slug": "agente-fiscal-de-queimados-rj-08-10-2026-aula-79"
+      },
+      {
+        "id": "direito-tributario-aula-080",
+        "numero": 80,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+        "slug": "agente-fiscal-de-queimados-rj-09-10-2026"
+      },
+      {
+        "id": "direito-tributario-aula-081",
+        "numero": 81,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+        "slug": "agente-fiscal-de-queimados-rj-09-10-2026-aula-81"
       }
     ]
   },

@@ -1,0 +1,776 @@
+{
+  "id": "direito-tributario-aula-080",
+  "numero": 80,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+  "slug": "agente-fiscal-de-queimados-rj-09-10-2026",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+  "ordem": 80,
+  "data": "2026-10-09",
+  "tempoEstimadoMin": 7,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-080-b1",
+      "tipo": "teoria",
+      "titulo": "CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 343 A 346",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-080-b2",
+      "tipo": "teoria",
+      "titulo": "CONTRIBUIÇÃO DE MELHORIA: PAGAMENTO, LIMITE ANUAL, MORA E CONVÊNIOS",
+      "texto": "══════════════════════════════════════════════════════════"
+    },
+    {
+      "id": "direito-tributario-aula-080-b3",
+      "tipo": "teoria",
+      "titulo": "CONTINUIDADE",
+      "texto": "A Aula 79 encerrou no art. 342: a impugnação não paralisa automaticamente a obra e os atos municipais previstos, sem afastar hipóteses de suspensão da exigibilidade do crédito previstas no CTN. Nesta aula concluímos os arts. 343 a 346. Preparação EXCLUSIVA para AGENTE FISCAL, com prioridade em Conhecimentos Específicos."
+    },
+    {
+      "id": "direito-tributario-aula-080-b4",
+      "tipo": "teoria",
+      "titulo": "FONTE PRIMÁRIA",
+      "texto": "Código Tributário de Queimados, versão consolidada pela Procuradoria Municipal em 03/05/2024, p. 119-120, arts. 343 a 346. Consulta complementar: provas IAN de 2024 (Auditor de Controle Interno, Três Rios/RJ) e 2026 (Controlador Interno, Jardim/MS) para formato de quatro alternativas e elaboração de distratores. As questões abaixo são AUTORAIS; não foram copiadas dessas provas. O arquivo questoes_ian_911.pdf não foi localizado nesta execução. Não se atribuem gabaritos oficiais a questões autorais. Verificar eventuais alterações posteriores à consolidação antes da prova."
+    },
+    {
+      "id": "direito-tributario-aula-080-b5",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA INICIAL (NÃO CONSULTAR)",
+      "texto": "a) Art. 339: os 30 dias contam de qual evento?\nb) Art. 341, parágrafo único: os 30 dias contam de qual evento?\nc) O lançamento pode ocorrer apenas com a obra totalmente concluída?\nd) O limite TOTAL da contribuição é o custo ou a valorização individual?\ne) A fórmula de rede de água/esgoto usa testada ou número de imóveis?\nRetomar essas perguntas na bateria final; não revelar respostas das questões avaliativas antecipadamente."
+    },
+    {
+      "id": "direito-tributario-aula-080-b6",
+      "tipo": "teoria",
+      "titulo": "2. ART. 343 — PAGAMENTO À VISTA OU PARCELADO",
+      "texto": "Redação: “A contribuição de melhoria poderá ser paga de uma só vez ou parceladamente, de acordo com os critérios a serem fixados em decreto.”\nSignificado: o Código admite pagamento integral ou parcelamento. A lei remete ao DECRETO os critérios operacionais do parcelamento. Não há, no art. 343, determinação de exatamente 3, 6 ou 12 prestações. A palavra “poderá” não permite inventar direito a qualquer número de parcelas."
+    },
+    {
+      "id": "direito-tributario-aula-080-b7",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: “O Código obriga o Município a conceder 12 parcelas” — não há esse número no art. 343.",
+      "texto": "MACETE: 343 = À VISTA OU PARCELADO + CRITÉRIOS EM DECRETO."
+    },
+    {
+      "id": "direito-tributario-aula-080-b8",
+      "tipo": "teoria",
+      "titulo": "3. ART. 344 — TETO ANUAL DO PAGAMENTO PARCELADO",
+      "texto": "Redação essencial: no pagamento parcelado, os valores serão calculados de modo que o TOTAL ANUAL não exceda 3% do VALOR VENAL DO IMÓVEL, constante do cadastro imobiliário fiscal e ATUALIZADO À ÉPOCA DA COBRANÇA.\nFórmula de teto anual: 0,03 × valor venal atualizado cadastral.\nIMPORTANTE: 3% é limite do TOTAL PAGO EM UM ANO no parcelamento; não é alíquota da contribuição, não é limite de cada prestação isolada e não é limite total do tributo. O teto do art. 344 convive com o limite total (custo da obra) e o individual (valorização do imóvel), estudados anteriormente.\nEXEMPLO 1: valor venal atualizado = R$ 250.000. Teto anual = 250.000 × 0,03 = R$ 7.500. Uma programação com R$ 8.000 no mesmo ano excederia o teto; R$ 7.500 é o máximo anual no cenário.\nEXEMPLO 2: contribuição calculada e juridicamente limitada = R$ 18.000; valor venal atualizado = R$ 200.000. Teto anual = R$ 6.000. Mantidos os valores apenas para fins didáticos, seria preciso distribuir R$ 18.000 em pelo menos três períodos anuais para não ultrapassar o teto, observados os critérios do decreto. Isso não significa que a lei determine necessariamente três anos, pois o cadastro pode ser atualizado e o decreto pode disciplinar as prestações.\nPEGADINHAS: 3% do custo da obra; 3% da renda familiar; 3% por prestação; 3% sobre valor venal histórico não atualizado — todas trocam elementos do texto.\nMACETE: 344 = PARCELAMENTO → TOTAL ANUAL ≤ 3% DO VALOR VENAL ATUALIZADO."
+    },
+    {
+      "id": "direito-tributario-aula-080-b9",
+      "tipo": "teoria",
+      "titulo": "4. ART. 345 — MORA: DUAS BASES DISTINTAS",
+      "texto": "O atraso no pagamento das prestações sujeita o contribuinte a:"
+    },
+    {
+      "id": "direito-tributario-aula-080-b10",
+      "tipo": "teoria",
+      "titulo": "(1) MULTA DE 30% SOBRE O VALOR TOTAL DA CONTRIBUIÇÃO DE MELHORIA;",
+      "texto": "(2) JUROS DE MORA DE 1% AO MÊS OU FRAÇÃO, CALCULADOS SOBRE O VALOR ATUALIZADO DA PARCELA, de acordo com os índices oficiais de atualização monetária.\nATENÇÃO À LITERALIDADE: a multa é sobre o VALOR TOTAL DA CONTRIBUIÇÃO, não sobre o valor da parcela vencida. A regra é severa, mas é o que está escrito na versão consolidada consultada. Não substituir a base por intuição.\nEXEMPLO 3 (ilustrativo, sem correção monetária adicional): contribuição total R$ 20.000; parcela atrasada atualizada R$ 2.000; atraso de 2 meses e uma fração de mês. Multa legal indicada = 30% × 20.000 = R$ 6.000. Juros = 3 períodos mensais × 1% × 2.000 = R$ 60. Não estamos calculando aqui outros acréscimos nem resolvendo eventual controvérsia judicial sobre a penalidade; apenas aplicando a literalidade do art. 345."
+    },
+    {
+      "id": "direito-tributario-aula-080-b11",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 4: total da contribuição R$ 10.000; parcela atualizada R$ 1.500; atraso de um mês. Multa: R$ 3.000; juros: R$ 15.",
+      "texto": "MACETE: 345 = MULTA 30% DO TOTAL + JUROS 1% POR MÊS OU FRAÇÃO DA PARCELA ATUALIZADA.\nAtenção: a regra do art. 345 é específica da Contribuição de Melhoria. Não importar para ela as faixas de multa por atraso do ISS estudadas em aulas anteriores."
+    },
+    {
+      "id": "direito-tributario-aula-080-b12",
+      "tipo": "teoria",
+      "titulo": "5. ART. 346 — CONVÊNIOS PARA OBRAS FEDERAIS OU ESTADUAIS",
+      "texto": "O Prefeito fica expressamente autorizado a REPRESENTAR O MUNICÍPIO para firmar convênio COM A UNIÃO E O ESTADO para efetuar o LANÇAMENTO E A ARRECADAÇÃO da Contribuição de Melhoria devida por OBRA PÚBLICA FEDERAL OU ESTADUAL.\nEXEMPLO: obra estadual produz valorização imobiliária e existe convênio pertinente. O dispositivo permite que o Município atue no lançamento e na arrecadação conforme o convênio. Isso NÃO significa que toda obra federal ou estadual gere cobrança automática nem que o Prefeito possa dispensar os requisitos da contribuição.\nDISTINÇÃO COM ART. 330: o art. 330 trata das obras realizadas pela administração municipal direta/indireta ou mediante convênios; o art. 346 autoriza convênio específico para lançamento e arrecadação da contribuição referente a obra federal/estadual.\nMACETE: 346 = PREFEITO + UNIÃO/ESTADO + CONVÊNIO + LANÇAMENTO/ARRECADAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-080-b13",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 343: pagamento em uma vez ou parcelado; critérios do decreto."
+    },
+    {
+      "id": "direito-tributario-aula-080-b14",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 344: no parcelamento, teto do total ANUAL = 3% do valor venal atualizado à cobrança."
+    },
+    {
+      "id": "direito-tributario-aula-080-b15",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 345: atraso → multa 30% do TOTAL da contribuição; juros 1% ao mês ou fração sobre a PARCELA atualizada."
+    },
+    {
+      "id": "direito-tributario-aula-080-b16",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 346: Prefeito pode representar Município em convênios com União/Estado para lançamento e arrecadação de contribuição relativa a obra federal/estadual."
+    },
+    {
+      "id": "direito-tributario-aula-080-b17",
+      "tipo": "teoria",
+      "titulo": "6. QUADRO DE CONTRASTES PARA PROVA",
+      "texto": "Não confundir:\n• 3% anual do valor venal (art. 344) com valorização individual (CTN).\n• 30% de multa sobre total (art. 345) com 1% de juros sobre parcela.\n• parcelamento por decreto (art. 343) com número de parcelas inventado.\n• convênio para arrecadação (art. 346) com incidência automática."
+    },
+    {
+      "id": "direito-tributario-aula-080-b18",
+      "tipo": "teoria",
+      "titulo": "7. PORTUGUÊS FUNCIONAL (INTERPRETAÇÃO LITERAL)",
+      "texto": "“Poderá” indica possibilidade jurídica; “de acordo com” remete aos critérios do decreto; “não exceda” exprime teto; “total anual” agrega prestações do ano; “ou fração” alcança período incompleto do mês; “valor total” não é “valor da parcela”; “atualizado à época da cobrança” exige referência temporal correta. A banca IAN de 2024/2026 utiliza quatro alternativas e alterna comando de CORRETA/INCORRETA, contexto e distratores por troca de termos. Não há alegação de reprodução de questão oficial."
+    },
+    {
+      "id": "direito-tributario-aula-080-b19",
+      "tipo": "questao",
+      "titulo": "8. BATERIA CUMULATIVA — 20 QUESTÕES AUTORAIS (SEM GABARITO ANTECIPADO)",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-080-q-001",
+        "direito-tributario-aula-080-q-002",
+        "direito-tributario-aula-080-q-003",
+        "direito-tributario-aula-080-q-004",
+        "direito-tributario-aula-080-q-005",
+        "direito-tributario-aula-080-q-006",
+        "direito-tributario-aula-080-q-007",
+        "direito-tributario-aula-080-q-008",
+        "direito-tributario-aula-080-q-009",
+        "direito-tributario-aula-080-q-010",
+        "direito-tributario-aula-080-q-011",
+        "direito-tributario-aula-080-q-012",
+        "direito-tributario-aula-080-q-013",
+        "direito-tributario-aula-080-q-014",
+        "direito-tributario-aula-080-q-015",
+        "direito-tributario-aula-080-q-016",
+        "direito-tributario-aula-080-q-017",
+        "direito-tributario-aula-080-q-018",
+        "direito-tributario-aula-080-q-019",
+        "direito-tributario-aula-080-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-080-b20",
+      "tipo": "teoria",
+      "titulo": "9. RETENÇÃO E CADERNO DE ERROS",
+      "texto": "Status atual: APRENDIZAGEM INICIAL, sem respostas do aluno a esta bateria. Não inventar percentual de acerto nem registrar erro inexistente.\nAo receber respostas: corrigir cada alternativa A/B/C/D; identificar erro de leitura, troca de base, cálculo, confusão entre artigos ou desconhecimento; registrar REGRA CORRETA + PEGADINHA + DATA DE REVISÃO; reaplicar itens semelhantes em 24h, 72h e 7 dias. Domínio só após acerto posterior em teste misto.\nÂncoras finais:\n343 = À VISTA OU PARCELADO, CONFORME DECRETO.\n344 = 3% DO VALOR VENAL ATUALIZADO = TETO ANUAL DO PARCELAMENTO.\n345 = MULTA 30% DO TOTAL + JUROS 1% AO MÊS OU FRAÇÃO DA PARCELA ATUALIZADA.\n346 = PREFEITO + CONVÊNIO UNIÃO/ESTADO + LANÇAMENTO/ARRECADAÇÃO.\nPRÓXIMA AULA 81: ART. 347 E SEGUINTES — PRAZOS FISCAIS E DISPOSIÇÕES FINAIS, COM REVISÃO MISTA DA CONTRIBUIÇÃO DE MELHORIA.\nFIM DA AULA 80."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-080-q-001",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 1,
+      "question": "O art. 343 prevê que a Contribuição de Melhoria poderá ser paga:",
+      "options": [
+        {
+          "id": "A",
+          "text": "somente em parcela única."
+        },
+        {
+          "id": "B",
+          "text": "em parcela única ou parceladamente, conforme critérios fixados em decreto."
+        },
+        {
+          "id": "C",
+          "text": "obrigatoriamente em 12 prestações."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente após execução fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-002",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 2,
+      "question": "É INCORRETO afirmar, com base apenas no art. 343:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a lei admite pagamento de uma só vez."
+        },
+        {
+          "id": "B",
+          "text": "a lei admite parcelamento."
+        },
+        {
+          "id": "C",
+          "text": "os critérios de parcelamento serão fixados em decreto."
+        },
+        {
+          "id": "D",
+          "text": "o artigo determina exatamente 10 parcelas mensais."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-003",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 3,
+      "question": "O teto previsto no art. 344 incide sobre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o valor de cada prestação, isoladamente."
+        },
+        {
+          "id": "B",
+          "text": "o total anual no pagamento parcelado."
+        },
+        {
+          "id": "C",
+          "text": "o custo global de qualquer obra pública."
+        },
+        {
+          "id": "D",
+          "text": "o lucro anual do contribuinte."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-004",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 4,
+      "question": "A base do percentual de 3% do art. 344 é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o valor venal do imóvel no cadastro imobiliário fiscal, atualizado à época da cobrança."
+        },
+        {
+          "id": "B",
+          "text": "a renda mensal do proprietário."
+        },
+        {
+          "id": "C",
+          "text": "o custo total da obra pública."
+        },
+        {
+          "id": "D",
+          "text": "o valor de mercado estimado pelo vizinho, sem cadastro."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-005",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 5,
+      "question": "Um imóvel tem valor venal cadastral atualizado de R$ 300.000. O teto anual do art. 344, no parcelamento, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 3.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 6.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 9.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 30.000."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-006",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 6,
+      "question": "Contribuição de R$ 18.000, valor venal atualizado de R$ 200.000. Qual cronograma HIPOTÉTICO respeita o teto anual do art. 344, sem considerar mudanças futuras de cadastro?",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 9.000 no primeiro ano e R$ 9.000 no segundo."
+        },
+        {
+          "id": "B",
+          "text": "R$ 6.000 em cada um de três anos."
+        },
+        {
+          "id": "C",
+          "text": "R$ 12.000 no primeiro ano e R$ 6.000 no segundo."
+        },
+        {
+          "id": "D",
+          "text": "R$ 18.000 integralmente no primeiro ano como parcelamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-007",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 7,
+      "question": "A multa prevista no art. 345, em caso de atraso no pagamento das prestações, corresponde a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30% da parcela vencida."
+        },
+        {
+          "id": "B",
+          "text": "3% do valor venal."
+        },
+        {
+          "id": "C",
+          "text": "30% do valor total da contribuição."
+        },
+        {
+          "id": "D",
+          "text": "1% do custo da obra."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-008",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 8,
+      "question": "Os juros de mora previstos no art. 345 são:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1% ao ano sobre o valor venal."
+        },
+        {
+          "id": "B",
+          "text": "1% ao mês ou fração sobre o valor atualizado da parcela."
+        },
+        {
+          "id": "C",
+          "text": "30% ao mês sobre o valor total."
+        },
+        {
+          "id": "D",
+          "text": "3% ao ano sobre o valor do IPTU."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-009",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 9,
+      "question": "Parcela atualizada de R$ 1.500 está em atraso por dois meses e uma fração adicional. Considerando apenas juros simples de mora do art. 345 e sem nova atualização, o valor dos juros é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 15."
+        },
+        {
+          "id": "B",
+          "text": "R$ 30."
+        },
+        {
+          "id": "C",
+          "text": "R$ 45."
+        },
+        {
+          "id": "D",
+          "text": "R$ 450."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-010",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 10,
+      "question": "Contribuição total de R$ 20.000, com uma parcela atrasada de R$ 2.000. Pela literalidade da base da multa do art. 345, o valor da multa é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 600."
+        },
+        {
+          "id": "B",
+          "text": "R$ 2.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 3.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 6.000."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-011",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 11,
+      "question": "A expressão “ou fração”, no art. 345, significa que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "período inferior a um mês nunca conta para juros."
+        },
+        {
+          "id": "B",
+          "text": "somente meses completos são computados."
+        },
+        {
+          "id": "C",
+          "text": "a fração de mês também é considerada na regra de juros."
+        },
+        {
+          "id": "D",
+          "text": "a multa se transforma em desconto."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-012",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 12,
+      "question": "O art. 346 autoriza o Prefeito a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "firmar convênios com União e Estado, representando o Município, para lançamento e arrecadação da contribuição relativa a obra federal ou estadual."
+        },
+        {
+          "id": "B",
+          "text": "criar contribuição de melhoria sem obra pública."
+        },
+        {
+          "id": "C",
+          "text": "dispensar automaticamente valorização imobiliária."
+        },
+        {
+          "id": "D",
+          "text": "fixar IPTU federal por decreto."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-013",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 13,
+      "question": "Assinale a alternativa CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o art. 346 trata exclusivamente de obras particulares."
+        },
+        {
+          "id": "B",
+          "text": "convênio com União/Estado elimina todos os requisitos tributários."
+        },
+        {
+          "id": "C",
+          "text": "a autorização do art. 346 refere-se ao lançamento e à arrecadação em relação a obra federal/estadual."
+        },
+        {
+          "id": "D",
+          "text": "a contribuição de melhoria é necessariamente ISS."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-014",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 14,
+      "question": "Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "no art. 345, a multa e os juros possuem bases diferentes."
+        },
+        {
+          "id": "B",
+          "text": "o art. 344 utiliza o valor venal atualizado."
+        },
+        {
+          "id": "C",
+          "text": "o art. 343 fixa diretamente 12 parcelas obrigatórias."
+        },
+        {
+          "id": "D",
+          "text": "o art. 346 prevê convênios com União e Estado."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-015",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 15,
+      "question": "Uma pessoa afirma: “Se a contribuição total for de R$ 50.000, o art. 344 limita todo o tributo a 3% do valor venal”. O erro é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "confundir teto anual do parcelamento com limite total da contribuição."
+        },
+        {
+          "id": "B",
+          "text": "esquecer que o ISS incide sobre serviços."
+        },
+        {
+          "id": "C",
+          "text": "confundir contribuição com taxa de publicidade."
+        },
+        {
+          "id": "D",
+          "text": "afirmar que existe um imóvel."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-016",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 16,
+      "question": "RECUPERAÇÃO — ART. 339. A impugnação dos elementos do edital deve ocorrer em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 dias da publicação do edital."
+        },
+        {
+          "id": "B",
+          "text": "30 dias do recebimento da notificação do lançamento, necessariamente."
+        },
+        {
+          "id": "C",
+          "text": "90 dias da conclusão da obra."
+        },
+        {
+          "id": "D",
+          "text": "15 dias do pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-017",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 17,
+      "question": "RECUPERAÇÃO — ART. 341. A impugnação escrita do lançamento conta 30 dias:",
+      "options": [
+        {
+          "id": "A",
+          "text": "da assinatura do projeto da obra."
+        },
+        {
+          "id": "B",
+          "text": "da publicação do edital inicial do art. 338, necessariamente."
+        },
+        {
+          "id": "C",
+          "text": "do recebimento da notificação de lançamento."
+        },
+        {
+          "id": "D",
+          "text": "da última prestação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-018",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 18,
+      "question": "RECUPERAÇÃO — ART. 337, I. Pavimentação: custo a ressarcir R$ 300.000; testada 10 m; comprimento da rua 250 m. Resultado preliminar de CM = C×T/(2×L):",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 3.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 6.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 12.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 30.000."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-019",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 19,
+      "question": "PORTUGUÊS — Na expressão “de modo que o total anual não exceda a 3%”, o verbo “exceda” indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "obrigatoriedade de atingir exatamente 3%."
+        },
+        {
+          "id": "B",
+          "text": "proibição de ultrapassar 3%."
+        },
+        {
+          "id": "C",
+          "text": "mínimo obrigatório de 3%."
+        },
+        {
+          "id": "D",
+          "text": "desconto de 3% em qualquer pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    },
+    {
+      "id": "direito-tributario-aula-080-q-020",
+      "lessonId": "direito-tributario-aula-080",
+      "numero": 20,
+      "question": "INTERCALAÇÃO — Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "limite individual da contribuição é sempre o custo total da obra."
+        },
+        {
+          "id": "B",
+          "text": "a contribuição de melhoria independe de valorização imobiliária."
+        },
+        {
+          "id": "C",
+          "text": "no parcelamento do art. 344, o teto anual considera o valor venal cadastral atualizado, sem afastar o limite individual de valorização."
+        },
+        {
+          "id": "D",
+          "text": "o recurso administrativo de um contribuinte necessariamente suspende todas as obras e todos os créditos de terceiros."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-080-b5",
+      "titulo": "1. RECUPERAÇÃO ATIVA INICIAL (NÃO CONSULTAR)",
+      "texto": "a) Art. 339: os 30 dias contam de qual evento?\nb) Art. 341, parágrafo único: os 30 dias contam de qual evento?\nc) O lançamento pode ocorrer apenas com a obra totalmente concluída?\nd) O limite TOTAL da contribuição é o custo ou a valorização individual?\ne) A fórmula de rede de água/esgoto usa testada ou número de imóveis?\nRetomar essas perguntas na bateria final; não revelar respostas das questões avaliativas antecipadamente."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-080-b13",
+      "titulo": "6. QUADRO DE CONTRASTES PARA PROVA",
+      "texto": "Art. 343: pagamento em uma vez ou parcelado; critérios do decreto."
+    },
+    {
+      "id": "direito-tributario-aula-080-b14",
+      "titulo": "6. QUADRO DE CONTRASTES PARA PROVA",
+      "texto": "Art. 344: no parcelamento, teto do total ANUAL = 3% do valor venal atualizado à cobrança."
+    },
+    {
+      "id": "direito-tributario-aula-080-b15",
+      "titulo": "6. QUADRO DE CONTRASTES PARA PROVA",
+      "texto": "Art. 345: atraso → multa 30% do TOTAL da contribuição; juros 1% ao mês ou fração sobre a PARCELA atualizada."
+    },
+    {
+      "id": "direito-tributario-aula-080-b16",
+      "titulo": "6. QUADRO DE CONTRASTES PARA PROVA",
+      "texto": "Art. 346: Prefeito pode representar Município em convênios com União/Estado para lançamento e arrecadação de contribuição relativa a obra federal/estadual."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-09",
+  "contentHash": "e52d6cde2c8b47ff"
+}
