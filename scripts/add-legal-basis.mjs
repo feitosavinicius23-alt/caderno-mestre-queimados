@@ -62,7 +62,11 @@ function chooseBasis(question, lesson) {
     const score = overlap + articleBonus;
     if (!best || score > best.score) best = { score, sentence };
   }
-  if (!best) return `Consulte a legislação indicada no texto da aula “${lesson.titulo}”.`;
+  if (!best) {
+    const topic = lesson.topic ?? lesson.titulo ?? '';
+    if (/\barts?\.\s*\d+/i.test(topic)) return `Base legal da aula: ${topic}. O dispositivo específico deve ser conferido no trecho legal correspondente da aula.`;
+    return `Consulte a legislação indicada no texto da aula “${lesson.titulo}”.`;
+  }
   return best.sentence.length > 420 ? `${best.sentence.slice(0, 417).trim()}…` : best.sentence;
 }
 
