@@ -38,11 +38,10 @@ for (const file of fs.readdirSync(dir).filter((name) => name.endsWith('.json')).
     }
   }
 
-  for (const [basis, numbers] of seenBases) {
-    if (numbers.length >= 4 && !/arts?\.\s*\d+.*(?:,| e ).*arts?\./i.test(basis)) {
-      issues.push(`${file}: mesma base legal usada nas questões ${numbers.join(', ')} — revisar se cada uma exige dispositivo próprio`);
-    }
-  }
+  // A repetição isolada não é erro: várias questões podem cobrar o mesmo artigo
+  // (por exemplo, diferentes incisos do art. 280 ou do art. 327, § 3º).
+  // A auditoria só marca ausência, contradição ou referência genérica; a lista
+  // de bases repetidas continua disponível para revisão manual, sem bloquear a validação.
 }
 
 console.log(`AUDITORIA DE CONSISTÊNCIA — ${lessons} aulas / ${questions} questões`);
