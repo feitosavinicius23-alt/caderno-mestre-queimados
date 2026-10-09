@@ -33,6 +33,7 @@ Thumbs.db
 .eslintcache
 coverage/
 .cache/
+.wrangler/
 
 # NÃO ignorar o conteúdo: /content é versionado de propósito.
 # A cópia bruta do Google Doc também é versionada para permitir diffs entre execuções.
