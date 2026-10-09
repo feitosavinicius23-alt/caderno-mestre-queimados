@@ -98,9 +98,14 @@ manualBasis['direito-tributario-aula-074'] = {
   15: 'CTM de Queimados, arts. 318 e 322: a isenção da taxa do comércio informal não dispensa a inscrição do contribuinte.',
 };
 manualBasis['direito-tributario-aula-075'] = {
+  7: 'CTM de Queimados, art. 327, V: o comércio informal em via ou logradouro público sem apresentação da própria licença sujeita as mercadorias à apreensão.',
+  9: 'CTM de Queimados, art. 327, V: mercadoria perecível não retirada no prazo de 48 horas deve ser doada a instituições filantrópicas do Município.',
+  10: 'CTM de Queimados, art. 327, V: a multa específica de 30 UFIR é cobrada em dobro na reincidência.',
+  12: 'CTM de Queimados, art. 327, VI: o transporte de passageiros sem autorização, concessão ou permissão pode ensejar apreensão do veículo e multa de 100% das taxas atualizadas devidas no período.',
   17: 'CTM de Queimados, art. 322: a isenção da Taxa de Licença do comércio informal não exime o contribuinte da inscrição junto ao Fisco.',
 };
 manualBasis['direito-tributario-aula-077'] = {
+  8: 'CTM de Queimados, art. 329: integram as despesas computáveis os estudos, projetos, fiscalização, desapropriações, administração, execução, financiamento e respectivos encargos.',
   1: 'CTM de Queimados, art. 328: a contribuição de melhoria tem como hipótese a realização de obra pública, observados os requisitos legais e a valorização imobiliária exigida pelo CTN, art. 81.',
   3: 'CTM de Queimados, art. 328, parágrafo único, e CTN, art. 81: pavimentação de vias públicas integra o rol de obras previsto, desde que presente a valorização imobiliária e os demais requisitos legais.',
   7: 'CTM de Queimados, art. 329, e CTN, art. 81: o limite total da contribuição de melhoria é a despesa realizada com a obra, sem prejuízo do limite individual da valorização de cada imóvel.',
