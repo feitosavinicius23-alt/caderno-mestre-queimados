@@ -82,6 +82,7 @@ manualBasis['direito-tributario-aula-063'] = {
   11: 'CTM de Queimados, art. 265: o prazo revisado para a comunicação indicada na questão é de 20 dias.',
 };
 manualBasis['direito-tributario-aula-066'] = {
+  5: 'CTM de Queimados, art. 287: o pagamento das parcelas vincendas somente pode ser efetuado depois do pagamento das parcelas vencidas.',
   10: 'CTM de Queimados, art. 291: a taxa referente aos bens apreendidos é paga de uma só vez, antes da liberação.',
 };
 manualBasis['direito-tributario-aula-069'] = {
