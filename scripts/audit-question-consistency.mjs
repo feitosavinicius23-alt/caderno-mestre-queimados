@@ -21,7 +21,8 @@ for (const file of fs.readdirSync(dir).filter((name) => name.endsWith('.json')).
     if (question.correctAnswer && !answer) issues.push(`${label}: gabarito ${question.correctAnswer} não existe nas alternativas`);
     if (question.correctAnswer && !question.explanation) issues.push(`${label}: sem comentário do gabarito`);
     if (question.correctAnswer && !question.legalBasis) issues.push(`${label}: sem base legal`);
-    if (/consulte a legislação indicada/i.test(question.legalBasis ?? '')) {
+    const nonLegalLesson = /portugu[eê]s|interpreta[çc][aã]o de texto/i.test(`${lesson.titulo ?? ''} ${lesson.topic ?? ''}`);
+    if (!nonLegalLesson && /consulte a legislação indicada/i.test(question.legalBasis ?? '')) {
       issues.push(`${label}: base legal genérica, sem artigo/dispositivo específico`);
     }
 

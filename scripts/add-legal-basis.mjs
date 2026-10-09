@@ -31,6 +31,25 @@ const manualBasis = {
 };
 
 const lessonArticleRanges = {
+  'direito-tributario-aula-001': 'CTN, arts. 3º, 5º, 16, 77, 81 e 113 a 128',
+  'direito-tributario-aula-002': 'CTN, arts. 139 a 150, especialmente arts. 142, 147, 148, 149 e 150',
+  'direito-tributario-aula-003': 'CTN, art. 151',
+  'direito-tributario-aula-004': 'CTN, arts. 156 a 174',
+  'direito-tributario-aula-005': 'CTN, arts. 175 a 182',
+  'direito-tributario-aula-010': 'Constituição Federal, arts. 150 a 152',
+  'direito-tributario-aula-011': 'Constituição Federal, arts. 145, 153 a 156 e 158',
+  'direito-tributario-aula-012': 'CTN, arts. 32 a 34',
+  'direito-tributario-aula-013': 'CTN, arts. 35 a 42 e Constituição Federal, art. 156, II',
+  'direito-tributario-aula-014': 'Lei Complementar nº 116/2003, arts. 1º a 8º',
+  'direito-tributario-aula-015': 'CTN, arts. 77 a 80 e Constituição Federal, art. 145, II',
+  'direito-tributario-aula-016': 'CTN, arts. 81 e 82',
+  'direito-tributario-aula-017': 'CTN, arts. 194 a 208',
+  'direito-tributario-aula-018': 'CTN, arts. 151, 156 e 175 e CTM de Queimados, arts. 154 a 165',
+  'direito-tributario-aula-037': 'CTN, arts. 151, 156 e 175',
+  'direito-tributario-aula-038': 'CTN, arts. 121 a 135',
+  'direito-tributario-aula-039': 'CTN, arts. 129 a 133',
+  'direito-tributario-aula-044': 'CTM de Queimados, arts. 130 a 137',
+  'direito-tributario-aula-067': 'CTM de Queimados, arts. 280 a 292',
   'direito-tributario-aula-072': 'arts. 311 a 316',
   'direito-tributario-aula-073': 'arts. 317 a 322',
   'direito-tributario-aula-074': 'arts. 323 a 326',
@@ -76,7 +95,22 @@ function chooseBasis(question, lesson) {
   if (!best) {
     const explicit = String(question.question ?? '').match(/\b(CTN\s*,?\s*)?art(?:igo)?s?\.?\s*([0-9]+(?:\s*[,º§IVXLC0-9-]*)?)/i);
     if (explicit) return `${explicit[1] ? 'CTN' : 'CTM de Queimados'}, art. ${explicit[2]} — conferir o trecho correspondente no texto da aula.`;
-    if (lessonArticleRanges[lesson.id]) return `CTM de Queimados, ${lessonArticleRanges[lesson.id]} — conferir o inciso ou parágrafo correspondente no texto da aula.`;
+    const questionText = normalize(question.question);
+    const keywordBasis = [
+      [/obrigacao principal|obrigacao acessoria|fato gerador|sujeito ativo|sujeito passivo/, 'CTN, arts. 113 a 128'],
+      [/lancamento|homologacao|credito tributario/, 'CTN, arts. 139 a 150'],
+      [/suspensao da exigibilidade|parcelamento/, 'CTN, art. 151'],
+      [/extincao do credito|remissao|pagamento/, 'CTN, art. 156'],
+      [/exclusao do credito|anistia/, 'CTN, art. 175'],
+      [/iptu/, 'CTN, arts. 32 a 34'],
+      [/itbi/, 'CTN, arts. 35 a 42 e Constituição Federal, art. 156, II'],
+      [/iss/, 'Lei Complementar nº 116/2003, arts. 1º a 8º'],
+      [/taxa/, 'CTN, arts. 77 a 80'],
+      [/contribuicao de melhoria/, 'CTN, arts. 81 e 82'],
+      [/tributo|multa/, 'CTN, arts. 3º, 5º e 113'],
+    ].find(([pattern]) => pattern.test(questionText));
+    if (keywordBasis) return `${keywordBasis[1]} — conferir o dispositivo aplicado à alternativa no texto da aula.`;
+    if (lessonArticleRanges[lesson.id]) return `${lessonArticleRanges[lesson.id]} — conferir o inciso ou parágrafo correspondente no texto da aula.`;
     const topic = lesson.topic ?? lesson.titulo ?? '';
     if (/\barts?\.\s*\d+/i.test(topic)) return `Base legal da aula: ${topic}. O dispositivo específico deve ser conferido no trecho legal correspondente da aula.`;
     return `Consulte a legislação indicada no texto da aula “${lesson.titulo}”.`;
