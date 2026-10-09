@@ -8,6 +8,8 @@ const rules = [
   { basis: /anistia/i, forbidden: [/\bmoratória\b/i, /constitui tributo/i, /cria tributo/i] },
   { basis: /suspens/i, forbidden: [/\bextingue\b/i, /\bexclui\b/i] },
   { basis: /extinç/i, forbidden: [/\bsuspende\b/i] },
+  { basis: /exigir.*(?:livros|documentos|exibiç)/i, forbidden: [/impedir.*inspeção/i, /proibir.*levantamento/i, /dispensar.*informa/i] },
+  { basis: /salvo prova de quitação|ressalva.*quitação/i, forbidden: [/irrelevante em qualquer hipótese/i] },
 ];
 const issues = [];
 const isUnnegated = (text, pattern) => {
