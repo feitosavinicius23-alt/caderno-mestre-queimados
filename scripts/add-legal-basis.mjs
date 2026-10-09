@@ -61,12 +61,66 @@ const lessonArticleRanges = {
 };
 
 manualBasis['legislacao-tributaria-de-queimados-aula-043'] = {
+  2: 'CTM de Queimados, art. 122: a fiscalização alcança todas as pessoas sujeitas ao cumprimento de obrigações tributárias, inclusive imunes e isentas.',
   3: 'CTM de Queimados, art. 122, § 1º, I: a autoridade fiscal pode exigir, a qualquer tempo, a exibição de livros comerciais e fiscais e documentos em geral.',
+  4: 'CTM de Queimados, art. 123: mediante intimação escrita, terceiros devem prestar as informações de que disponham sobre bens, negócios ou atividades de outros, ressalvados os segredos legalmente protegidos.',
+  5: 'CTM de Queimados, art. 123: a obrigação de informar não alcança fatos sobre os quais o informante esteja legalmente obrigado a guardar segredo.',
+  6: 'CTM de Queimados, art. 124: informações obtidas pela fiscalização em razão do ofício estão protegidas por sigilo, nas hipóteses e exceções previstas no Código.',
+  7: 'CTM de Queimados, art. 126: a autoridade fiscal que proceder ou presidir exames e diligências deve lavrar os termos necessários para documentar o procedimento.',
+  10: 'CTM de Queimados, arts. 121, 122, 124 e 126: a alternativa incorreta é a que atribui ao art. 126 uma isenção tributária, assunto que não pertence ao dispositivo.',
+};
+
+manualBasis['direito-tributario-aula-044'] = {
+  1: 'CTM de Queimados, art. 128: a omissão não dolosa que possa resultar em evasão de receita enseja notificação preliminar para regularização em 30 dias.',
+  2: 'CTM de Queimados, art. 131: nas hipóteses legais, não cabe notificação preliminar e o contribuinte é imediatamente autuado.',
+  3: 'CTM de Queimados, art. 131, I: o exercício de atividade tributável sem prévia inscrição é hipótese de autuação imediata.',
+  4: 'CTM de Queimados, art. 137, V: o auto de infração deve intimar o autuado para, em 10 dias, pagar tributos e multas ou apresentar defesa e provas.',
+  5: 'CTM de Queimados, arts. 137 e 142: requisitos do auto de infração e redução da multa quando o autuado se conforma e paga no prazo de defesa.',
+  6: 'CTM de Queimados, art. 137: a assinatura do autuado não implica confissão; a recusa deve ser registrada com duas testemunhas quando cabível.',
+  7: 'CTM de Queimados, art. 137: a recusa ou impossibilidade de assinatura deve ser registrada no auto com a identificação de duas testemunhas.',
+  8: 'CTM de Queimados, arts. 137 e 138: requisitos do auto de infração e formas de intimação do autuado.',
+  9: 'CTM de Queimados, art. 122: a fiscalização alcança todas as pessoas sujeitas a obrigações tributárias, inclusive imunes e isentas.',
+  10: 'CTM de Queimados, arts. 121, 122, 124 e 126: a associação incorreta é a que atribui ao art. 126 uma isenção tributária.',
+};
+
+manualBasis['direito-tributario-aula-011'] = {
+  1: 'Constituição Federal, art. 156: compete aos Municípios instituir IPTU, ITBI e ISS, observadas as regras constitucionais.',
+  3: 'Constituição Federal, arts. 145 e 156 a 158: competência tributária municipal e repartição constitucional de receitas.',
+  4: 'Constituição Federal, art. 153, VI, e art. 158, II: o ITR é imposto da União, com repartição constitucional de sua arrecadação aos Municípios nas hipóteses previstas.',
+  6: 'Constituição Federal, art. 158, IV: pertence aos Municípios parcela do produto da arrecadação do ICMS, nos termos constitucionais.',
 };
 
 function chooseBasis(question, lesson) {
   const manual = manualBasis[lesson.id]?.[question.numero];
   if (manual) return manual;
+  const questionText = normalize(question.question);
+  const precise = [
+    [/obrigacao tributaria principal/, 'CTN, art. 113, § 1º'],
+    [/transmitir declaracao/, 'CTN, art. 113, § 2º'],
+    [/deixa de cumprir obrigacao acessoria/, 'CTN, art. 113, § 3º'],
+    [/lancamento faz nascer a obrigacao|lancamento tributario/, 'CTN, art. 142'],
+    [/somente hipoteses de suspensao|suspensao da exigibilidade/, 'CTN, art. 151'],
+    [/hipoteses de exclusao/, 'CTN, art. 175'],
+    [/responsavel tributario/, 'CTN, arts. 121, II, e 128'],
+    [/e contribuinte a pessoa/, 'CTN, art. 121, I'],
+    [/art\.?\s*134/, 'CTN, art. 134'],
+    [/art\.?\s*135/, 'CTN, art. 135'],
+    [/art\.?\s*136/, 'CTN, art. 136'],
+    [/auto de infracao/, 'CTM de Queimados, art. 137'],
+    [/prescricao tributaria/, 'CTN, art. 174'],
+    [/decadencia tributaria/, 'CTN, art. 173'],
+    [/parcelamento/, 'CTN, art. 151, VI'],
+    [/deposito integral/, 'CTN, art. 151, II'],
+    [/remissao/, 'CTN, art. 156, IV'],
+    [/anistia/, 'CTN, art. 175, II'],
+    [/convencoes particulares/, 'CTN, art. 123'],
+    [/denuncia espontanea/, 'CTN, art. 138'],
+    [/sigilo fiscal/, 'CTN, art. 198'],
+    [/divida ativa/, 'CTN, arts. 201 a 204'],
+    [/certidao positiva com efeitos de negativa|cpen/, 'CTN, art. 206'],
+    [/ipva/, 'Constituição Federal, art. 158, III'],
+  ].find(([pattern]) => pattern.test(questionText));
+  if (precise) return `${precise[1]} — conferir o comando e a hipótese descrita no texto da aula.`;
   const option = lesson.questoes.find((item) => item.id === question.id)?.options.find((item) => item.id === question.correctAnswer);
   const target = words(`${question.question} ${option?.text ?? ''}`);
   const blocks = lesson.conteudo ?? [];
@@ -95,7 +149,6 @@ function chooseBasis(question, lesson) {
   if (!best) {
     const explicit = String(question.question ?? '').match(/\b(CTN\s*,?\s*)?art(?:igo)?s?\.?\s*([0-9]+(?:\s*[,º§IVXLC0-9-]*)?)/i);
     if (explicit) return `${explicit[1] ? 'CTN' : 'CTM de Queimados'}, art. ${explicit[2]} — conferir o trecho correspondente no texto da aula.`;
-    const questionText = normalize(question.question);
     const keywordBasis = [
       [/obrigacao principal|obrigacao acessoria|fato gerador|sujeito ativo|sujeito passivo/, 'CTN, arts. 113 a 128'],
       [/lancamento|homologacao|credito tributario/, 'CTN, arts. 139 a 150'],
@@ -103,10 +156,13 @@ function chooseBasis(question, lesson) {
       [/extincao do credito|remissao|pagamento/, 'CTN, art. 156'],
       [/exclusao do credito|anistia/, 'CTN, art. 175'],
       [/iptu/, 'CTN, arts. 32 a 34'],
+      [/proprietario de imovel|imovel urbano/, 'CTN, arts. 32 a 34'],
       [/itbi/, 'CTN, arts. 35 a 42 e Constituição Federal, art. 156, II'],
       [/iss/, 'Lei Complementar nº 116/2003, arts. 1º a 8º'],
       [/taxa/, 'CTN, arts. 77 a 80'],
       [/contribuicao de melhoria/, 'CTN, arts. 81 e 82'],
+      [/obra publica.*valorizacao|valorizacao.*obra publica/, 'CTN, arts. 81 e 82'],
+      [/punicao pela pratica|sancao de ato ilicito/, 'CTN, art. 3º'],
       [/tributo|multa/, 'CTN, arts. 3º, 5º e 113'],
     ].find(([pattern]) => pattern.test(questionText));
     if (keywordBasis) return `${keywordBasis[1]} — conferir o dispositivo aplicado à alternativa no texto da aula.`;
