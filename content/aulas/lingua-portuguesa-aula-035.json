@@ -343,8 +343,8 @@
       "explanation": "A alternativa A é a resposta correta: à constituição do crédito tributário.",
       "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
-      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "legalBasis": "Consulte a legislação indicada no texto da aula “PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE”."
+      "topic": "RECUPERAÇÃO TRIBUTÁRIA: DECADÊNCIA E CONSTITUIÇÃO DO CRÉDITO",
+      "legalBasis": "CTN, art. 173: a decadência está ligada ao prazo para a Fazenda constituir o crédito tributário."
     },
     {
       "id": "lingua-portuguesa-aula-035-q-008",
@@ -369,12 +369,12 @@
           "text": "é necessariamente judicial."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: faz nascer a obrigação tributária.",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: o lançamento constitui o crédito tributário, conforme o art. 142 do CTN.",
       "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
-      "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "topic": "RECUPERAÇÃO TRIBUTÁRIA: LANÇAMENTO E CONSTITUIÇÃO DO CRÉDITO",
+      "legalBasis": "CTN, art. 142: compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento."
     }
   ],
   "gabaritos": [],
