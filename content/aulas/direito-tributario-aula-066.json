@@ -187,12 +187,12 @@
           "text": "60%."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: 20%.",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a redução prevista para a hipótese estudada é de 50%.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "CTM de Queimados, art. 285 c — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 285: a redução estudada para a indústria que atende às condições ambientais é de 50%."
     },
     {
       "id": "direito-tributario-aula-066-q-002",
@@ -222,7 +222,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "Base legal da aula: TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292. O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTM de Queimados, art. 285: a redução alcança a indústria com equipamentos antipoluentes que reaproveite total ou parcialmente seu lixo, nas condições legais."
     },
     {
       "id": "direito-tributario-aula-066-q-003",
@@ -252,7 +252,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "A partir do art. 288 entramos na TAXA DE SERVIÇOS DIVERSOS."
+      "legalBasis": "CTM de Queimados, art. 286: a TSU é lançada anualmente."
     },
     {
       "id": "direito-tributario-aula-066-q-004",
@@ -282,7 +282,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "A partir do art. 288 entramos na TAXA DE SERVIÇOS DIVERSOS."
+      "legalBasis": "CTM de Queimados, art. 287: o Prefeito pode conceder, por decreto, desconto de até 60% para pagamento em cota única."
     },
     {
       "id": "direito-tributario-aula-066-q-005",
@@ -312,7 +312,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "CTM de Queimados, art. 287: o pagamento das parcelas vincendas somente pode ser efetuado depois do pagamento das parcelas vencidas."
+      "legalBasis": "CTM de Queimados, art. 287: parcelas vincendas somente podem ser pagas depois das vencidas."
     },
     {
       "id": "direito-tributario-aula-066-q-006",
@@ -342,7 +342,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "A partir do art. 288 entramos na TAXA DE SERVIÇOS DIVERSOS."
+      "legalBasis": "CTM de Queimados, arts. 288 e 289: a Taxa de Serviços Diversos alcança animais, veículos e bens/mercadorias nas hipóteses legais."
     },
     {
       "id": "direito-tributario-aula-066-q-007",
@@ -372,7 +372,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "Base legal da aula: TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292. O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTM de Queimados, art. 289: no caso de veículo apreendido, pode figurar como contribuinte o proprietário ou possuidor interessado na liberação."
     },
     {
       "id": "direito-tributario-aula-066-q-008",
@@ -402,7 +402,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "Base legal da aula: TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292. O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTM de Queimados, art. 289: para bens e mercadorias, a taxa pode alcançar proprietário, possuidor ou outra pessoa interessada na liberação."
     },
     {
       "id": "direito-tributario-aula-066-q-009",
@@ -432,7 +432,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "CTM de Queimados, art. 290  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 290: as taxas indicadas remetem ao Anexo I."
     },
     {
       "id": "direito-tributario-aula-066-q-010",
@@ -462,7 +462,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "CTM de Queimados, art. 291: a taxa referente aos bens apreendidos é paga de uma só vez, antes da liberação."
+      "legalBasis": "CTM de Queimados, art. 291: a taxa referente aos bens apreendidos é paga de uma só vez antes da liberação."
     },
     {
       "id": "direito-tributario-aula-066-q-011",
@@ -492,7 +492,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "A partir do art. 288 entramos na TAXA DE SERVIÇOS DIVERSOS."
+      "legalBasis": "CTM de Queimados, art. 292: serviços funerários admitem pagamento de uma só vez ou parceladamente, na forma regulamentar."
     },
     {
       "id": "direito-tributario-aula-066-q-012",
@@ -522,7 +522,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "TSU: arts. 285 a 287 + Taxa de Serviços Diversos: arts. 288 a 292",
-      "legalBasis": "Antes de avançar, há uma CORREÇÃO OBRIGATÓRIA DA AULA 64. A escala correta do art. 280, VII é: 20% até 30 dias; 30% de 31 a 60 dias; 40% de 61 a 90 dias; e 50% a partir de 91 dias. Os juros de mora permanecem em 1% ao mês. Descarte definitivamente a sequência antiga 10/15/20/25."
+      "legalBasis": "CTM de Queimados, art. 280, VII: atraso de 61 a 90 dias no ISS corresponde a 40%."
     }
   ],
   "gabaritos": [],
@@ -587,5 +587,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "7fae2e5ca0f82652"
+  "contentHash": "ccdab8c6dcd2ae37"
 }

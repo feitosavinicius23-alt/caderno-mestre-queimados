@@ -129,7 +129,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje não avanço para o art. 293. Como a primeira volta estava prevista para aproximadamente hoje, o ganho maior agora é consolidar o bloco pesado recém-estudado antes de abrir a Taxa de Licença. Além disso, as Aulas 63–66 tiveram correções numéricas importantes; avançar sem estabilizá-las aumentaria interferência de memória."
+      "legalBasis": "CTM de Queimados, art. 280, VII: atraso de até 30 dias corresponde a 20%."
     },
     {
       "id": "direito-tributario-aula-067-q-002",
@@ -154,12 +154,12 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: 20%.",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: atraso de 31 a 60 dias corresponde a 30%, inclusive no 60º dia.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje não avanço para o art. 293. Como a primeira volta estava prevista para aproximadamente hoje, o ganho maior agora é consolidar o bloco pesado recém-estudado antes de abrir a Taxa de Licença. Além disso, as Aulas 63–66 tiveram correções numéricas importantes; avançar sem estabilizá-las aumentaria interferência de memória."
+      "legalBasis": "CTM de Queimados, art. 280, VII: 30% para atraso de 31 a 60 dias."
     },
     {
       "id": "direito-tributario-aula-067-q-003",
@@ -184,12 +184,12 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "B",
-      "explanation": "A alternativa B é a resposta correta: 30%.",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: atraso de 61 a 90 dias corresponde a 40%, inclusive no 61º dia.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje não avanço para o art. 293. Como a primeira volta estava prevista para aproximadamente hoje, o ganho maior agora é consolidar o bloco pesado recém-estudado antes de abrir a Taxa de Licença. Além disso, as Aulas 63–66 tiveram correções numéricas importantes; avançar sem estabilizá-las aumentaria interferência de memória."
+      "legalBasis": "CTM de Queimados, art. 280, VII: 40% para atraso de 61 a 90 dias."
     },
     {
       "id": "direito-tributario-aula-067-q-004",
@@ -219,7 +219,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje não avanço para o art. 293. Como a primeira volta estava prevista para aproximadamente hoje, o ganho maior agora é consolidar o bloco pesado recém-estudado antes de abrir a Taxa de Licença. Além disso, as Aulas 63–66 tiveram correções numéricas importantes; avançar sem estabilizá-las aumentaria interferência de memória."
+      "legalBasis": "CTM de Queimados, art. 280, VII: atraso a partir de 91 dias corresponde a 50%."
     },
     {
       "id": "direito-tributario-aula-067-q-005",
@@ -249,7 +249,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 280: omissão/falsidade e falta/erro têm as multas de 520,6411 e 390,4808 UFIR, respectivamente."
     },
     {
       "id": "direito-tributario-aula-067-q-006",
@@ -279,7 +279,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje foi deliberadamente uma aula de consolidação, não repetição passiva. O art. 280 e a TSU permanecem em RETENÇÃO; Serviços Diversos passa para RETENÇÃO INICIAL."
+      "legalBasis": "CTM de Queimados, art. 281: a utilização dos serviços pode ser efetiva ou potencial."
     },
     {
       "id": "direito-tributario-aula-067-q-007",
@@ -309,7 +309,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 282: a sujeição passiva alcança proprietário, titular do domínio útil ou possuidor a qualquer título."
     },
     {
       "id": "direito-tributario-aula-067-q-008",
@@ -339,7 +339,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 283: imóvel não edificado utiliza a área do terreno e o percentual de 0,1% previsto."
     },
     {
       "id": "direito-tributario-aula-067-q-009",
@@ -364,12 +364,12 @@
           "text": "valor venal + 0,5%."
         }
       ],
-      "correctAnswer": "B",
-      "explanation": "A alternativa B é a resposta correta: área construída + 2%.",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: limpeza e conservação utilizam a testada e o percentual de 2% previsto.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 283: limpeza e conservação são calculadas por metro linear de testada, com o percentual de 2% estudado."
     },
     {
       "id": "direito-tributario-aula-067-q-010",
@@ -394,12 +394,12 @@
           "text": "60%."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: 20%.",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a redução estudada para a indústria que atende às condições ambientais é de 50%.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 285: redução de 50% nas condições ambientais previstas."
     },
     {
       "id": "direito-tributario-aula-067-q-011",
@@ -429,7 +429,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, arts. 286 e 287: lançamento anual, parcelamento e desconto de até 60% na cota única."
     },
     {
       "id": "direito-tributario-aula-067-q-012",
@@ -459,7 +459,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, art. 291  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 291: a taxa de bens apreendidos é paga de uma só vez antes da liberação."
     },
     {
       "id": "direito-tributario-aula-067-q-013",
@@ -489,7 +489,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 292: serviços funerários admitem pagamento à vista ou parcelado na forma regulamentar."
     },
     {
       "id": "direito-tributario-aula-067-q-014",
@@ -519,7 +519,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "CTM de Queimados, arts. 280 a 292 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 281, § 1º: remoção especial de entulho é tratada como preço público, não como a mesma TSU da coleta periódica."
     },
     {
       "id": "direito-tributario-aula-067-q-015",
@@ -549,7 +549,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Revisão cumulativa de alta retenção: ISSQN + TSU + Serviços Diversos",
-      "legalBasis": "Hoje foi deliberadamente uma aula de consolidação, não repetição passiva. O art. 280 e a TSU permanecem em RETENÇÃO; Serviços Diversos passa para RETENÇÃO INICIAL."
+      "legalBasis": "CTM de Queimados, art. 280: a conduta deve ser identificada antes da associação com a penalidade específica."
     }
   ],
   "gabaritos": [],
@@ -568,5 +568,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "9d931353b60e7493"
+  "contentHash": "f8b1c2e7c536e910"
 }

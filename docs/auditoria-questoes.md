@@ -25,6 +25,7 @@
 - Lote Aulas 11–18: corrigidas bases legais de competência, IPTU, ITBI, ISS, taxas, contribuição de melhoria, dívida ativa, certidões e processo administrativo; removidos cinco trechos de instrução anexados às alternativas finais. Os gabaritos do lote foram mantidos após a conferência.
 - Lote Aulas 19–36: corrigido o gabarito da questão 8 da Aula 29 (parcelamento, remissão e anistia); corrigidas as bases legais das questões 7 a 10 da Aula 34; corrigida a base legal da questão cumulativa da Aula 36. Também removidos dois fragmentos de recuperação anexados a alternativas. As Aulas 19–28 não possuem questões estruturadas no JSON atual.
 - Lote Aulas 37–47: corrigido o gabarito da questão 1 da Aula 46, de 5 para 3 testemunhas, conforme o art. 154 do CTM e o texto da própria aula; corrigidas bases legais específicas de suspensão, extinção, responsabilidade, dívida ativa, processo administrativo e IPTU; removidos fragmentos de instruções das Aulas 39 e 40. A Aula 43 foi conferida e manteve seus gabaritos.
+- Lote Aulas 63–69: corrigidos gabaritos nas Aulas 65, 66, 67 e 68 — utilização efetiva ou potencial da TSU, preço público da remoção especial, valor da iluminação, redução ambiental, faixas de atraso do ISS, cálculo por testada e relação do alvará com a licença. As bases legais do bloco foram especificadas pelos arts. 280 a 299 do CTM. As Aulas 63, 64 e 69 foram conferidas sem contradição de gabarito.
 
 ## Pendência deliberada
 
