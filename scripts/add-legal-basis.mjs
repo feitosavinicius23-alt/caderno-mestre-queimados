@@ -4,6 +4,10 @@ import path from 'node:path';
 const stop = new Set('a ao aos as com como da das de do dos e em entre essa esse esta este foi foram há na nas no nos o os para pela pelas pelo pelos por que se sem sobre sua suas um uma umas uns ou'.split(' '));
 const normalize = (value) => value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9%]+/g, ' ');
 const words = (value) => new Set(normalize(value).split(/\s+/).filter((word) => word.length > 2 && !stop.has(word)));
+const sequence = (value, size) => normalize(value).split(/\s+/).filter(Boolean).reduce((all, _, index, items) => {
+  if (index + size <= items.length) all.push(items.slice(index, index + size).join(' '));
+  return all;
+}, []);
 
 function candidateSentences(blocks) {
   return blocks
@@ -13,10 +17,38 @@ function candidateSentences(blocks) {
     .filter((text) => text.length >= 45 && /art\.?\s*\d+/i.test(text));
 }
 
+const manualBasis = {
+  'legislacao-tributaria-de-queimados-aula-029': {
+    1: 'CTM de Queimados, art. 266, com redação dada pela LC municipal nº 093/2021: o ISS variável é recolhido mensalmente, até o dia 15 do mês subsequente ao faturamento.',
+    2: 'CTM de Queimados, arts. 231, parágrafo único, e 232: a NFS-e é instrumento fiscal; a incidência depende da prestação tributável e o contribuinte é o prestador do serviço.',
+    3: 'CTM de Queimados, arts. 232 e 233: “Contribuinte é o prestador de serviços” e o tomador pode ser responsável pelo recolhimento do imposto nas hipóteses legais.',
+    4: 'CTM de Queimados, arts. 237, § 2º, 250 e 251: o arbitramento da base exige hipótese legal, critérios técnicos e procedimento fiscal motivado; não é escolha livre do agente.',
+    5: 'CTM de Queimados, art. 49, e Decreto municipal nº 3.403/2026: a prorrogação excepcional do vencimento não se confunde automaticamente com moratória.',
+    6: 'CTM de Queimados, art. 237: “A base de cálculo do imposto é o preço do serviço.”',
+    7: 'Constituição Federal, art. 156, § 2º, II: o ITBI compete ao Município da situação do bem, ressalvadas as hipóteses constitucionais.',
+    8: 'CTN, art. 151, VI (parcelamento); art. 156, IV (remissão); e art. 175, II (anistia): os institutos produzem, respectivamente, suspensão, extinção e exclusão do crédito tributário.',
+  },
+};
+
 function chooseBasis(question, lesson) {
+  const manual = manualBasis[lesson.id]?.[question.numero];
+  if (manual) return manual;
   const option = lesson.questoes.find((item) => item.id === question.id)?.options.find((item) => item.id === question.correctAnswer);
   const target = words(`${question.question} ${option?.text ?? ''}`);
-  const candidates = candidateSentences(lesson.conteudo ?? []);
+  const blocks = lesson.conteudo ?? [];
+  const blockScores = blocks.map((block) => {
+    const blockText = normalize(`${block.titulo ?? ''} ${block.texto ?? ''}`);
+    const blockWords = words(blockText);
+    let score = 0;
+    for (const word of target) if (blockWords.has(word)) score += 1;
+    const titleWords = words(block.titulo ?? '');
+    for (const word of target) if (titleWords.has(word)) score += 2;
+    for (const phrase of sequence(`${question.question} ${option?.text ?? ''}`, 2)) if (blockText.includes(phrase)) score += 3;
+    for (const phrase of sequence(`${question.question} ${option?.text ?? ''}`, 3)) if (blockText.includes(phrase)) score += 5;
+    return { block, score };
+  }).sort((a, b) => b.score - a.score);
+  const selectedBlocks = blockScores.slice(0, 2).map((item) => item.block);
+  const candidates = candidateSentences(selectedBlocks);
   let best = null;
   for (const sentence of candidates) {
     const sentenceWords = words(sentence);
