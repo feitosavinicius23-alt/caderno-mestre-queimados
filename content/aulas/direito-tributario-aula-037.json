@@ -160,7 +160,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, art. 151 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 151, I e VI: moratória e parcelamento suspendem a exigibilidade do crédito tributário."
     },
     {
       "id": "direito-tributario-aula-037-q-002",
@@ -250,7 +250,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, arts. 151, 156 e 175 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 151, 156, IV, e 175: depósito integral e parcelamento suspendem; remissão extingue; anistia exclui o crédito tributário."
     },
     {
       "id": "direito-tributario-aula-037-q-005",
@@ -280,7 +280,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, arts. 151, 156 e 175 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário."
     },
     {
       "id": "direito-tributario-aula-037-q-006",
@@ -310,7 +310,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, arts. 151, 156 e 175 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 173 e 174: decadência relaciona-se à constituição do crédito; prescrição, à cobrança do crédito constituído."
     },
     {
       "id": "direito-tributario-aula-037-q-007",
@@ -370,7 +370,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, arts. 151, 156 e 175 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário."
     },
     {
       "id": "direito-tributario-aula-037-q-009",
@@ -400,7 +400,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "CTN, arts. 151, 156 e 175 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 151, VI, 156, IV, e 175, II: parcelamento suspende; remissão extingue; anistia exclui o crédito tributário."
     },
     {
       "id": "direito-tributario-aula-037-q-010",
@@ -430,7 +430,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CRÉDITO TRIBUTÁRIO: REVISÃO ATIVA E DISCRIMINAÇÃO ENTRE SUSPENSÃO, EXTINÇÃO E EXCLUSÃO",
-      "legalBasis": "Aqui o crédito termina juridicamente por uma das hipóteses legais. Para esta etapa, fixe sobretudo: pagamento, compensação, transação, remissão, prescrição e decadência, além das demais hipóteses do art. 156 do CTN."
+      "legalBasis": "CTN, arts. 151, VI, 156 e 175, II: parcelamento não extingue; moratória suspende, prescrição extingue e anistia exclui o crédito tributário."
     }
   ],
   "gabaritos": [],
@@ -460,5 +460,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "f5a79fbff0ee43f9"
+  "contentHash": "296988c6fefcd9fc"
 }

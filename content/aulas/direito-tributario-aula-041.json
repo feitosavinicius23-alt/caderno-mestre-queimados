@@ -173,7 +173,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "O art. 183 do CTN deixa claro que a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo."
+      "legalBasis": "CTN, art. 183: a enumeração das garantias não exclui outras expressamente previstas em lei."
     },
     {
       "id": "direito-tributario-aula-041-q-002",
@@ -203,7 +203,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "CTM de Queimados, art. 184, — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTN, art. 184: respondem pelo crédito tributário todos os bens e rendas do sujeito passivo, ressalvados os absolutamente impenhoráveis."
     },
     {
       "id": "direito-tributario-aula-041-q-003",
@@ -233,7 +233,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "CTM de Queimados, art. 185  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTN, art. 185: presume-se fraudulenta a alienação ou oneração de bens por sujeito passivo com débito regularmente inscrito em dívida ativa, ressalvada a hipótese legal."
     },
     {
       "id": "direito-tributario-aula-041-q-004",
@@ -263,7 +263,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "CTM de Queimados, art. 185  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTN, art. 185, parágrafo único: a presunção não se aplica quando tiverem sido reservados bens ou rendas suficientes ao total pagamento da dívida inscrita."
     },
     {
       "id": "direito-tributario-aula-041-q-005",
@@ -323,7 +323,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "CTN, art. 135 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 135: a responsabilidade pessoal relaciona-se a atos com excesso de poderes ou infração de lei, contrato social ou estatutos."
     },
     {
       "id": "direito-tributario-aula-041-q-007",
@@ -353,7 +353,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "O art. 183 do CTN deixa claro que a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo."
+      "legalBasis": "CTN, art. 138: a denúncia apresentada após o início de procedimento administrativo ou medida de fiscalização relacionada não é espontânea."
     },
     {
       "id": "direito-tributario-aula-041-q-008",
@@ -443,7 +443,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "Base legal da aula: GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193). O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTN, arts. 138 e 151, VI: o art. 138 trata de denúncia espontânea; parcelamento é hipótese de suspensão prevista no art. 151, VI."
     }
   ],
   "gabaritos": [],
@@ -497,5 +497,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "178c6e40c8b5b17e"
+  "contentHash": "fc19d7120586b5ac"
 }

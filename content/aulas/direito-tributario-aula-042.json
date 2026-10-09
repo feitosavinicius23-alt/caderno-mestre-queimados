@@ -263,7 +263,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "Base legal da aula: ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208). O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTN, art. 195, parágrafo único: livros obrigatórios e comprovantes devem ser conservados até a prescrição dos créditos tributários decorrentes das operações."
     },
     {
       "id": "direito-tributario-aula-042-q-002",
@@ -323,7 +323,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "CTN, arts. 201 a 204 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 201: dívida ativa tributária é a proveniente de crédito dessa natureza regularmente inscrito na repartição administrativa competente, depois de esgotado o prazo de pagamento."
     },
     {
       "id": "direito-tributario-aula-042-q-004",
@@ -353,7 +353,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "Base legal da aula: ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208). O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTN, art. 204: a dívida regularmente inscrita goza de presunção relativa de certeza e liquidez, ilidível por prova inequívoca."
     },
     {
       "id": "direito-tributario-aula-042-q-005",
@@ -413,7 +413,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "CTN, art. 151, VI — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, arts. 151, VI, e 206: o parcelamento suspende a exigibilidade e permite certidão positiva com efeitos de negativa, observados os requisitos legais."
     },
     {
       "id": "direito-tributario-aula-042-q-007",
@@ -443,7 +443,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "Conexão com a Aula 40: iniciado procedimento administrativo ou medida de fiscalização relacionado à infração, a denúncia posterior não é espontânea para fins do art. 138."
+      "legalBasis": "CTN, art. 204: a presunção de certeza e liquidez da dívida inscrita é relativa e admite prova inequívoca em contrário."
     },
     {
       "id": "direito-tributario-aula-042-q-008",
@@ -503,7 +503,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "Base legal da aula: ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208). O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos créditos possui exigibilidade suspensa."
     },
     {
       "id": "direito-tributario-aula-042-q-010",
@@ -533,7 +533,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, DÍVIDA ATIVA E CERTIDÕES (CTN, arts. 194 a 208)",
-      "legalBasis": "Conexão com a Aula 40: iniciado procedimento administrativo ou medida de fiscalização relacionado à infração, a denúncia posterior não é espontânea para fins do art. 138."
+      "legalBasis": "CTN, art. 151, VI: o parcelamento suspende a exigibilidade; não é hipótese de extinção do crédito."
     }
   ],
   "gabaritos": [],
@@ -657,5 +657,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "ef1a9839caa7c563"
+  "contentHash": "6995ac1915f9dd4c"
 }

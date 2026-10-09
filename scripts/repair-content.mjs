@@ -171,6 +171,210 @@ const updates = new Map([
   ['direito-tributario-aula-036-q-001', {
     legalBasis: 'CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário.',
   }],
+  ['direito-tributario-aula-037-q-001', {
+    legalBasis: 'CTN, art. 151, I e VI: moratória e parcelamento suspendem a exigibilidade do crédito tributário.',
+  }],
+  ['direito-tributario-aula-037-q-004', {
+    legalBasis: 'CTN, arts. 151, 156, IV, e 175: depósito integral e parcelamento suspendem; remissão extingue; anistia exclui o crédito tributário.',
+  }],
+  ['direito-tributario-aula-037-q-005', {
+    legalBasis: 'CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário.',
+  }],
+  ['direito-tributario-aula-037-q-006', {
+    legalBasis: 'CTN, arts. 173 e 174: decadência relaciona-se à constituição do crédito; prescrição, à cobrança do crédito constituído.',
+  }],
+  ['direito-tributario-aula-037-q-008', {
+    legalBasis: 'CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário.',
+  }],
+  ['direito-tributario-aula-037-q-009', {
+    legalBasis: 'CTN, arts. 151, VI, 156, IV, e 175, II: parcelamento suspende; remissão extingue; anistia exclui o crédito tributário.',
+  }],
+  ['direito-tributario-aula-037-q-010', {
+    legalBasis: 'CTN, arts. 151, VI, 156 e 175, II: parcelamento não extingue; moratória suspende, prescrição extingue e anistia exclui o crédito tributário.',
+  }],
+  ['direito-tributario-aula-038-q-005', {
+    legalBasis: 'CTN, arts. 121, 128 e 135: a responsabilidade depende de previsão legal e, no art. 135, de atos com excesso de poderes ou infração legal, contratual ou estatutária.',
+  }],
+  ['direito-tributario-aula-038-q-008', {
+    legalBasis: 'CTN, art. 142: o lançamento constitui o crédito tributário.',
+  }],
+  ['direito-tributario-aula-038-q-009', {
+    legalBasis: 'Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos responsáveis foi notificada.',
+  }],
+  ['direito-tributario-aula-038-q-010', {
+    legalBasis: 'CTN, arts. 151, VI, e 156, IV: parcelamento suspende a exigibilidade; remissão extingue o crédito tributário.',
+  }],
+  ['direito-tributario-aula-039-q-001', {
+    legalBasis: 'CTN, art. 130: os créditos relativos ao imóvel sub-rogam-se na pessoa dos adquirentes, ressalvada a prova de quitação no título.',
+  }],
+  ['direito-tributario-aula-039-q-002', {
+    legalBasis: 'CTN, art. 130, parágrafo único: na arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço.',
+  }],
+  ['direito-tributario-aula-039-q-007', {
+    legalBasis: 'CTN, art. 133, II: a responsabilidade subsidiária subsiste quando o alienante prossegue ou inicia nova atividade no prazo legal, sem exigir que seja do mesmo ramo.',
+  }],
+  ['direito-tributario-aula-039-q-008', {
+    legalBasis: 'CTN, art. 156, IV: a remissão é hipótese de extinção do crédito tributário.',
+  }],
+  ['direito-tributario-aula-039-q-009', {
+    legalBasis: 'Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos adquirentes respondeu pelos tributos.',
+  }],
+  ['direito-tributario-aula-039-q-010', {
+    explanation: 'A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 135 trata de responsabilidade por atos com excesso de poderes ou infração legal, contratual ou estatutária, não de parcelamento.',
+    legalBasis: 'CTN, arts. 130, 132, 133 e 135: os três primeiros tratam das hipóteses de sucessão indicadas; o art. 135 trata de responsabilidade pessoal, não de parcelamento.',
+  }],
+  ['direito-tributario-aula-040-q-002', {
+    legalBasis: 'CTN, art. 135: a responsabilidade pessoal decorre de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.',
+  }],
+  ['direito-tributario-aula-040-q-010', {
+    explanation: 'A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 138 trata de denúncia espontânea, não de parcelamento.',
+  }],
+  ['direito-tributario-aula-041-q-001', {
+    legalBasis: 'CTN, art. 183: a enumeração das garantias não exclui outras expressamente previstas em lei.',
+  }],
+  ['direito-tributario-aula-041-q-002', {
+    legalBasis: 'CTN, art. 184: respondem pelo crédito tributário todos os bens e rendas do sujeito passivo, ressalvados os absolutamente impenhoráveis.',
+  }],
+  ['direito-tributario-aula-041-q-003', {
+    legalBasis: 'CTN, art. 185: presume-se fraudulenta a alienação ou oneração de bens por sujeito passivo com débito regularmente inscrito em dívida ativa, ressalvada a hipótese legal.',
+  }],
+  ['direito-tributario-aula-041-q-004', {
+    legalBasis: 'CTN, art. 185, parágrafo único: a presunção não se aplica quando tiverem sido reservados bens ou rendas suficientes ao total pagamento da dívida inscrita.',
+  }],
+  ['direito-tributario-aula-041-q-006', {
+    legalBasis: 'CTN, art. 135: a responsabilidade pessoal relaciona-se a atos com excesso de poderes ou infração de lei, contrato social ou estatutos.',
+  }],
+  ['direito-tributario-aula-041-q-007', {
+    legalBasis: 'CTN, art. 138: a denúncia apresentada após o início de procedimento administrativo ou medida de fiscalização relacionada não é espontânea.',
+  }],
+  ['direito-tributario-aula-041-q-010', {
+    legalBasis: 'CTN, arts. 138 e 151, VI: o art. 138 trata de denúncia espontânea; parcelamento é hipótese de suspensão prevista no art. 151, VI.',
+  }],
+  ['direito-tributario-aula-042-q-001', {
+    legalBasis: 'CTN, art. 195, parágrafo único: livros obrigatórios e comprovantes devem ser conservados até a prescrição dos créditos tributários decorrentes das operações.',
+  }],
+  ['direito-tributario-aula-042-q-003', {
+    legalBasis: 'CTN, art. 201: dívida ativa tributária é a proveniente de crédito dessa natureza regularmente inscrito na repartição administrativa competente, depois de esgotado o prazo de pagamento.',
+  }],
+  ['direito-tributario-aula-042-q-004', {
+    legalBasis: 'CTN, art. 204: a dívida regularmente inscrita goza de presunção relativa de certeza e liquidez, ilidível por prova inequívoca.',
+  }],
+  ['direito-tributario-aula-042-q-006', {
+    legalBasis: 'CTN, arts. 151, VI, e 206: o parcelamento suspende a exigibilidade e permite certidão positiva com efeitos de negativa, observados os requisitos legais.',
+  }],
+  ['direito-tributario-aula-042-q-007', {
+    legalBasis: 'CTN, art. 204: a presunção de certeza e liquidez da dívida inscrita é relativa e admite prova inequívoca em contrário.',
+  }],
+  ['direito-tributario-aula-042-q-009', {
+    legalBasis: 'Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos créditos possui exigibilidade suspensa.',
+  }],
+  ['direito-tributario-aula-042-q-010', {
+    legalBasis: 'CTN, art. 151, VI: o parcelamento suspende a exigibilidade; não é hipótese de extinção do crédito.',
+  }],
+  ['direito-tributario-aula-044-q-010', {
+    legalBasis: 'CTM de Queimados, art. 137: o dispositivo trata dos requisitos do auto de infração, não de certidão negativa.',
+  }],
+  ['direito-tributario-aula-045-q-001', {
+    legalBasis: 'CTM de Queimados, arts. 143 a 145: representação, requisitos e providências da autoridade competente.',
+  }],
+  ['direito-tributario-aula-045-q-002', {
+    legalBasis: 'CTM de Queimados, art. 143: qualquer pessoa pode representar o sujeito passivo nas condições legais.',
+  }],
+  ['direito-tributario-aula-045-q-003', {
+    legalBasis: 'CTM de Queimados, art. 145: recebida a representação, a autoridade competente providencia diligências para verificar sua veracidade e dá-lhe o destino cabível.',
+  }],
+  ['direito-tributario-aula-045-q-004', {
+    legalBasis: 'CTM de Queimados, art. 146: a impugnação do lançamento deve ser apresentada no prazo de 30 dias.',
+  }],
+  ['direito-tributario-aula-045-q-005', {
+    legalBasis: 'CTM de Queimados, art. 147: a impugnação instaura a fase contraditória do procedimento.',
+  }],
+  ['direito-tributario-aula-045-q-006', {
+    legalBasis: 'CTM de Queimados, art. 149: o servidor responsável pelo lançamento tem 15 dias para instruir o processo a partir do recebimento.',
+  }],
+  ['direito-tributario-aula-045-q-007', {
+    legalBasis: 'CTM de Queimados, art. 151: julgada procedente a impugnação, as importâncias depositadas são restituídas em 30 dias.',
+  }],
+  ['direito-tributario-aula-045-q-009', {
+    legalBasis: 'CTM de Queimados, art. 146: a impugnação do lançamento tem prazo de 30 dias, não 15.',
+  }],
+  ['direito-tributario-aula-045-q-010', {
+    legalBasis: 'CTM de Queimados, art. 152: a defesa contra auto de infração ou auto de apreensão tem prazo de 15 dias.',
+  }],
+  ['direito-tributario-aula-046-q-001', {
+    correctAnswer: 'B',
+    explanation: 'A alternativa B é a resposta correta: o autuado pode arrolar até 3 testemunhas.',
+    legalBasis: 'CTM de Queimados, art. 154: na defesa, o autuado pode arrolar no máximo 3 testemunhas.',
+  }],
+  ['direito-tributario-aula-046-q-002', {
+    legalBasis: 'CTM de Queimados, art. 155: o sujeito passivo pode concordar com parte da autuação, cumprir a parte aceita e contestar o restante.',
+  }],
+  ['direito-tributario-aula-046-q-003', {
+    legalBasis: 'CTM de Queimados, art. 156: apresentada a defesa, o autuante tem 15 dias para instruir o processo.',
+  }],
+  ['direito-tributario-aula-046-q-004', {
+    legalBasis: 'CTM de Queimados, art. 157: as impugnações e defesas indicadas são decididas pelo Prefeito, conforme a redação consolidada estudada.',
+  }],
+  ['direito-tributario-aula-046-q-005', {
+    legalBasis: 'CTM de Queimados, art. 158: diligências claramente inúteis ou protelatórias podem ser indeferidas.',
+  }],
+  ['direito-tributario-aula-046-q-006', {
+    legalBasis: 'CTM de Queimados, art. 158: o prazo fixado para realização das diligências e provas não pode ser superior a 30 dias.',
+  }],
+  ['direito-tributario-aula-046-q-007', {
+    legalBasis: 'CTM de Queimados, art. 163: encerradas as diligências e provas, a autoridade julgadora profere decisão em 15 dias.',
+  }],
+  ['direito-tributario-aula-046-q-008', {
+    legalBasis: 'CTM de Queimados, art. 163: se não estiver habilitada a decidir, a autoridade pode converter o julgamento em diligência e determinar novas provas.',
+  }],
+  ['direito-tributario-aula-046-q-009', {
+    legalBasis: 'CTM de Queimados, art. 164: a decisão definitiva conclui pela procedência ou improcedência do auto ou da impugnação, definindo seus efeitos.',
+  }],
+  ['direito-tributario-aula-046-q-010', {
+    legalBasis: 'CTM de Queimados, art. 165: a decisão definitiva notifica para pagamento em 15 dias, não 30.',
+  }],
+  ['direito-tributario-aula-046-q-011', {
+    legalBasis: 'CTM de Queimados, art. 165, I: após a decisão definitiva, o contribuinte é notificado para pagar em 15 dias.',
+  }],
+  ['direito-tributario-aula-046-q-012', {
+    legalBasis: 'CTM de Queimados, art. 165, III: não pago o valor no prazo, segue-se a inscrição em dívida ativa e a remessa da certidão à execução.',
+  }],
+  ['direito-tributario-aula-047-q-001', {
+    legalBasis: 'CTM de Queimados, art. 175, I: a incidência independe da legitimidade do título de aquisição da propriedade, domínio útil ou posse.',
+  }],
+  ['direito-tributario-aula-047-q-002', {
+    legalBasis: 'CTM de Queimados, art. 175, II: a incidência independe do resultado financeiro da exploração econômica do imóvel.',
+  }],
+  ['direito-tributario-aula-047-q-003', {
+    legalBasis: 'CTM de Queimados, art. 176: o IPTU constitui ônus que acompanha o imóvel nas transferências previstas.',
+  }],
+  ['direito-tributario-aula-047-q-004', {
+    legalBasis: 'CTM de Queimados, art. 177, em consonância com o CTN, art. 34: contribuinte é o proprietário, titular do domínio útil ou possuidor a qualquer título.',
+  }],
+  ['direito-tributario-aula-047-q-005', {
+    legalBasis: 'CTM de Queimados, art. 177: conhecido o proprietário, o Município dá preferência a ele como sujeito passivo, conforme a regra estudada.',
+  }],
+  ['direito-tributario-aula-047-q-006', {
+    legalBasis: 'CTM de Queimados, art. 178: sendo o adquirente imune ou isento, vencem antecipadamente as prestações vincendas e por elas responde o alienante.',
+  }],
+  ['direito-tributario-aula-047-q-007', {
+    legalBasis: 'CTM de Queimados, art. 179: na desapropriação, o marco relevante é a imissão de posse pelo poder desapropriante.',
+  }],
+  ['direito-tributario-aula-047-q-008', {
+    legalBasis: 'CTM de Queimados, art. 180: a base de cálculo do IPTU é o valor venal da unidade imobiliária.',
+  }],
+  ['direito-tributario-aula-047-q-009', {
+    legalBasis: 'CTM de Queimados, art. 175: a incidência não depende da legitimidade do título, do resultado financeiro ou do cumprimento de exigências administrativas; por isso, a alternativa D é incorreta.',
+  }],
+  ['direito-tributario-aula-047-q-010', {
+    legalBasis: 'CTM de Queimados, art. 180 e disciplina da Planta de Valores: os valores da Comissão de Avaliação dependem de aprovação por decreto do Prefeito e publicação.',
+  }],
+  ['direito-tributario-aula-047-q-011', {
+    legalBasis: 'CTM de Queimados, art. 180: a base de cálculo é o valor venal, não o lucro anual.',
+  }],
+  ['direito-tributario-aula-047-q-012', {
+    legalBasis: 'CTM de Queimados, art. 165: o débito definitivamente mantido e não pago é inscrito em dívida ativa e encaminhado à execução.',
+  }],
   ['direito-tributario-aula-040-q-001', {
     numero: 1,
     question: 'O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:',
@@ -242,6 +446,8 @@ for (const [lessonId, questionId, optionId, suffix] of [
   ['direito-tributario-aula-018', 'direito-tributario-aula-018-q-006', 'D', ' Não há'],
   ['legislacao-tributaria-de-queimados-aula-029', 'legislacao-tributaria-de-queimados-aula-029-q-008', 'D', ' Sem respostas registradas de Vinícius'],
   ['direito-tributario-aula-034', 'direito-tributario-aula-034-q-010', 'D', ' Sem respostas registradas de Vinícius'],
+  ['direito-tributario-aula-039', 'direito-tributario-aula-039-q-010', 'D', ' Não consulte o'],
+  ['direito-tributario-aula-040', 'direito-tributario-aula-040-q-010', 'D', ' As respostas ficam ocultas nesta etapa. Após a'],
 ]) {
   const entry = lessonCache.get(lessonId) ?? readLesson(lessonId);
   lessonCache.set(lessonId, entry);

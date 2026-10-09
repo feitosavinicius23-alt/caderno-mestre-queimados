@@ -106,7 +106,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Pegadinha: o art. 144 não admite representação de quem tenha sido sócio, diretor, preposto ou empregado do contribuinte quando relativa a fatos anteriores à data em que perdeu essa qualidade."
+      "legalBasis": "CTM de Queimados, arts. 143 a 145: representação, requisitos e providências da autoridade competente."
     },
     {
       "id": "direito-tributario-aula-045-q-002",
@@ -136,7 +136,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "CTM de Queimados, art. 143: qualquer pessoa pode representar o sujeito passivo nas condições legais do processo tributário."
+      "legalBasis": "CTM de Queimados, art. 143: qualquer pessoa pode representar o sujeito passivo nas condições legais."
     },
     {
       "id": "direito-tributario-aula-045-q-003",
@@ -166,7 +166,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Pegadinha: o art. 144 não admite representação de quem tenha sido sócio, diretor, preposto ou empregado do contribuinte quando relativa a fatos anteriores à data em que perdeu essa qualidade."
+      "legalBasis": "CTM de Queimados, art. 145: recebida a representação, a autoridade competente providencia diligências para verificar sua veracidade e dá-lhe o destino cabível."
     },
     {
       "id": "direito-tributario-aula-045-q-004",
@@ -196,7 +196,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Cuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado."
+      "legalBasis": "CTM de Queimados, art. 146: a impugnação do lançamento deve ser apresentada no prazo de 30 dias."
     },
     {
       "id": "direito-tributario-aula-045-q-005",
@@ -226,7 +226,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "O art. 147 traz uma expressão de prova: a impugnação INSTAURA A FASE CONTRADITÓRIA do procedimento."
+      "legalBasis": "CTM de Queimados, art. 147: a impugnação instaura a fase contraditória do procedimento."
     },
     {
       "id": "direito-tributario-aula-045-q-006",
@@ -256,7 +256,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Cuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado."
+      "legalBasis": "CTM de Queimados, art. 149: o servidor responsável pelo lançamento tem 15 dias para instruir o processo a partir do recebimento."
     },
     {
       "id": "direito-tributario-aula-045-q-007",
@@ -286,7 +286,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Restituição após impugnação procedente (art. 151) → 30 dias."
+      "legalBasis": "CTM de Queimados, art. 151: julgada procedente a impugnação, as importâncias depositadas são restituídas em 30 dias."
     },
     {
       "id": "direito-tributario-aula-045-q-008",
@@ -346,7 +346,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Cuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado."
+      "legalBasis": "CTM de Queimados, art. 146: a impugnação do lançamento tem prazo de 30 dias, não 15."
     },
     {
       "id": "direito-tributario-aula-045-q-010",
@@ -376,7 +376,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM de Queimados: representação, impugnação e defesa (arts. 143 a 153)",
-      "legalBasis": "Cuidado com a Aula 44: o art. 137 registra no auto prazo de 10 dias para pagar ou apresentar defesa e provas, enquanto o art. 152, com redação dada pela LC 005/1997, prevê 15 dias para a defesa. Para prova de literalidade, reconheça exatamente o comando e o artigo cobrado; não apague essa tensão do texto consolidado."
+      "legalBasis": "CTM de Queimados, art. 152: a defesa contra auto de infração ou auto de apreensão tem prazo de 15 dias."
     }
   ],
   "gabaritos": [],
@@ -395,5 +395,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "dc0e89a0be308add"
+  "contentHash": "1a8b0d7bece228d5"
 }

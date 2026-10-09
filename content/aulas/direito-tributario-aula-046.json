@@ -163,12 +163,12 @@
           "text": "número ilimitado."
         }
       ],
-      "correctAnswer": "C",
-      "explanation": "A alternativa C é a resposta correta: 5.",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: o autuado pode arrolar até 3 testemunhas.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Base legal da aula: CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165. O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTM de Queimados, art. 154: na defesa, o autuado pode arrolar no máximo 3 testemunhas."
     },
     {
       "id": "direito-tributario-aula-046-q-002",
@@ -198,7 +198,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "CTN, arts. 113 a 128 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 155: o sujeito passivo pode concordar com parte da autuação, cumprir a parte aceita e contestar o restante."
     },
     {
       "id": "direito-tributario-aula-046-q-003",
@@ -228,7 +228,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Não confunda com o art. 149, em que o servidor responsável pelo lançamento também tem 15 dias para instruir o processo de impugnação ao lançamento."
+      "legalBasis": "CTM de Queimados, art. 156: apresentada a defesa, o autuante tem 15 dias para instruir o processo."
     },
     {
       "id": "direito-tributario-aula-046-q-004",
@@ -258,7 +258,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "CTM de Queimados, art. 157  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 157: as impugnações e defesas indicadas são decididas pelo Prefeito, conforme a redação consolidada estudada."
     },
     {
       "id": "direito-tributario-aula-046-q-005",
@@ -288,7 +288,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Base legal da aula: CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165. O dispositivo específico deve ser conferido no trecho legal correspondente da aula."
+      "legalBasis": "CTM de Queimados, art. 158: diligências claramente inúteis ou protelatórias podem ser indeferidas."
     },
     {
       "id": "direito-tributario-aula-046-q-006",
@@ -318,7 +318,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Art. 158 → qual o prazo para deferimento e qual o máximo para realização?"
+      "legalBasis": "CTM de Queimados, art. 158: o prazo fixado para realização das diligências e provas não pode ser superior a 30 dias."
     },
     {
       "id": "direito-tributario-aula-046-q-007",
@@ -348,7 +348,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "CTM de Queimados, art. 163, — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 163: encerradas as diligências e provas, a autoridade julgadora profere decisão em 15 dias."
     },
     {
       "id": "direito-tributario-aula-046-q-008",
@@ -378,7 +378,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "O art. 161 permite ao autuado e ao impugnador participar das diligências. Suas alegações serão juntadas ao processo ou constarão do termo para apreciação no julgamento."
+      "legalBasis": "CTM de Queimados, art. 163: se não estiver habilitada a decidir, a autoridade pode converter o julgamento em diligência e determinar novas provas."
     },
     {
       "id": "direito-tributario-aula-046-q-009",
@@ -408,7 +408,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "CTM de Queimados, art. 164 — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 164: a decisão definitiva conclui pela procedência ou improcedência do auto ou da impugnação, definindo seus efeitos."
     },
     {
       "id": "direito-tributario-aula-046-q-010",
@@ -438,7 +438,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Art. 165 → prazo para pagamento após decisão definitiva?"
+      "legalBasis": "CTM de Queimados, art. 165: a decisão definitiva notifica para pagamento em 15 dias, não 30."
     },
     {
       "id": "direito-tributario-aula-046-q-011",
@@ -468,7 +468,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "Art. 165 → prazo para pagamento após decisão definitiva?"
+      "legalBasis": "CTM de Queimados, art. 165, I: após a decisão definitiva, o contribuinte é notificado para pagar em 15 dias."
     },
     {
       "id": "direito-tributario-aula-046-q-012",
@@ -498,7 +498,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: DEFESA, PROVAS, JULGAMENTO E EXECUÇÃO DAS DECISÕES — ARTS. 154 A 165",
-      "legalBasis": "CTM de Queimados, art. 165 — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTM de Queimados, art. 165, III: não pago o valor no prazo, segue-se a inscrição em dívida ativa e a remessa da certidão à execução."
     }
   ],
   "gabaritos": [],
@@ -523,5 +523,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "81c9890784a7c9d8"
+  "contentHash": "ecb9603f01f91c9a"
 }

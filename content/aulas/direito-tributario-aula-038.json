@@ -269,7 +269,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
-      "legalBasis": "CTN, arts. 121 a 135 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 121, 128 e 135: a responsabilidade depende de previsão legal e, no art. 135, de atos com excesso de poderes ou infração legal, contratual ou estatutária."
     },
     {
       "id": "direito-tributario-aula-038-q-006",
@@ -359,7 +359,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 142: o lançamento constitui o crédito tributário."
     },
     {
       "id": "direito-tributario-aula-038-q-009",
@@ -389,7 +389,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
-      "legalBasis": "CTN, arts. 121 a 135 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos responsáveis foi notificada."
     },
     {
       "id": "direito-tributario-aula-038-q-010",
@@ -419,7 +419,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: QUEM PODE SER CHAMADO A PAGAR",
-      "legalBasis": "CTN, arts. 121 a 135 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 151, VI, e 156, IV: parcelamento suspende a exigibilidade; remissão extingue o crédito tributário."
     }
   ],
   "gabaritos": [],
@@ -453,5 +453,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "f329f38f66d0cbcc"
+  "contentHash": "0c5fa1f5751d8715"
 }

@@ -431,7 +431,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CTM DE QUEIMADOS: INÍCIO DO PROCEDIMENTO, NOTIFICAÇÃO PRELIMINAR E AUTO DE INFRAÇÃO",
-      "legalBasis": "CTM de Queimados, arts. 121, 122, 124 e 126: a associação incorreta é a que atribui ao art. 126 uma isenção tributária."
+      "legalBasis": "CTM de Queimados, art. 137: o dispositivo trata dos requisitos do auto de infração, não de certidão negativa."
     }
   ],
   "gabaritos": [],
@@ -478,5 +478,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "a1daa7ce317bcfc4"
+  "contentHash": "187a677972a7349e"
 }

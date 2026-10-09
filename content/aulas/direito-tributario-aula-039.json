@@ -124,7 +124,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "Pegadinha: não transforme a regra em “todo tributo do vendedor passa ao comprador”. O art. 130 delimita os créditos relacionados ao imóvel e prevê a ressalva da prova de quitação no título."
+      "legalBasis": "CTN, art. 130: os créditos relativos ao imóvel sub-rogam-se na pessoa dos adquirentes, ressalvada a prova de quitação no título."
     },
     {
       "id": "direito-tributario-aula-039-q-002",
@@ -154,7 +154,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "Imóvel adquirido → art. 130; examine sub-rogação e prova de quitação."
+      "legalBasis": "CTN, art. 130, parágrafo único: na arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço."
     },
     {
       "id": "direito-tributario-aula-039-q-003",
@@ -304,7 +304,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "CTN, arts. 129 a 133 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 133, II: a responsabilidade subsidiária subsiste quando o alienante prossegue ou inicia nova atividade no prazo legal, sem exigir que seja do mesmo ramo."
     },
     {
       "id": "direito-tributario-aula-039-q-008",
@@ -334,7 +334,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "CTN, arts. 129 a 133 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 156, IV: a remissão é hipótese de extinção do crédito tributário."
     },
     {
       "id": "direito-tributario-aula-039-q-009",
@@ -364,7 +364,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "CTN, arts. 3º, 5º e 113 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "Interpretação textual: o termo “alguns” autoriza concluir apenas que pelo menos parte dos adquirentes respondeu pelos tributos."
     },
     {
       "id": "direito-tributario-aula-039-q-010",
@@ -386,15 +386,15 @@
         },
         {
           "id": "D",
-          "text": "art. 135 — parcelamento do crédito tributário. Não consulte o"
+          "text": "art. 135 — parcelamento do crédito tributário."
         }
       ],
       "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: art. 135 — parcelamento do crédito tributário. Não consulte o",
+      "explanation": "A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 135 trata de responsabilidade por atos com excesso de poderes ou infração legal, contratual ou estatutária, não de parcelamento.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA POR SUCESSÃO",
-      "legalBasis": "Sem consultar: contribuinte é quem possui relação pessoal e direta com a situação que constitui o fato gerador. Responsável é quem, sem revestir a condição de contribuinte, tem obrigação decorrente de disposição expressa de lei. No art. 135 do CTN, procure atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos."
+      "legalBasis": "CTN, arts. 130, 132, 133 e 135: os três primeiros tratam das hipóteses de sucessão indicadas; o art. 135 trata de responsabilidade pessoal, não de parcelamento."
     }
   ],
   "gabaritos": [],
@@ -413,5 +413,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "44c7e63432c8d2d4"
+  "contentHash": "f33cdb2be93d3eca"
 }

@@ -94,7 +94,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "CTN, art. 135 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 135: a responsabilidade pessoal decorre de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos."
     },
     {
       "id": "direito-tributario-aula-040-q-003",
@@ -326,11 +326,11 @@
         },
         {
           "id": "D",
-          "text": "138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a"
+          "text": "138 — parcelamento."
         }
       ],
       "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a",
+      "explanation": "A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 138 trata de denúncia espontânea, não de parcelamento.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
@@ -347,5 +347,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "92ef648d87fc8314"
+  "contentHash": "37a8983198055d34"
 }
