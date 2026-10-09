@@ -18,6 +18,13 @@ function candidateSentences(blocks) {
 }
 
 const manualBasis = {
+  'direito-tributario-aula-040': {
+    4: 'CTN, arts. 135 a 138: o art. 136 estabelece como regra a responsabilidade por infrações independentemente da intenção, ressalvada disposição legal em contrário; os arts. 135, 137 e 138 tratam de hipóteses específicas.',
+    5: 'CTN, art. 138: a denúncia espontânea, acompanhada dos requisitos legais, exclui a responsabilidade pela infração antes do início de procedimento administrativo ou medida de fiscalização relacionada.',
+    6: 'CTN, art. 138: não se considera espontânea a denúncia apresentada depois do início de procedimento administrativo ou medida de fiscalização relacionados com a infração.',
+    7: 'CTN, arts. 133, 135, 136 e 138: o art. 133 trata da aquisição de estabelecimento; o art. 135, do excesso de poderes ou infração; o art. 136, da regra geral sobre infrações; e o art. 138, da denúncia espontânea.',
+    10: 'CTN, arts. 130, 133, 135 e 138: a associação incorreta é a que atribui o parcelamento ao art. 138, que trata de denúncia espontânea.',
+  },
   'legislacao-tributaria-de-queimados-aula-029': {
     1: 'CTM de Queimados, art. 266, com redação dada pela LC municipal nº 093/2021: o ISS variável é recolhido mensalmente, até o dia 15 do mês subsequente ao faturamento.',
     2: 'CTM de Queimados, arts. 231, parágrafo único, e 232: a NFS-e é instrumento fiscal; a incidência depende da prestação tributável e o contribuinte é o prestador do serviço.',
@@ -58,6 +65,57 @@ const lessonArticleRanges = {
   'direito-tributario-aula-077': 'arts. 328 a 333 e CTN, art. 81',
   'direito-tributario-aula-078': 'arts. 334 a 337 e CTN, art. 81',
   'direito-tributario-aula-079': 'arts. 338 a 342',
+};
+
+manualBasis['direito-tributario-aula-008'] = {
+  5: 'CTN, arts. 134 e 135: a responsabilidade de terceiros depende das condições legais; a responsabilidade pessoal do art. 135 exige excesso de poderes ou infração de lei, contrato social ou estatutos.',
+};
+manualBasis['direito-tributario-aula-039'] = {
+  3: 'CTN, art. 131, II: o espólio responde pelos tributos devidos pelo de cujus até a data da abertura da sucessão.',
+  5: 'CTN, art. 133, I: o adquirente que continuar a exploração responde integralmente pelos tributos relativos ao estabelecimento, quando o alienante cessar a exploração da atividade.',
+};
+manualBasis['direito-tributario-aula-045'] = {
+  2: 'CTM de Queimados, art. 143: qualquer pessoa pode representar o sujeito passivo nas condições legais do processo tributário.',
+  8: 'CTM de Queimados, art. 152: a defesa contra auto de infração ou auto de apreensão deve ser apresentada no prazo de 15 dias.',
+};
+manualBasis['direito-tributario-aula-063'] = {
+  11: 'CTM de Queimados, art. 265: o prazo revisado para a comunicação indicada na questão é de 20 dias.',
+};
+manualBasis['direito-tributario-aula-066'] = {
+  10: 'CTM de Queimados, art. 291: a taxa referente aos bens apreendidos é paga de uma só vez, antes da liberação.',
+};
+manualBasis['direito-tributario-aula-069'] = {
+  1: 'CTM de Queimados, art. 294: a licença alcança as atividades previstas no dispositivo; transmissão onerosa de imóvel não integra esse rol.',
+  6: 'CTM de Queimados, arts. 294 e 297, com a redação alterada pela LC nº 026/2005: as licenças dos demais incisos do art. 294 seguem o prazo do alvará, não superior a um ano.',
+};
+manualBasis['direito-tributario-aula-071'] = {
+  4: 'CTM de Queimados, art. 308: anúncios referentes a fumo em geral recebem o tratamento previsto no dispositivo.',
+  11: 'CTM de Queimados, art. 310: a execução de obra sujeita à regra do dispositivo exige prévio pedido de licença e pagamento da taxa devida.',
+  12: 'CTM de Queimados, art. 280, VII: atraso de 61 a 90 dias no ISS corresponde à multa de 40%, conforme a escala estudada.',
+};
+manualBasis['direito-tributario-aula-074'] = {
+  15: 'CTM de Queimados, arts. 318 e 322: a isenção da taxa do comércio informal não dispensa a inscrição do contribuinte.',
+};
+manualBasis['direito-tributario-aula-075'] = {
+  17: 'CTM de Queimados, art. 322: a isenção da Taxa de Licença do comércio informal não exime o contribuinte da inscrição junto ao Fisco.',
+};
+manualBasis['direito-tributario-aula-077'] = {
+  1: 'CTM de Queimados, art. 328: a contribuição de melhoria tem como hipótese a realização de obra pública, observados os requisitos legais e a valorização imobiliária exigida pelo CTN, art. 81.',
+  3: 'CTM de Queimados, art. 328, parágrafo único, e CTN, art. 81: pavimentação de vias públicas integra o rol de obras previsto, desde que presente a valorização imobiliária e os demais requisitos legais.',
+  7: 'CTM de Queimados, art. 329, e CTN, art. 81: o limite total da contribuição de melhoria é a despesa realizada com a obra, sem prejuízo do limite individual da valorização de cada imóvel.',
+  18: 'CTM de Queimados, art. 333, e CTN, art. 81: a contribuição de melhoria constitui ônus real que acompanha o imóvel após a transmissão, conforme a disciplina legal.',
+};
+manualBasis['direito-tributario-aula-078'] = {
+  4: 'CTM de Queimados, art. 335, e CTN, art. 81: a proposta técnica das zonas de influência e dos índices é elaborada pela comissão designada e submetida à aprovação prevista no Código.',
+  8: 'CTM de Queimados, arts. 336 e 337: a base de cálculo considera o custo da obra nos termos do Código, e a variável C representa o custo da obra a ser ressarcido.',
+};
+manualBasis['direito-tributario-aula-040'] = {
+  3: 'CTN, art. 136: a responsabilidade por infrações independe da intenção do agente ou responsável, salvo disposição legal em contrário.',
+  4: 'CTN, arts. 135 a 138: o art. 136 estabelece como regra a responsabilidade por infrações independentemente da intenção, ressalvada disposição legal em contrário; os arts. 135, 137 e 138 tratam de hipóteses específicas.',
+  5: 'CTN, art. 138: a denúncia espontânea, acompanhada dos requisitos legais, exclui a responsabilidade pela infração antes do início de procedimento administrativo ou medida de fiscalização relacionada.',
+  6: 'CTN, art. 138: não se considera espontânea a denúncia apresentada depois do início de procedimento administrativo ou medida de fiscalização relacionados com a infração.',
+  7: 'CTN, arts. 133, 135, 136 e 138: o art. 133 trata da aquisição de estabelecimento; o art. 135, do excesso de poderes ou infração; o art. 136, da regra geral sobre infrações; e o art. 138, da denúncia espontânea.',
+  10: 'CTN, arts. 130, 133, 135 e 138: a associação incorreta é a que atribui o parcelamento ao art. 138, que trata de denúncia espontânea.',
 };
 
 manualBasis['legislacao-tributaria-de-queimados-aula-043'] = {

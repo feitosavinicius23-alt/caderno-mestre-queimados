@@ -64,7 +64,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "CTN, art. 134 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 136: a responsabilidade por infrações independe da intenção do agente ou responsável, salvo disposição legal em contrário."
     },
     {
       "id": "direito-tributario-aula-040-q-002",
@@ -124,7 +124,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "CTN, art. 136 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 136: a responsabilidade por infrações independe da intenção do agente ou responsável, salvo disposição legal em contrário."
     },
     {
       "id": "direito-tributario-aula-040-q-004",
@@ -154,7 +154,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis."
+      "legalBasis": "CTN, arts. 135 a 138: o art. 136 estabelece como regra a responsabilidade por infrações independentemente da intenção, ressalvada disposição legal em contrário; os arts. 135, 137 e 138 tratam de hipóteses específicas."
     },
     {
       "id": "direito-tributario-aula-040-q-005",
@@ -184,7 +184,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis."
+      "legalBasis": "CTN, art. 138: a denúncia espontânea, acompanhada dos requisitos legais, exclui a responsabilidade pela infração antes do início de procedimento administrativo ou medida de fiscalização relacionada."
     },
     {
       "id": "direito-tributario-aula-040-q-006",
@@ -214,7 +214,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis."
+      "legalBasis": "CTN, art. 138: não se considera espontânea a denúncia apresentada depois do início de procedimento administrativo ou medida de fiscalização relacionados com a infração."
     },
     {
       "id": "direito-tributario-aula-040-q-007",
@@ -244,7 +244,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis."
+      "legalBasis": "CTN, arts. 133, 135, 136 e 138: o art. 133 trata da aquisição de estabelecimento; o art. 135, do excesso de poderes ou infração; o art. 136, da regra geral sobre infrações; e o art. 138, da denúncia espontânea."
     },
     {
       "id": "direito-tributario-aula-040-q-008",
@@ -330,11 +330,11 @@
         }
       ],
       "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: 138 — parcelamento. As respostas ficam ocultas nesta etapa. Após a",
+      "explanation": "A alternativa D é a resposta porque a questão pede a associação incorreta: o art. 138 trata de denúncia espontânea, não de parcelamento.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
-      "legalBasis": "O art. 134 trabalha com situações em que há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte. Nesses casos, determinadas pessoas respondem solidariamente com ele nos atos em que intervierem ou pelas omissões de que forem responsáveis."
+      "legalBasis": "CTN, arts. 130, 133, 135 e 138: a associação incorreta é a que atribui o parcelamento ao art. 138, que trata de denúncia espontânea."
     }
   ],
   "gabaritos": [],
