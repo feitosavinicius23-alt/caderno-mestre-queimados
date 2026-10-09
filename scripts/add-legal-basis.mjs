@@ -23,7 +23,7 @@ const manualBasis = {
     2: 'CTM de Queimados, arts. 231, parágrafo único, e 232: a NFS-e é instrumento fiscal; a incidência depende da prestação tributável e o contribuinte é o prestador do serviço.',
     3: 'CTM de Queimados, arts. 232 e 233: “Contribuinte é o prestador de serviços” e o tomador pode ser responsável pelo recolhimento do imposto nas hipóteses legais.',
     4: 'CTM de Queimados, arts. 237, § 2º, 250 e 251: o arbitramento da base exige hipótese legal, critérios técnicos e procedimento fiscal motivado; não é escolha livre do agente.',
-    5: 'CTM de Queimados, art. 49, e Decreto municipal nº 3.403/2026: a prorrogação excepcional do vencimento não se confunde automaticamente com moratória.',
+    5: 'CTM de Queimados, art. 49, e Decreto Municipal nº 3.403/2026, arts. 1º a 3º: a prorrogação excepcional apenas alterou o vencimento das competências de maio e junho de 2026; o próprio decreto afirma que a medida não implica moratória e não concede anistia ou remissão do tributo.',
     6: 'CTM de Queimados, art. 237: “A base de cálculo do imposto é o preço do serviço.”',
     7: 'Constituição Federal, art. 156, § 2º, II: o ITBI compete ao Município da situação do bem, ressalvadas as hipóteses constitucionais.',
     8: 'CTN, art. 151, VI (parcelamento); art. 156, IV (remissão); e art. 175, II (anistia): os institutos produzem, respectivamente, suspensão, extinção e exclusão do crédito tributário.',
