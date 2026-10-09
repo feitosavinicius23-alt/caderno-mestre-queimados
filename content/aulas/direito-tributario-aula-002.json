@@ -226,7 +226,7 @@
         },
         {
           "id": "D",
-          "text": "Constitui atividade discricionária, permitindo à autoridad8e decidir segundo critérios de conveniência e oportunidade se constituirá o crédito."
+          "text": "Constitui atividade discricionária, permitindo à autoridade decidir segundo critérios de conveniência e oportunidade se constituirá o crédito."
         }
       ],
       "correctAnswer": "D",
@@ -264,7 +264,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito Tributário e Lançamento",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 147: o lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro, quando prestada na forma e nas condições da legislação tributária."
     },
     {
       "id": "direito-tributario-aula-002-q-004",
@@ -294,7 +294,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito Tributário e Lançamento",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 150: o lançamento por homologação ocorre quando a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, sujeito à posterior homologação."
     },
     {
       "id": "direito-tributario-aula-002-q-005",
@@ -324,7 +324,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito Tributário e Lançamento",
-      "legalBasis": "CTN, arts. 113 a 128 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, arts. 113, § 1º, e 142: a obrigação nasce com o fato gerador e o lançamento constitui o crédito tributário; a declaração prévia não é exigida em todo lançamento."
     },
     {
       "id": "direito-tributario-aula-002-q-006",
@@ -354,7 +354,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito Tributário e Lançamento",
-      "legalBasis": "CTN, arts. 113 a 128 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 149: o lançamento é efetuado ou revisto de ofício pela autoridade administrativa nas hipóteses legais, sem depender necessariamente de declaração prévia do sujeito passivo."
     }
   ],
   "gabaritos": [
@@ -404,5 +404,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "89a775a1f7a8be0b"
+  "contentHash": "1453562cb2e3dabb"
 }

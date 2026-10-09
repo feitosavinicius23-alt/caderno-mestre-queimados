@@ -187,7 +187,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Exclusão do Crédito Tributário",
-      "legalBasis": "CTN, art. 151, VI — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, arts. 151, VI, 156 e 175: parcelamento suspende a exigibilidade; remissão extingue o crédito; isenção e anistia são hipóteses de exclusão."
     },
     {
       "id": "direito-tributario-aula-005-q-005",
@@ -217,7 +217,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Exclusão do Crédito Tributário",
-      "legalBasis": "CTN, arts. 175 a 182 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 151, II, e 156, VI: o depósito do montante integral suspende a exigibilidade; sua conversão em renda extingue o crédito tributário."
     },
     {
       "id": "direito-tributario-aula-005-q-006",
@@ -247,7 +247,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Exclusão do Crédito Tributário",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 175, parágrafo único: a exclusão do crédito tributário não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal ou dela consequentes."
     }
   ],
   "gabaritos": [
@@ -327,5 +327,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "4574ad37aab14dec"
+  "contentHash": "b8416d9273322e83"
 }

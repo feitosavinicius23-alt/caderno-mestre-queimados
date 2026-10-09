@@ -126,7 +126,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
-      "legalBasis": "PRESCRIÇÃO NÃO COMEÇA, COMO REGRA DO ART. 174, SIMPLESMENTE NO FATO GERADOR."
+      "legalBasis": "CTN, arts. 173 e 174: a decadência se relaciona ao prazo para constituir o crédito tributário; a prescrição se relaciona à ação de cobrança após a constituição definitiva."
     },
     {
       "id": "direito-tributario-aula-009-q-002",
@@ -332,5 +332,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "1dc6de5bffa4ebb7"
+  "contentHash": "45d8c17c7c80b166"
 }

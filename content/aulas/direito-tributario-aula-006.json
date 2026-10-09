@@ -139,7 +139,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "TRABALHO/ACIDENTE DE TRABALHO → podem ficar à frente do crédito tributário na regra geral do art. 186."
+      "legalBasis": "CTN, art. 183: a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo."
     },
     {
       "id": "direito-tributario-aula-006-q-002",
@@ -169,7 +169,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "2-B: a troca perigosa seria deslocar o marco para o fato gerador. O art. 185 trabalha com crédito regularmente inscrito em dívida ativa."
+      "legalBasis": "CTN, art. 185: presume-se fraudulenta a alienação ou oneração de bens ou rendas por sujeito passivo em débito por crédito tributário regularmente inscrito em dívida ativa."
     },
     {
       "id": "direito-tributario-aula-006-q-003",
@@ -199,7 +199,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "CTM de Queimados, art. 185  — conferir o trecho correspondente no texto da aula."
+      "legalBasis": "CTN, art. 185, parágrafo único: a presunção de fraude não se aplica quando o devedor reservou bens ou rendas suficientes ao total pagamento da dívida inscrita."
     },
     {
       "id": "direito-tributario-aula-006-q-004",
@@ -289,7 +289,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "TRABALHO/ACIDENTE DE TRABALHO → podem ficar à frente do crédito tributário na regra geral do art. 186."
+      "legalBasis": "CTN, art. 187: no concurso de preferência entre pessoas jurídicas de direito público, a União prefere aos Estados e ao Distrito Federal, que preferem aos Municípios, observadas as regras do dispositivo."
     }
   ],
   "gabaritos": [
@@ -359,5 +359,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "9a52afcf0709f94d"
+  "contentHash": "7e8363f65fb03eaa"
 }

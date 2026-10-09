@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 43,
+  "contentVersion": 44,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-09T23:28:25.766Z",
-  "contentHashGlobal": "ebc63523d4d89b9e",
+  "ultimaSincronizacao": "2026-10-09T23:31:43.075Z",
+  "contentHashGlobal": "40e7078696b53644",
   "totalAulas": 82,
   "totalQuestoes": 527,
   "totalDisciplinas": 4,
@@ -16,7 +16,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "arquivo": "aulas/direito-tributario-aula-001.json",
-      "hash": "4d25d39bb4e7b658",
+      "hash": "5da84a3255b9e055",
       "totalQuestoes": 11,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -28,7 +28,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito Tributário e Lançamento",
       "arquivo": "aulas/direito-tributario-aula-002.json",
-      "hash": "89a775a1f7a8be0b",
+      "hash": "1453562cb2e3dabb",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -40,7 +40,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-003.json",
-      "hash": "a10e33d27b19995b",
+      "hash": "68b807a9deae6631",
       "totalQuestoes": 5,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -52,7 +52,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-004.json",
-      "hash": "ad59b7b95ae4a0ff",
+      "hash": "d1f231ebe3e23bf5",
       "totalQuestoes": 5,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -64,7 +64,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Exclusão do Crédito Tributário",
       "arquivo": "aulas/direito-tributario-aula-005.json",
-      "hash": "4574ad37aab14dec",
+      "hash": "b8416d9273322e83",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -76,7 +76,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO",
       "arquivo": "aulas/direito-tributario-aula-006.json",
-      "hash": "9a52afcf0709f94d",
+      "hash": "7e8363f65fb03eaa",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -88,7 +88,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "INFRAÇÕES, SANÇÕES E PENALIDADES TRIBUTÁRIAS",
       "arquivo": "aulas/direito-tributario-aula-007.json",
-      "hash": "3905b33bce72df2b",
+      "hash": "f8e5ddeda95d9286",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -100,7 +100,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
       "arquivo": "aulas/direito-tributario-aula-008.json",
-      "hash": "a7d550ae2c2aab2e",
+      "hash": "e7e376391eca4e58",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -112,7 +112,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "PRESCRIÇÃO E DECADÊNCIA EM PROFUNDIDADE",
       "arquivo": "aulas/direito-tributario-aula-009.json",
-      "hash": "1dc6de5bffa4ebb7",
+      "hash": "45d8c17c7c80b166",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -124,7 +124,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "SISTEMA TRIBUTÁRIO NA CONSTITUIÇÃO: PRINCÍPIOS E LIMITAÇÕES AO PODER DE TRIBUTAR",
       "arquivo": "aulas/direito-tributario-aula-010.json",
-      "hash": "1fa473d269cc8195",
+      "hash": "001a0069c233f541",
       "totalQuestoes": 6,
       "ultimaAtualizacao": "2026-10-09"
     },

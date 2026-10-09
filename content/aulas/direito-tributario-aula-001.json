@@ -417,7 +417,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário",
-      "legalBasis": "CTN, arts. 3º, 5º, 16, 77, 81 e 113 a 128 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "Constituição Federal, art. 156: compete aos Municípios instituir impostos sobre a propriedade predial e territorial urbana, serviços de qualquer natureza e transmissão onerosa inter vivos de bens imóveis; a atividade fiscalizatória, por si só, não cria automaticamente taxa."
     },
     {
       "id": "direito-tributario-aula-001-q-005",
@@ -507,7 +507,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário",
-      "legalBasis": "Lei Complementar nº 116/2003, arts. 1º a 8º — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 113, § 2º: a obrigação acessória decorre da legislação tributária e tem por objeto prestações positivas ou negativas no interesse da arrecadação ou da fiscalização dos tributos."
     },
     {
       "id": "direito-tributario-aula-001-q-008",
@@ -567,7 +567,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário",
-      "legalBasis": "CTN, arts. 3º, 5º, 16, 77, 81 e 113 a 128 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 121: sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária, podendo ser contribuinte ou responsável."
     },
     {
       "id": "direito-tributario-aula-001-q-010",
@@ -597,7 +597,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Direito Tributário",
-      "legalBasis": "CTN, art. 113, § 1º — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 113, §§ 1º e 2º: a obrigação principal tem por objeto o pagamento de tributo ou penalidade pecuniária; a obrigação acessória tem por objeto prestações positivas ou negativas no interesse da fiscalização ou arrecadação."
     },
     {
       "id": "direito-tributario-aula-001-q-011",
@@ -619,7 +619,7 @@
         },
         {
           "id": "D",
-          "text": "incorreta apenas nos casos de taxas. Pare antes do"
+          "text": "incorreta apenas nos casos de taxas."
         }
       ],
       "correctAnswer": "C",
@@ -713,5 +713,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "4d25d39bb4e7b658"
+  "contentHash": "5da84a3255b9e055"
 }

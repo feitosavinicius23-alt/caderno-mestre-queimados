@@ -139,7 +139,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
-      "legalBasis": "2. Denúncia depois de iniciada fiscalização relacionada à infração é espontânea para o art. 138? Resposta: não."
+      "legalBasis": "CTN, art. 121: contribuinte é quem tem relação pessoal e direta com a situação que constitua o respectivo fato gerador; responsável é quem, sem ser contribuinte, tem obrigação decorrente de disposição expressa de lei."
     },
     {
       "id": "direito-tributario-aula-008-q-002",
@@ -229,7 +229,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "RESPONSABILIDADE TRIBUTÁRIA: CONTRIBUINTE, RESPONSÁVEL, SUCESSORES E TERCEIROS",
-      "legalBasis": "ART. 133 — FUNDO DE COMÉRCIO/ESTABELECIMENTO. Quem adquire fundo ou estabelecimento e continua a exploração pode responder pelos tributos relativos ao fundo/estabelecimento devidos até a data do ato. Distinção de prova: ALIENANTE CESSA A EXPLORAÇÃO → responsabilidade do adquirente pode ser INTEGRAL. ALIENANTE PROSSEGUE OU INICIA, DENTRO DE 6 MESES, NOVA ATIVIDADE → responsabilidade do adquirente é SUBSIDIÁRIA. Mem…"
+      "legalBasis": "CTN, art. 133: quem adquire fundo de comércio ou estabelecimento e continua a respectiva exploração responde pelos tributos devidos até a data do ato, conforme as condições e os limites previstos no dispositivo."
     },
     {
       "id": "direito-tributario-aula-008-q-005",
@@ -390,5 +390,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "a7d550ae2c2aab2e"
+  "contentHash": "e7e376391eca4e58"
 }

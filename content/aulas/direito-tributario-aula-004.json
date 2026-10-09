@@ -168,7 +168,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "A prescrição do art. 174 é de cinco anos, contados da constituição definitiva do crédito tributário. Não confunda o marco inicial: a banca pode colocar “fato gerador” no lugar de “constituição definitiva”."
+      "legalBasis": "CTN, arts. 151, VI, e 156: o parcelamento suspende a exigibilidade do crédito, enquanto o pagamento, a remissão, a prescrição e a decadência são hipóteses de extinção."
     },
     {
       "id": "direito-tributario-aula-004-q-003",
@@ -258,7 +258,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
-      "legalBasis": "CTN, art. 151, VI — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, arts. 151, VI, 156 e 175: parcelamento suspende a exigibilidade; pagamento e remissão extinguem o crédito; isenção e anistia integram a exclusão do crédito tributário."
     }
   ],
   "gabaritos": [
@@ -316,5 +316,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "ad59b7b95ae4a0ff"
+  "contentHash": "d1f231ebe3e23bf5"
 }
