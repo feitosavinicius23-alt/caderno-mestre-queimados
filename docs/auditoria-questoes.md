@@ -7,7 +7,7 @@
 - Conteúdo analisado: 82 aulas e 527 questões.
 - Auditoria estrutural: 0 erros; sem IDs duplicados, numeração duplicada ou fragmentos de questão seguinte.
 - Auditoria de contradições evidentes: 0 alertas.
-- Validação: 0 erros.
+- Validação: 0 erros e 0 avisos.
 - Publicação verificada no Cloudflare Pages: `https://caderno-mestre-queimados.pages.dev/`.
 
 ## Lotes concluídos
@@ -27,10 +27,7 @@
 - Lote Aulas 37–47: corrigido o gabarito da questão 1 da Aula 46, de 5 para 3 testemunhas, conforme o art. 154 do CTM e o texto da própria aula; corrigidas bases legais específicas de suspensão, extinção, responsabilidade, dívida ativa, processo administrativo e IPTU; removidos fragmentos de instruções das Aulas 39 e 40. A Aula 43 foi conferida e manteve seus gabaritos.
 - Lote Aulas 63–69: corrigidos gabaritos nas Aulas 65, 66, 67 e 68 — utilização efetiva ou potencial da TSU, preço público da remoção especial, valor da iluminação, redução ambiental, faixas de atraso do ISS, cálculo por testada e relação do alvará com a licença. As bases legais do bloco foram especificadas pelos arts. 280 a 299 do CTM. As Aulas 63, 64 e 69 foram conferidas sem contradição de gabarito.
 - Lote Aulas 70–79: corrigido o gabarito da Aula 75, questão 2, de 474,20 para 7,8093 UFIR (a multa de 474,20 é específica por veículo não licenciado); especificadas as bases legais das Aulas 70–76; reconstruído o enunciado truncado da Aula 76, questão 14, com base no art. 327, § 3º, IV; e removidos fragmentos de questões seguintes das explicações. As Aulas 77–79 foram conferidas quanto às relações entre obra, valorização, edital, impugnação e limites da contribuição de melhoria.
-
-## Pendência deliberada
-
-A Aula 80 contém 20 questões de recuperação sem gabarito e sem comentário porque o documento-fonte as marcou expressamente como recuperação ativa. Elas permanecem sinalizadas para não criar respostas sem evidência legal.
+- Aula 80: preenchidos os 20 gabaritos comentados que estavam deliberadamente sem resposta no documento-fonte, usando a redação dos arts. 343 a 346, os cálculos apresentados e as regras de recuperação das Aulas 77–79. A distinção entre teto anual de 3%, limite total/individual, multa de 30% e juros de 1% foi registrada em cada questão.
 
 ## Critérios aplicados
 

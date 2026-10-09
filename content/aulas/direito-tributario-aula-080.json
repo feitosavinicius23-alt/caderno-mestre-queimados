@@ -177,11 +177,12 @@
           "text": "exclusivamente após execução fiscal."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: o art. 343 admite pagamento de uma só vez ou parcelado, conforme critérios fixados em decreto.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 343: a Contribuição de Melhoria poderá ser paga de uma só vez ou parceladamente, de acordo com critérios fixados em decreto."
     },
     {
       "id": "direito-tributario-aula-080-q-002",
@@ -206,11 +207,12 @@
           "text": "o artigo determina exatamente 10 parcelas mensais."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a incorreta: o art. 343 não determina exatamente 10 parcelas; remete os critérios do parcelamento ao decreto.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 343: o Código admite parcelamento, mas não fixa número determinado de parcelas."
     },
     {
       "id": "direito-tributario-aula-080-q-003",
@@ -235,11 +237,12 @@
           "text": "o lucro anual do contribuinte."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: o teto incide sobre o total anual do pagamento parcelado.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344: no pagamento parcelado, o total anual não pode exceder o limite calculado sobre o valor venal atualizado."
     },
     {
       "id": "direito-tributario-aula-080-q-004",
@@ -264,11 +267,12 @@
           "text": "o valor de mercado estimado pelo vizinho, sem cadastro."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a base é o valor venal do imóvel constante do cadastro imobiliário fiscal, atualizado à época da cobrança.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344: o percentual incide sobre o valor venal cadastral atualizado à época da cobrança."
     },
     {
       "id": "direito-tributario-aula-080-q-005",
@@ -293,11 +297,12 @@
           "text": "R$ 30.000."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 3% de R$ 300.000 corresponde a R$ 9.000 de teto anual.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344: R$ 300.000 × 3% = R$ 9.000."
     },
     {
       "id": "direito-tributario-aula-080-q-006",
@@ -322,11 +327,12 @@
           "text": "R$ 18.000 integralmente no primeiro ano como parcelamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 3% de R$ 200.000 é R$ 6.000 por ano; R$ 18.000 pode ser distribuído hipoteticamente em três anos nesse cenário.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344: o total anual do parcelamento não pode exceder 3% do valor venal atualizado."
     },
     {
       "id": "direito-tributario-aula-080-q-007",
@@ -351,11 +357,12 @@
           "text": "1% do custo da obra."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a multa é de 30% do valor total da Contribuição de Melhoria, não apenas da parcela vencida.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 345: atraso sujeita à multa de 30% sobre o valor total da contribuição."
     },
     {
       "id": "direito-tributario-aula-080-q-008",
@@ -380,11 +387,12 @@
           "text": "3% ao ano sobre o valor do IPTU."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: os juros são de 1% ao mês ou fração sobre o valor atualizado da parcela.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 345: juros de mora de 1% ao mês ou fração calculados sobre a parcela atualizada."
     },
     {
       "id": "direito-tributario-aula-080-q-009",
@@ -409,11 +417,12 @@
           "text": "R$ 450."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: dois meses e uma fração contam como três períodos; 3 × 1% × R$ 1.500 = R$ 45.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 345: juros de 1% ao mês ou fração sobre a parcela atualizada."
     },
     {
       "id": "direito-tributario-aula-080-q-010",
@@ -438,11 +447,12 @@
           "text": "R$ 6.000."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: 30% de R$ 20.000, valor total da contribuição, resulta em R$ 6.000.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 345: a base da multa é o valor total da contribuição, não a parcela isolada."
     },
     {
       "id": "direito-tributario-aula-080-q-011",
@@ -467,11 +477,12 @@
           "text": "a multa se transforma em desconto."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: “ou fração” inclui período inferior a um mês no cálculo dos juros.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 345: os juros incidem à razão de 1% ao mês ou fração."
     },
     {
       "id": "direito-tributario-aula-080-q-012",
@@ -496,11 +507,12 @@
           "text": "fixar IPTU federal por decreto."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: o Prefeito é autorizado a representar o Município em convênios com a União e o Estado para lançamento e arrecadação relativos a obra federal ou estadual.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 346: autorização para convênio com União e Estado visando ao lançamento e à arrecadação da contribuição devida por obra pública federal ou estadual."
     },
     {
       "id": "direito-tributario-aula-080-q-013",
@@ -525,11 +537,12 @@
           "text": "a contribuição de melhoria é necessariamente ISS."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: o art. 346 trata do lançamento e da arrecadação, por convênio, da contribuição relativa a obra federal ou estadual.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 346: o convênio não elimina os demais requisitos da Contribuição de Melhoria nem cria cobrança automática."
     },
     {
       "id": "direito-tributario-aula-080-q-014",
@@ -554,11 +567,12 @@
           "text": "o art. 346 prevê convênios com União e Estado."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a incorreta: o art. 343 não fixa diretamente 12 parcelas obrigatórias; os critérios são definidos em decreto.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, arts. 343 a 346: o parcelamento depende dos critérios do decreto; o teto anual, a mora e os convênios são tratados nos artigos seguintes."
     },
     {
       "id": "direito-tributario-aula-080-q-015",
@@ -583,11 +597,12 @@
           "text": "afirmar que existe um imóvel."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: o art. 344 limita o total anual do parcelamento, não o limite total da contribuição, que também observa custo da obra e valorização individual.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344, em conjunto com CTN, art. 81: teto anual do parcelamento não substitui os limites total e individual da contribuição."
     },
     {
       "id": "direito-tributario-aula-080-q-016",
@@ -612,11 +627,12 @@
           "text": "15 dias do pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: o art. 339 fixa 30 dias contados da publicação do edital.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 339: a impugnação dos elementos do edital deve ser apresentada em 30 dias da publicação."
     },
     {
       "id": "direito-tributario-aula-080-q-017",
@@ -641,11 +657,12 @@
           "text": "da última prestação."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: a impugnação escrita do lançamento conta 30 dias do recebimento da notificação de lançamento.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 341, parágrafo único: prazo de 30 dias contado do recebimento da notificação."
     },
     {
       "id": "direito-tributario-aula-080-q-018",
@@ -670,11 +687,12 @@
           "text": "R$ 30.000."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: R$ 300.000 × 10 ÷ (2 × 250) = R$ 6.000.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 337, I: fórmula preliminar CM = C × T ÷ (2 × L), observados os limites legais."
     },
     {
       "id": "direito-tributario-aula-080-q-019",
@@ -699,11 +717,12 @@
           "text": "desconto de 3% em qualquer pagamento."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: “não exceda a 3%” indica proibição de ultrapassar esse teto.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344: o total anual não pode exceder 3% do valor venal atualizado."
     },
     {
       "id": "direito-tributario-aula-080-q-020",
@@ -728,11 +747,12 @@
           "text": "o recurso administrativo de um contribuinte necessariamente suspende todas as obras e todos os créditos de terceiros."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: o teto anual considera o valor venal cadastral atualizado e não afasta o limite individual baseado na valorização do imóvel.",
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
+      "legalBasis": "CTM de Queimados, art. 344, em conjunto com CTN, art. 81: o parcelamento tem teto anual próprio, mantendo os limites total e individual da contribuição."
     }
   ],
   "gabaritos": [],
@@ -772,5 +792,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "e52d6cde2c8b47ff"
+  "contentHash": "b5e9e83b64b2f912"
 }
