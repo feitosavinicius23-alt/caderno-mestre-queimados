@@ -230,7 +230,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
+      "legalBasis": "Lei Complementar nº 116/2003, arts. 1º a 8º — conferir o dispositivo aplicado à alternativa no texto da aula."
     },
     {
       "id": "direito-tributario-aula-076-q-005",
@@ -410,7 +410,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "Pegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes."
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-011",
@@ -735,5 +735,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "31e2288c3ff5dc66"
+  "contentHash": "042fe49e801447ca"
 }

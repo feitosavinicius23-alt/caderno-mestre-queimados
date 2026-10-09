@@ -39,8 +39,8 @@
     {
       "id": "direito-tributario-aula-040-q-001",
       "lessonId": "direito-tributario-aula-040",
-      "numero": 1,
-      "question": "O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:",
+      "numero": 3,
+      "question": "Art. 136 — responsabilidade por infrações Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato. A palavra de prova é: INDEPENDE DA INTENÇÃO. A IAN pode construir um distrator dizendo que toda infração tributária exige comprovação de dolo. Isso contraria a regra geral do art. 136. Mas cuidado com absolutismos: o próprio artigo começa com “salvo disposição de lei em contrário”. Portanto, não transforme a regra em “jamais se considera intenção”. 4. Art. 137 — responsabilidade pessoal do agente O CTN prevê hipóteses em que a responsabilidade é pessoal ao agente, especialmente quando a infração é conceituada por lei como crime ou contravenção, ressalvadas as situações previstas no próprio dispositivo; quando há dolo específico do agente; e nas hipóteses legais envolvendo determinadas pessoas contra aqueles por quem respondem. Para a prova, a distinção central é: 136 → regra geral sobre responsabilidade por infrações. 137 → hipóteses de responsabilidade pessoal do agente. 5. Art. 138 — denúncia espontânea Este artigo é extremamente importante. A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, quando for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa quando o montante depender de apuração. Mas existe uma trava decisiva: NÃO se considera espontânea a denúncia apresentada APÓS O INÍCIO de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração. Macete: ANTES DA FISCALIZAÇÃO → pode haver espontaneidade, preenchidos os requisitos. DEPOIS DE INICIADA A FISCALIZAÇÃO RELACIONADA → perdeu a espontaneidade. Não confunda denúncia espontânea com anistia. ANISTIA → exclusão do crédito tributário, nos termos do art. 175, relacionada às infrações abrangidas pela lei. DENÚNCIA ESPONTÂNEA → exclusão da responsabilidade pela infração nas condições do art. 138. 6. Mapa cumulativo dos arts. 128 a 138 128 → lei pode atribuir responsabilidade a terceiro vinculado ao fato gerador. 130 → imóveis. 131 → sucessão pessoal/espólio. 132 → fusão, transformação e incorporação. 133 → aquisição de estabelecimento. 134 → terceiros: impossibilidade + ato/omissão. 135 → responsabilidade pessoal: excesso de poderes/infração. 136 → infração: regra geral independe da intenção. 137 → responsabilidade pessoal do agente em hipóteses legais. 138 → denúncia espontânea. 7. Recuperação espaçada Sem olhar para trás, complete mentalmente: Parcelamento → __________ da exigibilidade. Remissão → __________ do crédito. Isenção e anistia → __________ do crédito. Decadência → prazo ligado à __________. Prescrição → prazo ligado à __________. Art. 133 → aquisição de __________. Art. 135 → excesso de poderes ou __________. 8. Teste cumulativo — NÃO consultar o material e NÃO ver resposta antes de responder 1. O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:",
       "options": [
         {
           "id": "A",
@@ -59,12 +59,12 @@
           "text": "concessão de parcelamento."
         }
       ],
-      "correctAnswer": "B",
-      "explanation": "A alternativa B é a resposta correta: a responsabilidade de terceiros depende da impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte e dos atos ou omissões previstos em lei.",
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: existência obrigatória de crime tributário.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "RESPONSABILIDADE TRIBUTÁRIA DE TERCEIROS (CTN, ART. 134)",
-      "legalBasis": "CTN, art. 134: terceiros podem responder nas condições legais quando há impossibilidade de exigir o cumprimento da obrigação principal pelo contribuinte e intervenção ou omissão do terceiro."
+      "topic": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
+      "legalBasis": "CTN, art. 136: a responsabilidade por infrações independe da intenção do agente ou responsável, salvo disposição legal em contrário."
     },
     {
       "id": "direito-tributario-aula-040-q-002",
@@ -347,5 +347,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "acc5d128b693ab53"
+  "contentHash": "1ead40d12beae397"
 }

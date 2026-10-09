@@ -260,7 +260,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "CTM de Queimados, art. 332, § 2º: nos bens indivisos, o lançamento pode ser feito em nome de qualquer um dos titulares, que poderá exigir dos demais as parcelas que lhes couberem."
+      "legalBasis": "Atenção: para a cobrança válida no sistema tributário brasileiro, o art. 81 do CTN vincula a contribuição a obra pública DA QUAL DECORRA VALORIZAÇÃO IMOBILIÁRIA. A formulação municipal, isoladamente, não autoriza cobrar de qualquer imóvel por qualquer obra sem valorização. A contribuição de melhoria não é taxa de serviço nem imposto sobre a propriedade."
     },
     {
       "id": "direito-tributario-aula-077-q-003",
@@ -710,7 +710,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "CTM de Queimados, art. 332, § 2º: nos bens indivisos, o lançamento pode ser feito em nome de qualquer um dos titulares, que poderá exigir dos demais as parcelas que lhes couberem."
+      "legalBasis": "Atenção: para a cobrança válida no sistema tributário brasileiro, o art. 81 do CTN vincula a contribuição a obra pública DA QUAL DECORRA VALORIZAÇÃO IMOBILIÁRIA. A formulação municipal, isoladamente, não autoriza cobrar de qualquer imóvel por qualquer obra sem valorização. A contribuição de melhoria não é taxa de serviço nem imposto sobre a propriedade."
     },
     {
       "id": "direito-tributario-aula-077-q-018",
@@ -845,5 +845,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "f42fea769867096a"
+  "contentHash": "8dd423457a484ede"
 }

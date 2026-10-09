@@ -252,7 +252,7 @@
       "id": "direito-tributario-aula-001-b38",
       "tipo": "gabarito-comentado",
       "titulo": "12. GABARITO COMENTADO PARA AUTOCORREÇÃO POSTERIOR",
-      "texto": "Use apenas depois de responder.\n\n1 — B.\nA está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente.\n\n2 — B.\nTransmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade.\n\n3 — B.\n\nA multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória.\n\n4 — C.\n\nO responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal.\n\n 5 — C.\n\nI e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar.\n\n6 — C.\n\nEssa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário."
+      "texto": "Use apenas depois de responder.\n\n1 — B.\nA está errada porque a obrigação principal também pode ter por objeto penalidade pecuniária. C descreve obrigação acessória. D cria uma facultatividade inexistente.\n\n2 — B.\n\nTransmitir declaração é dever instrumental ligado à fiscalização. Não é pagamento, crédito constituído nem penalidade.\n\n3 — B.\n\nA multa não vira tributo. O dever de pagar a penalidade pecuniária integra obrigação principal. A origem em uma obrigação acessória não transforma a multa em obrigação acessória.\n\n4 — C.\n\nO responsável não precisa ser a pessoa com relação pessoal e direta com o fato gerador; essa característica é do contribuinte. A responsabilidade decorre de disposição legal.\n\n 5 — C.\n\nI e II estão corretas. III está errada: obrigação acessória não é facultativa apenas porque não exista tributo a pagar.\n\n6 — C.\n\nEssa diferença deve ficar automática: fato gerador → obrigação; lançamento → crédito tributário."
     },
     {
       "id": "direito-tributario-aula-001-b39",
@@ -452,7 +452,7 @@
     {
       "id": "direito-tributario-aula-001-q-006",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 6,
+      "numero": 1,
       "question": "De acordo com o Código Tributário Nacional, a obrigação tributária principal:",
       "options": [
         {
@@ -482,7 +482,7 @@
     {
       "id": "direito-tributario-aula-001-q-007",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 7,
+      "numero": 2,
       "question": "Uma empresa é obrigada pela legislação a transmitir determinada declaração fiscal. A transmissão da declaração constitui:",
       "options": [
         {
@@ -512,7 +512,7 @@
     {
       "id": "direito-tributario-aula-001-q-008",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 8,
+      "numero": 3,
       "question": "O contribuinte deixa de cumprir obrigação acessória e, em razão disso, a legislação prevê multa. Assinale a alternativa CORRETA:",
       "options": [
         {
@@ -542,7 +542,7 @@
     {
       "id": "direito-tributario-aula-001-q-009",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 9,
+      "numero": 4,
       "question": "É INCORRETO afirmar que:",
       "options": [
         {
@@ -572,7 +572,7 @@
     {
       "id": "direito-tributario-aula-001-q-010",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 10,
+      "numero": 5,
       "question": "Considere as assertivas: I. Multa tributária não é tributo. II. O pagamento de penalidade pecuniária pode integrar a obrigação tributária principal. III. Obrigação acessória é necessariamente facultativa quando não existe tributo a pagar. Está correto o que se afirma em:",
       "options": [
         {
@@ -602,7 +602,7 @@
     {
       "id": "direito-tributario-aula-001-q-011",
       "lessonId": "direito-tributario-aula-001",
-      "numero": 11,
+      "numero": 6,
       "question": "Quando uma alternativa afirma que “o lançamento faz nascer a obrigação tributária”, a afirmação deve ser tratada, em regra, como:",
       "options": [
         {
@@ -713,5 +713,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "0a531890b0dd6d0a"
+  "contentHash": "34dffe8b08dc1d9e"
 }
