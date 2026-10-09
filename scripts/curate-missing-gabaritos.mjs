@@ -62,6 +62,29 @@ for (const [lessonId, mapping] of Object.entries(answers)) {
     question.gabaritoOculto = false;
     updated++;
   }
+  for (const question of data.questoes ?? []) {
+    if (!question.correctAnswer || question.explanation) continue;
+    const option = question.options.find((item) => item.id === question.correctAnswer);
+    if (!option) continue;
+    question.explanation = `A alternativa ${option.id} é a resposta correta: ${option.text}`;
+    question.gabaritoOculto = false;
+    updated++;
+  }
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
+}
+for (const fileName of fs.readdirSync(dir).filter((name) => name.endsWith('.json'))) {
+  const file = path.join(dir, fileName);
+  const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+  let changed = false;
+  for (const question of data.questoes ?? []) {
+    if (!question.correctAnswer || question.explanation) continue;
+    const option = question.options.find((item) => item.id === question.correctAnswer);
+    if (!option) continue;
+    question.explanation = `A alternativa ${option.id} é a resposta correta: ${option.text}`;
+    question.gabaritoOculto = false;
+    updated++;
+    changed = true;
+  }
+  if (changed) fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
 }
 console.log(`Gabaritos preenchidos: ${updated}`);
