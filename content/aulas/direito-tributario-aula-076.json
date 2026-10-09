@@ -132,7 +132,7 @@
         },
         {
           "id": "D",
-          "text": "480 UFIRQ."
+          "text": "480 UFIRQ. 2) A falta de inscrição cadastral de atividades sujeitas à tributação municipal corresponde a:"
         }
       ],
       "correctAnswer": "B",
@@ -162,7 +162,7 @@
         },
         {
           "id": "D",
-          "text": "550 UFIRQ."
+          "text": "550 UFIRQ. 3) A apresentação de declaração relativa a bens sujeitos à tributação municipal com omissão ou dados inverídicos corresponde a:"
         }
       ],
       "correctAnswer": "C",
@@ -192,7 +192,7 @@
         },
         {
           "id": "D",
-          "text": "600 UFIRQ."
+          "text": "600 UFIRQ. 4) O mesmo vício de omissão ou dados inverídicos em documentos relativos a atividades sujeitas à tributação municipal corresponde a:"
         }
       ],
       "correctAnswer": "A",
@@ -222,7 +222,7 @@
         },
         {
           "id": "D",
-          "text": "300 UFIRQ."
+          "text": "300 UFIRQ. 5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:"
         }
       ],
       "correctAnswer": "D",
@@ -230,7 +230,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "Lei Complementar nº 116/2003, arts. 1º a 8º — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-005",
@@ -252,7 +252,7 @@
         },
         {
           "id": "D",
-          "text": "200 UFIRQ."
+          "text": "200 UFIRQ. 6) Não comunicar no prazo alteração de ordem IMOBILIÁRIA que modifique fato antes registrado:"
         }
       ],
       "correctAnswer": "B",
@@ -282,7 +282,7 @@
         },
         {
           "id": "D",
-          "text": "300 UFIRQ."
+          "text": "300 UFIRQ. 7) Deixar de apresentar tempestivamente elementos básicos do fato gerador ou base de cálculo do ISS, nas condições do inciso VII:"
         }
       ],
       "correctAnswer": "A",
@@ -312,7 +312,7 @@
         },
         {
           "id": "D",
-          "text": "300 UFIRQ."
+          "text": "300 UFIRQ. 8) Deixar de apresentar os mesmos elementos para o ITBI, nas condições do inciso VIII:"
         }
       ],
       "correctAnswer": "C",
@@ -342,7 +342,7 @@
         },
         {
           "id": "D",
-          "text": "480 UFIRQ."
+          "text": "480 UFIRQ. 9) Deixar de enviar à Prefeitura documento exigido por lei ou regulamento fiscal, quando obrigado:"
         }
       ],
       "correctAnswer": "B",
@@ -372,7 +372,7 @@
         },
         {
           "id": "D",
-          "text": "200 UFIRQ."
+          "text": "200 UFIRQ. 10) Negar informações ou embaraçar a ação dos agentes do Fisco:"
         }
       ],
       "correctAnswer": "A",
@@ -402,7 +402,7 @@
         },
         {
           "id": "D",
-          "text": "600 UFIRQ."
+          "text": "600 UFIRQ. 11) Deixar de cumprir edital de interdição:"
         }
       ],
       "correctAnswer": "D",
@@ -410,7 +410,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
+      "legalBasis": "Pegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes."
     },
     {
       "id": "direito-tributario-aula-076-q-011",
@@ -432,7 +432,7 @@
         },
         {
           "id": "D",
-          "text": "200 UFIRQ."
+          "text": "200 UFIRQ. 12) Assinale a CORRETA:"
         }
       ],
       "correctAnswer": "B",
@@ -462,7 +462,7 @@
         },
         {
           "id": "D",
-          "text": "alterações imobiliárias e mercantis não comunicadas geram ambas 550 UFIRQ."
+          "text": "alterações imobiliárias e mercantis não comunicadas geram ambas 550 UFIRQ. 13) Assinale a INCORRETA:"
         }
       ],
       "correctAnswer": "C",
@@ -492,7 +492,7 @@
         },
         {
           "id": "D",
-          "text": "deixar de enviar documento fiscal obrigatório pode gerar 550 UFIRQ."
+          "text": "deixar de enviar documento fiscal obrigatório pode gerar 550 UFIRQ. 14) Sobre os incisos III e IV, julgue: I. Ambos envolvem omissão ou dados inverídicos em documentos/declarações. II. O inciso III se refere a bens; o IV, a atividades. III. Ambos trazem 300 UFIRQ."
         }
       ],
       "correctAnswer": "C",
@@ -522,7 +522,7 @@
         },
         {
           "id": "D",
-          "text": "I, II e III."
+          "text": "I, II e III. 15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:"
         }
       ],
       "correctAnswer": "D",
@@ -552,7 +552,7 @@
         },
         {
           "id": "D",
-          "text": "ISS."
+          "text": "ISS. 16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:"
         }
       ],
       "correctAnswer": "D",
@@ -582,7 +582,7 @@
         },
         {
           "id": "D",
-          "text": "200 UFIRQ."
+          "text": "200 UFIRQ. 17) A redação do §3º adotada nesta aula corresponde aos valores:"
         }
       ],
       "correctAnswer": "A",
@@ -612,7 +612,7 @@
         },
         {
           "id": "D",
-          "text": "exclusivamente em reais, sem unidade fiscal."
+          "text": "exclusivamente em reais, sem unidade fiscal. 18) Recuperação do art. 327, II (redação de 2012): exercício de atividade sujeita à taxa sem licença:"
         }
       ],
       "correctAnswer": "B",
@@ -642,7 +642,7 @@
         },
         {
           "id": "D",
-          "text": "somente multa de 7,8093 UFIR."
+          "text": "somente multa de 7,8093 UFIR. 19) Recuperação do art. 322: a isenção da Taxa de Licença do comércio informal:"
         }
       ],
       "correctAnswer": "C",
@@ -672,7 +672,7 @@
         },
         {
           "id": "D",
-          "text": "afasta a fiscalização."
+          "text": "afasta a fiscalização. 20) Recuperação de ISS: atraso de 95 dias, segundo a escada estudada do art. 280:"
         }
       ],
       "correctAnswer": "B",
@@ -735,5 +735,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "042fe49e801447ca"
+  "contentHash": "31e2288c3ff5dc66"
 }
