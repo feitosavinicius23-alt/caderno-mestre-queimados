@@ -10,12 +10,24 @@ for (const file of fs.readdirSync(dir).filter((name) => name.endsWith('.json')).
   const lesson = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
   lessons += 1;
   const seenBases = new Map();
+  const seenNumbers = new Set();
+  const seenIds = new Set();
+  const containsNextQuestion = (text) => /\.\s+\d+\)\s/.test(text ?? '');
 
   for (const question of lesson.questoes ?? []) {
     questions += 1;
     const label = `${file}: questão ${question.numero}`;
     const options = question.options ?? [];
     const answer = options.find((option) => option.id === question.correctAnswer);
+
+    if (seenNumbers.has(question.numero)) issues.push(`${label}: número duplicado na aula`);
+    seenNumbers.add(question.numero);
+    if (question.id && seenIds.has(question.id)) issues.push(`${label}: ID duplicado ${question.id}`);
+    if (question.id) seenIds.add(question.id);
+    if (containsNextQuestion(question.question)) issues.push(`${label}: enunciado contém o início de outra questão`);
+    if (options.some((option) => containsNextQuestion(option.text))) {
+      issues.push(`${label}: alternativa contém o início de outra questão`);
+    }
 
     if (!question.correctAnswer) issues.push(`${label}: sem gabarito`);
     if (question.correctAnswer && !answer) issues.push(`${label}: gabarito ${question.correctAnswer} não existe nas alternativas`);
