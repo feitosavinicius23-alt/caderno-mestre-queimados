@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 45,
+  "contentVersion": 47,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-09T23:34:13.562Z",
-  "contentHashGlobal": "836e2d2cc13bbd78",
+  "ultimaSincronizacao": "2026-10-09T23:37:55.221Z",
+  "contentHashGlobal": "95b249de9409aac5",
   "totalAulas": 82,
   "totalQuestoes": 527,
   "totalDisciplinas": 4,
@@ -280,7 +280,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Decadência e prescrição tributárias: os dois relógios de 5 anos",
       "arquivo": "aulas/direito-tributario-aula-034.json",
-      "hash": "9342567904d6b553",
+      "hash": "04c8294bac2d2522",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -292,7 +292,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Crédito tributário: suspensão, extinção e exclusão",
       "arquivo": "aulas/direito-tributario-aula-036.json",
-      "hash": "f5135ad4989ddea8",
+      "hash": "64ec8f3b87228b02",
       "totalQuestoes": 1,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -892,7 +892,7 @@
       "disciplina": "Legislação Tributária de Queimados",
       "assunto": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
       "arquivo": "aulas/legislacao-tributaria-de-queimados-aula-029.json",
-      "hash": "060fb70917f9a3ce",
+      "hash": "1b1ca48184e0aac2",
       "totalQuestoes": 8,
       "ultimaAtualizacao": "2026-10-09"
     },

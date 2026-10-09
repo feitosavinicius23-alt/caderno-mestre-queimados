@@ -152,6 +152,25 @@ const updates = new Map([
   ['direito-tributario-aula-018-q-002', {
     legalBasis: 'CTM de Queimados, arts. 154 a 165, conforme a disciplina do processo administrativo tributário: impugnação e recurso são instrumentos distintos, ainda que ambos possam integrar a defesa administrativa.',
   }],
+  ['legislacao-tributaria-de-queimados-aula-029-q-008', {
+    correctAnswer: 'A',
+    explanation: 'A alternativa A é a resposta correta: parcelamento suspende a exigibilidade; remissão extingue o crédito; anistia exclui o crédito tributário.',
+  }],
+  ['direito-tributario-aula-034-q-007', {
+    legalBasis: 'CTN, art. 142: compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, procedimento que verifica a ocorrência do fato gerador e determina o montante devido.',
+  }],
+  ['direito-tributario-aula-034-q-008', {
+    legalBasis: 'CTN, art. 113, § 3º: a obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária.',
+  }],
+  ['direito-tributario-aula-034-q-009', {
+    legalBasis: 'CTN, art. 81: a contribuição de melhoria decorre de obra pública da qual resulte valorização imobiliária, observados os limites total e individual e os demais requisitos legais.',
+  }],
+  ['direito-tributario-aula-034-q-010', {
+    legalBasis: 'CTN, arts. 113, 142 e 145: o fato gerador faz nascer a obrigação tributária; o lançamento constitui o crédito tributário e é atividade administrativa vinculada.',
+  }],
+  ['direito-tributario-aula-036-q-001', {
+    legalBasis: 'CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário.',
+  }],
   ['direito-tributario-aula-040-q-001', {
     numero: 1,
     question: 'O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:',
@@ -221,6 +240,8 @@ for (const [lessonId, questionId, optionId, suffix] of [
   ['direito-tributario-aula-016', 'direito-tributario-aula-016-q-006', 'D', ' Não há'],
   ['direito-tributario-aula-017', 'direito-tributario-aula-017-q-006', 'D', ' Não há'],
   ['direito-tributario-aula-018', 'direito-tributario-aula-018-q-006', 'D', ' Não há'],
+  ['legislacao-tributaria-de-queimados-aula-029', 'legislacao-tributaria-de-queimados-aula-029-q-008', 'D', ' Sem respostas registradas de Vinícius'],
+  ['direito-tributario-aula-034', 'direito-tributario-aula-034-q-010', 'D', ' Sem respostas registradas de Vinícius'],
 ]) {
   const entry = lessonCache.get(lessonId) ?? readLesson(lessonId);
   lessonCache.set(lessonId, entry);

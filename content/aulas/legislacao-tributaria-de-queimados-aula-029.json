@@ -316,8 +316,8 @@
           "text": "três hipóteses de suspensão. Sem respostas registradas de Vinícius, ISS local continua EM APRENDIZAGEM. Não será marcado como dominado até aparecer posteriormente em questões misturadas e haver retenção comprovada. RECUPERAÇÃO FINAL: dia ordinário do ISS variável em Queimados? O recebimento do preço é condição para o vencimento? Prorrogação é necessariamente moratória? NFS-e é fato gerador? Prestador é contribuinte ou responsável? Tomador retentor é necessariamente contribuinte? Arbitramento permite escolha livre? Qual é a base geral do ISS? REGRA DE OURO: NO ISS DE QUEIMADOS, O AGENTE FISCAL PRECISA DOMINAR NÃO SÓ A INCIDÊNCIA, MAS A MECÂNICA LOCAL: RECOLHIMENTO, DOCUMENTAÇÃO ELETRÔNICA, RETENÇÃO, RESPONSABILIDADE E ARBITRAMENTO. PROCEDIMENTO FISCAL NÃO É DISCRICIONARIEDADE PARA INVENTAR O TRIBUTO."
         }
       ],
-      "correctAnswer": "C",
-      "explanation": "A alternativa C é a resposta correta: exclusão — extinção — suspensão.",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: parcelamento suspende a exigibilidade; remissão extingue o crédito; anistia exclui o crédito tributário.",
       "gabaritoOculto": false,
       "subject": "Legislação Tributária de Queimados",
       "topic": "ISS EM QUEIMADOS: RECOLHIMENTO, RETENÇÃO, NFS-e E ARBITRAMENTO FISCAL",
@@ -361,5 +361,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "060fb70917f9a3ce"
+  "contentHash": "1b1ca48184e0aac2"
 }

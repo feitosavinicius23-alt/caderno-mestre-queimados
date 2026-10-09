@@ -23,6 +23,7 @@
 - Pós-sincronização: criada a etapa idempotente `repair-content`, executada pelo build e pelo GitHub Actions, para preservar essas correções auditadas quando o documento do Drive for reimportado.
 - Lote Aulas 1–10: corrigidas 34 referências legais deslocadas ou genéricas, incluindo CTN arts. 113, 121, 133, 138, 147, 149, 150, 151, 156, 175, 183, 185, 186 e 187 e Constituição Federal, art. 150; também corrigidos um trecho truncado de alternativa e o erro de digitação “autoridad8e”.
 - Lote Aulas 11–18: corrigidas bases legais de competência, IPTU, ITBI, ISS, taxas, contribuição de melhoria, dívida ativa, certidões e processo administrativo; removidos cinco trechos de instrução anexados às alternativas finais. Os gabaritos do lote foram mantidos após a conferência.
+- Lote Aulas 19–36: corrigido o gabarito da questão 8 da Aula 29 (parcelamento, remissão e anistia); corrigidas as bases legais das questões 7 a 10 da Aula 34; corrigida a base legal da questão cumulativa da Aula 36. Também removidos dois fragmentos de recuperação anexados a alternativas. As Aulas 19–28 não possuem questões estruturadas no JSON atual.
 
 ## Pendência deliberada
 

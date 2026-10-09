@@ -259,7 +259,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "Crédito tributário: suspensão, extinção e exclusão",
-      "legalBasis": "CTN, art. 151 — conferir o comando e a hipótese descrita no texto da aula."
+      "legalBasis": "CTN, art. 151, VI: o parcelamento suspende a exigibilidade do crédito tributário."
     }
   ],
   "gabaritos": [],
@@ -283,5 +283,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "f5135ad4989ddea8"
+  "contentHash": "64ec8f3b87228b02"
 }
