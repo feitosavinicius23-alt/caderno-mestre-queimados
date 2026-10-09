@@ -1,6 +1,6 @@
 {
-  "contentVersion": 49,
-  "geradoEm": "2026-10-09T23:45:15.785Z",
+  "contentVersion": 50,
+  "geradoEm": "2026-10-09T23:48:59.244Z",
   "total": 1852,
   "documentos": [
     {
@@ -15962,7 +15962,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "slug": "agente-fiscal-de-queimados-rj",
-      "texto": "III. Ambos trazem 300 UFIRQ."
+      "texto": "Considere: I — declaração relativa a bens com omissão ou dados inverídicos: 300 UFIRQ; II — declaração relativa a atividades com omissão ou dados inverídicos: 300 UFIRQ; III — ambos trazem 300 UFIRQ. Assinale a alternativa correta:"
     },
     {
       "tipo": "questao",

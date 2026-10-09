@@ -211,12 +211,12 @@
           "text": "474,20 UFIR."
         }
       ],
-      "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta correta: 474,20 UFIR. 3) A comunicação do inciso I deve ocorrer em:",
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: a falta de comunicação da alteração no prazo de 30 dias sujeita à multa específica de 7,8093 UFIR.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
-      "legalBasis": "Compare com o art. 300: o prazo de 30 dias já aparecia. Não confunda 7,8093 UFIR (art. 327, I) com 26,0312 UFIR (valor mínimo de recolhimento do art. 326)."
+      "legalBasis": "CTM de Queimados, art. 327, I: alteração de razão social, ramo ou características físicas não comunicada em 30 dias sujeita à multa de 7,8093 UFIR."
     },
     {
       "id": "direito-tributario-aula-075-q-003",
@@ -745,5 +745,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "1dfe2ed39788fed6"
+  "contentHash": "51ad2c8baec07ce5"
 }

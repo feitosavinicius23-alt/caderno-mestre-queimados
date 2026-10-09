@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 49,
+  "contentVersion": 50,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-09T23:45:15.785Z",
-  "contentHashGlobal": "21b093e7caa45e03",
+  "ultimaSincronizacao": "2026-10-09T23:48:59.244Z",
+  "contentHashGlobal": "72fb11d49e93a343",
   "totalAulas": 82,
   "totalQuestoes": 527,
   "totalDisciplinas": 4,
@@ -688,7 +688,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Taxa de Licença: localização, funcionamento e publicidade — arts. 300 a 305",
       "arquivo": "aulas/direito-tributario-aula-070.json",
-      "hash": "b152f3ff7841458e",
+      "hash": "28a79ee5d01d8102",
       "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -700,7 +700,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Taxa de Licença: publicidade e execução de obras — arts. 307 a 310",
       "arquivo": "aulas/direito-tributario-aula-071.json",
-      "hash": "25a127072f5df72c",
+      "hash": "c66c228b753bae8c",
       "totalQuestoes": 12,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -712,7 +712,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "TAXA DE LICENÇA: ALVARÁ DE OBRAS + COMÉRCIO INFORMAL — ARTS. 311 A 316",
       "arquivo": "aulas/direito-tributario-aula-072.json",
-      "hash": "a600b3c7b1825906",
+      "hash": "111b3a0e38123f03",
       "totalQuestoes": 15,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -724,7 +724,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "TAXA DE LICENÇA: COMÉRCIO INFORMAL — ARTS. 317 A 322",
       "arquivo": "aulas/direito-tributario-aula-073.json",
-      "hash": "ab35e951ee4e4c15",
+      "hash": "373901ef13b49b0b",
       "totalQuestoes": 15,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -736,7 +736,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "TAXA DE LICENÇA: SUJEITO PASSIVO, BASE DE CÁLCULO, LANÇAMENTO E ARRECADAÇÃO — ARTS. 323 A 326",
       "arquivo": "aulas/direito-tributario-aula-074.json",
-      "hash": "a9b26f1f38bf7347",
+      "hash": "94e35c33d493bd85",
       "totalQuestoes": 16,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -748,7 +748,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
       "arquivo": "aulas/direito-tributario-aula-075.json",
-      "hash": "1dfe2ed39788fed6",
+      "hash": "51ad2c8baec07ce5",
       "totalQuestoes": 18,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -760,7 +760,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-076.json",
-      "hash": "56b6a2a56632d4e1",
+      "hash": "77cf1cc360a329a9",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -796,7 +796,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
       "arquivo": "aulas/direito-tributario-aula-079.json",
-      "hash": "473bc783086f1a8f",
+      "hash": "b7bc2f8ebbc29d36",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },

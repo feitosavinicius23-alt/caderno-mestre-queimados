@@ -490,11 +490,11 @@
         }
       ],
       "correctAnswer": "D",
-      "explanation": "A alternativa D é a resposta correta: relatório de todas as despesas privadas do contribuinte. 13) O prazo de impugnação escrita do art. 341, parágrafo único, é de:",
+      "explanation": "A alternativa D é a resposta correta: relatório de todas as despesas privadas do contribuinte não é conteúdo exigido da notificação do art. 341.",
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
-      "legalBasis": "Não confunda o edital do art. 338, que traz informações da obra e do rateio, com a notificação do art. 341, que comunica o lançamento e os meios/prazos de pagamento e defesa."
+      "legalBasis": "CTM de Queimados, art. 341: a notificação comunica o lançamento, valor, pagamento e defesa; não exige relatório das despesas privadas do contribuinte."
     },
     {
       "id": "direito-tributario-aula-079-q-013",
@@ -764,5 +764,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "473bc783086f1a8f"
+  "contentHash": "b7bc2f8ebbc29d36"
 }
