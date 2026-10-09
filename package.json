@@ -18,7 +18,7 @@
     "test:watch": "vitest",
     "check": "npm run typecheck && npm run lint && npm run test && npm run build",
     "validate-content": "node scripts/validate-content.mjs",
-    "audit-content": "node scripts/audit-question-consistency.mjs",
+    "audit-content": "node scripts/audit-question-consistency.mjs && node scripts/audit-obvious-contradictions.mjs",
     "import-content": "node scripts/import-content.mjs",
     "sync-content": "node scripts/sync-content.mjs",
     "build:search-index": "node scripts/build-search-index.mjs",
