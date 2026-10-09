@@ -344,7 +344,7 @@
       "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "legalBasis": "Consulte a legislação indicada no texto da aula “PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE”."
+      "legalBasis": "CTN, art. 173: o direito de a Fazenda Pública constituir o crédito tributário extingue-se após cinco anos, nos termos das hipóteses previstas no dispositivo."
     },
     {
       "id": "lingua-portuguesa-aula-035-q-008",
@@ -369,12 +369,12 @@
           "text": "é necessariamente judicial."
         }
       ],
-      "correctAnswer": "A",
-      "explanation": "A alternativa A é a resposta correta: faz nascer a obrigação tributária.",
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: o lançamento constitui o crédito tributário.",
       "gabaritoOculto": false,
       "subject": "Língua Portuguesa",
       "topic": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
-      "legalBasis": "CTN, arts. 139 a 150 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 142: compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento."
     }
   ],
   "gabaritos": [],
@@ -393,5 +393,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "10402dfbc0efe672"
+  "contentHash": "46b7a748d2276d6b"
 }

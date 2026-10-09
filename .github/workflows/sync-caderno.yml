@@ -52,11 +52,14 @@ jobs:
       - name: Importar e sincronizar
         run: npm run import-caderno
 
-      - name: Validar
-        run: npm run validate-content
-
-      - name: Build de verificação
+      - name: Build, reparar e validar conteúdo
         run: npm run build
+
+      - name: Auditoria final
+        run: npm run audit-content
+
+      - name: Validação final
+        run: npm run validate-content
 
       - name: Commit das alterações de conteúdo
         run: |

@@ -222,7 +222,7 @@
         },
         {
           "id": "D",
-          "text": "prestação de serviço privado. 2) Considerando o art. 81 do CTN, a contribuição de melhoria pressupõe:"
+          "text": "prestação de serviço privado."
         }
       ],
       "correctAnswer": "B",
@@ -252,7 +252,7 @@
         },
         {
           "id": "D",
-          "text": "qualquer taxa de limpeza. 3) Integra o rol do art. 328, parágrafo único:"
+          "text": "qualquer taxa de limpeza."
         }
       ],
       "correctAnswer": "B",
@@ -282,7 +282,7 @@
         },
         {
           "id": "D",
-          "text": "salário de empregado privado. 4) É exemplo de obra do inciso II:"
+          "text": "salário de empregado privado."
         }
       ],
       "correctAnswer": "C",
@@ -312,7 +312,7 @@
         },
         {
           "id": "D",
-          "text": "emissão de alvará. 5) Pertence ao inciso III:"
+          "text": "emissão de alvará."
         }
       ],
       "correctAnswer": "A",
@@ -342,7 +342,7 @@
         },
         {
           "id": "D",
-          "text": "construção de viaduto. 6) O inciso IV contempla:"
+          "text": "construção de viaduto."
         }
       ],
       "correctAnswer": "B",
@@ -372,7 +372,7 @@
         },
         {
           "id": "D",
-          "text": "licença de publicidade. 7) O limite TOTAL da contribuição de melhoria, conforme o art. 329, é:"
+          "text": "licença de publicidade."
         }
       ],
       "correctAnswer": "C",
@@ -402,7 +402,7 @@
         },
         {
           "id": "D",
-          "text": "o preço mensal da água. 8) Integram as despesas computáveis:"
+          "text": "o preço mensal da água."
         }
       ],
       "correctAnswer": "B",
@@ -432,7 +432,7 @@
         },
         {
           "id": "D",
-          "text": "apenas o IPTU. 9) Para cada obra ou conjunto do mesmo projeto, o §1º exige:"
+          "text": "apenas o IPTU."
         }
       ],
       "correctAnswer": "C",
@@ -462,7 +462,7 @@
         },
         {
           "id": "D",
-          "text": "apenas registro em cartório. 10) A redução do limite total autorizada ao Prefeito é:"
+          "text": "apenas registro em cartório."
         }
       ],
       "correctAnswer": "B",
@@ -492,7 +492,7 @@
         },
         {
           "id": "D",
-          "text": "proibida em qualquer hipótese. 11) O limite INDIVIDUAL do CTN é:"
+          "text": "proibida em qualquer hipótese."
         }
       ],
       "correctAnswer": "B",
@@ -522,7 +522,7 @@
         },
         {
           "id": "D",
-          "text": "a renda mensal da família. 12) Obra executada pela Administração Municipal indireta ou por convênio com o Estado:"
+          "text": "a renda mensal da família."
         }
       ],
       "correctAnswer": "A",
@@ -552,7 +552,7 @@
         },
         {
           "id": "D",
-          "text": "dispensa os demais requisitos tributários. 13) Programa ORDINÁRIO é:"
+          "text": "dispensa os demais requisitos tributários."
         }
       ],
       "correctAnswer": "B",
@@ -582,7 +582,7 @@
         },
         {
           "id": "D",
-          "text": "obra sem interesse público. 14) Programa EXTRAORDINÁRIO exige, nos termos do art. 331:"
+          "text": "obra sem interesse público."
         }
       ],
       "correctAnswer": "B",
@@ -612,7 +612,7 @@
         },
         {
           "id": "D",
-          "text": "unanimidade obrigatória. 15) Em grupo de 150 contribuintes interessados, o número mínimo de solicitações para cumprir a fração de 2/3 é:"
+          "text": "unanimidade obrigatória."
         }
       ],
       "correctAnswer": "C",
@@ -642,7 +642,7 @@
         },
         {
           "id": "D",
-          "text": "120. 16) É contribuinte da contribuição de melhoria:"
+          "text": "120."
         }
       ],
       "correctAnswer": "C",
@@ -672,7 +672,7 @@
         },
         {
           "id": "D",
-          "text": "qualquer morador de outro Município sem imóvel beneficiado. 17) Bens indivisos:"
+          "text": "qualquer morador de outro Município sem imóvel beneficiado."
         }
       ],
       "correctAnswer": "C",
@@ -702,7 +702,7 @@
         },
         {
           "id": "D",
-          "text": "exige-se necessariamente uma guia para cada herdeiro. 18) O art. 333 caracteriza a contribuição de melhoria como:"
+          "text": "exige-se necessariamente uma guia para cada herdeiro."
         }
       ],
       "correctAnswer": "B",
@@ -710,7 +710,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
-      "legalBasis": "Atenção: para a cobrança válida no sistema tributário brasileiro, o art. 81 do CTN vincula a contribuição a obra pública DA QUAL DECORRA VALORIZAÇÃO IMOBILIÁRIA. A formulação municipal, isoladamente, não autoriza cobrar de qualquer imóvel por qualquer obra sem valorização. A contribuição de melhoria não é taxa de serviço nem imposto sobre a propriedade."
+      "legalBasis": "CTM de Queimados, art. 332, § 2º: nos bens indivisos, o lançamento pode ser feito em nome de qualquer um dos titulares, que poderá exigir dos demais as parcelas que lhes couberem."
     },
     {
       "id": "direito-tributario-aula-077-q-018",
@@ -732,7 +732,7 @@
         },
         {
           "id": "D",
-          "text": "imposto sobre serviço. 19) INCORRETA — assinale:"
+          "text": "imposto sobre serviço."
         }
       ],
       "correctAnswer": "A",
@@ -762,7 +762,7 @@
         },
         {
           "id": "D",
-          "text": "A obra pode ser executada pela Administração direta ou indireta. 20) REVISÃO INTERCALADA — no art. 327, §3º, a multa pela falta de inscrição de atividades sujeitas à tributação municipal é:"
+          "text": "A obra pode ser executada pela Administração direta ou indireta."
         }
       ],
       "correctAnswer": "C",
@@ -845,5 +845,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "f42fea769867096a"
+  "contentHash": "dbdf08e83e21fedc"
 }

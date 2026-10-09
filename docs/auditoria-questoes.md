@@ -20,6 +20,7 @@
 - Aula 43: corrigido o gabarito da questão sobre faculdades fiscalizatórias; exigir livros e documentos é a alternativa compatível com o CTM, art. 122, § 1º, I.
 - Aulas 75 a 79: removidos fragmentos de questões seguintes anexados indevidamente às alternativas.
 - Aula 77: corrigida a base legal da questão sobre bens indivisos para o CTM, art. 332, § 2º; o gabarito foi mantido.
+- Pós-sincronização: criada a etapa idempotente `repair-content`, executada pelo build e pelo GitHub Actions, para preservar essas correções auditadas quando o documento do Drive for reimportado.
 
 ## Pendência deliberada
 

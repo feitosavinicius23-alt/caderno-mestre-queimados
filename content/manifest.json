@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 39,
+  "contentVersion": 43,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-09T22:44:35.391Z",
-  "contentHashGlobal": "85e939dd39598a33",
+  "ultimaSincronizacao": "2026-10-09T23:28:25.766Z",
+  "contentHashGlobal": "ebc63523d4d89b9e",
   "totalAulas": 82,
   "totalQuestoes": 527,
   "totalDisciplinas": 4,
@@ -16,7 +16,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Direito Tributário",
       "arquivo": "aulas/direito-tributario-aula-001.json",
-      "hash": "994870f6a78bff44",
+      "hash": "4d25d39bb4e7b658",
       "totalQuestoes": 11,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -340,7 +340,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "Responsabilidade tributária de terceiros, infrações e denúncia espontânea",
       "arquivo": "aulas/direito-tributario-aula-040.json",
-      "hash": "acc5d128b693ab53",
+      "hash": "92ef648d87fc8314",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -352,7 +352,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
       "arquivo": "aulas/direito-tributario-aula-041.json",
-      "hash": "0361fcd4799f4845",
+      "hash": "178c6e40c8b5b17e",
       "totalQuestoes": 10,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -748,7 +748,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — TAXA DE LICENÇA: INFRAÇÕES E PENALIDADES (ART. 327, CAPUT, INCISOS I A VI, §§ 1º E 2º)",
       "arquivo": "aulas/direito-tributario-aula-075.json",
-      "hash": "ed128c2d32a373bb",
+      "hash": "1dfe2ed39788fed6",
       "totalQuestoes": 18,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -760,7 +760,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-076.json",
-      "hash": "31e2288c3ff5dc66",
+      "hash": "56b6a2a56632d4e1",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -772,7 +772,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-077.json",
-      "hash": "f42fea769867096a",
+      "hash": "dbdf08e83e21fedc",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -784,7 +784,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
       "arquivo": "aulas/direito-tributario-aula-078.json",
-      "hash": "ee7a736f13177fdb",
+      "hash": "d8231654f4942983",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -796,7 +796,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 08/10/2026",
       "arquivo": "aulas/direito-tributario-aula-079.json",
-      "hash": "3f5e33921be21ce1",
+      "hash": "473bc783086f1a8f",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-09"
     },
@@ -928,7 +928,7 @@
       "disciplina": "Língua Portuguesa",
       "assunto": "PORTUGUÊS: INTERPRETAÇÃO DE TEXTOS E INFERÊNCIA — COMO A IAN TENTA FAZER VOCÊ MARCAR O QUE O TEXTO NÃO DISSE",
       "arquivo": "aulas/lingua-portuguesa-aula-035.json",
-      "hash": "10402dfbc0efe672",
+      "hash": "46b7a748d2276d6b",
       "totalQuestoes": 8,
       "ultimaAtualizacao": "2026-10-09"
     },

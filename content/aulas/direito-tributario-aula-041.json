@@ -293,7 +293,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "GARANTIAS E PRIVILÉGIOS DO CRÉDITO TRIBUTÁRIO (CTN, ARTS. 183 A 193)",
-      "legalBasis": "O art. 183 do CTN deixa claro que a enumeração das garantias atribuídas ao crédito tributário não exclui outras expressamente previstas em lei, em função da natureza ou das características do tributo."
+      "legalBasis": "CTN, arts. 186 e 187: o crédito tributário possui preferência, ressalvados os créditos decorrentes da legislação do trabalho ou de acidente de trabalho; a cobrança judicial segue as regras próprias do Código, inclusive quanto à falência."
     },
     {
       "id": "direito-tributario-aula-041-q-006",
@@ -497,5 +497,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "0361fcd4799f4845"
+  "contentHash": "178c6e40c8b5b17e"
 }

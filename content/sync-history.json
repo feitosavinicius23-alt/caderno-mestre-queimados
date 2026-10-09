@@ -1,6 +1,69 @@
 {
   "registros": [
     {
+      "data": "2026-10-09T23:28:25.820Z",
+      "contentVersion": 43,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-040",
+        "direito-tributario-aula-041",
+        "direito-tributario-aula-077",
+        "lingua-portuguesa-aula-035"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 7,
+      "status": "success"
+    },
+    {
+      "data": "2026-10-09T23:27:47.863Z",
+      "contentVersion": 42,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-040",
+        "direito-tributario-aula-041",
+        "direito-tributario-aula-077",
+        "lingua-portuguesa-aula-035"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 7,
+      "status": "success"
+    },
+    {
+      "data": "2026-10-09T23:27:44.901Z",
+      "contentVersion": 41,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-076",
+        "direito-tributario-aula-079"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 5,
+      "status": "success"
+    },
+    {
+      "data": "2026-10-09T23:26:11.439Z",
+      "contentVersion": 40,
+      "novasAulas": [],
+      "aulasModificadas": [
+        "direito-tributario-aula-001",
+        "direito-tributario-aula-040",
+        "direito-tributario-aula-041",
+        "direito-tributario-aula-075",
+        "direito-tributario-aula-076",
+        "direito-tributario-aula-077",
+        "direito-tributario-aula-078",
+        "direito-tributario-aula-079",
+        "lingua-portuguesa-aula-035"
+      ],
+      "aulasRemovidas": [],
+      "questoesAdicionadas": 0,
+      "arquivosAlterados": 25,
+      "status": "success"
+    },
+    {
       "data": "2026-10-09T22:44:35.408Z",
       "contentVersion": 39,
       "novasAulas": [],
