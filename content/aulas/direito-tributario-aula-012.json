@@ -144,7 +144,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "CTN, arts. 113 a 128 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 32: o imposto, de competência dos Municípios, tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou acessão física localizado na zona urbana."
     },
     {
       "id": "direito-tributario-aula-012-q-002",
@@ -174,7 +174,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "Para o CTN, a zona urbana é definida em lei municipal. Como regra do art. 32, §1º, exige-se a existência de pelo menos 2 dos 5 melhoramentos, construídos ou mantidos pelo Poder Público: I — meio-fio ou calçamento, com canalização de águas pluviais; II — abastecimento de água; III — sistema de esgotos sanitários; IV — rede de iluminação pública, com ou sem posteamento para distribuição domiciliar; V — escola primár…"
+      "legalBasis": "CTN, art. 32, § 1º: considera-se zona urbana a definida em lei municipal, observada a existência de pelo menos dois dos melhoramentos públicos enumerados no dispositivo."
     },
     {
       "id": "direito-tributario-aula-012-q-003",
@@ -204,7 +204,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "CTN, arts. 32 a 34 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "CTN, art. 33: a base de cálculo do imposto é o valor venal do imóvel."
     },
     {
       "id": "direito-tributario-aula-012-q-004",
@@ -234,7 +234,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "CTN, arts. 32 a 34 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 34: contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título."
     },
     {
       "id": "direito-tributario-aula-012-q-005",
@@ -264,7 +264,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "CTN, arts. 32 a 34 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "Constituição Federal, art. 156, § 1º, I e II: o IPTU pode ser progressivo em razão do valor do imóvel e ter alíquotas diferentes de acordo com a localização e o uso do imóvel."
     },
     {
       "id": "direito-tributario-aula-012-q-006",
@@ -294,7 +294,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "IPTU: INCIDÊNCIA, CONTRIBUINTE, BASE DE CÁLCULO E PROGRESSIVIDADE",
-      "legalBasis": "CTN, arts. 32 a 34 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, art. 32, § 2º: a lei municipal pode considerar urbanas as áreas urbanizáveis ou de expansão urbana constantes de loteamentos aprovados, destinados à habitação, indústria ou comércio, mesmo fora das zonas definidas no § 1º."
     }
   ],
   "gabaritos": [
@@ -344,5 +344,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "d2310eed6d79af9e"
+  "contentHash": "680a9a863dcae8cb"
 }

@@ -181,7 +181,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "CTN, arts. 113 a 128 — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "Lei Complementar nº 116/2003, art. 1º: o ISS tem como fato gerador a prestação dos serviços constantes da lista anexa, ainda que esses não se constituam como atividade preponderante do prestador."
     },
     {
       "id": "direito-tributario-aula-014-q-002",
@@ -211,7 +211,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
+      "legalBasis": "Lei Complementar nº 116/2003, arts. 3º, 4º, 7º e 8º: o local da incidência, a caracterização do estabelecimento, a base de cálculo e as alíquotas observam a disciplina nacional, com as exceções do art. 3º."
     },
     {
       "id": "direito-tributario-aula-014-q-003",
@@ -241,7 +241,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "A regra geral da LC 116 é que o serviço considera-se devido no local do estabelecimento prestador ou, na falta deste, no domicílio do prestador. Porém, o art. 3º traz diversas exceções em que o imposto é devido em outro local indicado pela própria lei complementar."
+      "legalBasis": "Lei Complementar nº 116/2003, arts. 2º, I, e 3º: a exportação de serviços não sofre incidência quando o resultado se verifica no exterior; a regra do local do estabelecimento prestador possui as exceções do art. 3º."
     },
     {
       "id": "direito-tributario-aula-014-q-004",
@@ -271,7 +271,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
+      "legalBasis": "CTN, arts. 33 e 38, e Lei Complementar nº 116/2003, art. 7º: o IPTU tem base no valor venal do imóvel, enquanto a base de cálculo do ISS é o preço do serviço."
     },
     {
       "id": "direito-tributario-aula-014-q-005",
@@ -301,7 +301,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "A regra geral da LC 116 é que o serviço considera-se devido no local do estabelecimento prestador ou, na falta deste, no domicílio do prestador. Porém, o art. 3º traz diversas exceções em que o imposto é devido em outro local indicado pela própria lei complementar."
+      "legalBasis": "Lei Complementar nº 116/2003, arts. 1º, 3º, 7º e 8º: o serviço da lista pode ser tributado mesmo sem ser atividade preponderante; há exceções ao local do estabelecimento e a alíquota máxima nacional é de 5%."
     },
     {
       "id": "direito-tributario-aula-014-q-006",
@@ -323,7 +323,7 @@
         },
         {
           "id": "D",
-          "text": "correta se a alíquota for inferior a 5%. Registre mentalmente ou no estudo suas respostas 1 a 6. O"
+          "text": "correta se a alíquota for inferior a 5%."
         }
       ],
       "correctAnswer": "B",
@@ -331,7 +331,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ISS: INCIDÊNCIA, LISTA DE SERVIÇOS, LOCAL DA INCIDÊNCIA, BASE DE CÁLCULO E ALÍQUOTAS",
-      "legalBasis": "Trocar “preço do serviço” por “valor venal”; afirmar que o serviço precisa ser atividade preponderante; dizer que todo serviço do exterior está fora do ISS; transformar pagamento vindo do exterior em exportação automática; dizer que o ISS é sempre devido no estabelecimento prestador, apagando as exceções do art. 3º; confundir contribuinte com responsável; afirmar que qualquer atividade criada por lei municipal pod…"
+      "legalBasis": "Constituição Federal, art. 156, III, e Lei Complementar nº 116/2003, art. 1º: o Município institui ISS observando a lista de serviços definida em lei complementar nacional."
     }
   ],
   "gabaritos": [],
@@ -377,5 +377,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "7515f888f2af753b"
+  "contentHash": "a7bbbec952e2a2a7"
 }

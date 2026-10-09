@@ -199,7 +199,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
-      "legalBasis": "O art. 81 trabalha com dois limites clássicos:"
+      "legalBasis": "CTN, art. 81: a contribuição de melhoria tem como limite total a despesa realizada e como limite individual o acréscimo de valor que da obra resultar para cada imóvel beneficiado."
     },
     {
       "id": "direito-tributario-aula-016-q-004",
@@ -281,7 +281,7 @@
         },
         {
           "id": "D",
-          "text": "ITBI. Não há"
+          "text": "ITBI."
         }
       ],
       "correctAnswer": "A",
@@ -289,7 +289,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "CONTRIBUIÇÃO DE MELHORIA: OBRA PÚBLICA, VALORIZAÇÃO E LIMITES",
-      "legalBasis": "CTN, arts. 81 e 82 — conferir o inciso ou parágrafo correspondente no texto da aula."
+      "legalBasis": "CTN, arts. 77 e 79: serviço público específico e divisível, de utilização compulsória e efetivamente posto à disposição, pode fundamentar taxa de serviço, inclusive pela utilização potencial nas condições legais."
     }
   ],
   "gabaritos": [],
@@ -329,5 +329,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "fd5cf80fabb80999"
+  "contentHash": "141302913fb1c382"
 }

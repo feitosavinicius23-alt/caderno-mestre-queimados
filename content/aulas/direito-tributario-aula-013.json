@@ -305,7 +305,7 @@
         },
         {
           "id": "D",
-          "text": "a imunidade depende exclusivamente do domicílio dos sócios. NÃO HÁ"
+          "text": "a imunidade depende exclusivamente do domicílio dos sócios."
         }
       ],
       "correctAnswer": "B",
@@ -313,7 +313,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ITBI: FATO GERADOR, ONEROSIDADE, COMPETÊNCIA TERRITORIAL E IMUNIDADE",
-      "legalBasis": "Lei Complementar nº 116/2003, arts. 1º a 8º — conferir o dispositivo aplicado à alternativa no texto da aula."
+      "legalBasis": "Constituição Federal, art. 156, § 2º, I: o ITBI não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital nem sobre transmissão decorrente de fusão, incorporação, cisão ou extinção, ressalvada a atividade preponderante prevista no dispositivo."
     }
   ],
   "gabaritos": [],
@@ -361,5 +361,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "e8da60ed72a1ce23"
+  "contentHash": "afa0ca5cff013025"
 }

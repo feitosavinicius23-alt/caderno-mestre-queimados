@@ -205,7 +205,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
-      "legalBasis": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
+      "legalBasis": "CTN, art. 204, parágrafo único: a dívida regularmente inscrita goza de presunção de certeza e liquidez, que pode ser ilidida por prova inequívoca a cargo do sujeito passivo ou de terceiro interessado."
     },
     {
       "id": "direito-tributario-aula-017-q-003",
@@ -235,7 +235,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
-      "legalBasis": "Exemplo: contribuinte possui crédito tributário com exigibilidade suspensa por parcelamento. Isso não significa necessariamente que receberá uma certidão “positiva simples”; o art. 206 deve ser lembrado."
+      "legalBasis": "CTN, art. 206: tem os mesmos efeitos da certidão negativa a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva com penhora efetivada ou cuja exigibilidade esteja suspensa."
     },
     {
       "id": "direito-tributario-aula-017-q-004",
@@ -317,7 +317,7 @@
         },
         {
           "id": "D",
-          "text": "ITBI → transmissão causa mortis gratuita. Não há"
+          "text": "ITBI → transmissão causa mortis gratuita."
         }
       ],
       "correctAnswer": "B",
@@ -325,7 +325,7 @@
       "gabaritoOculto": false,
       "subject": "Direito Tributário",
       "topic": "ADMINISTRAÇÃO TRIBUTÁRIA: FISCALIZAÇÃO, SIGILO FISCAL, DÍVIDA ATIVA E CERTIDÕES",
-      "legalBasis": "Qual a diferença entre lançamento e inscrição em dívida ativa? A presunção da dívida ativa é absoluta ou relativa? Quais três situações do art. 206 permitem CPEN? Taxa de serviço exige quais características? Contribuição de melhoria exige quais elementos? ISS tem qual base? ITBI é inter vivos oneroso ou causa mortis gratuito? Decadência é prazo para constituir ou cobrar?"
+      "legalBasis": "CTN, arts. 77, 79 e 81: taxa de serviço exige serviço específico e divisível; contribuição de melhoria pressupõe obra pública da qual decorra valorização imobiliária."
     }
   ],
   "gabaritos": [],
@@ -369,5 +369,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "28e3bd076e33bad7"
+  "contentHash": "c0f1ca4644697693"
 }

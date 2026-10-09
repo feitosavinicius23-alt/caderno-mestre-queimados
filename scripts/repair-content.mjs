@@ -89,6 +89,69 @@ const updates = new Map([
   ['direito-tributario-aula-010-q-006', {
     legalBasis: 'Constituição Federal, art. 150, III: a anterioridade anual e a noventena são regras constitucionais, ressalvadas as exceções previstas na própria Constituição.',
   }],
+  ['direito-tributario-aula-011-q-005', {
+    legalBasis: 'Constituição Federal, arts. 145, 156 e 158: competência tributária é o poder de instituir tributos; a repartição de receitas não altera o ente competente; IPTU, ITBI e ISS são impostos municipais.',
+  }],
+  ['direito-tributario-aula-012-q-001', {
+    legalBasis: 'CTN, art. 32: o imposto, de competência dos Municípios, tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou acessão física localizado na zona urbana.',
+  }],
+  ['direito-tributario-aula-012-q-002', {
+    legalBasis: 'CTN, art. 32, § 1º: considera-se zona urbana a definida em lei municipal, observada a existência de pelo menos dois dos melhoramentos públicos enumerados no dispositivo.',
+  }],
+  ['direito-tributario-aula-012-q-003', {
+    legalBasis: 'CTN, art. 33: a base de cálculo do imposto é o valor venal do imóvel.',
+  }],
+  ['direito-tributario-aula-012-q-004', {
+    legalBasis: 'CTN, art. 34: contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.',
+  }],
+  ['direito-tributario-aula-012-q-005', {
+    legalBasis: 'Constituição Federal, art. 156, § 1º, I e II: o IPTU pode ser progressivo em razão do valor do imóvel e ter alíquotas diferentes de acordo com a localização e o uso do imóvel.',
+  }],
+  ['direito-tributario-aula-012-q-006', {
+    legalBasis: 'CTN, art. 32, § 2º: a lei municipal pode considerar urbanas as áreas urbanizáveis ou de expansão urbana constantes de loteamentos aprovados, destinados à habitação, indústria ou comércio, mesmo fora das zonas definidas no § 1º.',
+  }],
+  ['direito-tributario-aula-013-q-006', {
+    legalBasis: 'Constituição Federal, art. 156, § 2º, I: o ITBI não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital nem sobre transmissão decorrente de fusão, incorporação, cisão ou extinção, ressalvada a atividade preponderante prevista no dispositivo.',
+  }],
+  ['direito-tributario-aula-014-q-001', {
+    legalBasis: 'Lei Complementar nº 116/2003, art. 1º: o ISS tem como fato gerador a prestação dos serviços constantes da lista anexa, ainda que esses não se constituam como atividade preponderante do prestador.',
+  }],
+  ['direito-tributario-aula-014-q-002', {
+    legalBasis: 'Lei Complementar nº 116/2003, arts. 3º, 4º, 7º e 8º: o local da incidência, a caracterização do estabelecimento, a base de cálculo e as alíquotas observam a disciplina nacional, com as exceções do art. 3º.',
+  }],
+  ['direito-tributario-aula-014-q-003', {
+    legalBasis: 'Lei Complementar nº 116/2003, arts. 2º, I, e 3º: a exportação de serviços não sofre incidência quando o resultado se verifica no exterior; a regra do local do estabelecimento prestador possui as exceções do art. 3º.',
+  }],
+  ['direito-tributario-aula-014-q-004', {
+    legalBasis: 'CTN, arts. 33 e 38, e Lei Complementar nº 116/2003, art. 7º: o IPTU tem base no valor venal do imóvel, enquanto a base de cálculo do ISS é o preço do serviço.',
+  }],
+  ['direito-tributario-aula-014-q-005', {
+    legalBasis: 'Lei Complementar nº 116/2003, arts. 1º, 3º, 7º e 8º: o serviço da lista pode ser tributado mesmo sem ser atividade preponderante; há exceções ao local do estabelecimento e a alíquota máxima nacional é de 5%.',
+  }],
+  ['direito-tributario-aula-014-q-006', {
+    legalBasis: 'Constituição Federal, art. 156, III, e Lei Complementar nº 116/2003, art. 1º: o Município institui ISS observando a lista de serviços definida em lei complementar nacional.',
+  }],
+  ['direito-tributario-aula-015-q-003', {
+    legalBasis: 'CTN, art. 79: os serviços públicos para fins de taxa devem ser específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição.',
+  }],
+  ['direito-tributario-aula-016-q-003', {
+    legalBasis: 'CTN, art. 81: a contribuição de melhoria tem como limite total a despesa realizada e como limite individual o acréscimo de valor que da obra resultar para cada imóvel beneficiado.',
+  }],
+  ['direito-tributario-aula-016-q-006', {
+    legalBasis: 'CTN, arts. 77 e 79: serviço público específico e divisível, de utilização compulsória e efetivamente posto à disposição, pode fundamentar taxa de serviço, inclusive pela utilização potencial nas condições legais.',
+  }],
+  ['direito-tributario-aula-017-q-002', {
+    legalBasis: 'CTN, art. 204, parágrafo único: a dívida regularmente inscrita goza de presunção de certeza e liquidez, que pode ser ilidida por prova inequívoca a cargo do sujeito passivo ou de terceiro interessado.',
+  }],
+  ['direito-tributario-aula-017-q-003', {
+    legalBasis: 'CTN, art. 206: tem os mesmos efeitos da certidão negativa a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva com penhora efetivada ou cuja exigibilidade esteja suspensa.',
+  }],
+  ['direito-tributario-aula-017-q-006', {
+    legalBasis: 'CTN, arts. 77, 79 e 81: taxa de serviço exige serviço específico e divisível; contribuição de melhoria pressupõe obra pública da qual decorra valorização imobiliária.',
+  }],
+  ['direito-tributario-aula-018-q-002', {
+    legalBasis: 'CTM de Queimados, arts. 154 a 165, conforme a disciplina do processo administrativo tributário: impugnação e recurso são instrumentos distintos, ainda que ambos possam integrar a defesa administrativa.',
+  }],
   ['direito-tributario-aula-040-q-001', {
     numero: 1,
     question: 'O art. 134 do CTN relaciona a responsabilidade de terceiros, entre outros requisitos, à:',
@@ -148,6 +211,23 @@ for (const [questionId, patch] of updates) {
   const option = q?.options.find((item) => item.id === 'D');
   if (option && option.text.endsWith(' Pare antes do')) {
     option.text = option.text.slice(0, -' Pare antes do'.length);
+    changed++;
+  }
+}
+
+for (const [lessonId, questionId, optionId, suffix] of [
+  ['direito-tributario-aula-013', 'direito-tributario-aula-013-q-006', 'D', ' NÃO HÁ'],
+  ['direito-tributario-aula-014', 'direito-tributario-aula-014-q-006', 'D', ' Registre mentalmente ou no estudo suas respostas 1 a 6. O'],
+  ['direito-tributario-aula-016', 'direito-tributario-aula-016-q-006', 'D', ' Não há'],
+  ['direito-tributario-aula-017', 'direito-tributario-aula-017-q-006', 'D', ' Não há'],
+  ['direito-tributario-aula-018', 'direito-tributario-aula-018-q-006', 'D', ' Não há'],
+]) {
+  const entry = lessonCache.get(lessonId) ?? readLesson(lessonId);
+  lessonCache.set(lessonId, entry);
+  const question = entry.data.questoes.find((item) => item.id === questionId);
+  const option = question?.options.find((item) => item.id === optionId);
+  if (option?.text.endsWith(suffix)) {
+    option.text = option.text.slice(0, -suffix.length);
     changed++;
   }
 }
