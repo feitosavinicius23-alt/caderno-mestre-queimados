@@ -135,11 +135,12 @@
           "text": "480 UFIRQ. 2) A falta de inscrição cadastral de atividades sujeitas à tributação municipal corresponde a:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 200 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Código Tributário Municipal — Art. 327, §3º: 11 multas por descumprimento de obrigações acessórias"
     },
     {
       "id": "direito-tributario-aula-076-q-002",
@@ -164,11 +165,12 @@
           "text": "550 UFIRQ. 3) A apresentação de declaração relativa a bens sujeitos à tributação municipal com omissão ou dados inverídicos corresponde a:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 600 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “AGENTE FISCAL DE QUEIMADOS/RJ”."
     },
     {
       "id": "direito-tributario-aula-076-q-003",
@@ -193,11 +195,12 @@
           "text": "600 UFIRQ. 4) O mesmo vício de omissão ou dados inverídicos em documentos relativos a atividades sujeitas à tributação municipal corresponde a:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 300 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “AGENTE FISCAL DE QUEIMADOS/RJ”."
     },
     {
       "id": "direito-tributario-aula-076-q-004",
@@ -222,11 +225,12 @@
           "text": "300 UFIRQ. 5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: 300 UFIRQ. 5) Omitir comunicação tempestiva de alteração MOBILIÁRIA/MERCANTIL que modifique ou extinga fato antes registrado sujeita à multa de:",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-005",
@@ -251,11 +255,12 @@
           "text": "200 UFIRQ. 6) Não comunicar no prazo alteração de ordem IMOBILIÁRIA que modifique fato antes registrado:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 500 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-006",
@@ -280,11 +285,12 @@
           "text": "300 UFIRQ. 7) Deixar de apresentar tempestivamente elementos básicos do fato gerador ou base de cálculo do ISS, nas condições do inciso VII:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 480 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-007",
@@ -309,11 +315,12 @@
           "text": "300 UFIRQ. 8) Deixar de apresentar os mesmos elementos para o ITBI, nas condições do inciso VIII:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: 550 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-008",
@@ -338,11 +345,12 @@
           "text": "480 UFIRQ. 9) Deixar de enviar à Prefeitura documento exigido por lei ou regulamento fiscal, quando obrigado:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 520 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-009",
@@ -367,11 +375,12 @@
           "text": "200 UFIRQ. 10) Negar informações ou embaraçar a ação dos agentes do Fisco:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 550 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-010",
@@ -396,11 +405,12 @@
           "text": "600 UFIRQ. 11) Deixar de cumprir edital de interdição:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: 600 UFIRQ. 11) Deixar de cumprir edital de interdição:",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Pegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes."
     },
     {
       "id": "direito-tributario-aula-076-q-011",
@@ -425,11 +435,12 @@
           "text": "200 UFIRQ. 12) Assinale a CORRETA:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: 300 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Pegadinha: a multa por descumprir edital de interdição não é automaticamente a mesma penalidade por exercer atividade sem licença (art. 327, II). São hipóteses diferentes."
     },
     {
       "id": "direito-tributario-aula-076-q-012",
@@ -454,11 +465,12 @@
           "text": "alterações imobiliárias e mercantis não comunicadas geram ambas 550 UFIRQ. 13) Assinale a INCORRETA:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: não inscrever bens = 200 UFIRQ; não inscrever atividades = 600 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Consulte a legislação indicada no texto da aula “AGENTE FISCAL DE QUEIMADOS/RJ”."
     },
     {
       "id": "direito-tributario-aula-076-q-013",
@@ -483,11 +495,12 @@
           "text": "deixar de enviar documento fiscal obrigatório pode gerar 550 UFIRQ. 14) Sobre os incisos III e IV, julgue: I. Ambos envolvem omissão ou dados inverídicos em documentos/declarações. II. O inciso III se refere a bens; o IV, a atividades. III. Ambos trazem 300 UFIRQ."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta porque a questão pede a exceção ou a afirmação incorreta: não apresentar elementos básicos para ITBI integra o grupo de 550 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-014",
@@ -512,11 +525,12 @@
           "text": "I, II e III. 15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: I, II e III. 15) EXCETO: pertencem ao grupo de 520 UFIRQ do inciso VIII, EXCETO:",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-015",
@@ -541,11 +555,12 @@
           "text": "ISS. 16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta porque a questão pede a exceção ou a afirmação incorreta: ISS. 16) Uma empresa deixou de apresentar elementos básicos relativos à Taxa de Fiscalização de Transportes Coletivos de Passageiros. Assinale:",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-016",
@@ -570,11 +585,12 @@
           "text": "200 UFIRQ. 17) A redação do §3º adotada nesta aula corresponde aos valores:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "A",
+      "explanation": "A alternativa A é a resposta correta: 550 UFIRQ.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Nota técnica: o inciso I do caput do art. 327 também traz hipótese específica de alteração de razão social/ramo/características físicas não comunicada em 30 dias e multa de 7,8093 UFIR. NÃO tratar os dois textos como se fossem uma única penalidade, nem presumir cumulação automática: analisar o enquadramento específico, o fato e a vigência."
     },
     {
       "id": "direito-tributario-aula-076-q-017",
@@ -599,11 +615,12 @@
           "text": "exclusivamente em reais, sem unidade fiscal. 18) Recuperação do art. 327, II (redação de 2012): exercício de atividade sujeita à taxa sem licença:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: inteiros em UFIRQ da LC 062/2012.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Base: Código Tributário Municipal de Queimados (LC 001/1995), texto consolidado pela Procuradoria em 03/05/2024, páginas 113–115, e alteração expressa da LC 062/2012, art. 30. O consolidado reproduz também uma redação anterior (LC 034/2006), com valores fracionários em UFIR. PARA ESTA AULA, UTILIZAR A REDAÇÃO MAIS RECENTE APRESENTADA NO §3º: VALORES INTEIROS EM UFIRQ (2012). Não misturar 200/600/300 com 205,6468/6…"
     },
     {
       "id": "direito-tributario-aula-076-q-018",
@@ -628,11 +645,12 @@
           "text": "somente multa de 7,8093 UFIR. 19) Recuperação do art. 322: a isenção da Taxa de Licença do comércio informal:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "C",
+      "explanation": "A alternativa C é a resposta correta: interdição até 30 dias e multa de 100% do valor da taxa.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Retomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%."
     },
     {
       "id": "direito-tributario-aula-076-q-019",
@@ -657,11 +675,12 @@
           "text": "afasta a fiscalização. 20) Recuperação de ISS: atraso de 95 dias, segundo a escada estudada do art. 280:"
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "B",
+      "explanation": "A alternativa B é a resposta correta: não exime da inscrição junto ao Fisco.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Retomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%."
     },
     {
       "id": "direito-tributario-aula-076-q-020",
@@ -686,11 +705,12 @@
           "text": "50%."
         }
       ],
-      "correctAnswer": "",
-      "explanation": "",
-      "gabaritoOculto": true,
+      "correctAnswer": "D",
+      "explanation": "A alternativa D é a resposta correta: 50%.",
+      "gabaritoOculto": false,
       "subject": "Direito Tributário",
-      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "legalBasis": "Retomada de 24–72h: art. 327, II (atividade sem licença) = interdição até 30 dias + multa de 100% da taxa; reincidência do inciso III = interdição até regularização. Comércio informal: isenção do art. 322 NÃO dispensa inscrição. Art. 324: atividade secundária, nas condições legais, = 20%. Art. 326: até 3 parcelas, mínimo 26,0312 UFIR. ISS art. 280: 75 dias de atraso = 40%, 95 dias = 50%."
     }
   ],
   "gabaritos": [],
