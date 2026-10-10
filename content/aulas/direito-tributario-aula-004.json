@@ -6,7 +6,7 @@
   "disciplina": "Direito Tributário",
   "assunto": "EXTINÇÃO DO CRÉDITO TRIBUTÁRIO",
   "ordem": 4,
-  "data": "2026-10-09",
+  "data": "2026-10-10",
   "tempoEstimadoMin": 3,
   "resumo": "SUSPENDER = PAUSAR A COBRANÇA.\nEXTINGUIR = ENCERRAR O CRÉDITO.\nDECADÊNCIA = PERDE LANÇAR.\nPRESCRIÇÃO = PERDE COBRAR.\nREMISSÃO = EXTINÇÃO.\nPARCELAMENTO = SUSPENSÃO.\n.",
   "conteudo": [
@@ -315,6 +315,6 @@
   "tags": [],
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
-  "ultimaAtualizacao": "2026-10-09",
-  "contentHash": "d1f231ebe3e23bf5"
+  "ultimaAtualizacao": "2026-10-10",
+  "contentHash": "55378218c1b4b359"
 }
