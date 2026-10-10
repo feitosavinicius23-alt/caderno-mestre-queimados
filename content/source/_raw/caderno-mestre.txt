@@ -15882,3 +15882,91 @@ Q24 — REVISÃO 339/341. Os 30 dias para impugnar o edital e os 30 dias para im
 Status: 24 questões NÃO RESPONDIDAS; não atribuir percentual, erro ou domínio. Após respostas, para cada erro registrar: questão, alternativa marcada, causa provável (literalidade, confusão solidariedade/substituição, imunidade, condicionantes, SV31, memória), regra correta, distrator e revisão em 24h, 72h e 7 dias. Considerar dominado apenas após acerto em testes mistos posteriores. Recuperar também questões pendentes das Aulas 79–81, sem inventar desempenho.
 PONTO DE CONTINUIDADE: AULA 83 — ART. 357 (INCISOS I–VI) E ARTS. 358–360, COM REVISÃO DE SOLIDARIEDADE E TAXA AMBIENTAL.
 FIM DA AULA 82.
+
+
+
+
+
+
+===== AULA 86 — AGENTE FISCAL QUEIMADOS/RJ — 10/10/2026, 15h =====
+CÓDIGO TRIBUTÁRIO MUNICIPAL — ARTS. 372 A 376 — VISTORIAS, FATOR DE LOCALIZAÇÃO E REVISÃO DO IPTU
+Duração orientativa: 45–55 minutos. Objetivo: reconhecer redação atualizada do art. 372, Anexo VIII, classificação Q1/Q2/Q3, revisão de ofício por erro de fato e marco temporal de remembramento/desmembramento. Continuidade exata da Aula 85 (arts. 367–371). Questões autorais, não atribuídas à IAN; respostas NÃO reveladas.
+Fontes de conferência: LC municipal 093/2021 (https://www.queimados.rj.leg.br/leis/legislacao-municipal/leis-complementares/lc-093-21-plc-129-2021-msg-033-2021-altera-a-lc-001-95-codigo-tributario-iss-e-taxas-doq-225.pdf); consolidação municipal 03/05/2024 (https://transparencia.queimados.rj.gov.br/webrun/tmp/lai_lei_IPTU/BAD60E2A-8C15-460B-B163-5CC207C4BDEB_codigo-tributario.pdf); consolidação histórica 2006 (https://asdinq.org.br/legislacoes/Codigo%20Tributario%20do%20%20Municipio%20de%20Queimados.pdf). Verificar alterações posteriores antes de usar valores como cobrança efetiva. Não houve validação integral do edital anexado nem dos oito cadernos IAN/arquivo de 911 questões nesta execução.
+1. RECUPERAÇÃO ATIVA DA AULA 85 (NÃO OLHAR RESPOSTAS)
+R1. A fiscalização do transporte de passageiros é apenas anual ou também permanente?
+R2. Quem é o contribuinte da taxa do art. 368?
+R3. Qual anexo está associado ao art. 369?
+R4. O art. 370 fixa multa única de 50% ou remete a outro artigo?
+R5. Quem regulamenta obrigações acessórias segundo o art. 371?
+2. ART. 372 — ATENÇÃO À REDAÇÃO NOVA
+A LC 093/2021 alterou o título e a redação do art. 372: TAXA DE VISTORIA DE OBRAS, EQUIPAMENTOS E ADMINISTRATIVAS NÃO ESPECIFICADAS. Materiais anteriores podem trazer “Obras, Veículos e Equipamentos”; não memorizar esse título antigo como atual. A cobrança está ligada à vistoria e ao exame de parques, circos e loteamentos sob o aspecto da segurança contra acidentes pessoais e dos limites estabelecidos em leis e regulamentos. A taxa remete ao ANEXO VIII, que a LC 093/2021 também atualizou.
+Explicação: um parque de diversões instalado no Município pode demandar exame de equipamentos e condições de segurança. A fiscalização verifica conformidade; o pagamento da taxa não equivale a aprovação automática nem dispensa as demais exigências administrativas.
+Pegadinha 1: substituir “segurança contra acidentes pessoais” por “apuração do lucro do empresário”.
+Pegadinha 2: confundir Anexo VIII (vistoria) com VII (transporte de passageiros) ou VI (ocupação de solo público).
+Pegadinha 3: usar a denominação antiga do art. 372.
+ANEXO VIII, TABELA HISTÓRICA ALTERADA EM 2021:
+Item 1 — vistoria administrativa não especificada: 26,0312 UFIR/ano.
+Item 2 — vistoria de equipamentos de diversões públicas: 26,0312 UFIR/ano.
+Item 3.1 — vistoria de obras: 26,0312 UFIR por vistoria.
+Item 4 — vistoria de loteamentos: 26,0312 UFIR por vistoria.
+A unidade de incidência importa: ANO não é a mesma coisa que POR VISTORIA. Valores em UFIR são referências da tabela consultada, não valores atuais convertidos em reais.
+Exemplo de cálculo (didático, sem converter UFIR em reais): três vistorias de obras ao valor histórico de 26,0312 UFIR cada = 78,0936 UFIR. A cobrança real exige confirmação de normas e valores vigentes.
+3. ART. 373 — ZONAS FISCAIS E FATOR DE LOCALIZAÇÃO
+Para obter o Fator de Localização, o Município é dividido em ZONAS FISCAIS. A Secretaria Municipal de Economia e Finanças discrimina essas zonas ANTES DO TÉRMINO DE CADA EXERCÍCIO, com validade PARA O EXERCÍCIO SEGUINTE.
+Exemplo: zonas discriminadas antes do fim de 2026 destinam-se ao exercício de 2027, conforme o comando temporal do artigo. Isso não equivale a dizer que a Secretaria só pode agir após 1º de janeiro.
+Pegadinha: trocar “antes do término” por “após o término”; trocar “exercício seguinte” por “mesmo exercício”.
+4. ART. 374 — LOGRADOURO FISCAL Q1, Q2 E Q3
+O artigo classifica logradouros para determinação do valor do metro quadrado, segundo suas características.
+Q1: imóveis em logradouros COM PAVIMENTAÇÃO OU CALÇAMENTO.
+Q2: imóveis em logradouros NÃO PAVIMENTADOS OU CALÇADOS, mas COM serviço de limpeza e conservação de vias e logradouros públicos OU serviço de coleta e remoção de lixo.
+Q3: imóveis que NÃO se enquadrem em Q1 nem Q2 (categoria residual).
+Exemplo A: rua asfaltada = Q1, mesmo que também haja coleta de lixo; a pavimentação é o critério decisivo.
+Exemplo B: rua sem pavimento, com coleta de lixo = Q2.
+Exemplo C: rua sem pavimento, sem os serviços descritos em Q2 = Q3.
+Pegadinha: Q2 não exige simultaneamente limpeza/conservação E coleta de lixo; o texto usa OU. Q3 não significa obrigatoriamente área rural: é o enquadramento residual do artigo.
+Mapa de memória: 1=PAVIMENTADA; 2=SEM PAVIMENTO + SERVIÇO; 3=DEMAIS.
+5. ART. 375 — REVISÃO DE OFÍCIO POR ERRO DE FATO CADASTRAL
+O lançamento será revisto de ofício na hipótese de erro de fato em dados cadastrais, incluindo 14 categorias expressas:
+I área construída; II idade do imóvel; III tipologia; IV utilização; V posição em relação ao logradouro; VI logradouro de tributação; VII área territorial; VIII testada real; IX situação na quadra; X seção e trecho; XI identidade da propriedade, número ou complemento; XII acidentação; XIII restrição legal; XIV drenagem.
+Exemplos: cadastro informa 80 m² construídos, mas levantamento técnico comprova 130 m²: possível erro de fato na área construída. Cadastro registra uso residencial quando o imóvel é efetivamente utilizado como comercial: possível erro de fato na utilização. Revisão de ofício não significa que o fisco pode alterar valores sem fundamento e sem observar garantias procedimentais.
+§1º: as situações do inciso XIII (RESTRIÇÃO LEGAL), quando NÃO constituírem situações físicas, somente serão consideradas se averbadas no Registro de Imóveis OU constarem de projetos aprovados. Cuidado: exigência específica para restrição legal não física; não aplicar automaticamente a todos os 14 incisos.
+§2º: se sujeito passivo/responsável não fornecer elementos necessários à identificação do imóvel, impedir sua obtenção pela Secretaria, ou fornecê-los insuficientemente, a base de cálculo será fixada mediante ARBITRAMENTO de área, idade, tipologia, utilização, posição, testada ou situação, conforme o texto. Arbitramento não é penalidade automática nem licença para valor aleatório: exige critério legal e motivação.
+Pegadinhas: confundir ERRO DE FATO com simples mudança de interpretação jurídica; trocar “será revisto de ofício” por “somente mediante requerimento”; afirmar que restrição legal não física independe de registro/projeto; afirmar que arbitramento é proibido diante de omissão cadastral.
+6. ART. 376 — REMEMBRAMENTO E DESMEMBRAMENTO
+Para imóveis objeto de remembramento ou desmembramento, considera-se ocorrido o fato gerador NO PRIMEIRO DIA DO EXERCÍCIO SEGUINTE AO ANO DA RESPECTIVA AVERBAÇÃO NO REGISTRO DE IMÓVEIS.
+Remembramento: reunião de imóveis/parcelas. Desmembramento: divisão. Exemplo temporal: averbação em 17/08/2026 -> marco indicado no art. 376 é 01/01/2027. A data decisiva é a AVERBAÇÃO, não simplesmente a assinatura de contrato, protocolo do pedido ou início da obra.
+Pegadinha: confundir ano da averbação com exercício seguinte; confundir averbação com mero pedido.
+7. INTERCALAÇÃO DE PORTUGUÊS E RACIOCÍNIO
+“Ou” em Q2 apresenta alternativas de serviços; “somente” no §1º do art. 375 restringe a consideração da restrição legal não física; “antes” e “seguinte” no art. 373 são marcadores temporais; “quando” no §2º do art. 375 introduz hipóteses condicionantes; “de ofício” significa iniciativa administrativa, não revisão arbitrária.
+Mini-exercício resolvido de interpretação: “não pavimentado, mas com coleta de lixo” contém oposição introduzida por “mas” e satisfaz a descrição de Q2, sem exigir pavimentação.
+8. TESTE DE RECUPERAÇÃO — 24 QUESTÕES AUTORAIS (SEM GABARITO)
+Q01. A redação do art. 372 após LC 093/2021 denomina a taxa: A) Vistoria de Obras, Equipamentos e Administrativas Não Especificadas; B) IPVA Municipal; C) Fiscalização de Transportes Escolares; D) ISS de Diversões.
+Q02 — INCORRETA. O art. 372 contempla: A) parques; B) circos; C) loteamentos; D) exclusivamente o lucro líquido de concessionárias.
+Q03. A finalidade destacada no art. 372 é: A) valorização imobiliária por obra pública; B) segurança contra acidentes pessoais e limites legais; C) tributação da renda; D) arrecadação federal.
+Q04. O anexo do art. 372 é: A) VI; B) VII; C) VIII; D) IX.
+Q05. Na tabela histórica do Anexo VIII, a vistoria de obras é expressa: A) por vistoria; B) por passageiro; C) por viagem; D) por litro.
+Q06. Três vistorias de obras a 26,0312 UFIR por vistoria totalizam: A) 26,0312; B) 52,0624; C) 78,0936; D) 104,1248 UFIR.
+Q07. No art. 373, as zonas fiscais são discriminadas: A) após cada exercício; B) antes do término de cada exercício; C) apenas a cada década; D) exclusivamente por juiz.
+Q08. As zonas fiscais discriminadas antes do término do exercício valem, pelo art. 373, para: A) exercício seguinte; B) cinco exercícios anteriores; C) mesmo dia apenas; D) nenhum exercício.
+Q09. Rua pavimentada enquadra-se no art. 374 como: A) Q3; B) Q2; C) Q1; D) sem classificação.
+Q10. Rua sem pavimento, mas com coleta e remoção de lixo, corresponde a: A) Q1; B) Q2; C) Q3; D) zona federal.
+Q11 — EXCETO. São descrições compatíveis com o art. 374, EXCETO: A) Q1 tem pavimentação ou calçamento; B) Q2 não tem pavimentação, mas possui serviço indicado; C) Q3 é residual; D) Q2 exige necessariamente pavimentação.
+Q12. O art. 375 permite revisão de ofício do lançamento por: A) erro de fato cadastral; B) mero gosto do fiscal; C) preferência partidária; D) renda do vizinho.
+Q13. Qual item está expressamente listado no art. 375? A) idade do imóvel; B) cor do carro do proprietário; C) estado civil do fiscal; D) consumo de combustível do vizinho.
+Q14 — ASSERTIVAS. I. Área construída é dado listado. II. Drenagem é dado listado. III. Testada real é dado listado. A) só I; B) só II; C) I e II; D) I, II e III.
+Q15. Restrição legal não física (art. 375, §1º) exige, para ser considerada: A) mera afirmação verbal sem documentação; B) averbação no Registro de Imóveis ou constar de projeto aprovado; C) votação popular; D) pagamento de ISS.
+Q16. Se o responsável impede a obtenção de dados necessários à identificação do imóvel, o art. 375, §2º, prevê: A) arbitramento da base de cálculo conforme os elementos legais; B) cancelamento automático do IPTU; C) dispensa de cadastro; D) cobrança de IPVA.
+Q17 — INCORRETA. A respeito do arbitramento: A) pode decorrer de insuficiência de dados; B) pode considerar área do imóvel; C) pode considerar tipologia; D) é necessariamente um valor escolhido sem fundamento.
+Q18. A averbação de desmembramento ocorreu em 2026. Pelo art. 376, o marco do fato gerador indicado será: A) 01/01/2026; B) dia do contrato particular; C) 01/01/2027; D) somente em 2030.
+Q19. O art. 376 menciona expressamente: A) remembramento ou desmembramento; B) somente locação de móveis; C) importação de mercadorias; D) contribuições sindicais.
+Q20 — PORTUGUÊS. Em “somente serão consideradas”, “somente” indica: A) restrição; B) oposição; C) adição; D) dúvida.
+Q21 — PORTUGUÊS. Em “antes do término de cada exercício”, “antes” indica: A) comparação; B) anterioridade temporal; C) consequência; D) finalidade.
+Q22 — REVISÃO 367. A vistoria anual do transporte de passageiros: A) afasta toda fiscalização; B) ocorre sem prejuízo da fiscalização permanente; C) é facultativa; D) só existe para veículos particulares.
+Q23 — REVISÃO 369. A taxa de fiscalização de transporte de passageiros remete ao: A) Anexo VI; B) Anexo VII; C) Anexo VIII; D) Anexo IX.
+Q24 — REVISÃO 364. A taxa de ocupação do solo público remete ao: A) Anexo VI; B) Anexo VII; C) Anexo VIII; D) Anexo XI.
+9. CADERNO DE ERROS E RETENÇÃO
+Status Q01–Q24: NÃO RESPONDIDAS. Não revelar respostas previamente, não presumir domínio ou taxa de acerto. Após respostas, corrigir alternativa por alternativa, registrar questão, resposta do aluno, erro, causa provável, regra correta, mecanismo do distrator, e revisão posterior (24h, 72h, 7 dias) em questões misturadas. Marcar domínio somente após retenção posterior. Sem resposta, manter pendente.
+10. FECHAMENTO E PRÓXIMO PONTO
+372 = taxa de vistoria atualizada, Anexo VIII; 373 = zonas fiscais antes do fim do ano, válidas no seguinte; 374 = Q1 pavimentado, Q2 não pavimentado com serviços, Q3 residual; 375 = revisão de ofício por erro de fato + condições de restrição legal + arbitramento; 376 = remembramento/desmembramento, primeiro dia do exercício seguinte à averbação.
+Próxima aula 87: art. 377 e suas presunções/provas de fatos geradores pretéritos; iniciar pelos §§1º–3º e diferenciar prazos e documentos. Manter revisão mista das aulas 84–86.
+FIM DA AULA 86.

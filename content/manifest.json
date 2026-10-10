@@ -1,9 +1,9 @@
 {
   "versao": 1,
-  "contentVersion": 59,
+  "contentVersion": 61,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-10T15:55:12.930Z",
-  "contentHashGlobal": "c865fab32b5b8db4",
+  "ultimaSincronizacao": "2026-10-10T18:31:59.097Z",
+  "contentHashGlobal": "c074c973849ac801",
   "totalAulas": 82,
   "totalQuestoes": 527,
   "totalDisciplinas": 4,
@@ -832,7 +832,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-082.json",
-      "hash": "1e008fbfdc69e8e8",
+      "hash": "f58ebb26eebdbcdd",
       "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-10"
     },

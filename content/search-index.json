@@ -1,7 +1,7 @@
 {
-  "contentVersion": 59,
-  "geradoEm": "2026-10-10T15:55:12.930Z",
-  "total": 1852,
+  "contentVersion": 61,
+  "geradoEm": "2026-10-10T18:31:59.097Z",
+  "total": 1876,
   "documentos": [
     {
       "tipo": "aula",
@@ -18119,7 +18119,7 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "slug": "agente-fiscal-de-queimados-rj-aula-82",
-      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ AGENTE FISCAL DE QUEIMADOS/RJ"
+      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ AGENTE FISCAL DE QUEIMADOS/RJ 372 = taxa de vistoria atualizada, Anexo VIII; 373 = zonas fiscais antes do fim do ano, válidas no seguinte; 374 = Q1 pavimentado, Q2 não pavimentado com serviços, Q3 residual; 375 = revisão de ofício por erro de fato + condições de restrição legal + arbitramento; 376 = remembramento/desmembramento, primeiro dia do exercício seguinte à averbação.\nPróxima aula 87: art. 377 e suas presunções/provas de fatos geradores pretéritos; iniciar pelos §§1º–3º e diferenciar prazos e documentos. Manter revisão mista das aulas 84–86.\nFIM DA AULA 86"
     },
     {
       "tipo": "trecho",
@@ -18386,6 +18386,259 @@
       "texto": "14. CADERNO DE ERROS E REVISÃO Status: 24 questões NÃO RESPONDIDAS; não atribuir percentual, erro ou domínio. Após respostas, para cada erro registrar: questão, alternativa marcada, causa provável (literalidade, confusão solidariedade/substituição, imunidade, condicionantes, SV31, memória), regra correta, distrator e revisão em 24h, 72h e 7 dias. Considerar dominado apenas após acerto em testes mi"
     },
     {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b25",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "1. RECUPERAÇÃO ATIVA DA AULA 85 (NÃO OLHAR RESPOSTAS)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA DA AULA 85 (NÃO OLHAR RESPOSTAS) R1. A fiscalização do transporte de passageiros é apenas anual ou também permanente?\nR2. Quem é o contribuinte da taxa do art. 368?\nR3. Qual anexo está associado ao art. 369?\nR4. O art. 370 fixa multa única de 50% ou remete a outro artigo?\nR5. Quem regulamenta obrigações acessórias segundo o art. 371?"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b26",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "2. ART. 372 — ATENÇÃO À REDAÇÃO NOVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "2. ART. 372 — ATENÇÃO À REDAÇÃO NOVA A LC 093/2021 alterou o título e a redação do art. 372: TAXA DE VISTORIA DE OBRAS, EQUIPAMENTOS E ADMINISTRATIVAS NÃO ESPECIFICADAS. Materiais anteriores podem trazer “Obras, Veículos e Equipamentos”; não memorizar esse título antigo como atual. A cobrança está ligada à vistoria e ao exame de parques, circos e loteamentos sob o aspecto da segurança contra acide"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b27",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Pegadinha 1: substituir “segurança contra acidentes pessoais” por “apuração do lucro do empresário”.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha 1: substituir “segurança contra acidentes pessoais” por “apuração do lucro do empresário”."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b28",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Pegadinha 2: confundir Anexo VIII (vistoria) com VII (transporte de passageiros) ou VI (ocupação de solo público).",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha 2: confundir Anexo VIII (vistoria) com VII (transporte de passageiros) ou VI (ocupação de solo público)."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b29",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Pegadinha 3: usar a denominação antiga do art. 372.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha 3: usar a denominação antiga do art. 372."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b30",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "ANEXO VIII, TABELA HISTÓRICA ALTERADA EM 2021:",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "ANEXO VIII, TABELA HISTÓRICA ALTERADA EM 2021: Item 1 — vistoria administrativa não especificada: 26,0312 UFIR/ano.\nItem 2 — vistoria de equipamentos de diversões públicas: 26,0312 UFIR/ano.\nItem 3.1 — vistoria de obras: 26,0312 UFIR por vistoria.\nItem 4 — vistoria de loteamentos: 26,0312 UFIR por vistoria.\nA unidade de incidência importa: ANO não é a mesma coisa que POR VISTORIA. Valores em UFIR "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b31",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "3. ART. 373 — ZONAS FISCAIS E FATOR DE LOCALIZAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "3. ART. 373 — ZONAS FISCAIS E FATOR DE LOCALIZAÇÃO Para obter o Fator de Localização, o Município é dividido em ZONAS FISCAIS. A Secretaria Municipal de Economia e Finanças discrimina essas zonas ANTES DO TÉRMINO DE CADA EXERCÍCIO, com validade PARA O EXERCÍCIO SEGUINTE.\nExemplo: zonas discriminadas antes do fim de 2026 destinam-se ao exercício de 2027, conforme o comando temporal do artigo. Isso "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b32",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Pegadinha: trocar “antes do término” por “após o término”; trocar “exercício seguinte” por “mesmo exercício”.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: trocar “antes do término” por “após o término”; trocar “exercício seguinte” por “mesmo exercício”."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b33",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "4. ART. 374 — LOGRADOURO FISCAL Q1, Q2 E Q3",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "4. ART. 374 — LOGRADOURO FISCAL Q1, Q2 E Q3 O artigo classifica logradouros para determinação do valor do metro quadrado, segundo suas características.\nQ1: imóveis em logradouros COM PAVIMENTAÇÃO OU CALÇAMENTO.\nQ2: imóveis em logradouros NÃO PAVIMENTADOS OU CALÇADOS, mas COM serviço de limpeza e conservação de vias e logradouros públicos OU serviço de coleta e remoção de lixo.\nQ3: imóveis que NÃO "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b34",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Exemplo A: rua asfaltada = Q1, mesmo que também haja coleta de lixo; a pavimentação é o critério decisivo.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "exemplo",
+      "texto": "Exemplo A: rua asfaltada = Q1, mesmo que também haja coleta de lixo; a pavimentação é o critério decisivo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b35",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Exemplo B: rua sem pavimento, com coleta de lixo = Q2.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "exemplo",
+      "texto": "Exemplo B: rua sem pavimento, com coleta de lixo = Q2."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b36",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Exemplo C: rua sem pavimento, sem os serviços descritos em Q2 = Q3.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "exemplo",
+      "texto": "Exemplo C: rua sem pavimento, sem os serviços descritos em Q2 = Q3. Pegadinha: Q2 não exige simultaneamente limpeza/conservação E coleta de lixo; o texto usa OU. Q3 não significa obrigatoriamente área rural: é o enquadramento residual do artigo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b37",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Mapa de memória: 1=PAVIMENTADA; 2=SEM PAVIMENTO + SERVIÇO; 3=DEMAIS.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "memorize",
+      "texto": "Mapa de memória: 1=PAVIMENTADA; 2=SEM PAVIMENTO + SERVIÇO; 3=DEMAIS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b38",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "5. ART. 375 — REVISÃO DE OFÍCIO POR ERRO DE FATO CADASTRAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "5. ART. 375 — REVISÃO DE OFÍCIO POR ERRO DE FATO CADASTRAL O lançamento será revisto de ofício na hipótese de erro de fato em dados cadastrais, incluindo 14 categorias expressas:\nI área construída; II idade do imóvel; III tipologia; IV utilização; V posição em relação ao logradouro; VI logradouro de tributação; VII área territorial; VIII testada real; IX situação na quadra; X seção e trecho; XI id"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-082-b39",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "lei-seca",
+      "texto": "§1º: as situações do inciso XIII (RESTRIÇÃO LEGAL), quando NÃO constituírem situações físicas, somente serão consideradas se averbadas no Registro de Imóveis OU constarem de projetos aprovados. Cuidado: exigência específica para restrição legal não física; não aplicar automaticamente a todos os 14 incisos."
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-082-b40",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "lei-seca",
+      "texto": "§2º: se sujeito passivo/responsável não fornecer elementos necessários à identificação do imóvel, impedir sua obtenção pela Secretaria, ou fornecê-los insuficientemente, a base de cálculo será fixada mediante ARBITRAMENTO de área, idade, tipologia, utilização, posição, testada ou situação, conforme o texto. Arbitramento não é penalidade automática nem licença para valor aleatório: exige critério l"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b41",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "Pegadinhas: confundir ERRO DE FATO com simples mudança de interpretação jurídica; trocar “será revisto de ofício” por “somente mediante requerimento”; afirmar que restrição legal não física independe de registro/projeto; afirmar que arbitramento é proibido diante de omissão cadastral."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b42",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "6. ART. 376 — REMEMBRAMENTO E DESMEMBRAMENTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "6. ART. 376 — REMEMBRAMENTO E DESMEMBRAMENTO Para imóveis objeto de remembramento ou desmembramento, considera-se ocorrido o fato gerador NO PRIMEIRO DIA DO EXERCÍCIO SEGUINTE AO ANO DA RESPECTIVA AVERBAÇÃO NO REGISTRO DE IMÓVEIS.\nRemembramento: reunião de imóveis/parcelas. Desmembramento: divisão. Exemplo temporal: averbação em 17/08/2026 -> marco indicado no art. 376 é 01/01/2027. A data decisiv"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b43",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "Pegadinha: confundir ano da averbação com exercício seguinte; confundir averbação com mero pedido.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: confundir ano da averbação com exercício seguinte; confundir averbação com mero pedido."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b44",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "7. INTERCALAÇÃO DE PORTUGUÊS E RACIOCÍNIO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "7. INTERCALAÇÃO DE PORTUGUÊS E RACIOCÍNIO “Ou” em Q2 apresenta alternativas de serviços; “somente” no §1º do art. 375 restringe a consideração da restrição legal não física; “antes” e “seguinte” no art. 373 são marcadores temporais; “quando” no §2º do art. 375 introduz hipóteses condicionantes; “de ofício” significa iniciativa administrativa, não revisão arbitrária.\nMini-exercício resolvido de int"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b45",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "8. TESTE DE RECUPERAÇÃO — 24 QUESTÕES AUTORAIS (SEM GABARITO)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "teoria",
+      "texto": "8. TESTE DE RECUPERAÇÃO — 24 QUESTÕES AUTORAIS (SEM GABARITO) Q01. A redação do art. 372 após LC 093/2021 denomina a taxa: A) Vistoria de Obras, Equipamentos e Administrativas Não Especificadas; B) IPVA Municipal; C) Fiscalização de Transportes Escolares; D) ISS de Diversões.\nQ02 — INCORRETA. O art. 372 contempla: A) parques; B) circos; C) loteamentos; D) exclusivamente o lucro líquido de concessi"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b46",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "9. CADERNO DE ERROS E RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "caderno-de-erros",
+      "texto": "9. CADERNO DE ERROS E RETENÇÃO Status Q01–Q24: NÃO RESPONDIDAS. Não revelar respostas previamente, não presumir domínio ou taxa de acerto. Após respostas, corrigir alternativa por alternativa, registrar questão, resposta do aluno, erro, causa provável, regra correta, mecanismo do distrator, e revisão posterior (24h, 72h, 7 dias) em questões misturadas. Marcar domínio somente após retenção posterio"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-082-b47",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "10. FECHAMENTO E PRÓXIMO PONTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "blocoTipo": "fechamento",
+      "texto": "10. FECHAMENTO E PRÓXIMO PONTO 372 = taxa de vistoria atualizada, Anexo VIII; 373 = zonas fiscais antes do fim do ano, válidas no seguinte; 374 = Q1 pavimentado, Q2 não pavimentado com serviços, Q3 residual; 375 = revisão de ofício por erro de fato + condições de restrição legal + arbitramento; 376 = remembramento/desmembramento, primeiro dia do exercício seguinte à averbação.\nPróxima aula 87: art"
+    },
+    {
       "tipo": "revisao",
       "id": "direito-tributario-aula-082-b3",
       "lessonId": "direito-tributario-aula-082",
@@ -18394,6 +18647,16 @@
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
       "slug": "agente-fiscal-de-queimados-rj-aula-82",
       "texto": "Sem consultar, responda mentalmente: (a) no art. 347, exclui-se qual dia na contagem? (b) se o vencimento cai em dia sem expediente, qual a solução? (c) preço público do art. 348 é fixado por qual instrumento? (d) art. 344: o teto de 3% é mensal, anual ou global? (e) art. 339: 30 dias começam na publicação do edital ou no recebimento da notificação?\nNão há resposta do aluno registrada: nenhuma que"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-082-b25",
+      "lessonId": "direito-tributario-aula-082",
+      "titulo": "1. RECUPERAÇÃO ATIVA DA AULA 85 (NÃO OLHAR RESPOSTAS)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-de-queimados-rj-aula-82",
+      "texto": "R1. A fiscalização do transporte de passageiros é apenas anual ou também permanente?\nR2. Quem é o contribuinte da taxa do art. 368?\nR3. Qual anexo está associado ao art. 369?\nR4. O art. 370 fixa multa única de 50% ou remete a outro artigo?\nR5. Quem regulamenta obrigações acessórias segundo o art. 371?"
     },
     {
       "tipo": "aula",
