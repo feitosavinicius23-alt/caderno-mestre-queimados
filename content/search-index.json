@@ -1,7 +1,7 @@
 {
-  "contentVersion": 75,
-  "geradoEm": "2026-10-11T16:23:00.919Z",
-  "total": 1991,
+  "contentVersion": 77,
+  "geradoEm": "2026-10-11T18:50:01.062Z",
+  "total": 2026,
   "documentos": [
     {
       "tipo": "aula",
@@ -19890,6 +19890,369 @@
       "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
       "blocoTipo": "teoria",
       "texto": "13. TESTE IAN AUTORAL — 20 QUESTÕES, QUATRO ALTERNATIVAS, SEM GABARITO ANTECIPADO. Q1. O SPED é: A) tributo municipal; B) sistema público de escrituração digital; C) guia de ISS; D) espécie de multa.\nQ2. INCORRETA sobre o SPED: A) integra iniciativas eletrônicas; B) foi instituído pelo Decreto 6.022/2007; C) elimina o sigilo fiscal; D) abrange diferentes módulos.\nQ3. A ECD corresponde principalmen"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b6",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "[INÍCIO DA AULA 92 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — PORTUGUÊS]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "teoria",
+      "texto": "[INÍCIO DA AULA 92 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — PORTUGUÊS]"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-092",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b1",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "Cargo exclusivo: AGENTE FISCAL da Prefeitura de Queimados/RJ. Banca: IAN. Prova prevista: 22/11/2026. Duração sugerida: 45–55 minutos. A aula integra a rotação de disciplinas, após a Aula 91 (SPED, NF-e e EFD). Questões autorais com quatro alternativas, inspiradas na estrutura observada em provas IAN de 2024 e 2025; NÃO são questões transcritas da coletânea de 911, cujo arquivo não foi encontrado."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b2",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "OBJETIVOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "OBJETIVOS Ao final, distinguir informação explícita de inferência autorizada; identificar tese e argumentos; interpretar referências pronominais e conectivos; reconhecer efeitos de vírgulas, ponto e vírgula e dois-pontos; identificar sujeito, oração subordinada e crase. Estratégia: leitura ativa, explicações com exemplos, 20 questões sem respostas e revisões posteriores.\n1. RECUPERAÇÃO ATIVA — AUL"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b3",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "2. TEXTO AUTORAL DE REFERÊNCIA — LEITURA COMPREENSIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "2. TEXTO AUTORAL DE REFERÊNCIA — LEITURA COMPREENSIVA “A digitalização dos serviços públicos ampliou a quantidade de informações disponíveis aos órgãos de fiscalização. Contudo, ter acesso a mais dados não significa compreender melhor a realidade. Uma planilha pode apontar divergência entre documentos; para saber o que ela representa, é necessário examinar o contexto em que os registros foram prod"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b4",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "3. INTERPRETAÇÃO: EXPLÍCITO, INFERÊNCIA E EXTRAPOLAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "3. INTERPRETAÇÃO: EXPLÍCITO, INFERÊNCIA E EXTRAPOLAÇÃO Informação explícita está escrita diretamente: “o número de alertas aumentou”. Não está escrito que a fraude aumentou. Inferência válida é uma conclusão apoiada no conjunto textual: mais alertas podem decorrer de critérios ou registros, sem corresponder ao mesmo crescimento de irregularidades. Extrapolação é acrescentar fato não sustentado: “t"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b5",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "4. COESÃO: REFERÊNCIAS E CONECTIVOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "4. COESÃO: REFERÊNCIAS E CONECTIVOS “Contudo” e “porém” = oposição/contraste. “Mas” = contraste entre agilizar tarefas e não substituir a análise. “Por isso” e “portanto” = conclusão/consequência argumentativa. “Se” = condição/hipótese: a injustiça é uma possibilidade condicionada ao tratamento dos alertas como prova. “Para saber” = finalidade. “Sem abandonar” = manutenção da investigação, apesar "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b6",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "5. PONTUAÇÃO COM SENTIDO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "5. PONTUAÇÃO COM SENTIDO “Em determinado município, o setor...” — a vírgula separa adjunto adverbial antecipado, conferindo clareza.\n“A equipe, porém, não concluiu...” — as duas vírgulas isolam o conectivo intercalado; a retirada de apenas uma é inadequada.\n“A equipe não concluiu que as irregularidades cresceram: parte dos alertas...” — os dois-pontos introduzem esclarecimento/justificativa para a"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b7",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "6. SINTAXE APLICADA",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "6. SINTAXE APLICADA Na oração “O número de alertas aumentou”, sujeito = “O número de alertas”; núcleo do sujeito = “número”; predicado = “aumentou”. O verbo concorda com “número” no singular, não com “alertas”.\n“Se os servidores tratarem cada alerta como prova definitiva, poderão cometer injustiças.” A primeira oração é subordinada adverbial condicional; a segunda expressa consequência possível da"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b8",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "7. COMO RESOLVER QUESTÕES IAN",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "7. COMO RESOLVER QUESTÕES IAN Primeira leitura: localize tema e tese. Segunda: circule marcadores de oposição, condição e conclusão. Na alternativa INCORRETA/EXCETO, destaque mentalmente o comando negativo antes de ler A–D. Em assertivas I/II/III, julgue cada uma separadamente e só depois examine combinações. Elimine distratores por extrapolação, troca de referente, inversão de causa/consequência "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b9",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "8. TREINO — 20 QUESTÕES AUTORAIS, QUATRO ALTERNATIVAS (GABARITO OCULTO)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "questao",
+      "texto": "8. TREINO — 20 QUESTÕES AUTORAIS, QUATRO ALTERNATIVAS (GABARITO OCULTO)"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b10",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "9. RECUPERAÇÃO FINAL, SEM GABARITO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "revisao",
+      "texto": "9. RECUPERAÇÃO FINAL, SEM GABARITO Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b11",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "10. CADERNO DE ERROS E RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "caderno-de-erros",
+      "texto": "10. CADERNO DE ERROS E RETENÇÃO Sem respostas recebidas: 20 questões propostas, 0 questões corrigidas; NÃO atribuir percentual de acertos nem domínio. Quando houver resposta, corrigir A/B/C/D, identificar o mecanismo do distrator, registrar erro real, causa provável, regra correta, pegadinha e revisão futura. Repetir itens em questões MISTAS aproximadamente em 24 horas, 72 horas e 7 dias; só marca"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b12",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-001",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 1 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q1. A ideia central do texto é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-002",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 2 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q2. Qual informação é explicitamente afirmada no segundo parágrafo?"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-003",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 3 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q3. A inferência autorizada pelo texto é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-004",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 4 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q4. Em “parte dos alertas resultava de registros duplicados”, a palavra “parte” indica:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-005",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 5 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q5. O conectivo “Contudo”, no primeiro parágrafo, exprime:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-006",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 6 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q6. No terceiro parágrafo, “todos”, em “se ignorarem todos”, retoma:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-007",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 7 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q7. “Por isso”, no terceiro parágrafo, introduz:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-008",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 8 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q8. A expressão “Não se trata ... de escolher entre máquinas e pessoas” sugere:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-009",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 9 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q9. Em “reduziu os falsos alertas sem abandonar a investigação”, entende-se que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-010",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 10 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q10. Assinale a afirmação que EXTRAPOLA o texto:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-011",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 11 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q11. Em “Em determinado município, o setor...”, a vírgula separa:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-012",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 12 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q12. Em “A equipe, porém, não concluiu...”, as vírgulas:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-013",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 13 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q13. Assinale a alternativa com pontuação INADEQUADA na norma-padrão:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-014",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 14 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q14. Em “Se os servidores tratarem cada alerta como prova definitiva...”, “Se” indica:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-015",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 15 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q15. Em “para saber o que ela representa”, “para” exprime:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-016",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 16 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q16. Em “A experiência mostrou que a tecnologia acelera tarefas”, “que” é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-017",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 17 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q17. Em “o contexto em que os registros foram produzidos”, “que” funciona como:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-018",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 18 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q18. No trecho “a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana”, “mas” estabelece:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-019",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 19 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q19. Assinale a alternativa com emprego CORRETO da crase:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-092-q-020",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "Questão 20 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Q20. Em “O número de alertas aumentou”, o sujeito é:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-092-b10",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "9. RECUPERAÇÃO FINAL, SEM GABARITO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "texto": "Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três alternativas erradas."
     },
     {
       "tipo": "aula",

@@ -1,0 +1,707 @@
+{
+  "id": "direito-tributario-aula-092",
+  "numero": 92,
+  "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+  "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+  "disciplina": "Direito Tributário",
+  "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+  "ordem": 92,
+  "data": "2026-10-11",
+  "tempoEstimadoMin": 7,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-092-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Cargo exclusivo: AGENTE FISCAL da Prefeitura de Queimados/RJ. Banca: IAN. Prova prevista: 22/11/2026. Duração sugerida: 45–55 minutos. A aula integra a rotação de disciplinas, após a Aula 91 (SPED, NF-e e EFD). Questões autorais com quatro alternativas, inspiradas na estrutura observada em provas IAN de 2024 e 2025; NÃO são questões transcritas da coletânea de 911, cujo arquivo não foi encontrado. Gabarito deliberadamente não exibido."
+    },
+    {
+      "id": "direito-tributario-aula-092-b2",
+      "tipo": "teoria",
+      "titulo": "OBJETIVOS",
+      "texto": "Ao final, distinguir informação explícita de inferência autorizada; identificar tese e argumentos; interpretar referências pronominais e conectivos; reconhecer efeitos de vírgulas, ponto e vírgula e dois-pontos; identificar sujeito, oração subordinada e crase. Estratégia: leitura ativa, explicações com exemplos, 20 questões sem respostas e revisões posteriores.\n1. RECUPERAÇÃO ATIVA — AULA 91 (responder mentalmente antes de ler)\nR1. O que diferencia NF-e de NFS-e?\nR2. Por que DANFE não equivale ao XML da NF-e?\nR3. Uma divergência entre notas e declarações comprova automaticamente fraude?\nR4. O que significa SPED?\nR5. Por que o município deve verificar a competência do ISS mesmo quando existe NFS-e?\nEstas perguntas serão recuperadas em 24h, 72h e 7 dias; não atribuir acertos sem resposta real."
+    },
+    {
+      "id": "direito-tributario-aula-092-b3",
+      "tipo": "teoria",
+      "titulo": "2. TEXTO AUTORAL DE REFERÊNCIA — LEITURA COMPREENSIVA",
+      "texto": "“A digitalização dos serviços públicos ampliou a quantidade de informações disponíveis aos órgãos de fiscalização. Contudo, ter acesso a mais dados não significa compreender melhor a realidade. Uma planilha pode apontar divergência entre documentos; para saber o que ela representa, é necessário examinar o contexto em que os registros foram produzidos.\nEm determinado município, o setor responsável pelas receitas passou a comparar declarações tributárias e documentos eletrônicos. Nos primeiros meses, o número de alertas aumentou. A equipe, porém, não concluiu que as irregularidades haviam crescido na mesma proporção: parte dos alertas resultava de registros duplicados ou de diferenças de período. Ao revisar os critérios de comparação, reduziu os falsos alertas sem abandonar a investigação dos casos relevantes.\nA experiência mostrou que a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana. Se os servidores tratarem cada alerta como prova definitiva, poderão cometer injustiças; se ignorarem todos, deixarão de investigar problemas reais. Por isso, o procedimento mais prudente combina automação, verificação documental e justificativa fundamentada.\nNão se trata, portanto, de escolher entre máquinas e pessoas. Trata-se de definir o que cada uma pode fazer e de reconhecer que decisões administrativas exigem responsabilidade.”"
+    },
+    {
+      "id": "direito-tributario-aula-092-b4",
+      "tipo": "teoria",
+      "titulo": "3. INTERPRETAÇÃO: EXPLÍCITO, INFERÊNCIA E EXTRAPOLAÇÃO",
+      "texto": "Informação explícita está escrita diretamente: “o número de alertas aumentou”. Não está escrito que a fraude aumentou. Inferência válida é uma conclusão apoiada no conjunto textual: mais alertas podem decorrer de critérios ou registros, sem corresponder ao mesmo crescimento de irregularidades. Extrapolação é acrescentar fato não sustentado: “todos os alertas eram falsos”, “a equipe deixou de fiscalizar” ou “o sistema foi abandonado”. O texto nega essas generalizações.\nTema = tecnologia e responsabilidade na fiscalização. Tese = dados e automação ajudam, mas não dispensam interpretação, verificação e responsabilidade humana. Argumentos = falsos alertas; risco de injustiças; risco de omissões; necessidade de combinar métodos. Conclusão = complementaridade entre tecnologia e trabalho humano.\nTécnica para IAN: localizar a frase que sustenta a alternativa; desconfiar de “sempre”, “nunca”, “todos”, “exclusivamente” quando o texto usa “parte”, “pode” e “nem sempre”. Não confundir opinião pessoal sobre fiscalização com o que o autor efetivamente sustenta."
+    },
+    {
+      "id": "direito-tributario-aula-092-b5",
+      "tipo": "teoria",
+      "titulo": "4. COESÃO: REFERÊNCIAS E CONECTIVOS",
+      "texto": "“Contudo” e “porém” = oposição/contraste. “Mas” = contraste entre agilizar tarefas e não substituir a análise. “Por isso” e “portanto” = conclusão/consequência argumentativa. “Se” = condição/hipótese: a injustiça é uma possibilidade condicionada ao tratamento dos alertas como prova. “Para saber” = finalidade. “Sem abandonar” = manutenção da investigação, apesar da redução dos falsos alertas. “Parte dos alertas” = subconjunto, não totalidade.\nEm “se ignorarem todos”, “todos” retoma os alertas, e não os servidores. Em “o que ela representa”, “ela” retoma a divergência indicada pela planilha, não a própria planilha: teste a substituição pelo referente e observe o sentido.\nContraste importante: “Embora existam alertas, é necessário verificar os documentos” = concessão; “Como existem alertas, deve-se investigar” pode indicar causa; “Se existirem alertas, investigue” = condição. A banca troca conectivos para alterar a lógica."
+    },
+    {
+      "id": "direito-tributario-aula-092-b6",
+      "tipo": "teoria",
+      "titulo": "5. PONTUAÇÃO COM SENTIDO",
+      "texto": "“Em determinado município, o setor...” — a vírgula separa adjunto adverbial antecipado, conferindo clareza.\n“A equipe, porém, não concluiu...” — as duas vírgulas isolam o conectivo intercalado; a retirada de apenas uma é inadequada.\n“A equipe não concluiu que as irregularidades cresceram: parte dos alertas...” — os dois-pontos introduzem esclarecimento/justificativa para a cautela.\n“...prova definitiva, poderão cometer injustiças; se ignorarem todos...” — o ponto e vírgula separa segmentos extensos e paralelos, facilitando o contraste.\n“Os servidores examinaram os documentos.” — NÃO separar por vírgula o sujeito “Os servidores” do predicado “examinaram os documentos” sem elemento intercalado justificável.\n“Depois da análise, o relatório foi concluído.” — adjunto adverbial antecipado. Compare com “O relatório foi concluído depois da análise.”, que pode dispensar a vírgula.\n“Os documentos, que estavam incompletos, foram devolvidos.” — oração adjetiva explicativa: informa sobre o conjunto dos documentos. “Os documentos que estavam incompletos foram devolvidos.” — restritiva: delimita quais documentos foram devolvidos. A pontuação pode mudar a extensão da afirmação."
+    },
+    {
+      "id": "direito-tributario-aula-092-b7",
+      "tipo": "teoria",
+      "titulo": "6. SINTAXE APLICADA",
+      "texto": "Na oração “O número de alertas aumentou”, sujeito = “O número de alertas”; núcleo do sujeito = “número”; predicado = “aumentou”. O verbo concorda com “número” no singular, não com “alertas”.\n“Se os servidores tratarem cada alerta como prova definitiva, poderão cometer injustiças.” A primeira oração é subordinada adverbial condicional; a segunda expressa consequência possível da condição.\n“A experiência mostrou que a tecnologia acelera tarefas.” A oração introduzida por “que” completa o sentido de “mostrou”: é subordinada substantiva objetiva direta; “que” funciona como conjunção integrante.\n“o contexto em que os registros foram produzidos” — “que” retoma “contexto” e funciona como pronome relativo, precedido de preposição.\nCRASE: “A equipe recorreu à análise documental” (recorrer A + artigo A de “a análise”). Compare: “A equipe começou a analisar os documentos” (antes de verbo, não há crase). Em “a análise foi concluída”, o “a” é artigo, não há fusão com preposição.\nNão decorar frases isoladas: identificar função sintática e relação semântica é mais seguro."
+    },
+    {
+      "id": "direito-tributario-aula-092-b8",
+      "tipo": "teoria",
+      "titulo": "7. COMO RESOLVER QUESTÕES IAN",
+      "texto": "Primeira leitura: localize tema e tese. Segunda: circule marcadores de oposição, condição e conclusão. Na alternativa INCORRETA/EXCETO, destaque mentalmente o comando negativo antes de ler A–D. Em assertivas I/II/III, julgue cada uma separadamente e só depois examine combinações. Elimine distratores por extrapolação, troca de referente, inversão de causa/consequência e generalização. Não use “parece razoável” como critério; use texto e gramática."
+    },
+    {
+      "id": "direito-tributario-aula-092-b9",
+      "tipo": "questao",
+      "titulo": "8. TREINO — 20 QUESTÕES AUTORAIS, QUATRO ALTERNATIVAS (GABARITO OCULTO)",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-092-q-001",
+        "direito-tributario-aula-092-q-002",
+        "direito-tributario-aula-092-q-003",
+        "direito-tributario-aula-092-q-004",
+        "direito-tributario-aula-092-q-005",
+        "direito-tributario-aula-092-q-006",
+        "direito-tributario-aula-092-q-007",
+        "direito-tributario-aula-092-q-008",
+        "direito-tributario-aula-092-q-009",
+        "direito-tributario-aula-092-q-010",
+        "direito-tributario-aula-092-q-011",
+        "direito-tributario-aula-092-q-012",
+        "direito-tributario-aula-092-q-013",
+        "direito-tributario-aula-092-q-014",
+        "direito-tributario-aula-092-q-015",
+        "direito-tributario-aula-092-q-016",
+        "direito-tributario-aula-092-q-017",
+        "direito-tributario-aula-092-q-018",
+        "direito-tributario-aula-092-q-019",
+        "direito-tributario-aula-092-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-092-b10",
+      "tipo": "revisao",
+      "titulo": "9. RECUPERAÇÃO FINAL, SEM GABARITO",
+      "texto": "Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três alternativas erradas."
+    },
+    {
+      "id": "direito-tributario-aula-092-b11",
+      "tipo": "caderno-de-erros",
+      "titulo": "10. CADERNO DE ERROS E RETENÇÃO",
+      "texto": "Sem respostas recebidas: 20 questões propostas, 0 questões corrigidas; NÃO atribuir percentual de acertos nem domínio. Quando houver resposta, corrigir A/B/C/D, identificar o mecanismo do distrator, registrar erro real, causa provável, regra correta, pegadinha e revisão futura. Repetir itens em questões MISTAS aproximadamente em 24 horas, 72 horas e 7 dias; só marcar domínio quando a retenção reaparecer.\nPróxima aula 93: bloco específico novo — Processo Judicial Tributário e Lei nº 6.830/1980 (execução fiscal), priorizando conceitos, CDA, citação, garantia e embargos, sem fugir do edital de AGENTE FISCAL.\nFONTES DE ESCOPO E ESTILO: Edital de abertura do Concurso Queimados 01/2026 no portal oficial da banca (https://portal.ian.org.br/edital/ver/53); Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx; prova IAN 2024 Prefeitura de Três Rios — Auditor de Controle Interno; prova IAN 2025 Prefeitura de Santa Maria Madalena — Professor Docente II Português. Questões inéditas deste caderno; não atribuir gabarito à coletânea de 911 questões."
+    },
+    {
+      "id": "direito-tributario-aula-092-b12",
+      "tipo": "teoria",
+      "titulo": "[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]",
+      "texto": ""
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-092-q-001",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 1,
+      "question": "Q1. A ideia central do texto é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "sistemas digitais tornam dispensável o servidor público."
+        },
+        {
+          "id": "B",
+          "text": "dados eletrônicos ajudam, mas exigem análise contextual e responsabilidade."
+        },
+        {
+          "id": "C",
+          "text": "toda divergência documental comprova irregularidade."
+        },
+        {
+          "id": "D",
+          "text": "a fiscalização deve abandonar ferramentas automáticas. Q2. Qual informação é explicitamente afirmada no segundo parágrafo?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-002",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 2,
+      "question": "Q2. Qual informação é explicitamente afirmada no segundo parágrafo?",
+      "options": [
+        {
+          "id": "A",
+          "text": "a equipe encerrou todas as fiscalizações."
+        },
+        {
+          "id": "B",
+          "text": "todos os alertas eram falsos."
+        },
+        {
+          "id": "C",
+          "text": "o número de alertas aumentou nos primeiros meses."
+        },
+        {
+          "id": "D",
+          "text": "as irregularidades cresceram exatamente na mesma proporção. Q3. A inferência autorizada pelo texto é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-003",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 3,
+      "question": "Q3. A inferência autorizada pelo texto é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "aumento de alertas não significa necessariamente aumento equivalente de irregularidades."
+        },
+        {
+          "id": "B",
+          "text": "registros duplicados nunca provocam alertas."
+        },
+        {
+          "id": "C",
+          "text": "a análise humana é sempre mais rápida que a tecnologia."
+        },
+        {
+          "id": "D",
+          "text": "não existem problemas reais na fiscalização. Q4. Em “parte dos alertas resultava de registros duplicados”, a palavra “parte” indica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-004",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 4,
+      "question": "Q4. Em “parte dos alertas resultava de registros duplicados”, a palavra “parte” indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "totalidade."
+        },
+        {
+          "id": "B",
+          "text": "exclusividade."
+        },
+        {
+          "id": "C",
+          "text": "subconjunto."
+        },
+        {
+          "id": "D",
+          "text": "negação. Q5. O conectivo “Contudo”, no primeiro parágrafo, exprime:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-005",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 5,
+      "question": "Q5. O conectivo “Contudo”, no primeiro parágrafo, exprime:",
+      "options": [
+        {
+          "id": "A",
+          "text": "finalidade."
+        },
+        {
+          "id": "B",
+          "text": "oposição."
+        },
+        {
+          "id": "C",
+          "text": "condição."
+        },
+        {
+          "id": "D",
+          "text": "adição. Q6. No terceiro parágrafo, “todos”, em “se ignorarem todos”, retoma:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-006",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 6,
+      "question": "Q6. No terceiro parágrafo, “todos”, em “se ignorarem todos”, retoma:",
+      "options": [
+        {
+          "id": "A",
+          "text": "os servidores."
+        },
+        {
+          "id": "B",
+          "text": "os alertas."
+        },
+        {
+          "id": "C",
+          "text": "os municípios."
+        },
+        {
+          "id": "D",
+          "text": "os documentos eletrônicos. Q7. “Por isso”, no terceiro parágrafo, introduz:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-007",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 7,
+      "question": "Q7. “Por isso”, no terceiro parágrafo, introduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "hipótese."
+        },
+        {
+          "id": "B",
+          "text": "explicação sem relação."
+        },
+        {
+          "id": "C",
+          "text": "oposição."
+        },
+        {
+          "id": "D",
+          "text": "conclusão decorrente dos riscos apontados. Q8. A expressão “Não se trata ... de escolher entre máquinas e pessoas” sugere:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-008",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 8,
+      "question": "Q8. A expressão “Não se trata ... de escolher entre máquinas e pessoas” sugere:",
+      "options": [
+        {
+          "id": "A",
+          "text": "substituição integral do trabalho humano."
+        },
+        {
+          "id": "B",
+          "text": "proibição de tecnologias."
+        },
+        {
+          "id": "C",
+          "text": "complementaridade entre recursos tecnológicos e decisões humanas."
+        },
+        {
+          "id": "D",
+          "text": "ausência de responsabilidade administrativa. Q9. Em “reduziu os falsos alertas sem abandonar a investigação”, entende-se que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-009",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 9,
+      "question": "Q9. Em “reduziu os falsos alertas sem abandonar a investigação”, entende-se que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a investigação dos casos relevantes foi mantida."
+        },
+        {
+          "id": "B",
+          "text": "os servidores pararam de examinar documentos."
+        },
+        {
+          "id": "C",
+          "text": "todos os alertas eram verdadeiros."
+        },
+        {
+          "id": "D",
+          "text": "o setor deixou de usar sistemas. Q10. Assinale a afirmação que EXTRAPOLA o texto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-010",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 10,
+      "question": "Q10. Assinale a afirmação que EXTRAPOLA o texto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a equipe revisou critérios de comparação."
+        },
+        {
+          "id": "B",
+          "text": "os registros duplicados explicavam parte dos alertas."
+        },
+        {
+          "id": "C",
+          "text": "decisões administrativas exigem responsabilidade."
+        },
+        {
+          "id": "D",
+          "text": "todas as divergências encontradas eram fraudulentas. Q11. Em “Em determinado município, o setor...”, a vírgula separa:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-011",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 11,
+      "question": "Q11. Em “Em determinado município, o setor...”, a vírgula separa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "adjunto adverbial deslocado."
+        },
+        {
+          "id": "B",
+          "text": "sujeito do verbo."
+        },
+        {
+          "id": "C",
+          "text": "objeto direto do verbo."
+        },
+        {
+          "id": "D",
+          "text": "vocativo. Q12. Em “A equipe, porém, não concluiu...”, as vírgulas:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-012",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 12,
+      "question": "Q12. Em “A equipe, porém, não concluiu...”, as vírgulas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "separam sujeito e predicado sem justificativa."
+        },
+        {
+          "id": "B",
+          "text": "isolam um conectivo intercalado."
+        },
+        {
+          "id": "C",
+          "text": "marcam citação direta."
+        },
+        {
+          "id": "D",
+          "text": "indicam enumeração de objetos. Q13. Assinale a alternativa com pontuação INADEQUADA na norma-padrão:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-013",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 13,
+      "question": "Q13. Assinale a alternativa com pontuação INADEQUADA na norma-padrão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Após a verificação, o relatório foi enviado."
+        },
+        {
+          "id": "B",
+          "text": "O fiscal, contudo, solicitou mais documentos."
+        },
+        {
+          "id": "C",
+          "text": "Os servidores, analisaram os documentos."
+        },
+        {
+          "id": "D",
+          "text": "A equipe examinou os dados e registrou a conclusão. Q14. Em “Se os servidores tratarem cada alerta como prova definitiva...”, “Se” indica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-014",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 14,
+      "question": "Q14. Em “Se os servidores tratarem cada alerta como prova definitiva...”, “Se” indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "concessão."
+        },
+        {
+          "id": "B",
+          "text": "conclusão."
+        },
+        {
+          "id": "C",
+          "text": "condição."
+        },
+        {
+          "id": "D",
+          "text": "comparação. Q15. Em “para saber o que ela representa”, “para” exprime:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-015",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 15,
+      "question": "Q15. Em “para saber o que ela representa”, “para” exprime:",
+      "options": [
+        {
+          "id": "A",
+          "text": "finalidade."
+        },
+        {
+          "id": "B",
+          "text": "oposição."
+        },
+        {
+          "id": "C",
+          "text": "consequência inevitável."
+        },
+        {
+          "id": "D",
+          "text": "alternância. Q16. Em “A experiência mostrou que a tecnologia acelera tarefas”, “que” é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-016",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 16,
+      "question": "Q16. Em “A experiência mostrou que a tecnologia acelera tarefas”, “que” é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pronome relativo retomando “experiência”."
+        },
+        {
+          "id": "B",
+          "text": "conjunção integrante que introduz oração substantiva."
+        },
+        {
+          "id": "C",
+          "text": "advérbio de intensidade."
+        },
+        {
+          "id": "D",
+          "text": "preposição. Q17. Em “o contexto em que os registros foram produzidos”, “que” funciona como:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-017",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 17,
+      "question": "Q17. Em “o contexto em que os registros foram produzidos”, “que” funciona como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "conjunção coordenativa."
+        },
+        {
+          "id": "B",
+          "text": "artigo."
+        },
+        {
+          "id": "C",
+          "text": "pronome relativo."
+        },
+        {
+          "id": "D",
+          "text": "interjeição. Q18. No trecho “a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana”, “mas” estabelece:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-018",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 18,
+      "question": "Q18. No trecho “a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana”, “mas” estabelece:",
+      "options": [
+        {
+          "id": "A",
+          "text": "causa."
+        },
+        {
+          "id": "B",
+          "text": "contraste."
+        },
+        {
+          "id": "C",
+          "text": "finalidade."
+        },
+        {
+          "id": "D",
+          "text": "condição. Q19. Assinale a alternativa com emprego CORRETO da crase:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-019",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 19,
+      "question": "Q19. Assinale a alternativa com emprego CORRETO da crase:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A equipe recorreu à análise documental."
+        },
+        {
+          "id": "B",
+          "text": "Os fiscais começaram à revisar os documentos."
+        },
+        {
+          "id": "C",
+          "text": "O relatório foi entregue à servidores."
+        },
+        {
+          "id": "D",
+          "text": "A auditoria foi realizada à partir de maio. Q20. Em “O número de alertas aumentou”, o sujeito é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    },
+    {
+      "id": "direito-tributario-aula-092-q-020",
+      "lessonId": "direito-tributario-aula-092",
+      "numero": 20,
+      "question": "Q20. Em “O número de alertas aumentou”, o sujeito é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "“alertas”."
+        },
+        {
+          "id": "B",
+          "text": "“O número de alertas”."
+        },
+        {
+          "id": "C",
+          "text": "“aumentou”."
+        },
+        {
+          "id": "D",
+          "text": "“número”, isoladamente."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-092-b10",
+      "titulo": "9. RECUPERAÇÃO FINAL, SEM GABARITO",
+      "texto": "Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três alternativas erradas."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-11",
+  "contentHash": "c0aca46d62bae4be"
+}

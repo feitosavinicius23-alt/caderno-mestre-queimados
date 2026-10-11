@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 75,
+  "contentVersion": 77,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-11T16:23:00.919Z",
-  "contentHashGlobal": "164a936b202e73e6",
-  "totalAulas": 86,
-  "totalQuestoes": 551,
+  "ultimaSincronizacao": "2026-10-11T18:50:01.062Z",
+  "contentHashGlobal": "cb7f301d1b4344fe",
+  "totalAulas": 87,
+  "totalQuestoes": 571,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -880,8 +880,20 @@
       "disciplina": "Direito Tributário",
       "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
       "arquivo": "aulas/direito-tributario-aula-090.json",
-      "hash": "3509a3eb6a03ffa6",
+      "hash": "606782e617542f21",
       "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-11"
+    },
+    {
+      "id": "direito-tributario-aula-092",
+      "numero": 92,
+      "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "arquivo": "aulas/direito-tributario-aula-092.json",
+      "hash": "c0aca46d62bae4be",
+      "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-11"
     },
     {

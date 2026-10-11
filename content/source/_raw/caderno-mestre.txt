@@ -17031,3 +17031,155 @@ Q20. REVISÃO SIMPLES NACIONAL: a RBT12 corresponde: A) ao valor do DAS; B) à r
 15. PRÓXIMA AULA 92 (ROTAÇÃO DAS 15H): Português — interpretação, inferência, conectivos e pontuação, com questões autorais no padrão observado da IAN. Processo Judicial Tributário e Lei 6.830/1980 permanecem prioritários para o próximo bloco de Conhecimentos Específicos.
 FONTES OFICIAIS: https://www.gov.br/sped/pt-br/assuntos/modernizacao-da-relacao-fisco-contribuinte ; https://www.gov.br/sped/pt-br ; https://www.gov.br/receitafederal/pt-br/assuntos/declaracoes-e-escrituracoes/escrituracao ; https://www.gov.br/pt-br/servicos/entregar-escrituracao-fiscal-digital-da-contribuicao-para-o-pis-pasep-e-da-cofins-efd-contribuicoes ; https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ017_22 ; https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026 . Estilo: IAN 2024 Três Rios Auditor de Controle Interno; IAN 2026 Jardim Controlador Interno (provas efetivamente examinadas). Material de escopo: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx.
 [FIM DA AULA 91 — 11/10/2026 — SPED, NF-e, NFS-e E EFD]
+
+
+[INÍCIO DA AULA 92 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — PORTUGUÊS]
+AULA 92 — PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE
+Cargo exclusivo: AGENTE FISCAL da Prefeitura de Queimados/RJ. Banca: IAN. Prova prevista: 22/11/2026. Duração sugerida: 45–55 minutos. A aula integra a rotação de disciplinas, após a Aula 91 (SPED, NF-e e EFD). Questões autorais com quatro alternativas, inspiradas na estrutura observada em provas IAN de 2024 e 2025; NÃO são questões transcritas da coletânea de 911, cujo arquivo não foi encontrado. Gabarito deliberadamente não exibido.
+
+
+OBJETIVOS
+Ao final, distinguir informação explícita de inferência autorizada; identificar tese e argumentos; interpretar referências pronominais e conectivos; reconhecer efeitos de vírgulas, ponto e vírgula e dois-pontos; identificar sujeito, oração subordinada e crase. Estratégia: leitura ativa, explicações com exemplos, 20 questões sem respostas e revisões posteriores.
+
+
+1. RECUPERAÇÃO ATIVA — AULA 91 (responder mentalmente antes de ler)
+R1. O que diferencia NF-e de NFS-e?
+R2. Por que DANFE não equivale ao XML da NF-e?
+R3. Uma divergência entre notas e declarações comprova automaticamente fraude?
+R4. O que significa SPED?
+R5. Por que o município deve verificar a competência do ISS mesmo quando existe NFS-e?
+Estas perguntas serão recuperadas em 24h, 72h e 7 dias; não atribuir acertos sem resposta real.
+
+
+2. TEXTO AUTORAL DE REFERÊNCIA — LEITURA COMPREENSIVA
+“A digitalização dos serviços públicos ampliou a quantidade de informações disponíveis aos órgãos de fiscalização. Contudo, ter acesso a mais dados não significa compreender melhor a realidade. Uma planilha pode apontar divergência entre documentos; para saber o que ela representa, é necessário examinar o contexto em que os registros foram produzidos.
+
+
+Em determinado município, o setor responsável pelas receitas passou a comparar declarações tributárias e documentos eletrônicos. Nos primeiros meses, o número de alertas aumentou. A equipe, porém, não concluiu que as irregularidades haviam crescido na mesma proporção: parte dos alertas resultava de registros duplicados ou de diferenças de período. Ao revisar os critérios de comparação, reduziu os falsos alertas sem abandonar a investigação dos casos relevantes.
+
+
+A experiência mostrou que a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana. Se os servidores tratarem cada alerta como prova definitiva, poderão cometer injustiças; se ignorarem todos, deixarão de investigar problemas reais. Por isso, o procedimento mais prudente combina automação, verificação documental e justificativa fundamentada.
+
+
+Não se trata, portanto, de escolher entre máquinas e pessoas. Trata-se de definir o que cada uma pode fazer e de reconhecer que decisões administrativas exigem responsabilidade.”
+
+
+3. INTERPRETAÇÃO: EXPLÍCITO, INFERÊNCIA E EXTRAPOLAÇÃO
+Informação explícita está escrita diretamente: “o número de alertas aumentou”. Não está escrito que a fraude aumentou. Inferência válida é uma conclusão apoiada no conjunto textual: mais alertas podem decorrer de critérios ou registros, sem corresponder ao mesmo crescimento de irregularidades. Extrapolação é acrescentar fato não sustentado: “todos os alertas eram falsos”, “a equipe deixou de fiscalizar” ou “o sistema foi abandonado”. O texto nega essas generalizações.
+Tema = tecnologia e responsabilidade na fiscalização. Tese = dados e automação ajudam, mas não dispensam interpretação, verificação e responsabilidade humana. Argumentos = falsos alertas; risco de injustiças; risco de omissões; necessidade de combinar métodos. Conclusão = complementaridade entre tecnologia e trabalho humano.
+Técnica para IAN: localizar a frase que sustenta a alternativa; desconfiar de “sempre”, “nunca”, “todos”, “exclusivamente” quando o texto usa “parte”, “pode” e “nem sempre”. Não confundir opinião pessoal sobre fiscalização com o que o autor efetivamente sustenta.
+
+
+4. COESÃO: REFERÊNCIAS E CONECTIVOS
+“Contudo” e “porém” = oposição/contraste. “Mas” = contraste entre agilizar tarefas e não substituir a análise. “Por isso” e “portanto” = conclusão/consequência argumentativa. “Se” = condição/hipótese: a injustiça é uma possibilidade condicionada ao tratamento dos alertas como prova. “Para saber” = finalidade. “Sem abandonar” = manutenção da investigação, apesar da redução dos falsos alertas. “Parte dos alertas” = subconjunto, não totalidade.
+Em “se ignorarem todos”, “todos” retoma os alertas, e não os servidores. Em “o que ela representa”, “ela” retoma a divergência indicada pela planilha, não a própria planilha: teste a substituição pelo referente e observe o sentido.
+Contraste importante: “Embora existam alertas, é necessário verificar os documentos” = concessão; “Como existem alertas, deve-se investigar” pode indicar causa; “Se existirem alertas, investigue” = condição. A banca troca conectivos para alterar a lógica.
+
+
+5. PONTUAÇÃO COM SENTIDO
+“Em determinado município, o setor...” — a vírgula separa adjunto adverbial antecipado, conferindo clareza.
+“A equipe, porém, não concluiu...” — as duas vírgulas isolam o conectivo intercalado; a retirada de apenas uma é inadequada.
+“A equipe não concluiu que as irregularidades cresceram: parte dos alertas...” — os dois-pontos introduzem esclarecimento/justificativa para a cautela.
+“...prova definitiva, poderão cometer injustiças; se ignorarem todos...” — o ponto e vírgula separa segmentos extensos e paralelos, facilitando o contraste.
+“Os servidores examinaram os documentos.” — NÃO separar por vírgula o sujeito “Os servidores” do predicado “examinaram os documentos” sem elemento intercalado justificável.
+“Depois da análise, o relatório foi concluído.” — adjunto adverbial antecipado. Compare com “O relatório foi concluído depois da análise.”, que pode dispensar a vírgula.
+“Os documentos, que estavam incompletos, foram devolvidos.” — oração adjetiva explicativa: informa sobre o conjunto dos documentos. “Os documentos que estavam incompletos foram devolvidos.” — restritiva: delimita quais documentos foram devolvidos. A pontuação pode mudar a extensão da afirmação.
+
+
+6. SINTAXE APLICADA
+Na oração “O número de alertas aumentou”, sujeito = “O número de alertas”; núcleo do sujeito = “número”; predicado = “aumentou”. O verbo concorda com “número” no singular, não com “alertas”.
+“Se os servidores tratarem cada alerta como prova definitiva, poderão cometer injustiças.” A primeira oração é subordinada adverbial condicional; a segunda expressa consequência possível da condição.
+“A experiência mostrou que a tecnologia acelera tarefas.” A oração introduzida por “que” completa o sentido de “mostrou”: é subordinada substantiva objetiva direta; “que” funciona como conjunção integrante.
+“o contexto em que os registros foram produzidos” — “que” retoma “contexto” e funciona como pronome relativo, precedido de preposição.
+CRASE: “A equipe recorreu à análise documental” (recorrer A + artigo A de “a análise”). Compare: “A equipe começou a analisar os documentos” (antes de verbo, não há crase). Em “a análise foi concluída”, o “a” é artigo, não há fusão com preposição.
+Não decorar frases isoladas: identificar função sintática e relação semântica é mais seguro.
+
+
+7. COMO RESOLVER QUESTÕES IAN
+Primeira leitura: localize tema e tese. Segunda: circule marcadores de oposição, condição e conclusão. Na alternativa INCORRETA/EXCETO, destaque mentalmente o comando negativo antes de ler A–D. Em assertivas I/II/III, julgue cada uma separadamente e só depois examine combinações. Elimine distratores por extrapolação, troca de referente, inversão de causa/consequência e generalização. Não use “parece razoável” como critério; use texto e gramática.
+
+
+8. TREINO — 20 QUESTÕES AUTORAIS, QUATRO ALTERNATIVAS (GABARITO OCULTO)
+Q1. A ideia central do texto é:
+A) sistemas digitais tornam dispensável o servidor público.
+B) dados eletrônicos ajudam, mas exigem análise contextual e responsabilidade.
+C) toda divergência documental comprova irregularidade.
+D) a fiscalização deve abandonar ferramentas automáticas.
+Q2. Qual informação é explicitamente afirmada no segundo parágrafo?
+A) a equipe encerrou todas as fiscalizações.
+B) todos os alertas eram falsos.
+C) o número de alertas aumentou nos primeiros meses.
+D) as irregularidades cresceram exatamente na mesma proporção.
+Q3. A inferência autorizada pelo texto é:
+A) aumento de alertas não significa necessariamente aumento equivalente de irregularidades.
+B) registros duplicados nunca provocam alertas.
+C) a análise humana é sempre mais rápida que a tecnologia.
+D) não existem problemas reais na fiscalização.
+Q4. Em “parte dos alertas resultava de registros duplicados”, a palavra “parte” indica:
+A) totalidade. B) exclusividade. C) subconjunto. D) negação.
+Q5. O conectivo “Contudo”, no primeiro parágrafo, exprime:
+A) finalidade. B) oposição. C) condição. D) adição.
+Q6. No terceiro parágrafo, “todos”, em “se ignorarem todos”, retoma:
+A) os servidores. B) os alertas. C) os municípios. D) os documentos eletrônicos.
+Q7. “Por isso”, no terceiro parágrafo, introduz:
+A) hipótese. B) explicação sem relação. C) oposição. D) conclusão decorrente dos riscos apontados.
+Q8. A expressão “Não se trata ... de escolher entre máquinas e pessoas” sugere:
+A) substituição integral do trabalho humano.
+B) proibição de tecnologias.
+C) complementaridade entre recursos tecnológicos e decisões humanas.
+D) ausência de responsabilidade administrativa.
+Q9. Em “reduziu os falsos alertas sem abandonar a investigação”, entende-se que:
+A) a investigação dos casos relevantes foi mantida.
+B) os servidores pararam de examinar documentos.
+C) todos os alertas eram verdadeiros.
+D) o setor deixou de usar sistemas.
+Q10. Assinale a afirmação que EXTRAPOLA o texto:
+A) a equipe revisou critérios de comparação.
+B) os registros duplicados explicavam parte dos alertas.
+C) decisões administrativas exigem responsabilidade.
+D) todas as divergências encontradas eram fraudulentas.
+Q11. Em “Em determinado município, o setor...”, a vírgula separa:
+A) adjunto adverbial deslocado. B) sujeito do verbo. C) objeto direto do verbo. D) vocativo.
+Q12. Em “A equipe, porém, não concluiu...”, as vírgulas:
+A) separam sujeito e predicado sem justificativa.
+B) isolam um conectivo intercalado.
+C) marcam citação direta.
+D) indicam enumeração de objetos.
+Q13. Assinale a alternativa com pontuação INADEQUADA na norma-padrão:
+A) Após a verificação, o relatório foi enviado.
+B) O fiscal, contudo, solicitou mais documentos.
+C) Os servidores, analisaram os documentos.
+D) A equipe examinou os dados e registrou a conclusão.
+Q14. Em “Se os servidores tratarem cada alerta como prova definitiva...”, “Se” indica:
+A) concessão. B) conclusão. C) condição. D) comparação.
+Q15. Em “para saber o que ela representa”, “para” exprime:
+A) finalidade. B) oposição. C) consequência inevitável. D) alternância.
+Q16. Em “A experiência mostrou que a tecnologia acelera tarefas”, “que” é:
+A) pronome relativo retomando “experiência”.
+B) conjunção integrante que introduz oração substantiva.
+C) advérbio de intensidade.
+D) preposição.
+Q17. Em “o contexto em que os registros foram produzidos”, “que” funciona como:
+A) conjunção coordenativa. B) artigo. C) pronome relativo. D) interjeição.
+Q18. No trecho “a tecnologia acelera tarefas repetitivas, mas não substitui a análise humana”, “mas” estabelece:
+A) causa. B) contraste. C) finalidade. D) condição.
+Q19. Assinale a alternativa com emprego CORRETO da crase:
+A) A equipe recorreu à análise documental.
+B) Os fiscais começaram à revisar os documentos.
+C) O relatório foi entregue à servidores.
+D) A auditoria foi realizada à partir de maio.
+Q20. Em “O número de alertas aumentou”, o sujeito é:
+A) “alertas”. B) “O número de alertas”. C) “aumentou”. D) “número”, isoladamente.
+
+
+9. RECUPERAÇÃO FINAL, SEM GABARITO
+Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três alternativas erradas.
+
+
+10. CADERNO DE ERROS E RETENÇÃO
+Sem respostas recebidas: 20 questões propostas, 0 questões corrigidas; NÃO atribuir percentual de acertos nem domínio. Quando houver resposta, corrigir A/B/C/D, identificar o mecanismo do distrator, registrar erro real, causa provável, regra correta, pegadinha e revisão futura. Repetir itens em questões MISTAS aproximadamente em 24 horas, 72 horas e 7 dias; só marcar domínio quando a retenção reaparecer.
+Próxima aula 93: bloco específico novo — Processo Judicial Tributário e Lei nº 6.830/1980 (execução fiscal), priorizando conceitos, CDA, citação, garantia e embargos, sem fugir do edital de AGENTE FISCAL.
+
+
+FONTES DE ESCOPO E ESTILO: Edital de abertura do Concurso Queimados 01/2026 no portal oficial da banca (https://portal.ian.org.br/edital/ver/53); Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx; prova IAN 2024 Prefeitura de Três Rios — Auditor de Controle Interno; prova IAN 2025 Prefeitura de Santa Maria Madalena — Professor Docente II Português. Questões inéditas deste caderno; não atribuir gabarito à coletânea de 911 questões.
+[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]

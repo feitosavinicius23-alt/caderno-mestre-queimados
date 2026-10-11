@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 73,
-    "totalQuestoes": 525,
-    "tempoEstimadoMin": 359,
+    "totalAulas": 74,
+    "totalQuestoes": 545,
+    "tempoEstimadoMin": 366,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -74,7 +74,8 @@
       "AGENTE FISCAL DE QUEIMADOS/RJ — 10/10/2026",
       "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383",
       "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
-      "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO"
+      "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
     ],
     "aulas": [
       {
@@ -514,6 +515,12 @@
         "numero": 90,
         "titulo": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
         "slug": "parte-4-4-questoes-sem-gabarito-antecipado"
+      },
+      {
+        "id": "direito-tributario-aula-092",
+        "numero": 92,
+        "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+        "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe"
       }
     ]
   },
