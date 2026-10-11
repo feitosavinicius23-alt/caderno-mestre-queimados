@@ -1,0 +1,515 @@
+{
+  "id": "direito-tributario-aula-088",
+  "numero": 88,
+  "titulo": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383",
+  "slug": "cadastro-fiscal-imobiliario-benfeitoria-em-area-de-maior-porcao-titulo-precario",
+  "disciplina": "Direito Tributário",
+  "assunto": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383",
+  "ordem": 88,
+  "data": "2026-10-11",
+  "tempoEstimadoMin": 4,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-088-b1",
+      "tipo": "teoria",
+      "titulo": "OBJETIVO",
+      "texto": "Fechar o bloco cadastral que vinha sendo estudado na Aula 87. Esta aula consolida a diferença entre cadastro fiscal e reconhecimento de propriedade/posse, trabalhando inscrição de benfeitoria em área de maior porção, precariedade da inscrição, cancelamento, prova da existência física, comunicação de restrições e alteração do titular."
+    },
+    {
+      "id": "direito-tributario-aula-088-b2",
+      "tipo": "teoria",
+      "titulo": "ART. 378 — BENFEITORIA EM ÁREA DE MAIOR PORÇÃO",
+      "texto": "Quando existir edificação em área de maior porção SEM VINCULAÇÃO AO RESPECTIVO TERRENO, a inscrição da benfeitoria poderá ser promovida.\nA palavra importante é:\nPODERÁ.\nNão é automática.\nE o ponto decisivo está no §1º:\nessa inscrição será A TÍTULO PRECÁRIO e EXCLUSIVAMENTE PARA EFEITOS FISCAIS."
+    },
+    {
+      "id": "direito-tributario-aula-088-b3",
+      "tipo": "regra-de-prova",
+      "titulo": "Regra de ouro:",
+      "texto": "CADASTRO FISCAL ≠ TÍTULO DE PROPRIEDADE.\nO fato de a Prefeitura cadastrar a construção não significa que reconheceu domínio, propriedade definitiva ou regularização urbanística."
+    },
+    {
+      "id": "direito-tributario-aula-088-b4",
+      "tipo": "teoria",
+      "titulo": "ART. 378, §2º — CIÊNCIA INEQUÍVOCA",
+      "texto": "A condição precária precisa:\n- ser de ciência inequívoca do requerente;\n- constar das guias de cobrança dos tributos;\n- constar das certidões emitidas para o imóvel.\nMapa:\nPRECÁRIO → REQUERENTE SABE + GUIA INFORMA + CERTIDÃO INFORMA."
+    },
+    {
+      "id": "direito-tributario-aula-088-b5",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha IAN:",
+      "texto": "“A precariedade fica apenas em registro interno do Município.”\nERRADO."
+    },
+    {
+      "id": "direito-tributario-aula-088-b6",
+      "tipo": "teoria",
+      "titulo": "ART. 379 — CANCELAMENTO",
+      "texto": "A inscrição a título precário poderá ser cancelada A QUALQUER TEMPO pela Secretaria Municipal de Economia e Finanças.\nMacete:\nPRECÁRIO → PODE CAIR A QUALQUER TEMPO.\nA inscrição precária não cria estabilidade equivalente a um registro imobiliário definitivo."
+    },
+    {
+      "id": "direito-tributario-aula-088-b7",
+      "tipo": "teoria",
+      "titulo": "ART. 380 — CADASTRAMENTO DA BENFEITORIA",
+      "texto": "O cadastramento somente ocorrerá se:\n1. for comprovada a existência da benfeitoria;\n2. forem determinadas sua localização e sua situação física;\n3. isso ocorrer por meio do Boletim de Informações Cadastrais da Secretaria Municipal de Economia e Finanças.\nO parágrafo único acrescenta:\no cadastramento fica condicionado à apresentação de documentos comprobatórios da existência da edificação em área de maior porção, na forma determinada por ato do Poder Executivo.\nMapa:\nCADASTRO = EXISTÊNCIA + LOCALIZAÇÃO + SITUAÇÃO FÍSICA + DOCUMENTAÇÃO.\nNão basta mera declaração sem suporte."
+    },
+    {
+      "id": "direito-tributario-aula-088-b8",
+      "tipo": "teoria",
+      "titulo": "ART. 381 — ÁREA DESAPROPRIADA OU COM RESTRIÇÃO",
+      "texto": "Se a benfeitoria estiver construída:\n- em área desapropriada; ou\n- em área sujeita a qualquer tipo de restrição à ocupação,\na Secretaria Municipal de Economia e Finanças comunicará ao órgão responsável a existência da edificação.\nA lógica é:\nFAZENDA CADASTRA PARA FINS FISCAIS, MAS COMUNICA O ÓRGÃO COMPETENTE QUANDO HÁ RESTRIÇÃO.\nIsso reforça novamente:\nCADASTRAR ≠ LEGALIZAR."
+    },
+    {
+      "id": "direito-tributario-aula-088-b9",
+      "tipo": "teoria",
+      "titulo": "ART. 382 — ALTERAÇÃO DO TITULAR DA BENFEITORIA",
+      "texto": "A alteração do nome do titular depende da apresentação de documento que comprove:"
+    },
+    {
+      "id": "direito-tributario-aula-088-b10",
+      "tipo": "teoria",
+      "titulo": "A SUCESSÃO DO DIREITO POSSESSÓRIO",
+      "texto": "e esse documento deve estar:\nREGISTRADO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS.\nMacete:\nMUDOU TITULAR → PROVA DA SUCESSÃO POSSESSÓRIA + REGISTRO.\nNão é mera declaração verbal."
+    },
+    {
+      "id": "direito-tributario-aula-088-b11",
+      "tipo": "teoria",
+      "titulo": "ART. 383 — TERRENO DE TITULARIDADE DESCONHECIDA",
+      "texto": "Terreno cuja titularidade seja desconhecida e que seja objeto de posse poderá ser inscrito:"
+    },
+    {
+      "id": "direito-tributario-aula-088-b12",
+      "tipo": "teoria",
+      "titulo": "A TÍTULO PRECÁRIO",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-088-b13",
+      "tipo": "teoria",
+      "titulo": "MEDIANTE PROCESSO",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-088-b14",
+      "tipo": "teoria",
+      "titulo": "EXCLUSIVAMENTE PARA EFEITOS FISCAIS",
+      "texto": "desde que o órgão competente consiga identificar:\n- dimensões;\n- confrontações.\nMapa:\nTITULAR DESCONHECIDO + POSSE → PROCESSO + DIMENSÕES/CONFRONTAÇÕES → CADASTRO PRECÁRIO FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-088-b15",
+      "tipo": "atencao",
+      "titulo": "Atenção:",
+      "texto": "isso NÃO transforma automaticamente o possuidor em proprietário."
+    },
+    {
+      "id": "direito-tributario-aula-088-b16",
+      "tipo": "teoria",
+      "titulo": "QUADRO DE GUERRA — 378 A 383",
+      "texto": "378 → benfeitoria sem vínculo ao terreno → cadastro possível.\n378 §1º → título precário + só efeitos fiscais.\n378 §2º → requerente ciente + guia + certidão.\n379 → cancelamento a qualquer tempo.\n380 → comprovar existência + localização + situação física + documentos.\n381 → área desapropriada/restrita → comunica órgão responsável.\n382 → troca do titular → prova da sucessão possessória registrada.\n383 → terreno de titular desconhecido + posse → processo + dimensões/confrontações + título precário fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-088-b17",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar:\n1. Inscrição da benfeitoria do art. 378 é definitiva?\n2. Produz efeitos dominiais?\n3. A precariedade deve constar onde?\n4. Pode ser cancelada quando?\n5. O que o art. 380 exige para cadastrar?\n6. Área desapropriada faz o quê com a atuação da Fazenda?\n7. Para trocar o titular da benfeitoria, qual documento é exigido?\n8. Terreno de titular desconhecido pode ser inscrito em qual condição?\n\nRespostas mentais esperadas:\nnão / não, somente fiscais / ciência do requerente + guias + certidões / a qualquer tempo / prova de existência + localização + situação física + documentação / comunicação ao órgão responsável / prova da sucessão possessória registrada em Cartório de Títulos e Documentos / a título precário e exclusivamente para efeitos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-088-b18",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-088-q-001",
+        "direito-tributario-aula-088-q-002",
+        "direito-tributario-aula-088-q-003",
+        "direito-tributario-aula-088-q-004",
+        "direito-tributario-aula-088-q-005",
+        "direito-tributario-aula-088-q-006",
+        "direito-tributario-aula-088-q-007",
+        "direito-tributario-aula-088-q-008",
+        "direito-tributario-aula-088-q-009",
+        "direito-tributario-aula-088-q-010",
+        "direito-tributario-aula-088-q-011",
+        "direito-tributario-aula-088-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-088-b19",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 88",
+      "texto": "CADASTRO FISCAL NÃO É TÍTULO DE PROPRIEDADE.\nPRECÁRIO = SOMENTE EFEITOS FISCAIS.\nPRECÁRIO = PODE SER CANCELADO.\nCADASTRO EXIGE PROVA DA EXISTÊNCIA FÍSICA.\nÁREA RESTRITA = COMUNICA ÓRGÃO RESPONSÁVEL.\nTROCA DE TITULAR = SUCESSÃO POSSESSÓRIA DOCUMENTADA.\nTITULAR DESCONHECIDO = PROCESSO + DIMENSÕES/CONFRONTAÇÕES + PRECARIEDADE."
+    },
+    {
+      "id": "direito-tributario-aula-088-b20",
+      "tipo": "teoria",
+      "titulo": "STATUS PEDAGÓGICO",
+      "texto": "Este bloco do cadastro imobiliário entra em RETENÇÃO INICIAL e não será aprofundado artigo por artigo na próxima aula. A partir da AULA 89 iniciaremos a rotação acelerada prometida para fechar as lacunas do edital: AUDITORIA FISCAL — planejamento, procedimentos, exame documental e contábil, auditoria eletrônica, indícios de fraude/evasão e cruzamentos aplicados ao ISS."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-088-q-001",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 1,
+      "question": "A inscrição prevista no art. 378:",
+      "options": [
+        {
+          "id": "A",
+          "text": "reconhece automaticamente a propriedade do terreno."
+        },
+        {
+          "id": "B",
+          "text": "pode ocorrer a título precário e exclusivamente para efeitos fiscais."
+        },
+        {
+          "id": "C",
+          "text": "equivale a registro imobiliário."
+        },
+        {
+          "id": "D",
+          "text": "torna definitiva a ocupação."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-002",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 2,
+      "question": "A condição precária:",
+      "options": [
+        {
+          "id": "A",
+          "text": "permanece sigilosa dentro da Prefeitura."
+        },
+        {
+          "id": "B",
+          "text": "deve ser de ciência inequívoca do requerente e constar de guias e certidões."
+        },
+        {
+          "id": "C",
+          "text": "não pode constar de certidões."
+        },
+        {
+          "id": "D",
+          "text": "desaparece com o primeiro pagamento."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-003",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 3,
+      "question": "A inscrição a título precário:",
+      "options": [
+        {
+          "id": "A",
+          "text": "nunca pode ser cancelada."
+        },
+        {
+          "id": "B",
+          "text": "pode ser cancelada a qualquer tempo pela Secretaria competente."
+        },
+        {
+          "id": "C",
+          "text": "somente pode ser cancelada judicialmente."
+        },
+        {
+          "id": "D",
+          "text": "transforma-se automaticamente em definitiva após um ano."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-004",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 4,
+      "question": "Para cadastrar a benfeitoria:",
+      "options": [
+        {
+          "id": "A",
+          "text": "basta declaração verbal."
+        },
+        {
+          "id": "B",
+          "text": "é preciso comprovar sua existência e determinar localização e situação física."
+        },
+        {
+          "id": "C",
+          "text": "não é necessária localização."
+        },
+        {
+          "id": "D",
+          "text": "é proibida prova documental."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-005",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 5,
+      "question": "Benfeitoria em área desapropriada ou sujeita a restrição:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é automaticamente regularizada."
+        },
+        {
+          "id": "B",
+          "text": "deve ter sua existência comunicada ao órgão responsável."
+        },
+        {
+          "id": "C",
+          "text": "gera propriedade definitiva."
+        },
+        {
+          "id": "D",
+          "text": "não pode ser objeto de qualquer registro fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-006",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 6,
+      "question": "A alteração do titular da benfeitoria exige:",
+      "options": [
+        {
+          "id": "A",
+          "text": "mera declaração de vizinho."
+        },
+        {
+          "id": "B",
+          "text": "documento comprobatório da sucessão do direito possessório registrado em Cartório de Títulos e Documentos."
+        },
+        {
+          "id": "C",
+          "text": "somente pagamento do IPTU."
+        },
+        {
+          "id": "D",
+          "text": "alvará sanitário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-007",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 7,
+      "question": "Terreno de titularidade desconhecida objeto de posse:",
+      "options": [
+        {
+          "id": "A",
+          "text": "jamais pode ser inscrito."
+        },
+        {
+          "id": "B",
+          "text": "pode ser inscrito a título precário, mediante processo e exclusivamente para efeitos fiscais, se identificáveis dimensões e confrontações."
+        },
+        {
+          "id": "C",
+          "text": "passa automaticamente ao patrimônio do possuidor."
+        },
+        {
+          "id": "D",
+          "text": "dispensa identificação física."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-008",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 8,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cadastro fiscal pode existir sem reconhecimento de domínio."
+        },
+        {
+          "id": "B",
+          "text": "inscrição precária produz somente efeitos fiscais."
+        },
+        {
+          "id": "C",
+          "text": "cadastramento fiscal equivale necessariamente a regularização fundiária."
+        },
+        {
+          "id": "D",
+          "text": "a inscrição precária pode ser cancelada."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-009",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 9,
+      "question": "A expressão que melhor resume os arts. 378 e 383 é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cadastro = propriedade."
+        },
+        {
+          "id": "B",
+          "text": "título precário = efeitos fiscais."
+        },
+        {
+          "id": "C",
+          "text": "posse = domínio definitivo."
+        },
+        {
+          "id": "D",
+          "text": "lançamento = legalização urbanística."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-010",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 10,
+      "question": "Recuperação intercalada: no comércio informal regular, a cobrança estudada era:",
+      "options": [
+        {
+          "id": "A",
+          "text": "diária."
+        },
+        {
+          "id": "B",
+          "text": "mensal."
+        },
+        {
+          "id": "C",
+          "text": "quinquenal."
+        },
+        {
+          "id": "D",
+          "text": "somente anual."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-011",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 11,
+      "question": "Recuperação intercalada: o comércio informal eventual:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é cobrado por quantidade de dias."
+        },
+        {
+          "id": "B",
+          "text": "exige duração mínima de um ano."
+        },
+        {
+          "id": "C",
+          "text": "é sempre mensal."
+        },
+        {
+          "id": "D",
+          "text": "dispensa inscrição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    },
+    {
+      "id": "direito-tributario-aula-088-q-012",
+      "lessonId": "direito-tributario-aula-088",
+      "numero": 12,
+      "question": "Recuperação intercalada: isenção do art. 322:",
+      "options": [
+        {
+          "id": "A",
+          "text": "elimina inscrição."
+        },
+        {
+          "id": "B",
+          "text": "não dispensa inscrição junto ao Fisco."
+        },
+        {
+          "id": "C",
+          "text": "extingue poder de polícia."
+        },
+        {
+          "id": "D",
+          "text": "elimina fiscalização sanitária."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-088-b17",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar:\n1. Inscrição da benfeitoria do art. 378 é definitiva?\n2. Produz efeitos dominiais?\n3. A precariedade deve constar onde?\n4. Pode ser cancelada quando?\n5. O que o art. 380 exige para cadastrar?\n6. Área desapropriada faz o quê com a atuação da Fazenda?\n7. Para trocar o titular da benfeitoria, qual documento é exigido?\n8. Terreno de titular desconhecido pode ser inscrito em qual condição?\n\nRespostas mentais esperadas:\nnão / não, somente fiscais / ciência do requerente + guias + certidões / a qualquer tempo / prova de existência + localização + situação física + documentação / comunicação ao órgão responsável / prova da sucessão possessória registrada em Cartório de Títulos e Documentos / a título precário e exclusivamente para efeitos fiscais."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-11",
+  "contentHash": "b27e6025faec8e74"
+}

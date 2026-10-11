@@ -1,0 +1,180 @@
+{
+  "id": "direito-tributario-aula-087",
+  "numero": 87,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 10/10/2026",
+  "slug": "agente-fiscal-de-queimados-rj-10-10-2026",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 10/10/2026",
+  "ordem": 87,
+  "data": "2026-10-11",
+  "tempoEstimadoMin": 11,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-087-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Código Tributário Municipal — ART. 377 (caput e §§ 1º a 3º)\nTEMA: fatos geradores pretéritos, presunções de ocupação, provas documentais e prazos\nProva: 22/11/2026, 9h–12h. Meta: ~90% de acertos; duração sugerida 45–55 min.\nSTATUS: questões inéditas/autoria pedagógica; não são questões transcritas do arquivo de 911 questões. Respostas não divulgadas até a manifestação do aluno.\nFONTE: Código Tributário Municipal, LC 001/1995, consolidação municipal de 03/05/2024, págs. 127–128, https://transparencia.queimados.rj.gov.br/webrun/tmp/lai_lei_IPTU/BAD60E2A-8C15-460B-B163-5CC207C4BDEB_codigo-tributario.pdf ; edital de 08/09/2026, https://transparencia.queimados.rj.gov.br/diario_oficial_get_anexo.php?codigo=9360&ocr=s. Não foi confirmada alteração posterior específica do art. 377.\nPERFIL IAN: comparação de prova de Auditor de Controle Interno (Três Rios, 2024) e Controlador Interno (Jardim/MS, 2026), ambos com quatro alternativas; comandos de assertivas, CORRETA, INCORRETA, EXCETO. Não se afirma deduplicação integral dos oito cadernos e do arquivo 911, que não foi localizado.\n════════════════════════════════════════════════════════════════"
+    },
+    {
+      "id": "direito-tributario-aula-087-b2",
+      "tipo": "revisao",
+      "titulo": "1. REVISÃO ATIVA DA AULA 86 — RESPONDER ANTES DE PROSSEGUIR",
+      "texto": "R1. Art. 373: quando as zonas fiscais são discriminadas e para qual exercício valem?\nR2. Art. 374: classifique rua pavimentada; rua sem pavimentação com coleta de lixo; rua sem ambos.\nR3. Art. 375: qual fato autoriza a revisão de ofício do lançamento?\nR4. Art. 375, § 2º: o que pode acontecer se faltarem informações cadastrais ou for impedida sua obtenção?\nR5. Art. 376: se o desmembramento foi averbado em agosto/2026, qual é o marco do fato gerador previsto?\nSem respostas do aluno, nenhuma questão anterior está considerada dominada."
+    },
+    {
+      "id": "direito-tributario-aula-087-b3",
+      "tipo": "teoria",
+      "titulo": "2. ART. 377 — CAPUT: O PROBLEMA DOS FATOS GERADORES PRETÉRITOS",
+      "texto": "A norma cuida de créditos tributários originários de processos administrativos nos quais existam indícios de fatos geradores ocorridos no passado. Prevê constituição retroativa em relação ao exercício de declaração do contribuinte, obedecendo a critérios específicos dos parágrafos.\nExemplo: em 2026 o cadastro é atualizado e surgem indícios de que uma construção já estava ocupada anos antes. A declaração de 2026 não prova, sozinha, que o fato gerador começou em 2026. O fisco deve aplicar a hipótese legal, examinar provas e observar limites gerais, inclusive decadência e devido processo.\nTrês perguntas de fiscalização: (a) que tipo de obra é? (b) qual marco temporal a lei presume? (c) que prova pode afastar essa presunção e até quando?\nPEGADINHA: “retroativamente” NÃO equivale a autorização ilimitada para cobrar qualquer ano, sem verificar decadência. O art. 377 não elimina o CTN."
+    },
+    {
+      "id": "direito-tributario-aula-087-b4",
+      "tipo": "teoria",
+      "titulo": "3. § 1º — CONSTRUÇÃO OU ACRÉSCIMO LEGALIZADO / LEGALIZAÇÃO ANTERIOR À CONCLUSÃO",
+      "texto": "Regra: presume-se a ocupação desde o ÚLTIMO PRAZO constante da respectiva licença.\nExemplo: licença fixa o último prazo de conclusão em setembro de 2022. Havendo os pressupostos do §1º, esse prazo é o marco presumido de ocupação, sujeito à análise da prova contrária e dos limites tributários.\nO contribuinte pode apresentar prova em contrário por duas vias distintas:"
+    },
+    {
+      "id": "direito-tributario-aula-087-b5",
+      "tipo": "teoria",
+      "titulo": "INCISO I — APRESENTAÇÃO EM QUALQUER TEMPO:",
+      "texto": "(a) Certidão de Habite-se ou de Aceitação de Obras, conforme o caso;\n(b) licenças que fixem prazos posteriores para conclusão das obras."
+    },
+    {
+      "id": "direito-tributario-aula-087-b6",
+      "tipo": "teoria",
+      "titulo": "INCISO II — ATÉ O PRAZO REGULAMENTAR DE IMPUGNAÇÃO AO LANÇAMENTO:",
+      "texto": "(a) prova de instalação de medidor de energia elétrica;\n(b) prova de instalação de medidor de gás;\n(c) comprovação de ligação de água;\n(d) notas fiscais de materiais em volume compatível com o porte da obra;\n(e) Boletim de Informações Cadastrais da Secretaria Municipal de Economia e Finanças.\nEXEMPLO COMPARADO: habite-se apresentado depois do prazo ordinário de impugnação integra a categoria de prova do inciso I (“em qualquer tempo”); conta de ligação de água pertence ao inciso II, submetido ao prazo de impugnação. Isso não equivale a afastar limites processuais gerais em outros aspectos.\nPEGADINHA: trocar “último prazo da licença” por “primeiro prazo”; trocar as categorias de provas e prazos; excluir o Boletim de Informações Cadastrais do inciso II."
+    },
+    {
+      "id": "direito-tributario-aula-087-b7",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "§1º = ÚLTIMO PRAZO DA LICENÇA; I = HABITE-SE/LICENÇA POSTERIOR EM QUALQUER TEMPO; II = MEDIDORES/ÁGUA/NOTAS/BIC ATÉ IMPUGNAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-087-b8",
+      "tipo": "teoria",
+      "titulo": "4. § 2º — LEGALIZAÇÃO COM GRAVAME DE OBRAS CONCLUÍDAS",
+      "texto": "Regra: presume-se a ocupação para o EXERCÍCIO POSTERIOR AO DO GRAVAME.\nExemplo: gravame ocorrido em 2023: exercício posterior = 2024, como marco presumido; a conclusão não dispensa prova nem exame de decadência.\nProva contrária somente dentro do PRAZO REGULAMENTAR DE IMPUGNAÇÃO AO LANÇAMENTO, por meio de:\n(a) Certidão de Aceitação de Obras;\n(b) prova da instalação de medidor de energia elétrica;\n(c) prova da instalação de medidor de gás;\n(d) prova de ligação de água;\n(e) notas fiscais de material compatíveis com o porte da obra.\nOBSERVE: o §2º não lista o Boletim de Informações Cadastrais; ele aparece no §1º, II. A prova “Certidão de Aceitação de Obras” está prevista aqui, mas não existe autorização expressa de “apresentação em qualquer tempo” como no §1º, I."
+    },
+    {
+      "id": "direito-tributario-aula-087-b9",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "§2º = GRAVAME → EXERCÍCIO POSTERIOR; TODAS AS PROVAS ATÉ IMPUGNAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-087-b10",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: “mesmo exercício do gravame” ou “dois anos após o gravame” — não é o que consta do §2º.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-087-b11",
+      "tipo": "teoria",
+      "titulo": "5. § 3º — CONSTRUÇÃO NÃO LEGALIZADA",
+      "texto": "Regra específica: ARBITRA-SE A IDADE DE CINCO ANOS.\nO número cinco aqui refere-se à IDADE PRESUMIDA da construção, NÃO ao prazo decadencial em si.\nProva contrária: deve ser apresentada até o PRAZO REGULAMENTAR PARA IMPUGNAÇÃO AO LANÇAMENTO, mediante DECLARAÇÃO FIRMADA POR TRÊS TESTEMUNHAS, acompanhada da documentação indicada:\n(a) prova de instalação de medidor de energia elétrica;\n(b) prova de instalação de medidor de gás;\n(c) comprovação de ligação de água;\n(d) notas fiscais de materiais em volume compatível com o porte da obra.\nNão basta confundir testemunhas com substituição integral da prova documental: a norma exige declaração acompanhada de documentação. A redação não deve ser extrapolada para inventar obrigatoriedade de possuir simultaneamente os quatro tipos de instalação (energia, gás, água e notas); avaliar o caso e o texto legal.\nExemplo: construção sem legalização declarada em 2026; a lei estabelece idade arbitrada de cinco anos, admitindo prova contrária no prazo e na forma previstos. Não conclua automaticamente que toda cobrança retroativa de cinco exercícios seja válida: verificar fatos, decadência e constituição."
+    },
+    {
+      "id": "direito-tributario-aula-087-b12",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "§3º = NÃO LEGALIZADA → 5 ANOS DE IDADE + 3 TESTEMUNHAS + DOCUMENTOS + PRAZO DE IMPUGNAÇÃO."
+    },
+    {
+      "id": "direito-tributario-aula-087-b13",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: três testemunhas, não duas; cinco anos de idade presumida, não multa de 5%; até impugnação, não “em qualquer tempo”.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-087-b14",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§1º — Obra/acréscimo legalizado ou legalização antes da conclusão | marco: último prazo da licença | habite-se/aceitação e licença posterior: em qualquer tempo | medidores, água, notas, BIC: até impugnação."
+    },
+    {
+      "id": "direito-tributario-aula-087-b15",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§2º — Obra concluída legalizada com gravame | marco: exercício posterior ao gravame | aceitação, medidores, água, notas: até impugnação."
+    },
+    {
+      "id": "direito-tributario-aula-087-b16",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "§3º — Construção não legalizada | marco: idade arbitrada de cinco anos | declaração de três testemunhas acompanhada de documentação legal: até impugnação."
+    },
+    {
+      "id": "direito-tributario-aula-087-b17",
+      "tipo": "teoria",
+      "titulo": "6. TABELA COMPARATIVA PARA REVISÃO",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-087-b18",
+      "tipo": "regra-de-prova",
+      "titulo": "REGRA DE OURO: 1 = LICENÇA; 2 = GRAVAME; 3 = SEM LEGALIZAÇÃO.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-087-b19",
+      "tipo": "teoria",
+      "titulo": "7. CASOS PRÁTICOS COM RACIOCÍNIO EXPLICADO",
+      "texto": "CASO A: licença para obra legalizada com último prazo em 30/06/2022; em 2026 o cadastro revela ampliação. A hipótese do §1º manda verificar o último prazo da licença. Se há licença posterior ou habite-se, avaliar prova do inciso I. Se há ligação de água ou medidor, conferir prazo do inciso II. Não decidir apenas pela data da declaração.\nCASO B: obra concluída com gravame em 2021. Pela regra do §2º, o exercício posterior é 2022. A aceitação de obras pode demonstrar situação diversa, mas deve observar prazo de impugnação previsto.\nCASO C: obra não legalizada e contribuinte afirma que foi construída há dois anos. O §3º prevê idade presumida de cinco anos. Para contestar, examinar declaração de três testemunhas e os documentos indicados, no prazo. Não confundir a presunção com prova absoluta.\nCASO D: agente municipal verifica que a obra foi declarada em 2026, mas a água foi ligada em 2023. Esse dado pode ser elemento probatório; isoladamente, não substitui análise da hipótese do §1º/§2º/§3º e do prazo para apresentar prova."
+    },
+    {
+      "id": "direito-tributario-aula-087-b20",
+      "tipo": "teoria",
+      "titulo": "8. INTERCALAÇÃO — PORTUGUÊS E RACIOCÍNIO",
+      "texto": "“Poderá ser aceita a comprovação em contrário” = presunção relativa, não prova impossível.\n“Até o prazo regulamentar” = limite temporal; “em qualquer tempo” = ausência desse limite específico para as provas enumeradas no §1º, I.\n“Desde o último prazo” = marco inicial presumido; “exercício posterior” = ano seguinte.\n“Desde que acompanhada” = condição; não leia como simples sugestão.\nExemplo de inferência: se o último prazo da licença é novembro/2024, não o substitua automaticamente por janeiro/2025; se gravame é 2024, o exercício posterior é 2025."
+    },
+    {
+      "id": "direito-tributario-aula-087-b21",
+      "tipo": "teoria",
+      "titulo": "9. TESTE CUMULATIVO — 24 QUESTÕES AUTORAIS (SEM GABARITO ANTES DAS RESPOSTAS)",
+      "texto": "Q01. O caput do art. 377 trata de créditos relacionados a: A) apenas fatos futuros; B) indícios de fatos geradores pretéritos em processos administrativos; C) somente IPVA; D) apenas tributos federais.\nQ02. A constituição retroativa mencionada no caput: A) afasta toda decadência; B) permite cobrança arbitrária; C) deve observar os critérios dos parágrafos e limites legais; D) dispensa processo.\nQ03. No §1º, o marco presumido de ocupação é: A) último prazo constante da licença; B) primeiro dia da obra; C) data da declaração de IR; D) data da venda do imóvel.\nQ04 — EXCETO. São provas do §1º, I, apresentáveis em qualquer tempo, EXCETO: A) Habite-se; B) Certidão de Aceitação de Obras; C) licença que fixe prazo posterior; D) comprovação de ligação de água.\nQ05. A prova de instalação do medidor de energia no §1º, II, deve ser apresentada: A) até o prazo regulamentar de impugnação; B) somente dez anos depois; C) sem limite específico expresso nesse inciso; D) apenas na compra do imóvel.\nQ06. O Boletim de Informações Cadastrais está expressamente previsto: A) apenas no §3º; B) apenas no §2º; C) no §1º, II; D) como multa.\nQ07. O §2º disciplina: A) transporte escolar; B) legalização com gravame de obras concluídas; C) obra sem qualquer cadastro de contribuinte; D) licença de publicidade.\nQ08. Gravame em 2023: a ocupação é presumida para o exercício: A) 2021; B) 2022; C) 2023; D) 2024.\nQ09 — INCORRETA. Sobre o §2º, marque a incorreta: A) prevê prova contrária; B) menciona Certidão de Aceitação de Obras; C) permite todas as provas listadas em qualquer tempo, sem prazo; D) menciona notas fiscais de materiais compatíveis.\nQ10. No §2º, qual NÃO consta da lista de provas? A) medidor de gás; B) Boletim de Informações Cadastrais; C) ligação de água; D) aceitação de obras.\nQ11. Na construção não legalizada, o §3º arbitra a idade de: A) cinco anos; B) três anos; C) dez anos; D) dois anos.\nQ12. A declaração prevista no §3º deve ser firmada por: A) um vizinho; B) dois servidores; C) quatro testemunhas; D) três testemunhas.\nQ13. O prazo para prova contrária do §3º é: A) ilimitado; B) até o prazo regulamentar de impugnação; C) trinta anos; D) até o nascimento do contribuinte.\nQ14 — CORRETA. Assinale a correta: A) §1º, I, admite Habite-se ou Aceitação de Obras em qualquer tempo; B) §3º trata de obra necessariamente legalizada; C) §2º usa o último prazo da licença; D) §1º, II, não admite notas fiscais.\nQ15. O número cinco do §3º corresponde diretamente: A) à alíquota do IPTU; B) ao número de testemunhas; C) à idade arbitrada da obra; D) à multa por atraso.\nQ16. Se o contribuinte alega idade diferente para obra não legalizada, a norma prevê: A) aceitação automática da palavra; B) proibição absoluta de prova; C) somente prova oral desacompanhada; D) prova em contrário na forma e prazo do §3º.\nQ17. Qual prova aparece tanto no §1º, II, quanto no §2º e no §3º? A) título eleitoral; B) comprovante de ligação de água; C) carteira de motorista; D) nota de passagem.\nQ18. Qual expressão identifica a hipótese do §2º? A) gravame; B) último prazo da licença; C) três testemunhas; D) transporte de passageiros.\nQ19 — ASSERTIVAS. I. §1º admite dois grupos com prazos diferentes. II. §2º presume exercício posterior ao gravame. III. §3º arbitra idade de cinco anos. A) só I; B) só II; C) I, II e III; D) só III.\nQ20 — EXCETO. Entre os documentos previstos no §3º, assinale EXCETO: A) comprovação de instalação do medidor de gás; B) notas fiscais de material compatíveis; C) ligação de água; D) certificado de vistoria de táxi.\nQ21 — PORTUGUÊS. “Desde que acompanhada” expressa: A) oposição; B) condição; C) comparação; D) conclusão.\nQ22 — PORTUGUÊS. A diferença entre “até o prazo” e “em qualquer tempo” é, sobretudo: A) limitação temporal expressa versus ausência dessa limitação específica; B) sujeito ativo; C) alíquota; D) imunidade.\nQ23 — REVISÃO ART. 375. A revisão de ofício pode decorrer de: A) vontade sem fundamento; B) opinião do vizinho; C) erro de fato em dados cadastrais; D) pagamento do IPVA.\nQ24 — REVISÃO ART. 376. Desmembramento averbado em agosto de 2026: o marco previsto é: A) agosto de 2025; B) agosto de 2026; C) janeiro de 2026; D) 1º de janeiro de 2027."
+    },
+    {
+      "id": "direito-tributario-aula-087-b22",
+      "tipo": "teoria",
+      "titulo": "10. CONTROLE DE ERROS E PRÓXIMOS PASSOS",
+      "texto": "Q01–Q24: aguardam resposta. NÃO divulgar gabarito antes da resposta. Após recebimento, corrigir alternativa por alternativa e registrar: questão, resposta, resultado, causa provável, regra correta, pegadinha, revisão em 24h/72h/7 dias. Nenhum conteúdo considerado dominado sem acertos posteriores em testes misturados.\nPonto de continuidade da AULA 88: art. 378 e seguintes — inscrição fiscal de benfeitorias em área de maior porção, título precário, cancelamento, prova de existência e efeitos do cadastro. Reforçar §1º–§3º do art. 377 e revisar Q1/Q2/Q3 da aula 86.\nFIM INTEGRAL DA AULA 87."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-087-b2",
+      "titulo": "1. REVISÃO ATIVA DA AULA 86 — RESPONDER ANTES DE PROSSEGUIR",
+      "texto": "R1. Art. 373: quando as zonas fiscais são discriminadas e para qual exercício valem?\nR2. Art. 374: classifique rua pavimentada; rua sem pavimentação com coleta de lixo; rua sem ambos.\nR3. Art. 375: qual fato autoriza a revisão de ofício do lançamento?\nR4. Art. 375, § 2º: o que pode acontecer se faltarem informações cadastrais ou for impedida sua obtenção?\nR5. Art. 376: se o desmembramento foi averbado em agosto/2026, qual é o marco do fato gerador previsto?\nSem respostas do aluno, nenhuma questão anterior está considerada dominada."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-087-b14",
+      "titulo": "6. TABELA COMPARATIVA PARA REVISÃO",
+      "texto": "§1º — Obra/acréscimo legalizado ou legalização antes da conclusão | marco: último prazo da licença | habite-se/aceitação e licença posterior: em qualquer tempo | medidores, água, notas, BIC: até impugnação."
+    },
+    {
+      "id": "direito-tributario-aula-087-b15",
+      "titulo": "6. TABELA COMPARATIVA PARA REVISÃO",
+      "texto": "§2º — Obra concluída legalizada com gravame | marco: exercício posterior ao gravame | aceitação, medidores, água, notas: até impugnação."
+    },
+    {
+      "id": "direito-tributario-aula-087-b16",
+      "titulo": "6. TABELA COMPARATIVA PARA REVISÃO",
+      "texto": "§3º — Construção não legalizada | marco: idade arbitrada de cinco anos | declaração de três testemunhas acompanhada de documentação legal: até impugnação."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-11",
+  "contentHash": "c9517ceabb07e6e5"
+}

@@ -1,0 +1,643 @@
+{
+  "id": "direito-tributario-aula-089",
+  "numero": 89,
+  "titulo": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
+  "slug": "auditoria-fiscal-planejamento-evidencia-cruzamento-e-deteccao-de-inconsistencias",
+  "disciplina": "Direito Tributário",
+  "assunto": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
+  "ordem": 89,
+  "data": "2026-10-11",
+  "tempoEstimadoMin": 7,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-089-b1",
+      "tipo": "teoria",
+      "titulo": "PONTO DE PARTIDA",
+      "texto": "A partir desta aula entramos no novo ritmo acelerado para fechar as lacunas do edital. Auditoria Fiscal aparece expressamente no conteúdo de AGENTE FISCAL com: planejamento e técnicas de auditoria; auditoria documental, contábil e eletrônica; fraudes e evasão; auditoria de ISS e receitas municipais. A base jurídica que já estudamos continua sendo importante: CTN, arts. 194 a 200, e Código Tributário de Queimados, especialmente as regras locais de fiscalização."
+    },
+    {
+      "id": "direito-tributario-aula-089-b2",
+      "tipo": "teoria",
+      "titulo": "1. O QUE É AUDITORIA FISCAL?",
+      "texto": "Auditoria fiscal é a atividade sistemática de verificar se fatos econômicos, documentos, registros, declarações e recolhimentos estão coerentes com a legislação tributária.\nEm linguagem simples:\nAUDITORIA = COMPARAR O QUE A LEI EXIGE COM O QUE O CONTRIBUINTE FEZ.\nEla não deve ser confundida com mero “procurar erro”. O objetivo técnico é obter elementos suficientes para concluir se:\na obrigação foi corretamente cumprida;\nhá diferença tributável;\nhá omissão de receita;\nhá erro formal;\nhá divergência documental;\nhá indício de fraude ou evasão;\nhá necessidade de lançamento, autuação, intimação ou arquivamento."
+    },
+    {
+      "id": "direito-tributario-aula-089-b3",
+      "tipo": "teoria",
+      "titulo": "2. PLANEJAMENTO DA AUDITORIA",
+      "texto": "Uma auditoria de qualidade começa antes de abrir o primeiro documento.\nA sequência mental é:\nOBJETIVO → RISCO → ESCOPO → FONTES → TESTES → CONCLUSÃO.\nOBJETIVO: o que será verificado?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b4",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: conferir se uma prestadora de serviços declarou integralmente sua receita tributável pelo ISS.",
+      "texto": "RISCO: onde pode estar o problema?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b5",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: notas emitidas em valor maior que o faturamento declarado.",
+      "texto": "ESCOPO: qual período e quais operações?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b6",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: janeiro a dezembro de determinado exercício.",
+      "texto": "FONTES: quais dados serão usados?\nExemplo: NFS-e, livros contábeis, extratos de declarações, contratos, movimentação financeira quando legalmente disponível, informações de tomadores e registros fiscais.\nTESTES: o que será comparado?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b7",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: NFS-e emitidas x receita declarada x recolhimento do ISS.",
+      "texto": "CONCLUSÃO: o que os testes permitem afirmar?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b8",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: não houve diferença; houve diferença justificável; houve omissão; há necessidade de diligência adicional.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-089-b9",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha IAN:",
+      "texto": "“A auditoria fiscal deve começar pela lavratura do auto de infração.”\nERRADO.\nO auto é consequência possível do procedimento, não seu ponto obrigatório de partida."
+    },
+    {
+      "id": "direito-tributario-aula-089-b10",
+      "tipo": "teoria",
+      "titulo": "3. EVIDÊNCIA: O FISCAL NÃO PODE CONCLUIR POR INTUIÇÃO",
+      "texto": "A conclusão fiscal precisa ser sustentada por elementos verificáveis.\nPense em três qualidades:\nSUFICIÊNCIA — há elementos em quantidade bastante?\nPERTINÊNCIA — eles têm relação com o fato examinado?\nCONFIABILIDADE — a fonte e o dado são aptos a sustentar a conclusão?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b11",
+      "tipo": "exemplo",
+      "titulo": "Exemplo:",
+      "texto": "Uma denúncia anônima pode justificar seleção ou diligência, mas, sozinha, não substitui a prova fiscal necessária para constituir crédito."
+    },
+    {
+      "id": "direito-tributario-aula-089-b12",
+      "tipo": "regra-de-prova",
+      "titulo": "Regra de ouro:",
+      "texto": "INDÍCIO ABRE CAMINHO.\nEVIDÊNCIA SUSTENTA CONCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-089-b13",
+      "tipo": "teoria",
+      "titulo": "4. AUDITORIA DOCUMENTAL",
+      "texto": "É a conferência de documentos que refletem operações do contribuinte."
+    },
+    {
+      "id": "direito-tributario-aula-089-b14",
+      "tipo": "exemplo",
+      "titulo": "Exemplos:",
+      "texto": "notas fiscais;\ncontratos;\nrecibos;\nguias de recolhimento;\ndeclarações fiscais;\nlivros fiscais;\ndocumentos bancários legalmente acessíveis;\ncadastros;\ndocumentos de terceiros.\nTécnica básica:\nDOCUMENTO A → DOCUMENTO B → DECLARAÇÃO → PAGAMENTO."
+    },
+    {
+      "id": "direito-tributario-aula-089-b15",
+      "tipo": "exemplo",
+      "titulo": "Exemplo aplicado ao ISS:",
+      "texto": "NFS-e mostra R$ 100.000 em serviços.\nDeclaração informa R$ 70.000.\nRecolhimento foi calculado sobre R$ 70.000.\nA auditoria identifica uma DIVERGÊNCIA DE R$ 30.000.\nA divergência ainda precisa ser analisada. Pode haver:\ncancelamento válido;\nserviço não tributável;\nretenção;\nerro material;\nduplicidade;\nou omissão tributável.\nNunca conclua automaticamente antes de verificar a causa."
+    },
+    {
+      "id": "direito-tributario-aula-089-b16",
+      "tipo": "teoria",
+      "titulo": "5. AUDITORIA CONTÁBIL",
+      "texto": "Aqui o fiscal compara os registros contábeis e a realidade tributária.\nOs documentos contábeis podem revelar:\nreceita contabilizada;\ncontas a receber;\nmovimentação de clientes;\nprestação de serviços;\nestornos;\nadiantamentos;\ndespesas incompatíveis com faturamento declarado;\nsaldos e lançamentos que apontem omissão ou inconsistência.\nA lógica não é “contabilidade substitui o fato gerador”."
+    },
+    {
+      "id": "direito-tributario-aula-089-b17",
+      "tipo": "teoria",
+      "titulo": "É:",
+      "texto": "CONTABILIDADE = UMA FONTE DE EVIDÊNCIA."
+    },
+    {
+      "id": "direito-tributario-aula-089-b18",
+      "tipo": "exemplo",
+      "titulo": "Exemplo:",
+      "texto": "Livro contábil registra receita de serviços de R$ 500.000.\nDeclaração municipal informa R$ 350.000.\nSinal:\nDIVERGÊNCIA DE R$ 150.000.\nPróximo passo correto:\ninvestigar a origem da diferença.\nPróximo passo incorreto:\nlavrar multa automaticamente sem análise."
+    },
+    {
+      "id": "direito-tributario-aula-089-b19",
+      "tipo": "teoria",
+      "titulo": "6. AUDITORIA ELETRÔNICA",
+      "texto": "A fiscalização moderna usa grande volume de dados.\nNo edital, isso se conecta diretamente a SPED, NF-e, EFD e cruzamento de dados.\nRaciocínio-base:\nBASE A x BASE B x BASE C."
+    },
+    {
+      "id": "direito-tributario-aula-089-b20",
+      "tipo": "exemplo",
+      "titulo": "Exemplos:",
+      "texto": "NFS-e emitidas x declaração municipal;\nserviços tomados x serviços prestados;\ncadastro econômico x CNAE x atividade declarada;\nretenções informadas por tomadores x recolhimentos;\nfaturamento eletrônico x receita contabilizada.\nA auditoria eletrônica aumenta a capacidade de encontrar PADRÕES E INCONSISTÊNCIAS.\nMas cuidado:\nCRUZAMENTO AUTOMÁTICO ≠ AUTUAÇÃO AUTOMÁTICA.\nO sistema aponta divergência.\nO procedimento fiscal confirma ou afasta a irregularidade."
+    },
+    {
+      "id": "direito-tributario-aula-089-b21",
+      "tipo": "teoria",
+      "titulo": "7. TESTES DE AUDITORIA",
+      "texto": "Quatro técnicas simples e muito úteis para prova:\nCONFRONTAÇÃO — comparar duas fontes.\nEx.: NFS-e x declaração.\nRECALCULO — refazer o cálculo.\nEx.: base de cálculo x alíquota x imposto devido.\nRASTREAMENTO — seguir uma operação da origem até o registro final.\nEx.: contrato → nota → lançamento contábil → declaração → pagamento.\nCONFIRMAÇÃO — validar dado por fonte independente.\nEx.: informação do prestador x informação do tomador.\nMacete:"
+    },
+    {
+      "id": "direito-tributario-aula-089-b22",
+      "tipo": "teoria",
+      "titulo": "C-R-R-C",
+      "texto": "Confronta — Recalcula — Rastreia — Confirma."
+    },
+    {
+      "id": "direito-tributario-aula-089-b23",
+      "tipo": "teoria",
+      "titulo": "8. FRAUDE, EVASÃO E ERRO: NÃO SÃO A MESMA COISA",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-089-b24",
+      "tipo": "teoria",
+      "titulo": "ERRO:",
+      "texto": "pode decorrer de falha material, interpretação equivocada, digitação ou procedimento incorreto sem intenção fraudulenta."
+    },
+    {
+      "id": "direito-tributario-aula-089-b25",
+      "tipo": "teoria",
+      "titulo": "EVASÃO:",
+      "texto": "redução ou supressão ilícita do tributo após ou em torno da ocorrência do fato tributável, mediante conduta contrária à lei."
+    },
+    {
+      "id": "direito-tributario-aula-089-b26",
+      "tipo": "teoria",
+      "titulo": "FRAUDE:",
+      "texto": "envolve artifício, simulação, falsidade ou manipulação deliberada para ocultar ou alterar a realidade relevante para o Fisco.\nPara a prova:\nTODO FRAUDE É IRREGULARIDADE.\nNEM TODA IRREGULARIDADE É FRAUDE."
+    },
+    {
+      "id": "direito-tributario-aula-089-b27",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha:",
+      "texto": "“Qualquer diferença apurada entre notas e declaração comprova fraude.”\nERRADO.\nEla comprova uma divergência. A fraude depende de elementos adicionais."
+    },
+    {
+      "id": "direito-tributario-aula-089-b28",
+      "tipo": "teoria",
+      "titulo": "9. AUDITORIA DO ISS — ROTEIRO PRÁTICO",
+      "texto": "Para o ISS, pense neste fluxo:\n1. identificar atividade e enquadramento;\n2. verificar incidência;\n3. definir local da incidência;\n4. identificar contribuinte ou responsável;\n5. verificar base de cálculo;\n6. verificar alíquota;\n7. examinar documentos fiscais;\n8. conferir retenções;\n9. cruzar declarações;\n10. conferir recolhimento;\n11. quantificar eventual diferença;\n12. formalizar conclusão.\nEsse roteiro conecta quase tudo que já estudamos."
+    },
+    {
+      "id": "direito-tributario-aula-089-b29",
+      "tipo": "teoria",
+      "titulo": "10. PODERES DE FISCALIZAÇÃO EM QUEIMADOS",
+      "texto": "O Código local atribui à Secretaria de Economia e Finanças a fiscalização do cumprimento da legislação tributária.\nA fiscalização alcança inclusive pessoas imunes ou isentas.\nA autoridade fiscal pode, nos limites legais:\nexigir livros e documentos;\nsolicitar informações e declarações;\napreender livros e documentos nas hipóteses do Código;\nrealizar inspeções, vistorias, levantamentos e avaliações.\nPortanto:\nIMUNIDADE/ISENÇÃO ≠ INVISIBILIDADE FISCAL."
+    },
+    {
+      "id": "direito-tributario-aula-089-b30",
+      "tipo": "teoria",
+      "titulo": "11. O TERMO CIRCUNSTANCIADO COMO FECHAMENTO DA DILIGÊNCIA",
+      "texto": "No Código de Queimados, o agente fiscal que realiza exames e diligências deve lavrar termo circunstanciado do que apurar.\nIsso combina perfeitamente com a lógica de auditoria:\nPLANEJA → EXAMINA → TESTA → APURA → DOCUMENTA.\nSem documentação adequada, o procedimento perde qualidade técnica e defensabilidade."
+    },
+    {
+      "id": "direito-tributario-aula-089-b31",
+      "tipo": "pegadinha",
+      "titulo": "12. PEGADINHAS IAN PROVÁVEIS",
+      "texto": "A IAN gosta de transformar uma regra válida em absoluta.\nDesconfie de expressões como:\n“sempre gera autuação”;\n“qualquer divergência é fraude”;\n“a contabilidade substitui a prova do fato gerador”;\n“o sistema eletrônico pode autuar sem análise humana em qualquer hipótese”;\n“imune não pode ser fiscalizado”;\n“a auditoria começa necessariamente pelo auto de infração”.\nTodas são absolutizações perigosas."
+    },
+    {
+      "id": "direito-tributario-aula-089-b32",
+      "tipo": "mapa-mental",
+      "titulo": "MAPA DE GUERRA DA AULA 89",
+      "texto": "AUDITORIA = LEI EXIGE x CONTRIBUINTE FEZ.\nPLANEJAMENTO = OBJETIVO → RISCO → ESCOPO → FONTES → TESTES → CONCLUSÃO.\nINDÍCIO ≠ PROVA FINAL.\nDOCUMENTAL = documentos fiscais e contratuais.\nCONTÁBIL = registros contábeis como fonte de evidência.\nELETRÔNICA = cruzamento de bases.\nCRUZAMENTO ≠ AUTUAÇÃO AUTOMÁTICA.\nTÉCNICAS = CONFRONTAR / RECALCULAR / RASTREAR / CONFIRMAR.\nERRO ≠ EVASÃO ≠ FRAUDE.\nISS = atividade → incidência → local → sujeito → base → alíquota → documentos → retenção → declaração → recolhimento.",
+      "mapaId": "direito-tributario-aula-089-b32"
+    },
+    {
+      "id": "direito-tributario-aula-089-b33",
+      "tipo": "revisao",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar:\n\n1. Qual é a sequência do planejamento?\n2. Divergência prova fraude automaticamente?\n3. Qual a função da auditoria documental?\n4. A contabilidade substitui o fato gerador?\n5. Cruzamento eletrônico gera auto automaticamente?\n6. Quais são as quatro técnicas C-R-R-C?\n7. Imune pode ser fiscalizado?\n8. Qual é o último passo técnico depois de apurar?\n9. No ISS, depois de identificar a atividade, o que você verifica?\n10. Indício e evidência são a mesma coisa?"
+    },
+    {
+      "id": "direito-tributario-aula-089-b34",
+      "tipo": "questao",
+      "titulo": "TESTE CUMULATIVO IAN — SEM GABARITO ANTECIPADO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-089-q-001",
+        "direito-tributario-aula-089-q-002",
+        "direito-tributario-aula-089-q-003",
+        "direito-tributario-aula-089-q-004",
+        "direito-tributario-aula-089-q-005",
+        "direito-tributario-aula-089-q-006",
+        "direito-tributario-aula-089-q-007",
+        "direito-tributario-aula-089-q-008",
+        "direito-tributario-aula-089-q-009",
+        "direito-tributario-aula-089-q-010",
+        "direito-tributario-aula-089-q-011",
+        "direito-tributario-aula-089-q-012"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-089-b35",
+      "tipo": "teoria",
+      "titulo": "REGRA DE RETENÇÃO DA AULA 89",
+      "texto": "PLANEJAR ANTES DE TESTAR.\nDIVERGÊNCIA NÃO É FRAUDE AUTOMÁTICA.\nCRUZAMENTO NÃO É AUTUAÇÃO AUTOMÁTICA.\nCONTABILIDADE É FONTE DE EVIDÊNCIA.\nC-R-R-C = CONFRONTAR, RECALCULAR, RASTREAR, CONFIRMAR.\nIMUNE/ISENTO PODE SER FISCALIZADO.\nAUDITORIA BEM FEITA TERMINA COM CONCLUSÃO DOCUMENTADA."
+    },
+    {
+      "id": "direito-tributario-aula-089-b36",
+      "tipo": "teoria",
+      "titulo": "STATUS",
+      "texto": "Auditoria Fiscal: EM APRENDIZAGEM.\nFiscalização Tributária: EM RETENÇÃO.\nCTM: EM RETENÇÃO.\nISS: EM RETENÇÃO.\nPróxima aula estratégica: SIMPLES NACIONAL — estrutura, opção, tributos abrangidos, ISS no regime, fiscalização e exclusão/desenquadramento."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-089-q-001",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 1,
+      "question": "A finalidade central da auditoria fiscal é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "procurar qualquer erro para multar."
+        },
+        {
+          "id": "B",
+          "text": "comparar o cumprimento tributário com as exigências legais e produzir conclusão sustentada por evidências."
+        },
+        {
+          "id": "C",
+          "text": "substituir o lançamento."
+        },
+        {
+          "id": "D",
+          "text": "dispensar análise documental."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-002",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 2,
+      "question": "A etapa que deve anteceder os testes de auditoria é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "planejamento."
+        },
+        {
+          "id": "B",
+          "text": "inscrição em dívida ativa."
+        },
+        {
+          "id": "C",
+          "text": "execução fiscal."
+        },
+        {
+          "id": "D",
+          "text": "cassação de licença."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-003",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 3,
+      "question": "Uma divergência entre NFS-e e declaração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "comprova automaticamente fraude."
+        },
+        {
+          "id": "B",
+          "text": "constitui indício ou inconsistência que deve ser investigada."
+        },
+        {
+          "id": "C",
+          "text": "extingue o crédito."
+        },
+        {
+          "id": "D",
+          "text": "impede fiscalização."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-004",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 4,
+      "question": "É técnica de auditoria:",
+      "options": [
+        {
+          "id": "A",
+          "text": "confrontação."
+        },
+        {
+          "id": "B",
+          "text": "recálculo."
+        },
+        {
+          "id": "C",
+          "text": "rastreamento."
+        },
+        {
+          "id": "D",
+          "text": "todas as anteriores."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-005",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 5,
+      "question": "A contabilidade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é irrelevante para fiscalização."
+        },
+        {
+          "id": "B",
+          "text": "pode funcionar como fonte de evidência para verificar coerência entre registros e declarações."
+        },
+        {
+          "id": "C",
+          "text": "substitui sempre a legislação."
+        },
+        {
+          "id": "D",
+          "text": "torna desnecessário o exame de documentos fiscais."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-006",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 6,
+      "question": "Sobre auditoria eletrônica, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cruzamento de dados pode revelar inconsistências."
+        },
+        {
+          "id": "B",
+          "text": "toda divergência eletrônica gera automaticamente autuação definitiva."
+        },
+        {
+          "id": "C",
+          "text": "o sistema elimina a necessidade de procedimento fiscal."
+        },
+        {
+          "id": "D",
+          "text": "dados eletrônicos não podem ser usados em fiscalização."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-007",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 7,
+      "question": "É INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "erro e fraude são conceitos diferentes."
+        },
+        {
+          "id": "B",
+          "text": "nem toda irregularidade prova fraude."
+        },
+        {
+          "id": "C",
+          "text": "fraude envolve elemento deliberado de ocultação ou manipulação."
+        },
+        {
+          "id": "D",
+          "text": "toda divergência documental é necessariamente fraude."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-008",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 8,
+      "question": "No roteiro de auditoria do ISS, deve-se verificar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "atividade, incidência, local, sujeito, base e alíquota."
+        },
+        {
+          "id": "B",
+          "text": "apenas faturamento bruto."
+        },
+        {
+          "id": "C",
+          "text": "somente o cadastro."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente a guia paga."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-009",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 9,
+      "question": "Segundo o Código Tributário de Queimados, a fiscalização:",
+      "options": [
+        {
+          "id": "A",
+          "text": "não alcança imunes e isentos."
+        },
+        {
+          "id": "B",
+          "text": "alcança pessoas sujeitas a obrigações tributárias, inclusive imunes e isentas."
+        },
+        {
+          "id": "C",
+          "text": "alcança somente inscritos em dívida ativa."
+        },
+        {
+          "id": "D",
+          "text": "depende sempre de ordem judicial."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-010",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 10,
+      "question": "A autoridade fiscal local pode, nos limites legais:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exigir livros e documentos."
+        },
+        {
+          "id": "B",
+          "text": "realizar inspeções e levantamentos."
+        },
+        {
+          "id": "C",
+          "text": "solicitar informações."
+        },
+        {
+          "id": "D",
+          "text": "todas as anteriores."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-011",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 11,
+      "question": "A sequência correta de uma auditoria tecnicamente estruturada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "autuar → planejar → investigar."
+        },
+        {
+          "id": "B",
+          "text": "objetivo → risco → escopo → fontes → testes → conclusão."
+        },
+        {
+          "id": "C",
+          "text": "concluir → procurar provas."
+        },
+        {
+          "id": "D",
+          "text": "cobrar → definir fato gerador."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    },
+    {
+      "id": "direito-tributario-aula-089-q-012",
+      "lessonId": "direito-tributario-aula-089",
+      "numero": 12,
+      "question": "O termo circunstanciado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "documenta o que foi apurado em exames e diligências."
+        },
+        {
+          "id": "B",
+          "text": "substitui automaticamente a defesa."
+        },
+        {
+          "id": "C",
+          "text": "elimina a necessidade de fundamentação."
+        },
+        {
+          "id": "D",
+          "text": "é facultativo em qualquer hipótese."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-089-b33",
+      "titulo": "RECUPERAÇÃO ATIVA",
+      "texto": "Sem olhar:\n\n1. Qual é a sequência do planejamento?\n2. Divergência prova fraude automaticamente?\n3. Qual a função da auditoria documental?\n4. A contabilidade substitui o fato gerador?\n5. Cruzamento eletrônico gera auto automaticamente?\n6. Quais são as quatro técnicas C-R-R-C?\n7. Imune pode ser fiscalizado?\n8. Qual é o último passo técnico depois de apurar?\n9. No ISS, depois de identificar a atividade, o que você verifica?\n10. Indício e evidência são a mesma coisa?"
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-089-b32",
+      "titulo": "MAPA DE GUERRA DA AULA 89",
+      "nos": [
+        "AUDITORIA = LEI EXIGE x CONTRIBUINTE FEZ",
+        "PLANEJAMENTO = OBJETIVO",
+        "RISCO",
+        "ESCOPO",
+        "FONTES",
+        "TESTES",
+        "CONCLUSÃO",
+        "INDÍCIO ≠ PROVA FINAL",
+        "DOCUMENTAL = documentos fiscais e contratuais",
+        "CONTÁBIL = registros contábeis como fonte de evidência",
+        "ELETRÔNICA = cruzamento de bases",
+        "CRUZAMENTO ≠ AUTUAÇÃO AUTOMÁTICA",
+        "TÉCNICAS = CONFRONTAR / RECALCULAR / RASTREAR / CONFIRMAR",
+        "ERRO ≠ EVASÃO ≠ FRAUDE",
+        "ISS = atividade",
+        "incidência",
+        "local",
+        "sujeito",
+        "base",
+        "alíquota",
+        "documentos",
+        "retenção",
+        "declaração",
+        "recolhimento"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-11",
+  "contentHash": "71379a1c1e28c10d"
+}
