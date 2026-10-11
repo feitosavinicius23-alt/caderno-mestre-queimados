@@ -1,7 +1,7 @@
 {
-  "contentVersion": 81,
-  "geradoEm": "2026-10-11T21:49:29.965Z",
-  "total": 2026,
+  "contentVersion": 83,
+  "geradoEm": "2026-10-11T22:07:35.392Z",
+  "total": 2048,
   "documentos": [
     {
       "tipo": "aula",
@@ -20045,6 +20045,17 @@
       "texto": "[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]"
     },
     {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-092-b13",
+      "lessonId": "direito-tributario-aula-092",
+      "titulo": "[INÍCIO DA AULA 93 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — EXECUÇÃO FISCAL]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
+      "blocoTipo": "teoria",
+      "texto": "[INÍCIO DA AULA 93 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — EXECUÇÃO FISCAL]"
+    },
+    {
       "tipo": "questao",
       "id": "direito-tributario-aula-092-q-001",
       "lessonId": "direito-tributario-aula-092",
@@ -20253,6 +20264,234 @@
       "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
       "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe",
       "texto": "Feche a leitura e explique, com palavras próprias: (a) explícito x inferência x extrapolação; (b) contudo x portanto x se; (c) por que não se separa sujeito e predicado por vírgula; (d) por que “que” pode ser conjunção integrante ou pronome relativo; (e) quando há crase em “à análise”. Refaça duas questões sem consultar o texto e justifique a eliminação das três alternativas erradas."
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-093",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "texto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980 PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b1",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "Concurso: Prefeitura de Queimados/RJ. Cargo exclusivo: AGENTE FISCAL. Banca: IAN. Prova prevista: 22/11/2026. Duração: 55–65 minutos. Prioridade: Conhecimentos Específicos. Aula autoral de treinamento; não atribuir as questões ao arquivo de 911 questões. Gabaritos ocultos até resposta.\nOBJETIVOS: distinguir processo administrativo e judicial; compreender inscrição em dívida ativa, CDA, petição ini"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b2",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "1. RECUPERAÇÃO ATIVA (8 MINUTOS, SEM CONSULTA)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA (8 MINUTOS, SEM CONSULTA) R1. Na aula de Português, qual é a diferença entre informação expressa, inferência e extrapolação?\nR2. “Embora” exprime concessão, conclusão ou condição?\nR3. Em “Os fiscais, analisaram os autos”, por que a vírgula está inadequada?\nR4. Na aula de SPED, uma divergência entre NFS-e e PGDAS-D é prova automática de fraude?\nR5. Na aula de Simples Nacional, "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b3",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "2. VISÃO GERAL: DO LANÇAMENTO À EXECUÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "2. VISÃO GERAL: DO LANÇAMENTO À EXECUÇÃO Pense em uma empresa prestadora de serviços que deixou de recolher ISS. A fiscalização apura fatos e aplica a legislação; o lançamento constitui o crédito tributário (CTN, art. 142). Após a exigibilidade e o procedimento pertinente, um crédito não pago pode ser inscrito em dívida ativa pelo órgão competente. A Certidão de Dívida Ativa (CDA) documenta a insc"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b4",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "3. LEF: A QUEM SE APLICA? (ARTS. 1º E 2º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "3. LEF: A QUEM SE APLICA? (ARTS. 1º E 2º) A Lei nº 6.830/1980 disciplina a execução judicial da dívida ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias. O CPC é aplicado subsidiariamente. A dívida ativa pode ser TRIBUTÁRIA (ex.: ISS ou IPTU regularmente constituído e inscrito) ou NÃO TRIBUTÁRIA (ex.: determinadas multas administrativas, quando cabível).\nPEG"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b5",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "4. INSCRIÇÃO, TERMO E CDA (ARTS. 2º E 3º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "4. INSCRIÇÃO, TERMO E CDA (ARTS. 2º E 3º) Inscrição em dívida ativa é ato administrativo de controle da legalidade do crédito, destinado a apurar sua certeza e liquidez. A CDA contém os mesmos elementos do termo de inscrição e deve ser autenticada pela autoridade competente. Entre os elementos do termo: identificação do devedor e corresponsáveis; valor originário e forma/termo inicial de juros e e"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b6",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "5. PETIÇÃO INICIAL E CITAÇÃO (ARTS. 6º A 8º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "5. PETIÇÃO INICIAL E CITAÇÃO (ARTS. 6º A 8º) A petição inicial da execução fiscal indica o juiz a quem é dirigida, o pedido e o requerimento de citação; é instruída com a CDA. O valor da causa é o valor da dívida constante da certidão, com os encargos legais.\nO executado será citado para, em CINCO DIAS, pagar a dívida com os encargos ou garantir a execução (art. 8º). A citação postal com aviso de "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b7",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "6. GARANTIA DA EXECUÇÃO (ART. 9º)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "6. GARANTIA DA EXECUÇÃO (ART. 9º) A garantia pode ocorrer por: (I) depósito em dinheiro à ordem do juízo, em estabelecimento oficial; (II) fiança bancária ou seguro garantia; (III) nomeação de bens à penhora, observada a ordem legal; (IV) indicação de bens de terceiros aceitos pela Fazenda. A legislação atualizada inclui expressamente o SEGURO GARANTIA.\nSomente o depósito em dinheiro na forma lega"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b8",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "7. PENHORA E ORDEM LEGAL (ARTS. 10 E 11)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "7. PENHORA E ORDEM LEGAL (ARTS. 10 E 11) Se não ocorrer pagamento nem garantia, a penhora pode atingir bens do executado, respeitados os absolutamente impenhoráveis. O art. 11 apresenta ordem: (1) dinheiro; (2) títulos da dívida pública e títulos de crédito com cotação em bolsa; (3) pedras e metais preciosos; (4) imóveis; (5) navios e aeronaves; (6) veículos; (7) móveis ou semoventes; (8) direitos"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b9",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "8. EMBARGOS À EXECUÇÃO (ARTS. 16 E 17)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "8. EMBARGOS À EXECUÇÃO (ARTS. 16 E 17) A LEF prevê EMBARGOS no prazo de TRINTA DIAS, contado: (I) do depósito; (II) da juntada da prova da fiança bancária ou do seguro garantia; (III) da intimação da penhora. Como regra textual do art. 16, § 1º, não são admissíveis embargos antes de garantida a execução. Não confunda embargos à execução com o prazo inicial de citação.\nNos embargos, o executado dev"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b10",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "PEGADINHA: a LEF não conta genericamente os 30 dias dos embargos da simples data de citação.",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: a LEF não conta genericamente os 30 dias dos embargos da simples data de citação."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b11",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "9. CANCELAMENTO, SUSPENSÃO E PRESCRIÇÃO INTERCORRENTE (ARTS. 26 E 40)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "9. CANCELAMENTO, SUSPENSÃO E PRESCRIÇÃO INTERCORRENTE (ARTS. 26 E 40) Se a inscrição de dívida ativa for cancelada antes da decisão de primeira instância, a LEF prevê extinção da execução fiscal sem ônus para as partes (art. 26), observada a interpretação aplicável.\nSe o devedor não for localizado ou não forem encontrados bens penhoráveis, a execução poderá ser suspensa. O art. 40 prevê, após o pe"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b12",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "Exemplo: a ausência de bens encontrados hoje não significa que o débito foi automaticamente pago ou extinto.",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "exemplo",
+      "texto": "Exemplo: a ausência de bens encontrados hoje não significa que o débito foi automaticamente pago ou extinto."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b13",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "10. OUTRAS AÇÕES DO PROCESSO JUDICIAL TRIBUTÁRIO — VISÃO DE PRIMEIRA VOLTA",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "10. OUTRAS AÇÕES DO PROCESSO JUDICIAL TRIBUTÁRIO — VISÃO DE PRIMEIRA VOLTA Mandado de segurança: protege direito líquido e certo diante de ilegalidade/abuso de poder, quando preenchidos requisitos próprios; não substitui indiscriminadamente todas as ações.\nAção anulatória: busca desconstituir ato ou débito tributário, conforme fundamentos legais.\nAção declaratória: busca pronunciamento judicial so"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b14",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "11. CASO INTEGRADO DE AGENTE FISCAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "11. CASO INTEGRADO DE AGENTE FISCAL A fiscalização identifica que uma prestadora de serviços declarou ISS inferior ao devido. Examina NFS-e, escrituração e justificativas; o crédito é regularmente constituído e torna-se exigível. Sem pagamento e preenchidos os requisitos, ocorre inscrição em dívida ativa e emissão da CDA. O Município propõe execução fiscal; o executado é citado para pagar ou garan"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b15",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "12. PORTUGUÊS INTERCALADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "12. PORTUGUÊS INTERCALADO “Embora a dívida esteja inscrita, a presunção de certeza e liquidez é relativa.” EMBORA = concessão.\n“Se não houver pagamento nem garantia, poderá ocorrer penhora.” SE = condição.\n“A CDA, documento que certifica a inscrição, acompanha a inicial.” Expressão intercalada explicativa.\n“Portanto, cinco dias não equivalem a trinta dias.” PORTANTO = conclusão."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b16",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "13. QUESTÕES AUTORAIS — 20 ITENS, QUATRO ALTERNATIVAS; GABARITO OCULTO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "13. QUESTÕES AUTORAIS — 20 ITENS, QUATRO ALTERNATIVAS; GABARITO OCULTO Q1. A Lei nº 6.830/1980 disciplina principalmente: A) a cobrança judicial da dívida ativa da Fazenda Pública; B) somente o lançamento do IPTU; C) apenas o processo penal; D) exclusivamente o ISS do Simples Nacional.\nQ2. A aplicação do CPC à execução fiscal, conforme art. 1º da LEF, é: A) proibida; B) subsidiária; C) substitutiv"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b17",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "14. RECUPERAÇÃO FINAL E TÉCNICA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "revisao",
+      "texto": "14. RECUPERAÇÃO FINAL E TÉCNICA DE RETENÇÃO Sem consultar: (a) explique a diferença entre inscrição, CDA e execução; (b) recite os prazos 5–30–30 e seus respectivos atos; (c) cite duas formas de garantia; (d) explique por que a presunção da CDA é relativa; (e) diferencie execução fiscal e repetição de indébito.\nPara corrigir futuramente: comentar A, B, C e D, localizar o dispositivo, identificar a"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-093-b18",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "[FIM DA AULA 93 — 11/10/2026 — EXECUÇÃO FISCAL E LEI 6.830/1980]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "blocoTipo": "teoria",
+      "texto": "[FIM DA AULA 93 — 11/10/2026 — EXECUÇÃO FISCAL E LEI 6.830/1980]"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-093-b2",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "1. RECUPERAÇÃO ATIVA (8 MINUTOS, SEM CONSULTA)",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "texto": "R1. Na aula de Português, qual é a diferença entre informação expressa, inferência e extrapolação?\nR2. “Embora” exprime concessão, conclusão ou condição?\nR3. Em “Os fiscais, analisaram os autos”, por que a vírgula está inadequada?\nR4. Na aula de SPED, uma divergência entre NFS-e e PGDAS-D é prova automática de fraude?\nR5. Na aula de Simples Nacional, qual é a diferença entre teto geral e sublimite"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-093-b17",
+      "lessonId": "direito-tributario-aula-093",
+      "titulo": "14. RECUPERAÇÃO FINAL E TÉCNICA DE RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "texto": "Sem consultar: (a) explique a diferença entre inscrição, CDA e execução; (b) recite os prazos 5–30–30 e seus respectivos atos; (c) cite duas formas de garantia; (d) explique por que a presunção da CDA é relativa; (e) diferencie execução fiscal e repetição de indébito.\nPara corrigir futuramente: comentar A, B, C e D, localizar o dispositivo, identificar a pegadinha, registrar erro real e causa prov"
     },
     {
       "tipo": "aula",

@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 81,
+  "contentVersion": 83,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-11T21:49:29.965Z",
-  "contentHashGlobal": "cb7f301d1b4344fe",
-  "totalAulas": 87,
+  "ultimaSincronizacao": "2026-10-11T22:07:35.392Z",
+  "contentHashGlobal": "7d5db3527a461e46",
+  "totalAulas": 88,
   "totalQuestoes": 571,
   "totalDisciplinas": 4,
   "aulas": [
@@ -892,8 +892,20 @@
       "disciplina": "Direito Tributário",
       "assunto": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
       "arquivo": "aulas/direito-tributario-aula-092.json",
-      "hash": "c0aca46d62bae4be",
+      "hash": "79acd1c67540fb5c",
       "totalQuestoes": 20,
+      "ultimaAtualizacao": "2026-10-11"
+    },
+    {
+      "id": "direito-tributario-aula-093",
+      "numero": 93,
+      "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+      "disciplina": "Direito Tributário",
+      "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "arquivo": "aulas/direito-tributario-aula-093.json",
+      "hash": "9933a5d66844321b",
+      "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-11"
     },
     {

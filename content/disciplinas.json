@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 74,
+    "totalAulas": 75,
     "totalQuestoes": 545,
-    "tempoEstimadoMin": 366,
+    "tempoEstimadoMin": 379,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -75,7 +75,8 @@
       "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383",
       "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
       "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
-      "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE"
+      "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
+      "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980"
     ],
     "aulas": [
       {
@@ -521,6 +522,12 @@
         "numero": 92,
         "titulo": "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
         "slug": "portugues-interpretacao-inferencia-conectivos-pontuacao-e-sintaxe"
+      },
+      {
+        "id": "direito-tributario-aula-093",
+        "numero": 93,
+        "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+        "slug": "processo-judicial-tributario-e-lei-n-6-830-1980"
       }
     ]
   },

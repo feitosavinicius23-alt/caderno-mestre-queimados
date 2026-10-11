@@ -103,6 +103,12 @@
       "tipo": "teoria",
       "titulo": "[FIM DA AULA 92 — 11/10/2026 — PORTUGUÊS INTERPRETAÇÃO E SINTAXE]",
       "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-092-b13",
+      "tipo": "teoria",
+      "titulo": "[INÍCIO DA AULA 93 — 11/10/2026 — AGENTE FISCAL QUEIMADOS — EXECUÇÃO FISCAL]",
+      "texto": ""
     }
   ],
   "questoes": [
@@ -703,5 +709,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-11",
-  "contentHash": "c0aca46d62bae4be"
+  "contentHash": "79acd1c67540fb5c"
 }

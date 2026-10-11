@@ -1,0 +1,145 @@
+{
+  "id": "direito-tributario-aula-093",
+  "numero": 93,
+  "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+  "slug": "processo-judicial-tributario-e-lei-n-6-830-1980",
+  "disciplina": "Direito Tributário",
+  "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+  "ordem": 93,
+  "data": "2026-10-11",
+  "tempoEstimadoMin": 13,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-093-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Concurso: Prefeitura de Queimados/RJ. Cargo exclusivo: AGENTE FISCAL. Banca: IAN. Prova prevista: 22/11/2026. Duração: 55–65 minutos. Prioridade: Conhecimentos Específicos. Aula autoral de treinamento; não atribuir as questões ao arquivo de 911 questões. Gabaritos ocultos até resposta.\nOBJETIVOS: distinguir processo administrativo e judicial; compreender inscrição em dívida ativa, CDA, petição inicial, citação, garantia, penhora, embargos e suspensão; identificar pegadinhas de prazos; conectar fiscalização municipal e cobrança judicial."
+    },
+    {
+      "id": "direito-tributario-aula-093-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA (8 MINUTOS, SEM CONSULTA)",
+      "texto": "R1. Na aula de Português, qual é a diferença entre informação expressa, inferência e extrapolação?\nR2. “Embora” exprime concessão, conclusão ou condição?\nR3. Em “Os fiscais, analisaram os autos”, por que a vírgula está inadequada?\nR4. Na aula de SPED, uma divergência entre NFS-e e PGDAS-D é prova automática de fraude?\nR5. Na aula de Simples Nacional, qual é a diferença entre teto geral e sublimite de ISS/ICMS?\nNão há respostas registradas para as questões das Aulas 90–92. Logo, nenhuma taxa de acerto pode ser presumida."
+    },
+    {
+      "id": "direito-tributario-aula-093-b3",
+      "tipo": "teoria",
+      "titulo": "2. VISÃO GERAL: DO LANÇAMENTO À EXECUÇÃO",
+      "texto": "Pense em uma empresa prestadora de serviços que deixou de recolher ISS. A fiscalização apura fatos e aplica a legislação; o lançamento constitui o crédito tributário (CTN, art. 142). Após a exigibilidade e o procedimento pertinente, um crédito não pago pode ser inscrito em dívida ativa pelo órgão competente. A Certidão de Dívida Ativa (CDA) documenta a inscrição e instrui a execução fiscal. A Fazenda Pública ajuíza a cobrança; o Judiciário cita o executado. Havendo pagamento, extingue-se a obrigação nos termos aplicáveis; não havendo pagamento, podem ocorrer garantia, penhora e defesa judicial.\nFLUXO DIDÁTICO: fato gerador → apuração/lançamento → exigibilidade → inadimplemento → inscrição em dívida ativa → CDA → execução fiscal → citação → pagamento OU garantia/penhora → defesa e atos judiciais.\nCUIDADO: nem todo crédito tributário é imediatamente executável; não se deve ignorar defesa, suspensão da exigibilidade, decadência, prescrição ou os requisitos legais."
+    },
+    {
+      "id": "direito-tributario-aula-093-b4",
+      "tipo": "teoria",
+      "titulo": "3. LEF: A QUEM SE APLICA? (ARTS. 1º E 2º)",
+      "texto": "A Lei nº 6.830/1980 disciplina a execução judicial da dívida ativa da União, dos Estados, do Distrito Federal, dos Municípios e respectivas autarquias. O CPC é aplicado subsidiariamente. A dívida ativa pode ser TRIBUTÁRIA (ex.: ISS ou IPTU regularmente constituído e inscrito) ou NÃO TRIBUTÁRIA (ex.: determinadas multas administrativas, quando cabível).\nPEGADINHA: “Somente impostos podem ser executados pela LEF” — generalização incorreta. “O CPC substitui integralmente a LEF” — incorreto: aplicação subsidiária.\nO art. 2º, § 3º, menciona suspensão prescricional de 180 dias na inscrição, mas essa disposição exige leitura conjugada com o CTN e a jurisprudência para créditos tributários; não memorize como suspensão universal e automática de toda prescrição tributária."
+    },
+    {
+      "id": "direito-tributario-aula-093-b5",
+      "tipo": "teoria",
+      "titulo": "4. INSCRIÇÃO, TERMO E CDA (ARTS. 2º E 3º)",
+      "texto": "Inscrição em dívida ativa é ato administrativo de controle da legalidade do crédito, destinado a apurar sua certeza e liquidez. A CDA contém os mesmos elementos do termo de inscrição e deve ser autenticada pela autoridade competente. Entre os elementos do termo: identificação do devedor e corresponsáveis; valor originário e forma/termo inicial de juros e encargos; origem, natureza e fundamento legal/contratual; atualização monetária quando cabível; data e número da inscrição; número do processo administrativo ou auto de infração, quando houver apuração nesses documentos.\nA dívida ativa regularmente inscrita goza de PRESUNÇÃO RELATIVA de certeza e liquidez (art. 3º), afastável por prova inequívoca. NÃO é presunção absoluta.\nExemplo: o Município inscreve crédito de ISS de R$ 18.000 e emite CDA. O executado apresenta prova idônea de pagamento anterior: a presunção não impede exame dessa prova.\nAté a decisão de primeira instância, a CDA pode ser emendada ou substituída nas condições legais, assegurada a devolução do prazo para embargos (art. 2º, § 8º). Não confundir correção formal com substituição irrestrita de sujeito passivo.\nMACETE: INSCRIÇÃO = ato administrativo; CDA = documento que certifica; EXECUÇÃO = processo judicial."
+    },
+    {
+      "id": "direito-tributario-aula-093-b6",
+      "tipo": "teoria",
+      "titulo": "5. PETIÇÃO INICIAL E CITAÇÃO (ARTS. 6º A 8º)",
+      "texto": "A petição inicial da execução fiscal indica o juiz a quem é dirigida, o pedido e o requerimento de citação; é instruída com a CDA. O valor da causa é o valor da dívida constante da certidão, com os encargos legais.\nO executado será citado para, em CINCO DIAS, pagar a dívida com os encargos ou garantir a execução (art. 8º). A citação postal com aviso de recepção é a modalidade prevista como regra, se a Fazenda não requerer outra forma. A lei prevê outras modalidades, inclusive oficial de justiça e edital, conforme requisitos.\nDIFERENÇA ESSENCIAL: 5 dias para pagar/garantir NÃO são os 30 dias dos embargos à execução.\nExemplo: João recebe citação em execução fiscal de IPTU. A providência inicial prevista na LEF é pagar ou garantir no prazo legal de 5 dias, contado conforme as regras processuais pertinentes; não se deve afirmar que tem 30 dias para pagar.\nPEGADINHA: a publicação de edital de citação, na hipótese do art. 8º, IV, tem prazo de 30 dias; esse número não altera o prazo de cinco dias para pagar ou garantir."
+    },
+    {
+      "id": "direito-tributario-aula-093-b7",
+      "tipo": "teoria",
+      "titulo": "6. GARANTIA DA EXECUÇÃO (ART. 9º)",
+      "texto": "A garantia pode ocorrer por: (I) depósito em dinheiro à ordem do juízo, em estabelecimento oficial; (II) fiança bancária ou seguro garantia; (III) nomeação de bens à penhora, observada a ordem legal; (IV) indicação de bens de terceiros aceitos pela Fazenda. A legislação atualizada inclui expressamente o SEGURO GARANTIA.\nSomente o depósito em dinheiro na forma legal faz cessar a responsabilidade pela atualização monetária e juros de mora (art. 9º, § 4º). Fiança e seguro garantia podem produzir efeitos equivalentes à penhora como garantia, mas não devem ser confundidos com depósito para essa consequência específica.\nA alteração de 2023 (art. 9º, § 7º) prevê que garantias do inciso II somente sejam liquidadas após trânsito em julgado de decisão de mérito desfavorável ao contribuinte, vedada liquidação antecipada.\nExemplo: empresa oferece seguro garantia. Isso não significa pagamento definitivo da dívida nem autoriza concluir que os juros cessaram como no depósito em dinheiro.\nMACETE: DEPÓSITO / FIANÇA OU SEGURO / BENS PRÓPRIOS / BENS DE TERCEIROS ACEITOS."
+    },
+    {
+      "id": "direito-tributario-aula-093-b8",
+      "tipo": "teoria",
+      "titulo": "7. PENHORA E ORDEM LEGAL (ARTS. 10 E 11)",
+      "texto": "Se não ocorrer pagamento nem garantia, a penhora pode atingir bens do executado, respeitados os absolutamente impenhoráveis. O art. 11 apresenta ordem: (1) dinheiro; (2) títulos da dívida pública e títulos de crédito com cotação em bolsa; (3) pedras e metais preciosos; (4) imóveis; (5) navios e aeronaves; (6) veículos; (7) móveis ou semoventes; (8) direitos e ações.\nA ordem é referência legal importante, sujeita à aplicação das normas e circunstâncias processuais. Não memorize que “veículos vêm antes de imóveis”: no art. 11, imóveis antecedem veículos.\nExemplo: em cobrança judicial de taxa municipal, a penhora não pode atingir bem declarado absolutamente impenhorável apenas porque há dívida ativa."
+    },
+    {
+      "id": "direito-tributario-aula-093-b9",
+      "tipo": "teoria",
+      "titulo": "8. EMBARGOS À EXECUÇÃO (ARTS. 16 E 17)",
+      "texto": "A LEF prevê EMBARGOS no prazo de TRINTA DIAS, contado: (I) do depósito; (II) da juntada da prova da fiança bancária ou do seguro garantia; (III) da intimação da penhora. Como regra textual do art. 16, § 1º, não são admissíveis embargos antes de garantida a execução. Não confunda embargos à execução com o prazo inicial de citação.\nNos embargos, o executado deve alegar a matéria útil à defesa, requerer provas e juntar documentos, conforme o art. 16. Recebidos os embargos, o juiz intima a Fazenda Pública para IMPUGNÁ-LOS em 30 dias (art. 17).\nQUADRO DOS PRAZOS: citação/pagar/garantir = 5 dias; embargos do executado = 30 dias (marcos do art. 16); impugnação da Fazenda aos embargos = 30 dias.\nObservação técnica: existem instrumentos defensivos excepcionais reconhecidos pela jurisprudência, como a exceção de pré-executividade, mas não se deve confundi-los com os embargos regulados pelo art. 16."
+    },
+    {
+      "id": "direito-tributario-aula-093-b10",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: a LEF não conta genericamente os 30 dias dos embargos da simples data de citação.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-093-b11",
+      "tipo": "teoria",
+      "titulo": "9. CANCELAMENTO, SUSPENSÃO E PRESCRIÇÃO INTERCORRENTE (ARTS. 26 E 40)",
+      "texto": "Se a inscrição de dívida ativa for cancelada antes da decisão de primeira instância, a LEF prevê extinção da execução fiscal sem ônus para as partes (art. 26), observada a interpretação aplicável.\nSe o devedor não for localizado ou não forem encontrados bens penhoráveis, a execução poderá ser suspensa. O art. 40 prevê, após o período legal de um ano, arquivamento; pode haver prescrição intercorrente segundo os pressupostos legais e jurisprudenciais. NÃO conclua que a execução fica suspensa para sempre nem que toda execução é automaticamente extinta após um ano."
+    },
+    {
+      "id": "direito-tributario-aula-093-b12",
+      "tipo": "exemplo",
+      "titulo": "Exemplo: a ausência de bens encontrados hoje não significa que o débito foi automaticamente pago ou extinto.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-093-b13",
+      "tipo": "teoria",
+      "titulo": "10. OUTRAS AÇÕES DO PROCESSO JUDICIAL TRIBUTÁRIO — VISÃO DE PRIMEIRA VOLTA",
+      "texto": "Mandado de segurança: protege direito líquido e certo diante de ilegalidade/abuso de poder, quando preenchidos requisitos próprios; não substitui indiscriminadamente todas as ações.\nAção anulatória: busca desconstituir ato ou débito tributário, conforme fundamentos legais.\nAção declaratória: busca pronunciamento judicial sobre existência ou inexistência de relação jurídico-tributária.\nRepetição de indébito: busca restituição de tributo pago indevidamente (CTN, art. 165 e seguintes).\nExecução fiscal: instrumento de cobrança judicial da dívida ativa pela Fazenda Pública.\nDistinguir COBRAR (execução fiscal) de QUESTIONAR/DECLARAR/RESTITUIR (ações do contribuinte, conforme o caso). O estudo detalhado dessas ações pode ser retomado na segunda volta do edital."
+    },
+    {
+      "id": "direito-tributario-aula-093-b14",
+      "tipo": "teoria",
+      "titulo": "11. CASO INTEGRADO DE AGENTE FISCAL",
+      "texto": "A fiscalização identifica que uma prestadora de serviços declarou ISS inferior ao devido. Examina NFS-e, escrituração e justificativas; o crédito é regularmente constituído e torna-se exigível. Sem pagamento e preenchidos os requisitos, ocorre inscrição em dívida ativa e emissão da CDA. O Município propõe execução fiscal; o executado é citado para pagar ou garantir em 5 dias. Oferecida fiança bancária, poderá defender-se por embargos nos 30 dias contados da juntada da prova, segundo o art. 16. Recebidos os embargos, a Fazenda é intimada para impugnar em 30 dias.\nO agente fiscal atua na fase de fiscalização e constituição conforme suas atribuições; a representação judicial compete ao órgão/representante competente. Não confundir lavrar auto de infração com ajuizar pessoalmente execução fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-093-b15",
+      "tipo": "teoria",
+      "titulo": "12. PORTUGUÊS INTERCALADO",
+      "texto": "“Embora a dívida esteja inscrita, a presunção de certeza e liquidez é relativa.” EMBORA = concessão.\n“Se não houver pagamento nem garantia, poderá ocorrer penhora.” SE = condição.\n“A CDA, documento que certifica a inscrição, acompanha a inicial.” Expressão intercalada explicativa.\n“Portanto, cinco dias não equivalem a trinta dias.” PORTANTO = conclusão."
+    },
+    {
+      "id": "direito-tributario-aula-093-b16",
+      "tipo": "teoria",
+      "titulo": "13. QUESTÕES AUTORAIS — 20 ITENS, QUATRO ALTERNATIVAS; GABARITO OCULTO",
+      "texto": "Q1. A Lei nº 6.830/1980 disciplina principalmente: A) a cobrança judicial da dívida ativa da Fazenda Pública; B) somente o lançamento do IPTU; C) apenas o processo penal; D) exclusivamente o ISS do Simples Nacional.\nQ2. A aplicação do CPC à execução fiscal, conforme art. 1º da LEF, é: A) proibida; B) subsidiária; C) substitutiva integral; D) limitada a processos federais.\nQ3. A dívida ativa abrangida pela LEF pode ser: A) apenas tributária; B) apenas não tributária; C) tributária ou não tributária; D) exclusivamente previdenciária.\nQ4. INCORRETA: A) a inscrição é ato administrativo; B) a CDA certifica a inscrição; C) a CDA goza de presunção absoluta e insuscetível de prova contrária; D) a inicial deve ser instruída com a CDA.\nQ5. A presunção de certeza e liquidez da dívida ativa regularmente inscrita é: A) relativa; B) absoluta; C) inexistente; D) dependente de sentença penal.\nQ6. EXCETO: integra o termo de inscrição de dívida ativa, quando cabível, EXCETO: A) origem e natureza da dívida; B) valor originário; C) data e número da inscrição; D) preferência eleitoral do contribuinte.\nQ7. O executado é citado, nos termos do art. 8º da LEF, para pagar ou garantir a execução no prazo de: A) 5 dias; B) 10 dias; C) 15 dias; D) 30 dias.\nQ8. Na petição inicial da execução fiscal, a CDA: A) é dispensada em qualquer caso; B) instrui a inicial; C) é substituída necessariamente por depoimento oral; D) só pode ser juntada após sentença.\nQ9. Entre as formas de garantia expressamente previstas no art. 9º está: A) apenas declaração verbal; B) seguro garantia; C) compromisso informal sem aceitação; D) promessa de pagamento sem garantia.\nQ10. Quanto à atualização monetária e aos juros de mora, o art. 9º, § 4º, atribui efeito específico de cessação de responsabilidade ao: A) depósito em dinheiro na forma legal; B) simples pedido de parcelamento; C) seguro garantia em toda hipótese; D) envio de e-mail ao fiscal.\nQ11. Na ordem do art. 11 da LEF, o primeiro item é: A) veículo; B) imóvel; C) dinheiro; D) direito e ação.\nQ12. INCORRETA: A) imóveis antecedem veículos na ordem do art. 11; B) existem bens absolutamente impenhoráveis; C) a penhora pode ocorrer diante da falta de pagamento e garantia; D) a LEF autoriza penhora de qualquer bem absolutamente impenhorável.\nQ13. O prazo previsto no art. 16 para embargos à execução é de: A) 5 dias; B) 15 dias; C) 30 dias; D) 60 dias.\nQ14. O prazo dos embargos, quando há seguro garantia, conta-se, segundo a LEF, da: A) mera emissão da CDA; B) juntada da prova do seguro garantia; C) data do fato gerador; D) primeira notificação administrativa.\nQ15. Recebidos os embargos, o prazo para a Fazenda Pública impugná-los é de: A) 5 dias; B) 10 dias; C) 15 dias; D) 30 dias.\nQ16. ASSERTIVAS: I. A inscrição em dívida ativa antecede, em regra, a emissão da CDA. II. O prazo inicial para pagar ou garantir é de cinco dias. III. O prazo dos embargos é sempre contado da simples citação. Assinale: A) só I; B) só II; C) I e II; D) I, II e III.\nQ17. O art. 26 da LEF prevê, em sua hipótese específica, extinção da execução quando: A) a dívida é apenas contestada verbalmente; B) a inscrição é cancelada antes da decisão de primeira instância; C) o executado muda de cidade; D) ocorre qualquer pedido de informação.\nQ18. Quanto ao art. 40, é correto afirmar: A) a ausência de bens extingue automaticamente a dívida no mesmo dia; B) a execução pode ser suspensa quando não localizado o devedor ou bens penhoráveis, com disciplina própria de arquivamento e prescrição intercorrente; C) a cobrança fica eterna sem prescrição; D) o juiz deve necessariamente converter a dívida em IPTU.\nQ19. A ação que busca, em regra, restituição de tributo pago indevidamente é: A) repetição de indébito; B) execução fiscal; C) inventário; D) ação penal.\nQ20. PORTUGUÊS: “Embora a CDA goze de presunção, o contribuinte pode apresentar prova contrária.” A palavra EMBORA indica: A) conclusão; B) concessão; C) finalidade; D) condição."
+    },
+    {
+      "id": "direito-tributario-aula-093-b17",
+      "tipo": "revisao",
+      "titulo": "14. RECUPERAÇÃO FINAL E TÉCNICA DE RETENÇÃO",
+      "texto": "Sem consultar: (a) explique a diferença entre inscrição, CDA e execução; (b) recite os prazos 5–30–30 e seus respectivos atos; (c) cite duas formas de garantia; (d) explique por que a presunção da CDA é relativa; (e) diferencie execução fiscal e repetição de indébito.\nPara corrigir futuramente: comentar A, B, C e D, localizar o dispositivo, identificar a pegadinha, registrar erro real e causa provável. Revisões intercaladas em cerca de 24 horas, 72 horas e 7 dias; não marcar domínio sem acertos posteriores em questões misturadas. Como não há respostas, acertos/erros/desempenho não aferidos.\nPRÓXIMA AULA 94: revisão cumulativa curta e questões misturadas de LEF, Simples, SPED e Português; em seguida retomar lacunas do edital (Contabilidade aplicada à fiscalização e Finanças Públicas).\nFONTES: Lei nº 6.830/1980, texto atualizado: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm ; CTN: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm ; Edital oficial IAN Queimados 01/2026: https://portal.ian.org.br/edital/ver/53 . Questões autorais, sem gabarito antecipado e sem atribuição ao arquivo questoes_ian_911.pdf."
+    },
+    {
+      "id": "direito-tributario-aula-093-b18",
+      "tipo": "teoria",
+      "titulo": "[FIM DA AULA 93 — 11/10/2026 — EXECUÇÃO FISCAL E LEI 6.830/1980]",
+      "texto": ""
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-093-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA (8 MINUTOS, SEM CONSULTA)",
+      "texto": "R1. Na aula de Português, qual é a diferença entre informação expressa, inferência e extrapolação?\nR2. “Embora” exprime concessão, conclusão ou condição?\nR3. Em “Os fiscais, analisaram os autos”, por que a vírgula está inadequada?\nR4. Na aula de SPED, uma divergência entre NFS-e e PGDAS-D é prova automática de fraude?\nR5. Na aula de Simples Nacional, qual é a diferença entre teto geral e sublimite de ISS/ICMS?\nNão há respostas registradas para as questões das Aulas 90–92. Logo, nenhuma taxa de acerto pode ser presumida."
+    },
+    {
+      "id": "direito-tributario-aula-093-b17",
+      "titulo": "14. RECUPERAÇÃO FINAL E TÉCNICA DE RETENÇÃO",
+      "texto": "Sem consultar: (a) explique a diferença entre inscrição, CDA e execução; (b) recite os prazos 5–30–30 e seus respectivos atos; (c) cite duas formas de garantia; (d) explique por que a presunção da CDA é relativa; (e) diferencie execução fiscal e repetição de indébito.\nPara corrigir futuramente: comentar A, B, C e D, localizar o dispositivo, identificar a pegadinha, registrar erro real e causa provável. Revisões intercaladas em cerca de 24 horas, 72 horas e 7 dias; não marcar domínio sem acertos posteriores em questões misturadas. Como não há respostas, acertos/erros/desempenho não aferidos.\nPRÓXIMA AULA 94: revisão cumulativa curta e questões misturadas de LEF, Simples, SPED e Português; em seguida retomar lacunas do edital (Contabilidade aplicada à fiscalização e Finanças Públicas).\nFONTES: Lei nº 6.830/1980, texto atualizado: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm ; CTN: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm ; Edital oficial IAN Queimados 01/2026: https://portal.ian.org.br/edital/ver/53 . Questões autorais, sem gabarito antecipado e sem atribuição ao arquivo questoes_ian_911.pdf."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-11",
+  "contentHash": "9933a5d66844321b"
+}
