@@ -1,7 +1,7 @@
 {
-  "contentVersion": 71,
-  "geradoEm": "2026-10-11T01:01:59.111Z",
-  "total": 1985,
+  "contentVersion": 73,
+  "geradoEm": "2026-10-11T16:21:44.089Z",
+  "total": 1991,
   "documentos": [
     {
       "tipo": "aula",
@@ -19825,6 +19825,71 @@
       "assunto": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
       "slug": "auditoria-fiscal-planejamento-evidencia-cruzamento-e-deteccao-de-inconsistencias",
       "texto": "Sem olhar:\n\n1. Qual é a sequência do planejamento?\n2. Divergência prova fraude automaticamente?\n3. Qual a função da auditoria documental?\n4. A contabilidade substitui o fato gerador?\n5. Cruzamento eletrônico gera auto automaticamente?\n6. Quais são as quatro técnicas C-R-R-C?\n7. Imune pode ser fiscalizado?\n8. Qual é o último passo técnico depois de apurar?\n9. No ISS, depois de identificar a ativida"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-090",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "texto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b1",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "teoria",
+      "texto": "Questões autorais para treinar literalidade, CORRETA, INCORRETA, EXCETO, contextualização e cálculos; não são reproduções atribuídas ao arquivo questoes_ian_911.pdf.\nQ1. O Simples Nacional é: A) imposto municipal novo; B) regime unificado previsto na LC 123/2006; C) isenção geral; D) contribuição previdenciária única.\nQ2. Em 2026, ME, observados os demais requisitos, tem receita anual: A) até R$ 3"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b2",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "[FIM DA AULA 90 — 11/10/2026 — SIMPLES NACIONAL]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "teoria",
+      "texto": "[FIM DA AULA 90 — 11/10/2026 — SIMPLES NACIONAL]"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b3",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "[AULA 91 — INÍCIO — 11/10/2026]",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "teoria",
+      "texto": "[AULA 91 — INÍCIO — 11/10/2026] Tema: SPED, NF-e, NFS-e e EFD — fiscalização eletrônica.\nSPED é o Sistema Público de Escrituração Digital, instituído pelo Decreto nº 6.022/2007. ECD registra livros contábeis digitais; EFD ICMS/IPI é escrituração fiscal desses impostos; EFD-Contribuições trata de PIS/Cofins. NF-e é documento fiscal eletrônico, DANFE é auxiliar e NFS-e documenta serviços. A aula com"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b4",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "PEGADINHA: a IAN pode trocar 'contábil' por 'fiscal', ou confundir NF-e com NFS-e, ou atribuir EFD ICMS/IPI à apuração do ISS.",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: a IAN pode trocar 'contábil' por 'fiscal', ou confundir NF-e com NFS-e, ou atribuir EFD ICMS/IPI à apuração do ISS. 3. NF-e: DOCUMENTO ELETRÔNICO, XML E DANFE.\nA NF-e tem existência digital, com assinatura eletrônica qualificada e autorização de uso conforme a legislação aplicável. O arquivo eletrônico estruturado é geralmente XML (eXtensible Markup Language). XML não é uma imagem ou PD"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-090-b5",
+      "lessonId": "direito-tributario-aula-090",
+      "titulo": "13. TESTE IAN AUTORAL — 20 QUESTÕES, QUATRO ALTERNATIVAS, SEM GABARITO ANTECIPADO.",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "blocoTipo": "teoria",
+      "texto": "13. TESTE IAN AUTORAL — 20 QUESTÕES, QUATRO ALTERNATIVAS, SEM GABARITO ANTECIPADO. Q1. O SPED é: A) tributo municipal; B) sistema público de escrituração digital; C) guia de ISS; D) espécie de multa.\nQ2. INCORRETA sobre o SPED: A) integra iniciativas eletrônicas; B) foi instituído pelo Decreto 6.022/2007; C) elimina o sigilo fiscal; D) abrange diferentes módulos.\nQ3. A ECD corresponde principalmen"
     },
     {
       "tipo": "aula",

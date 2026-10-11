@@ -1,10 +1,10 @@
 {
   "versao": 1,
-  "contentVersion": 71,
+  "contentVersion": 73,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-11T01:01:59.111Z",
-  "contentHashGlobal": "7f1cc1fb959182d5",
-  "totalAulas": 85,
+  "ultimaSincronizacao": "2026-10-11T16:21:44.089Z",
+  "contentHashGlobal": "164a936b202e73e6",
+  "totalAulas": 86,
   "totalQuestoes": 551,
   "totalDisciplinas": 4,
   "aulas": [
@@ -870,6 +870,18 @@
       "arquivo": "aulas/direito-tributario-aula-089.json",
       "hash": "71379a1c1e28c10d",
       "totalQuestoes": 12,
+      "ultimaAtualizacao": "2026-10-11"
+    },
+    {
+      "id": "direito-tributario-aula-090",
+      "numero": 90,
+      "titulo": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "slug": "parte-4-4-questoes-sem-gabarito-antecipado",
+      "disciplina": "Direito Tributário",
+      "assunto": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+      "arquivo": "aulas/direito-tributario-aula-090.json",
+      "hash": "3509a3eb6a03ffa6",
+      "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-11"
     },
     {

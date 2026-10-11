@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 72,
+    "totalAulas": 73,
     "totalQuestoes": 525,
-    "tempoEstimadoMin": 345,
+    "tempoEstimadoMin": 359,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -73,7 +73,8 @@
       "AGENTE FISCAL DE QUEIMADOS/RJ — 09/10/2026",
       "AGENTE FISCAL DE QUEIMADOS/RJ — 10/10/2026",
       "CADASTRO FISCAL IMOBILIÁRIO: BENFEITORIA EM ÁREA DE MAIOR PORÇÃO, TÍTULO PRECÁRIO E EFEITOS FISCAIS — ARTS. 378 A 383",
-      "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS"
+      "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
+      "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO"
     ],
     "aulas": [
       {
@@ -507,6 +508,12 @@
         "numero": 89,
         "titulo": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
         "slug": "auditoria-fiscal-planejamento-evidencia-cruzamento-e-deteccao-de-inconsistencias"
+      },
+      {
+        "id": "direito-tributario-aula-090",
+        "numero": 90,
+        "titulo": "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
+        "slug": "parte-4-4-questoes-sem-gabarito-antecipado"
       }
     ]
   },
