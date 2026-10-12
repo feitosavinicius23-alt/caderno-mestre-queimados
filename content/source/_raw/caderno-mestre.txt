@@ -17669,3 +17669,116 @@ Cargo exclusivo: AGENTE FISCAL de Queimados/RJ. Aula 96 — Finanças Públicas.
 
 11. LRF — NOÇÕES CENTRAIS. LC 101/2000, art. 1º: responsabilidade fiscal exige planejamento, transparência, prevenção de riscos e correção de desvios. Art. 11: instituição, previsão e efetiva arrecadação de TODOS os tributos de competência constitucional do ente são requisitos essenciais. Porém a vedação de transferências voluntárias do parágrafo único refere-se aos IMPOSTOS. Art. 8º: até 30 dias após a publicação dos orçamentos, Executivo estabelece programação financeira e cronograma de desembolso. Art. 9º: ao fim de bimestre,
  se a arrecadação esperada ameaçar as metas fiscais, haverá medidas de ajuste nos prazos e condições definidos pela LRF.
+Art. 9º: caso a receita realizada não comporte metas de resultado, os Poderes devem adotar limitação de empenho e movimentação financeira nos 30 dias subsequentes, nos termos da LDO e ressalvas legais. Art. 48: instrumentos de transparência incluem planos, orçamentos, prestações de contas e relatórios fiscais.
+
+
+12. CASO PRÁTICO (hipotético). ISS previsto R$12 milhões; arrecadado R$10,5 milhões: frustração de R$1,5 milhão, que não prova fraude. Dotação equipamentos R$400 mil, empenho R$300 mil, liquidação R$240 mil, pagamento R$200 mil. Despesa empenhada não paga R$100 mil; liquidada não paga R$40 mil (restos processados); empenhada não liquidada R$60 mil (restos não processados), se regularmente inscritos. CDA não é arrecadação. O regime orçamentário do art.35 difere do regime patrimonial por competência.
+
+
+13. MAPA DE RETENÇÃO. Receitas correntes: ISS, IPTU. Capital: operações de crédito. Extraorçamentário: caução temporária. Receita: previsão, lançamento quando cabível, arrecadação, recolhimento. Despesa: fixação, empenho, liquidação, pagamento. Restos processados: liquidados; não processados: não liquidados. LRF art.11: todos os tributos no caput; impostos no parágrafo único.
+
+
+14. TESTE CUMULATIVO — 22 QUESTÕES AUTORAIS SEM GABARITO ANTECIPADO.
+Q1 LOA: A) dinheiro em caixa B) estima receitas e fixa despesas C) substitui Lei Orgânica D) impede créditos adicionais.
+Q2 EXCETO princípios art.2 Lei 4.320: A) unidade B) universalidade C) anualidade D) sigilo integral.
+Q3 Exercício financeiro: A) coincide ano civil B) julho-junho C) dois anos D) varia segundo arrecadação.
+Q4 Receita corrente: A) operação de crédito B) alienação de terreno C) IPTU D) amortização de empréstimo concedido.
+Q5 Receita de capital: A) ISS B) taxa de fiscalização C) IPTU D) operação de crédito autorizada.
+Q6 Caução temporária com devolução: A) ingresso extraorçamentário B) imposto C) receita serviços D) receita tributária definitiva.
+Q7 INCORRETA: A) previsão é estimativa B) arrecadação é recebimento C) recolhimento sucede arrecadação D) toda receita exige lançamento tributário.
+Q8 Recolhimento: A) autoriza despesa B) entrega valores arrecadados ao Tesouro C) liquida compra D) inscreve restos a pagar.
+Q9 Despesa corrente: A) salários B) construir escola C) máquinas para investimento D) amortizar principal dívida.
+Q10 Despesa capital: A) energia B) material consumo C) construir unidade pública D) salários.
+Q11 Empenho: A) comprova serviço B) ato autoridade competente cria obrigação pagamento pendente ou não condição C) transferência bancária D) após pagamento.
+Q12 Liquidação: A) apenas caixa B) apenas previsão receita C) verifica direito credor, objeto, valor e destinatário D) apenas LOA.
+Q13 INCORRETA: A) prévio empenho B) pagamento após liquidação C) liquidação exige verificação D) empenho e pagamento são o mesmo ato.
+Q14 Empenho de montante não determinável: A) estimativa B) sempre global C) sem classificação D) ingresso extraorçamentário.
+Q15 Contrato valor conhecido parcelado: A) sempre estimativa B) global C) sem empenho D) receita capital.
+Q16 Art.35: A) receitas previstas e despesas pagas B) receitas lançadas e despesas liquidadas C) receitas arrecadadas e despesas empenhadas D) receitas inscritas e despesas autorizadas.
+Q17 Empenhada e liquidada mas não paga até 31/12: A) restos processados B) não processados C) receita extraorçamentária D) operação crédito.
+Q18 Empenhada não liquidada nem paga até 31/12: A) restos processados B) não processados C) receita tributária D) despesa paga.
+Q19 PPA/LDO/LOA: A) PPA fixa mensal B) LDO substitui PPA C) LOA cria tributos D) PPA planeja, LDO orienta, LOA estima receita e fixa despesa.
+Q20 ASSERTIVAS I caput art11 LRF exige instituição previsão arrecadação de todos tributos de competência. II parágrafo único consequência trata de impostos. III LRF impede transparência. A) só I B) só II C) I e II D) I II III.
+Q21 Competência serviço setembro recebido outubro: A) só outubro B) receita setembro e recebimento outubro C) receita duplicada D) não reconhecida.
+Q22 PORTUGUÊS 'Embora a receita tenha sido prevista, a arrecadação foi inferior': A) finalidade B) condição C) concessão D) conclusão.
+
+
+15. RECUPERAÇÃO FINAL. Explique sem consultar: (1) receita corrente, de capital e ingresso extraorçamentário; (2) estágios da receita; (3) estágios da despesa; (4) diferença entre empenho, liquidação e pagamento; (5) regra art.35; (6) restos processados e não processados; (7) diferença entre caput e parágrafo único do art.11 LRF.
+
+
+16. CONTROLE: 22 questões propostas, zero respostas registradas, acertos/erros não aferidos. Caderno de erros só será preenchido com respostas reais. Retenção será verificada em questões misturadas após 24h, 72h e 7 dias. Próximo: AULA 97 — LEI ORGÂNICA DE QUEIMADOS — COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE.
+=== FIM AULA 96 ===
+
+
+=== INÍCIO AULA 97 — 12/10/2026, 19H ===
+AGENTE FISCAL QUEIMADOS/RJ — LEI ORGÂNICA: COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE. Duração 45–55 min. Fonte: edição da Lei Orgânica disponível em https://previqueimados.rj.gov.br/wp-content/uploads/2014/07/LEI_ORGANICA_MUNICIPAL.pdf (consolidação de 2011; verificar emendas posteriores). Questões autorais, sem atribuição falsa à IAN.
+
+
+1. RECUPERAÇÃO ATIVA. Sem consulta: o que diferencia receita prevista de arrecadada? Quais estágios da despesa? Qual a diferença entre restos a pagar processados e não processados? O que diz o art.11 LRF?
+
+
+2. ARTS. 5º E 6º. O Município possui autonomia política, legislativa, administrativa e financeira dentro da Constituição. Há dois Poderes municipais: Legislativo e Executivo, independentes e harmônicos. Não há Judiciário municipal. Pegadinha: autonomia não é soberania.
+
+
+3. ART.12. Município legisla sobre interesse local (I), institui/arrecada tributos municipais, aplica rendas e presta contas (II), planeja/fixa/fiscaliza/cobra tarifas e preços públicos (III), dispõe sobre PPA, LDO, LOA, plano diretor, dívida pública, isenções, anistias e remissões nos limites legais (IV), organiza fiscalização para poder de polícia (IX), atua sobre licenças e sanções administrativas conforme lei (X e XI). Tributo exige lei; taxa não é preço público. Exemplo: ISS é imposto municipal; preço de serviço público remunerado por tarifa não se confunde com ISS. Pegadinha: tributo novo por decreto.
+
+
+4. ARTS.13 E 14. Competência comum: atuação administrativa compartilhada com União e Estado, incluindo saúde, meio ambiente, proteção de patrimônio e fauna/flora. Competência suplementar: complementar legislação federal e estadual no que couber, sem revogá-la. Pegadinha: suplementar não é contrariar norma geral.
+
+
+5. ART.15. Vedações: exigir/aumentar tributo sem lei, usar tributos com efeito de confisco, discriminar tributariamente em razão da procedência/destino. Exemplo: decreto não cria imposto novo.
+
+
+6. ARTS.39, 40 E 76. Câmara legisla sobre matérias tributárias com sanção do Prefeito quando cabível e fiscaliza Executivo. Fiscalização contábil, financeira, orçamentária, operacional e patrimonial: controle externo pela Câmara com auxílio do Tribunal de Contas competente; controle interno por sistemas do Executivo. Pegadinha: Tribunal de Contas não substitui automaticamente Câmara. Textos antigos de prazos devem ser confrontados com Constituição e emendas posteriores.
+
+
+7. ARTS.89 E 102. Prefeito exerce atribuições executivas, sanciona/veta/publica leis, regulamenta dentro da lei. Procuradoria Geral representa Município judicial e extrajudicialmente e, segundo o texto orgânico, exerce privativamente execução da dívida ativa tributária nos termos da lei especial. Agente Fiscal apura e instrui procedimentos no âmbito de suas atribuições; não representa judicialmente o Município por esse simples cargo.
+
+
+8. ART.117 — ADMINISTRAÇÃO TRIBUTÁRIA. Atividade vinculada e essencial, dotada de recursos humanos/materiais para: I cadastrar contribuintes e atividades; II lançar tributos; III fiscalizar obrigações tributárias; IV inscrever inadimplentes em dívida ativa e promover cobrança amigável ou encaminhamento judicial. Macete CADASTRO → LANÇAMENTO → FISCALIZAÇÃO → DÍVIDA ATIVA/COBRANÇA. Inscrição não equivale a ajuizamento.
+
+
+9. ART.118. Prevê possível colegiado paritário para recursos administrativos sobre lançamentos e questões tributárias. Não significa que colegiado exista efetivamente nem que dispense controle judicial.
+
+
+10. ART.123. Leis de iniciativa do Executivo instituem PPA, LDO e LOA. PPA organiza diretrizes, objetivos e metas; LDO define metas/prioridades, orienta LOA e dispõe sobre alterações na legislação tributária; LOA estima receitas e fixa despesas, abrangendo orçamentos fiscal, seguridade e investimentos conforme regras constitucionais. Exemplo: PPA prevê modernização tributária, LDO prioriza, LOA autoriza dotações anuais.
+
+
+11. ART.124. Comissão Permanente de Orçamento e Finanças da Câmara examina PPA, LDO, LOA, créditos adicionais e contas, emite pareceres e acompanha fiscalização orçamentária. Não executa despesas nem arrecada tributos diretamente.
+
+
+12. CASO INTEGRADO. Para atualizar cadastro e fiscalizar ISS, Município utiliza art.12 e art.117. Para financiar a modernização, art.123 orienta orçamento. Câmara e controle interno verificam legalidade (art.76). Para execução judicial de dívida ativa, atuação da Procuradoria (art.102) e LEF. Indícios fiscais exigem instrução, legalidade e respeito ao sigilo.
+
+
+13. PORTUGUÊS INTERCALADO. 'Embora o Município tenha autonomia, deve obedecer à Constituição': EMBORA = concessão. 'Se a receita não for arrecadada, a previsão não se realiza': SE = condição. A vírgula isola oração explicativa: 'A Câmara, que exerce controle externo, acompanha as contas.'
+
+
+14. MAPA: 5 autonomia; 6 Poderes; 12 interesse local/tributos/fiscalização; 13 comum; 14 suplementar; 15 vedações; 39 Câmara legisla; 76 controle; 89 Prefeito; 102 Procuradoria; 117 administração tributária; 118 recursos; 123 orçamento; 124 comissão. Regra: Câmara legisla e controla; Executivo administra e arrecada; Procuradoria representa em juízo; Agente Fiscal exerce atribuições administrativas.
+
+
+15. QUESTÕES AUTORAIS (SEM GABARITO ANTECIPADO).
+Q1 Poderes municipais: A) Executivo, Legislativo, Judiciário B) Legislativo e Executivo C) Executivo e TCE D) MP e Legislativo.
+Q2 INCORRETA sobre autonomia: A) administrativa B) financeira C) soberania internacional D) limitada pela Constituição.
+Q3 Art.12 competência: A) imposto federal B) interesse local C) tribunal federal D) dispensar contas.
+Q4 EXCETO art.12: A) tributos municipais B) fiscalização municipal C) tarifas conforme lei D) imposto de renda federal.
+Q5 Art.13 proteção ambiental: A) só União B) só Município C) competência comum D) só Judiciário.
+Q6 Art.14 suplementar: A) revogar lei federal B) complementar no que couber C) ignorar Constituição D) vedar norma geral.
+Q7 INCORRETA: A) tributo exige lei B) decreto cria imposto novo C) vedado confisco D) limites constitucionais.
+Q8 Art.76 controle externo: A) Câmara com auxílio TCE B) só Prefeito C) só fiscal D) só cidadãos.
+Q9 ASSERTIVAS I Câmara fiscaliza; II Executivo tem controle interno; III TCE substitui integralmente Câmara. A) só I B) só II C) I e II D) todas.
+Q10 Art.102 representação judicial: A) Procuradoria B) empresa fiscalizada C) qualquer servidor D) Junta Comercial.
+Q11 Art.117 funções: A) só penal B) cadastro, lançamento, fiscalização, dívida ativa C) só obras D) só folha.
+Q12 EXCETO art.117: A) cadastro B) lançamento C) fiscalização D) sentença penal.
+Q13 Art.118 colegiado: A) elimina Judiciário B) possível recurso administrativo C) extingue tributos D) transforma CDA em sentença.
+Q14 Art.123 instrumento que orienta LOA: A) LDO B) DANFE C) CDA D) ECD.
+Q15 Art.123 iniciativa das leis orçamentárias: A) TCE B) Executivo C) cartório D) contribuinte.
+Q16 Art.124 comissão: A) arrecada IPTU B) examina projetos/emite parecer C) executa despesas D) julga crimes.
+Q17 ASSERTIVAS I PPA planeja II LDO orienta LOA III LOA estima receitas/fixa despesas. A) só I B) só II C) I e II D) todas.
+Q18 PORTUGUÊS 'Embora a Câmara fiscalize, o Executivo controla internamente': A) causa B) concessão C) finalidade D) conclusão.
+Q19 REVISÃO CDA presunção: A) absoluta B) relativa C) nenhuma D) penal.
+Q20 REVISÃO Art.35 Lei 4.320: receitas pertencem ao exercício quando: A) previstas B) arrecadadas C) só lançadas D) futuras; despesas: A) legalmente empenhadas B) só pagas C) só previstas D) só liquidadas. Responda com duas letras.
+
+
+16. RECUPERAÇÃO FINAL: diferencie competências local/comum/suplementar; liste funções art.117; identifique quem controla externamente e quem representa em juízo; explique PPA/LDO/LOA.
+17. CONTROLE: 20 questões propostas; respostas e acertos ainda não aferidos. Registrar caderno de erros somente após respostas, com causa, regra e revisão 24h/72h/7d. Próxima AULA 98: Direito Administrativo ou outra lacuna específica.
+=== FIM AULA 97 ===

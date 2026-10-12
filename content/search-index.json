@@ -1,7 +1,7 @@
 {
-  "contentVersion": 91,
-  "geradoEm": "2026-10-12T19:54:19.978Z",
-  "total": 2132,
+  "contentVersion": 93,
+  "geradoEm": "2026-10-12T22:07:37.335Z",
+  "total": 2139,
   "documentos": [
     {
       "tipo": "aula",
@@ -21143,6 +21143,83 @@
       "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
       "blocoTipo": "teoria",
       "texto": "[INÍCIO DA AULA 96 — 12/10/2026 — FINANÇAS PÚBLICAS] Cargo exclusivo: AGENTE FISCAL de Queimados/RJ. Aula 96 — Finanças Públicas. Continuidade após a Aula 95. Objetivo: distinguir receita e despesa, estágios da execução orçamentária, restos a pagar e responsabilidade fiscal. Fontes: Lei nº 4.320/1964, LC nº 101/2000 e Constituição Federal, art. 165.\n1. RECUPERAÇÃO ATIVA: Sem consultar a aula anter"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-095-b21",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 9º: caso a receita realizada não comporte metas de resultado, os Poderes devem adotar limitação de empenho e movimentação financeira nos 30 dias subsequentes, nos termos da LDO e ressalvas legais. Art. 48: instrumentos de transparência incluem planos, orçamentos, prestações de contas e relatórios fiscais."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b22",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "12. CASO PRÁTICO (hipotético). ISS previsto R$12 milhões; arrecadado R$10,5 milhões: frustração de R$1,5 milhão, que não prova fraude. Dotação equipamentos R$400 mil, empenho R$300 mil, liquidação R$240 mil, pagamento R$200 mil. Despesa empenhada não paga R$100 mil; liquidada não paga R$40 mil (restos processados); empenhada não liquidada R$60 mil (restos não processados), se regularmente inscrito"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b23",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "14. TESTE CUMULATIVO — 22 QUESTÕES AUTORAIS SEM GABARITO ANTECIPADO.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "14. TESTE CUMULATIVO — 22 QUESTÕES AUTORAIS SEM GABARITO ANTECIPADO. Q1 LOA: A) dinheiro em caixa B) estima receitas e fixa despesas C) substitui Lei Orgânica D) impede créditos adicionais.\nQ2 EXCETO princípios art.2 Lei 4.320: A) unidade B) universalidade C) anualidade D) sigilo integral.\nQ3 Exercício financeiro: A) coincide ano civil B) julho-junho C) dois anos D) varia segundo arrecadação.\nQ4 R"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b24",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "=== FIM AULA 96 ===",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "=== FIM AULA 96 ==="
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b25",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "=== INÍCIO AULA 97 — 12/10/2026, 19H ===",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "=== INÍCIO AULA 97 — 12/10/2026, 19H === AGENTE FISCAL QUEIMADOS/RJ — LEI ORGÂNICA: COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE. Duração 45–55 min. Fonte: edição da Lei Orgânica disponível em https://previqueimados.rj.gov.br/wp-content/uploads/2014/07/LEI_ORGANICA_MUNICIPAL.pdf (consolidação de 2011; verificar emendas posteriores). Questões autorais, sem atribuição falsa à IAN.\n1. RECUPERAÇÃO A"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b26",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "15. QUESTÕES AUTORAIS (SEM GABARITO ANTECIPADO).",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "15. QUESTÕES AUTORAIS (SEM GABARITO ANTECIPADO). Q1 Poderes municipais: A) Executivo, Legislativo, Judiciário B) Legislativo e Executivo C) Executivo e TCE D) MP e Legislativo.\nQ2 INCORRETA sobre autonomia: A) administrativa B) financeira C) soberania internacional D) limitada pela Constituição.\nQ3 Art.12 competência: A) imposto federal B) interesse local C) tribunal federal D) dispensar contas.\nQ"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b27",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "=== FIM AULA 97 ===",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "=== FIM AULA 97 ==="
     },
     {
       "tipo": "questao",
