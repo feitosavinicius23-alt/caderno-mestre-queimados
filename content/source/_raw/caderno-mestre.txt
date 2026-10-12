@@ -17308,3 +17308,364 @@ Para corrigir futuramente: comentar A, B, C e D, localizar o dispositivo, identi
 PRÓXIMA AULA 94: revisão cumulativa curta e questões misturadas de LEF, Simples, SPED e Português; em seguida retomar lacunas do edital (Contabilidade aplicada à fiscalização e Finanças Públicas).
 FONTES: Lei nº 6.830/1980, texto atualizado: https://www.planalto.gov.br/ccivil_03/leis/l6830.htm ; CTN: https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm ; Edital oficial IAN Queimados 01/2026: https://portal.ian.org.br/edital/ver/53 . Questões autorais, sem gabarito antecipado e sem atribuição ao arquivo questoes_ian_911.pdf.
 [FIM DA AULA 93 — 11/10/2026 — EXECUÇÃO FISCAL E LEI 6.830/1980]
+
+
+
+
+ 
+=== INÍCIO DA AULA 94 — 12/10/2026 — AGENTE FISCAL DE QUEIMADOS/RJ ===
+AULA 94 — REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO
+Cargo exclusivo: AGENTE FISCAL. Banca: IAN. Prova prevista: 22/11/2026.
+Duração sugerida: 45 a 60 minutos (12 min recuperação + 12 min revisão explicada + 25 min teste + 5 min autoverificação). Meta: aproximadamente 90% em simulados futuros.
+Continuidade: Aula 93 — Processo Judicial Tributário e Lei 6.830/1980. Nesta aula não abriremos novo bloco; faremos revisão intercalada das Aulas 89 a 93 e do art. 377 do Código Tributário Municipal, evitando falsa sensação de domínio.
+MATERIAL E MÉTODO: 24 questões autorais, não extraídas nem atribuídas ao arquivo questoes_ian_911.pdf. A coletânea de 911 questões e os oito cadernos IAN não estavam acessíveis nesta execução; portanto, não há gabaritos de fonte externa atribuídos. Os comandos CORRETA, INCORRETA, EXCETO, assertivas e distratores são técnicas de treinamento, não alegação de transcrição literal da banca.
+REFERÊNCIAS: LEF Lei 6.830/1980 https://www.planalto.gov.br/ccivil_03/leis/l6830.htm ; LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; CTN https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm ; notícia oficial do sublimite 2026 https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=94c10cc2-7eb5-4ef0-bfb2-5479e72caff8 ; edital IAN https://portal.ian.org.br/edital/ver/53 ; Código Tributário Municipal de Queimados, art. 377, retomado conforme aulas anteriores.
+1. RECUPERAÇÃO ATIVA — SEM CONSULTA (6 MINUTOS)
+Antes de reler as regras, escreva mentalmente ou em papel respostas curtas:
+R1. Qual a diferença entre lançamento, inscrição em dívida ativa, CDA e execução fiscal?
+R2. Qual é a sequência de prazos 5–30–30 da LEF e a que atos se refere?
+R3. O que significa a presunção relativa da CDA?
+R4. O que é RBT12? Qual a diferença entre teto da EPP e sublimite do ISS/ICMS em 2026?
+R5. Diferencie NF-e, DANFE, NFS-e e ECD.
+R6. Por que uma divergência NFS-e × PGDAS-D não basta para provar fraude?
+R7. Em Português, diferencie concessão, condição e conclusão.
+R8. No art. 377 municipal, associe licença, gravame e construção não legalizada aos respectivos critérios.
+Não há correção pessoal ainda: não foram recebidas respostas das aulas 90 a 93. O objetivo desta etapa é recuperar, não reler passivamente.
+
+
+
+
+2. REVISÃO EXPLICADA — EXECUÇÃO FISCAL (AULA 93)
+A LEF regula a cobrança judicial da dívida ativa da Fazenda Pública, tributária ou não tributária. A inscrição administrativa em dívida ativa não é a própria execução judicial; a CDA certifica a inscrição e acompanha a petição inicial. A dívida regularmente inscrita tem presunção RELATIVA de certeza e liquidez, afastável por prova inequívoca (LEF, art. 3º).
+O executado é citado para pagar ou garantir em CINCO DIAS (art. 8º). Pode garantir por depósito em dinheiro, fiança bancária, seguro garantia, nomeação de bens à penhora ou indicação de bens de terceiros aceitos pela Fazenda, conforme o art. 9º. O prazo de EMBARGOS é TRINTA DIAS, contado dos marcos do art. 16 (depósito; juntada da prova de fiança ou seguro; intimação da penhora). Recebidos os embargos, a Fazenda tem TRINTA DIAS para impugnar (art. 17). Cuidado: 30 dias dos embargos NÃO começam invariavelmente na citação. Suspensão por ausência de localização do devedor/bens não equivale à extinção imediata; há disciplina de prescrição intercorrente (art. 40).
+Exemplo resolvido: Município inscreve crédito de ISS, emite CDA e ajuíza execução. A empresa é citada: a LEF prevê 5 dias para pagar/garantir. Se garantir por seguro, o marco dos embargos, conforme o art. 16, é a juntada da prova dessa garantia. A CDA não torna impossível contestar o débito.
+Pegadinha: trocar “relativa” por “absoluta”; trocar prazo de 5 pelo de 30; confundir ação de repetição de indébito (restituição) com execução (cobrança).
+3. REVISÃO EXPLICADA — SIMPLES NACIONAL (AULA 90)
+LC 123/2006: ME até R$ 360 mil/ano; EPP acima de R$ 360 mil e até R$ 4,8 milhões/ano, considerado o critério de receita e os demais requisitos. Sublimite 2026 para recolhimento de ISS/ICMS no DAS: R$ 3,6 milhões. Ultrapassar sublimite NÃO significa automaticamente exclusão integral do Simples; os efeitos concretos dependem da regra aplicável.
+RBT12 é a receita bruta acumulada nos 12 meses anteriores ao período de apuração, usada para a faixa. Alíquota efetiva = [(RBT12 × alíquota nominal) – parcela a deduzir] / RBT12. A receita do período de apuração é outra informação.
+Exemplo resolvido: RBT12 de R$ 600.000, nominal 13,5%, dedução R$ 17.640. Produto: R$ 81.000; menos dedução: R$ 63.360; dividido por R$ 600.000 = 0,1056 = 10,56%. Com receita tributável mensal hipotética de R$ 50.000, aplicação simples dessa alíquota resultaria em R$ 5.280, antes de considerar segregações e tratamentos especiais.
+Pegadinha: alíquota nominal ≠ efetiva; teto EPP ≠ sublimite ISS/ICMS; Simples não afasta fiscalização municipal nem todas as obrigações acessórias.
+
+
+
+
+4. REVISÃO EXPLICADA — SPED, DOCUMENTOS E AUDITORIA (AULAS 89 E 91)
+SPED é SISTEMA, não imposto. ECD: escrituração contábil digital. EFD ICMS/IPI: escrituração fiscal desses impostos. EFD-Contribuições: escrituração de contribuições, como PIS/Pasep e Cofins, conforme a disciplina aplicável. NF-e é documento fiscal eletrônico; DANFE é documento AUXILIAR, não substitui o XML; NFS-e documenta serviços e interessa à fiscalização do ISS. Não confunda emissão de NFS-e com definição automática do Município competente para o ISS: examine a LC 116/2003.
+Auditoria fiscal exige planejamento, procedimentos, evidências e conclusão fundamentada. Exemplo: NFS-e emitidas somam R$ 75.000, mas declaração registra R$ 61.000. A diferença aritmética é R$ 14.000; não é, por si, prova de sonegação. Verificar cancelamentos, substituições, competência, reconhecimento de receita, retenções e demais justificativas.
+Pegadinha: “XML autorizado prova entrega material”; “divergência prova fraude”; “ECD é nota de serviço”; “todo ISS pertence ao município do prestador”.
+5. REVISÃO EXPLICADA — PORTUGUÊS E CÓDIGO TRIBUTÁRIO MUNICIPAL (AULAS 87 E 92)
+Português: “embora” introduz concessão; “se”, condição em construções condicionais; “portanto”, conclusão; “mas”, oposição. Inferência é conclusão sustentada pelo texto; extrapolação é afirmação que vai além do texto. Não separe sujeito e verbo por vírgula sem justificativa sintática. “A equipe recorreu à análise”: fusão de preposição a + artigo a; antes de verbo não ocorre crase.
+Código Tributário Municipal de Queimados, art. 377, conforme material da Aula 87: § 1º, construção/acréscimo legalizado — último prazo constante da licença; documentos do inciso I (Habite-se, Aceitação de Obras ou licença posterior) admitidos em qualquer tempo; inciso II (medidores, ligação de água, notas fiscais, BIC) sujeito ao prazo regulamentar de impugnação. § 2º, legalização com gravame de obra concluída — exercício posterior ao gravame. § 3º, construção não legalizada — idade arbitrada de cinco anos, admitida prova contrária na forma legal com declaração de três testemunhas acompanhada dos documentos exigidos e dentro do prazo regulamentar.
+Pegadinha: cinco ANOS de idade arbitrada não são três testemunhas; “em qualquer tempo” do inciso I não se estende indistintamente ao inciso II.
+
+
+
+
+6. SIMULADO INTERCALADO — 24 QUESTÕES AUTORAIS, SEM GABARITO ANTECIPADO
+Instruções: resolva em 25 minutos, sem consulta. São 18 de conhecimentos específicos, 3 de legislação municipal e 3 de Português. O resultado será aferido após resposta; não há percentual presumido. Para cada questão, marque apenas A, B, C ou D.
+
+
+Q01 — LEF. Uma CDA regularmente emitida é contestada com prova inequívoca de pagamento anterior. Assinale a CORRETA:
+A) A CDA torna a cobrança incontestável.
+B) A presunção de certeza e liquidez é relativa e admite prova contrária.
+C) O pagamento anterior não pode ser considerado judicialmente.
+D) A CDA equivale a sentença penal condenatória.
+
+
+Q02 — LEF. O executado é citado em execução fiscal. O prazo previsto na LEF para pagar ou garantir a execução é:
+A) 5 dias. B) 10 dias. C) 15 dias. D) 30 dias.
+
+
+Q03 — LEF — INCORRETA. Assinale a INCORRETA:
+A) A dívida ativa pode ser tributária ou não tributária.
+B) A CDA instrui a inicial da execução fiscal.
+C) O prazo de embargos é de 30 dias conforme marcos legais.
+D) Os embargos sempre têm prazo contado exclusivamente da citação.
+
+
+Q04 — LEF. A empresa garante a execução mediante seguro garantia. Para os embargos, a LEF considera como marco:
+A) A data do fato gerador.
+B) A emissão da primeira nota fiscal.
+C) A juntada da prova do seguro garantia.
+D) A publicação do edital de abertura do concurso.
+
+
+Q05 — LEF — EXCETO. São formas de garantia contempladas na LEF, EXCETO:
+A) Depósito em dinheiro.
+B) Fiança bancária.
+C) Seguro garantia.
+D) Simples promessa verbal de pagamento sem garantia.
+
+
+Q06 — LEF. Recebidos os embargos à execução, a Fazenda Pública terá, segundo o art. 17, prazo de:
+A) 5 dias. B) 10 dias. C) 15 dias. D) 30 dias.
+
+
+Q07 — LEF — ASSERTIVAS. I. A inscrição em dívida ativa é ato administrativo. II. A CDA certifica a inscrição. III. A ausência de bens penhoráveis extingue automaticamente a execução no mesmo dia. Está correto:
+A) Apenas I. B) Apenas II. C) I e II. D) I, II e III.
+
+
+Q08 — SIMPLES. Uma empresa com receita anual de R$ 4,2 milhões, atendidos os demais requisitos, ultrapassou o sublimite de ISS/ICMS de 2026. Assinale a CORRETA:
+A) A ultrapassagem do sublimite implica necessariamente exclusão integral e imediata do Simples.
+B) A empresa é microempresa pelo critério da receita.
+C) A empresa pode permanecer no Simples, mas o recolhimento de ISS/ICMS pode ocorrer fora do DAS, conforme os efeitos legais aplicáveis.
+D) O ISS deixa de existir para essa empresa.
+
+
+Q09 — SIMPLES. Para 2026, o sublimite divulgado para ISS e ICMS no Simples Nacional foi:
+A) R$ 360 mil. B) R$ 1,8 milhão. C) R$ 3,6 milhões. D) R$ 4,8 milhões.
+
+
+Q10 — SIMPLES — INCORRETA. Assinale a INCORRETA:
+A) RBT12 corresponde à receita bruta acumulada nos 12 meses anteriores ao período de apuração.
+B) A alíquota nominal e a efetiva são sempre idênticas.
+C) O DAS é documento de arrecadação do regime.
+D) O Simples não impede toda fiscalização municipal.
+
+
+Q11 — SIMPLES — CÁLCULO. Com RBT12 = R$ 720.000, alíquota nominal = 13,5% e parcela a deduzir = R$ 17.640, qual a alíquota efetiva?
+A) 13,50%. B) 11,05%. C) 7,50%. D) 17,64%.
+
+
+Q12 — SIMPLES — ASSERTIVAS. I. O teto geral de receita da EPP é distinto do sublimite de ISS/ICMS. II. O regime pode abranger ISS. III. A opção pelo Simples elimina toda obrigação acessória. Assinale:
+A) Apenas I. B) Apenas II. C) I e II. D) I, II e III.
+
+
+
+
+Q13 — SPED. Um fiscal deseja examinar livros Diário e Razão apresentados digitalmente. Qual módulo está mais diretamente relacionado?
+A) ECD. B) DANFE. C) NFS-e. D) DAS.
+
+
+Q14 — SPED — INCORRETA. Assinale a INCORRETA:
+A) EFD ICMS/IPI trata de escrituração fiscal desses impostos.
+B) EFD-Contribuições tem disciplina voltada a contribuições como PIS/Pasep e Cofins.
+C) SPED é um novo imposto federal cobrado sobre notas fiscais.
+D) ECD se relaciona a livros contábeis digitais.
+
+
+Q15 — DOCUMENTOS. O DANFE é:
+A) A própria NF-e em formato XML.
+B) Um documento auxiliar de representação da NF-e.
+C) Uma guia municipal de recolhimento de ISS.
+D) Um livro obrigatório de contabilidade.
+
+
+Q16 — NFS-e/ISS. A emissão de NFS-e por prestador situado em Queimados permite concluir que:
+A) O ISS sempre pertence a Queimados, sem exceções.
+B) A LC 116/2003 não se aplica.
+C) O ICMS se transforma em tributo municipal.
+D) É preciso examinar o serviço e as regras de local de incidência do ISS.
+
+
+Q17 — AUDITORIA. Um cruzamento mostra notas fiscais de R$ 72.000 e declaração de R$ 61.000. Qual a diferença aritmética?
+A) R$ 9.000. B) R$ 11.000. C) R$ 13.000. D) R$ 133.000.
+
+
+Q18 — AUDITORIA — CORRETA. Diante da divergência documental, a providência tecnicamente adequada é:
+A) Concluir fraude sem examinar registros.
+B) Ignorar todas as diferenças por serem digitais.
+C) Investigar competência, cancelamentos, substituições, documentos e justificativas.
+D) Presumir automaticamente responsabilidade penal.
+
+
+Q19 — LEGISLAÇÃO MUNICIPAL. No art. 377, § 1º, a presunção de ocupação de construção/acréscimo legalizado utiliza:
+A) O último prazo constante da licença.
+B) Sempre a data da venda do imóvel.
+C) O exercício posterior ao gravame em qualquer situação.
+D) A idade arbitrada de três anos.
+
+
+Q20 — LEGISLAÇÃO MUNICIPAL — EXCETO. Na distinção do art. 377, § 1º, inciso I, são documentos apresentados “em qualquer tempo”, EXCETO:
+A) Certidão de Habite-se.
+B) Certidão de Aceitação de Obras.
+C) Licença que estabeleça prazo posterior de conclusão.
+D) Comprovação de ligação de água.
+
+
+Q21 — LEGISLAÇÃO MUNICIPAL — ASSERTIVAS. I. O § 2º associa legalização com gravame ao exercício posterior ao gravame. II. O § 3º arbitra em cinco anos a idade de construção não legalizada. III. O § 3º exige declaração de cinco testemunhas. Está correto:
+A) Apenas I. B) Apenas II. C) I e II. D) I, II e III.
+
+
+Q22 — PORTUGUÊS. Em “Embora a CDA possua presunção, admite prova contrária”, o conectivo indica:
+A) Causa. B) Concessão. C) Conclusão. D) Finalidade.
+
+
+Q23 — PORTUGUÊS. Compare “Os documentos que estavam incompletos foram devolvidos” com “Os documentos, que estavam incompletos, foram devolvidos”. Assinale a CORRETA:
+A) A pontuação não altera a interpretação em hipótese alguma.
+B) A primeira construção contém oração restritiva; a segunda, explicativa.
+C) A primeira construção contém oração explicativa; a segunda, restritiva.
+D) Ambas estão necessariamente incorretas.
+
+
+Q24 — PORTUGUÊS — CRASE. Assinale a alternativa adequada à norma-padrão:
+A) A equipe começou à revisar os autos.
+B) O fiscal entregou o relatório à servidores.
+C) O setor recorreu à análise documental.
+D) A conferência começou à partir da manhã.
+
+
+
+
+7. FECHAMENTO E CONTROLE DE RETENÇÃO
+Não revelar gabarito antes da resposta. Ao receber as alternativas escolhidas, corrigir cada questão comentando A, B, C e D; registrar o mecanismo da pegadinha (literalidade, EXCETO, troca de prazo, generalização, cálculo, conectivo ou exceção). Se a questão não tiver gabarito fornecido por fonte externa, classificá-la como autoral ou tecnicamente resolvida, jamais como gabarito oficial do arquivo de 911.
+Controle individual: 24 questões propostas; 0 respostas registradas nesta execução; acertos, erros e percentual ainda NÃO AFERIDOS. Não considerar assunto dominado sem nova demonstração de retenção em teste misturado.
+Caderno de erros a preencher somente após resposta: número da questão | alternativa marcada | erro observado | causa provável | regra correta | distrator/pegadinha | próxima revisão. Não atribuir erros fictícios a Vinícius nem transferir anotações pessoais para Jonathan.
+Critérios de ajuste: desempenho abaixo de 70% em bloco => reforço de conceitos e 5 itens novos; 70–89% => revisão curta e recuperação em 24–72 horas; 90% ou mais => reavaliar após 72 horas e sete dias antes de declarar domínio. Aplicar separadamente por assunto, sem usar média global para esconder fraquezas.
+Recuperação final sem consulta: explique 5–30–30 da LEF; diferencie teto EPP e sublimite; defina DANFE; calcule a diferença 72 mil menos 61 mil; associe licença, gravame e construção não legalizada aos três parágrafos do art. 377.
+Próxima Aula 95: CONTABILIDADE APLICADA À FISCALIZAÇÃO — patrimônio, balanço patrimonial, resultado, receitas/despesas, regime de competência, conciliação e cruzamento fiscal; avançar primeira volta do edital, com recuperação breve da Aula 94.
+[FIM DA AULA 94 — 12/10/2026 — REVISÃO CUMULATIVA E SIMULADO INTERCALADO]
+
+
+
+
+[INÍCIO DA AULA 95 — 12/10/2026 — CONTABILIDADE APLICADA À FISCALIZAÇÃO]
+CONCURSO: Prefeitura de Queimados/RJ — EXCLUSIVAMENTE AGENTE FISCAL — banca IAN.
+AULA 95 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.
+Duração orientativa: 55 a 65 minutos. Objetivo: ampliar a primeira volta dos Conhecimentos Específicos, sem sacrificar recuperação ativa. A Aula 94 terminou em revisão cumulativa e 24 questões ainda sem respostas registradas; não há domínio confirmado.
+FONTES DE APOIO: Lei 6.404/1976, arts. 176 a 188 (https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm); Conselho Federal de Contabilidade, normas contábeis (https://cfc.org.br/); Lei 5.172/1966, CTN arts. 194-200 (https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm). O guia de estudo Agente Fiscal Queimados 2026, recuperado da biblioteca, delimita este bloco como contabilidade geral e fiscal, demonstrações, análise de balanços, escrituração e apuração de tributos. Não se atribuem estas questões à IAN: são AUTORAIS, em formato de quatro alternativas, sem gabarito antecipado. A coletânea de 911 questões e os oito cadernos não foram disponibilizados nesta execução para cotejo e deduplicação.
+1. RECUPERAÇÃO ATIVA (3 MINUTOS, SEM CONSULTAR)
+R1. A CDA possui presunção absoluta ou relativa de certeza e liquidez?
+R2. Na Lei de Execução Fiscal, quais atos correspondem aos prazos 5–30–30?
+R3. Qual é a diferença entre NFS-e e DANFE?
+R4. A existência de divergência entre NFS-e e PGDAS-D comprova automaticamente fraude?
+R5. O conectivo “embora” normalmente introduz que relação de sentido?
+Não há gabarito antecipado: responda mentalmente e prossiga. A aula termina com questões mistas.
+2. PATRIMÔNIO E EQUAÇÃO FUNDAMENTAL
+Contabilidade registra e organiza fatos que afetam a posição patrimonial e o desempenho da entidade. Patrimônio é composto por bens, direitos e obrigações. Bens: caixa, equipamentos e imóveis. Direitos: valores a receber de clientes. Obrigações: fornecedores, empréstimos e tributos a recolher.
+ATIVO = recursos econômicos controlados pela entidade, decorrentes de eventos passados, com potencial de produzir benefícios econômicos.
+PASSIVO = obrigações presentes de transferir recursos econômicos, decorrentes de eventos passados.
+PATRIMÔNIO LÍQUIDO (PL) = interesse residual nos ativos após deduzir todos os passivos.
+EQUAÇÃO: ATIVO = PASSIVO + PATRIMÔNIO LÍQUIDO. Portanto, PL = ATIVO − PASSIVO.
+EXEMPLO RESOLVIDO: uma empresa tem ativos de R$ 260.000 e passivos de R$ 170.000. PL = 260.000 − 170.000 = R$ 90.000. Se os passivos superarem os ativos, o PL poderá ser negativo. PL não é sinônimo de dinheiro no caixa.
+PEGADINHA: “Clientes a receber” é DIREITO/ATIVO, não PASSIVO; “tributos a recolher” são obrigação/PASSIVO, não despesa automaticamente paga.
+3. BALANÇO PATRIMONIAL (BP): FOTOGRAFIA DE UMA DATA
+O BP evidencia a posição patrimonial e financeira em determinada data. Conforme art. 178 da Lei 6.404/1976, ativo circulante e não circulante; passivo circulante e não circulante; patrimônio líquido.
+ATIVO CIRCULANTE: caixa, bancos, clientes a receber no curto prazo, estoques. ATIVO NÃO CIRCULANTE: realizável a longo prazo, investimentos, imobilizado (máquinas usadas na atividade) e intangível (por exemplo, software reconhecido contabilmente, quando preenchidos os requisitos).
+PASSIVO CIRCULANTE: fornecedores, salários e tributos com exigibilidade no curto prazo. PASSIVO NÃO CIRCULANTE: dívidas e obrigações de longo prazo. PATRIMÔNIO LÍQUIDO: capital social, reservas e resultados acumulados, conforme a situação.
+EXEMPLO RESOLVIDO: Ativo circulante R$ 90.000; não circulante R$ 150.000; passivo circulante R$ 60.000; não circulante R$ 100.000. Ativo total = R$ 240.000; passivo total = R$ 160.000; PL = R$ 80.000.
+PEGADINHA: BP NÃO informa, isoladamente, o lucro gerado no mês. Também não se deve tratar capital social como saldo bancário.
+4. DEMONSTRAÇÃO DO RESULTADO (DRE): FILME DE UM PERÍODO
+A DRE evidencia receitas, custos, despesas e o resultado de um período. A Lei 6.404/1976, art. 187, disciplina sua estrutura para companhias. Para estudo introdutório, resultado simplificado = receitas líquidas − custos − despesas. A DRE formal pode conter deduções da receita bruta, tributos, resultado financeiro e outras rubricas; não confundir receita bruta com lucro.
+EXEMPLO RESOLVIDO: receita líquida R$ 100.000, custo dos serviços R$ 35.000 e despesas operacionais R$ 40.000. Resultado simplificado = 100.000 − 35.000 − 40.000 = R$ 25.000 de lucro.
+Se custos e despesas superassem as receitas, haveria prejuízo. RECEITA não é sinônimo de ENTRADA DE CAIXA; DESPESA não é sinônimo de PAGAMENTO. DRE mede desempenho; BP mede posição numa data.
+A DFC (demonstração dos fluxos de caixa) apresenta movimentações de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento. A DFC não substitui a DRE.
+5. REGIME DE COMPETÊNCIA VERSUS REGIME DE CAIXA
+COMPETÊNCIA: receitas e despesas são reconhecidas quando geradas/incorridas segundo os critérios contábeis, independentemente do momento do recebimento/pagamento.
+CAIXA: observa entradas e saídas efetivas de recursos financeiros.
+EXEMPLO RESOLVIDO: serviço concluído em 10/09, por R$ 12.000, recebido em 10/10. Em regra, no regime de competência, a receita do serviço pertence a setembro; em outubro ocorre o recebimento do direito a receber. NÃO se reconhece nova receita apenas porque o cliente pagou. Para apuração de tributos, conferir a legislação e o regime tributário aplicável, pois a regra fiscal pode diferir da contábil.
+Outro exemplo: conta de energia referente a setembro, paga em outubro, em regra representa despesa de setembro sob competência.
+PEGADINHA: dizer que “toda receita contábil só existe após recebimento bancário” confunde competência com caixa.
+6. PARTIDAS DOBRADAS — MECANISMO DO LANÇAMENTO
+Em um lançamento contábil, a soma dos débitos deve igualar a soma dos créditos. Débito e crédito são posições contábeis; não significam necessariamente “ruim” e “bom”.
+REGRA BÁSICA: aumento de ATIVO normalmente é DÉBITO; aumento de PASSIVO e de RECEITA normalmente é CRÉDITO; aumento de DESPESA normalmente é DÉBITO.
+EXEMPLO 1 — SERVIÇO PRESTADO A PRAZO POR R$ 8.000:
+D — Clientes a receber (ativo): R$ 8.000.
+C — Receita de serviços (resultado): R$ 8.000.
+EXEMPLO 2 — RECEBIMENTO POSTERIOR DOS R$ 8.000:
+D — Banco/Caixa (ativo): R$ 8.000.
+C — Clientes a receber (ativo): R$ 8.000.
+Não houve nova receita no segundo lançamento. Houve troca entre contas do ativo.
+EXEMPLO 3 — RECONHECIMENTO DE DESPESA DE ENERGIA A PAGAR, R$ 900:
+D — Despesa de energia: R$ 900.
+C — Contas a pagar: R$ 900.
+PAGAMENTO POSTERIOR: D — Contas a pagar; C — Banco. Não reconhecer novamente a despesa.
+PEGADINHA: débito em Caixa aumenta o ativo; crédito em Caixa diminui o ativo. Não confundir linguagem bancária cotidiana com a lógica das contas contábeis.
+7. ANÁLISE DE BALANÇOS — DOIS INDICADORES
+LIQUIDEZ CORRENTE = ATIVO CIRCULANTE / PASSIVO CIRCULANTE. Exemplo: AC R$ 90.000; PC R$ 60.000; liquidez corrente = 1,5. Isso significa R$ 1,50 de ativo circulante por R$ 1,00 de passivo circulante; NÃO significa que a empresa tenha R$ 1,50 em dinheiro para cada R$ 1,00 de dívida.
+CAPITAL CIRCULANTE LÍQUIDO (CCL) = AC − PC. Exemplo: 90.000 − 60.000 = R$ 30.000.
+ENDIVIDAMENTO GERAL (versão introdutória) = PASSIVO EXIGÍVEL TOTAL / ATIVO TOTAL. Exemplo: 160.000 / 240.000 = 66,67%. O índice descreve a participação de obrigações no financiamento dos ativos, não comprova irregularidade fiscal.
+CUIDADO: índices são sinais de análise financeira, não prova de fraude tributária.
+8. CONTABILIDADE APLICADA À FISCALIZAÇÃO DO ISS
+O Agente Fiscal pode comparar, mediante acesso legalmente autorizado: NFS-e válidas e canceladas; receitas escrituradas; livros/relatórios contábeis; declarações tributárias; recebimentos bancários; contratos; retenções; competências; notas substituídas; comprovantes de pagamento.
+CASO RESOLVIDO: empresa apresenta NFS-e emitidas no mês totalizando R$ 80.000, das quais R$ 10.000 foram regularmente canceladas. Documentos válidos somam R$ 70.000. A receita de serviços registrada na contabilidade para esse período é R$ 70.000. Recebimentos bancários foram R$ 65.000 e R$ 5.000 permanecem em clientes a receber. Isso pode ser perfeitamente compatível com competência: recebimento bancário não é igual, necessariamente, à receita do período. Se a declaração tributária mostrar R$ 68.000, a diferença preliminar em relação às NFS-e válidas é R$ 2.000; investigar substituições, cancelamentos, competências, retenções, regras fiscais, outros ajustes e local de incidência antes de qualquer conclusão.
+RETENÇÃO DO ISS: o fato de o tomador reter imposto não significa, por si só, que o valor bruto do serviço desapareça da receita contábil; examinar tratamento contábil e fiscal.
+CONCILIAÇÃO: primeiro conferir se se comparam bases homogêneas (mesmo período, mesmo contribuinte, mesma natureza de receita, documentos válidos, regime correto). Só depois calcular diferenças.
+SIGILO: CTN art. 198. Dados fiscais não são de divulgação livre. CTN arts. 194 a 200 tratam da fiscalização, com requisitos e limites.
+PEGADINHA: aumento de contas a receber pode refletir vendas a prazo; não prova omissão de receita. Movimentação bancária pode incluir empréstimo, transferência ou aporte; não é automaticamente faturamento.
+9. MAPA DE MEMORIZAÇÃO (SEM RESPOSTAS DAS QUESTÕES)
+Ativo = recursos e direitos; Passivo = obrigações; PL = ativo menos passivo.
+BP = posição em uma data; DRE = resultado em um período; DFC = fluxos de caixa.
+Competência = quando gerado/incorrido; Caixa = quando recebido/pago.
+Partidas dobradas = débitos totais iguais aos créditos totais.
+Liquidez corrente = AC/PC; capital circulante líquido = AC−PC.
+Fiscalização = conciliar fontes, verificar legalidade e justificar conclusões; diferença não equivale automaticamente a fraude.
+10. QUESTÕES AUTORAIS — TREINO IAN (20 QUESTÕES, QUATRO ALTERNATIVAS, GABARITO OCULTO)
+Resolva sem consultar a aula. Comandos CORRETA, INCORRETA, EXCETO e assertivas simulam mecanismos gerais de prova, não transcrevem questões oficiais.
+Q01 — CONCEITO. O patrimônio líquido corresponde, em termos contábeis, a:
+A) Soma do ativo com o passivo. B) Ativo menos passivo. C) Saldo exclusivo de caixa. D) Receita total do mês.
+Q02 — CLASSIFICAÇÃO. Um valor de serviços já prestados e ainda não recebido de cliente representa, em regra:
+A) Passivo circulante. B) Despesa financeira. C) Direito registrado no ativo. D) Patrimônio líquido obrigatoriamente negativo.
+Q03 — INCORRETA. Assinale a afirmação INCORRETA:
+A) Tributos a recolher podem integrar o passivo. B) Máquinas utilizadas na operação podem integrar o imobilizado. C) Capital social é necessariamente igual ao dinheiro disponível em caixa. D) Clientes a receber são direitos da entidade.
+Q04 — CÁLCULO. Ativos de R$ 250.000 e passivos exigíveis de R$ 190.000 resultam em PL de:
+A) R$ 60.000. B) R$ 190.000. C) R$ 250.000. D) R$ 440.000.
+Q05 — CÁLCULO. Se o ativo circulante é R$ 120.000 e o passivo circulante é R$ 80.000, a liquidez corrente é:
+A) 0,67. B) 1,20. C) 1,50. D) 2,00.
+Q06 — BALANÇO. A demonstração que apresenta a posição patrimonial em uma data é:
+A) Balanço patrimonial. B) Demonstração do resultado do período. C) Relatório de notas fiscais emitidas. D) Guia de recolhimento de ISS.
+Q07 — DRE. A demonstração que evidencia receitas, custos, despesas e resultado de um período é:
+A) Balanço patrimonial. B) DRE. C) DANFE. D) Certidão de Dívida Ativa.
+Q08 — CÁLCULO. Receita líquida R$ 70.000, custos R$ 28.000 e despesas R$ 30.000: resultado simplificado é:
+A) Lucro de R$ 12.000. B) Prejuízo de R$ 12.000. C) Lucro de R$ 42.000. D) Receita de R$ 128.000.
+Q09 — COMPETÊNCIA. Serviço concluído em setembro e recebido em outubro, em regra, pelo regime de competência:
+A) Gera receita somente em outubro. B) Gera receita em setembro, com recebimento em outubro. C) Não gera direito a receber. D) Implica dois reconhecimentos de receita.
+Q10 — PARTIDAS DOBRADAS. Na prestação de serviços a prazo, sem considerar tributos, o lançamento inicial adequado é:
+A) D Receita; C Clientes. B) D Caixa; C Empréstimos. C) D Clientes; C Receita de serviços. D) D Despesa; C Caixa.
+Q11 — INCORRETA. Assinale a INCORRETA:
+A) O recebimento de cliente pode aumentar Caixa e reduzir Clientes. B) O recebimento de valor já reconhecido como receita gera obrigatoriamente nova receita contábil. C) Débitos e créditos totais devem se igualar no lançamento. D) Uma despesa incorrida pode ser registrada antes do pagamento.
+Q12 — EXCETO. São exemplos de ativo circulante, em condições usuais, EXCETO:
+A) Dinheiro em caixa. B) Clientes a receber no curto prazo. C) Estoques. D) Empréstimo bancário exigível no curto prazo.
+Q13 — INDICADORES. O capital circulante líquido é calculado por:
+A) Ativo total dividido pelo PL. B) Ativo circulante menos passivo circulante. C) Receita menos ISS. D) Caixa mais passivo exigível.
+Q14 — FLUXOS DE CAIXA. A DFC busca evidenciar:
+A) Exclusivamente o saldo de tributos a recolher. B) Fluxos de caixa e equivalentes, inclusive atividades operacionais, de investimento e financiamento. C) Apenas a receita bruta de serviços. D) A idade dos bens imóveis.
+Q15 — ASSERTIVAS. Considere: I. O BP apresenta posição patrimonial em uma data. II. A DRE informa desempenho de um período. III. Todo crédito bancário é necessariamente receita de serviço tributável pelo ISS. Assinale:
+A) Apenas I. B) Apenas II. C) I e II. D) I, II e III.
+Q16 — INCORRETA. Sobre fiscalização contábil, assinale a INCORRETA:
+A) É necessário comparar dados do mesmo período e natureza. B) Cancelamentos válidos podem explicar diferenças. C) Toda divergência entre NFS-e e contabilidade comprova automaticamente fraude. D) Receitas a prazo podem não coincidir com recebimentos bancários do mês.
+Q17 — CÁLCULO FISCAL. NFS-e emitidas: R$ 75.000. Documentos regularmente cancelados: R$ 9.000. Declaração de receitas do período: R$ 60.000. Diferença preliminar entre documentos válidos e declaração:
+A) R$ 6.000. B) R$ 9.000. C) R$ 15.000. D) R$ 24.000.
+Q18 — REVISÃO SPED. O módulo associado aos livros contábeis digitais, como Diário e Razão, é:
+A) DANFE. B) ECD. C) NFS-e. D) DAS.
+Q19 — REVISÃO LEF. Segundo a Lei 6.830/1980, o executado é citado para pagar ou garantir a execução no prazo de:
+A) 5 dias. B) 10 dias. C) 20 dias. D) 30 dias.
+Q20 — PORTUGUÊS. Em “Embora os registros divirjam, a conclusão exige análise documental”, o conectivo “embora” introduz:
+A) Causa. B) Concessão. C) Finalidade. D) Consequência necessária.
+11. FECHAMENTO, RETENÇÃO E CADERNO DE ERROS
+Relembre de cabeça: (i) A=P+PL; (ii) diferença BP x DRE; (iii) competência x caixa; (iv) lançamentos da prestação a prazo e do recebimento; (v) por que um crédito bancário não é necessariamente receita; (vi) o que fazer antes de apontar diferença de ISS.
+20 questões propostas; nenhuma resposta registrada nesta execução. Não atribuir nota, acerto, erro ou domínio. Ao receber respostas, corrigir A, B, C e D em cada questão, explicar distrator e registrar: questão | escolha | erro | causa provável | regra | pegadinha | revisão futura. Repetir em 24h, 72h e 7 dias em questões misturadas; considerar domínio somente com retenção posterior.
+Próxima AULA 96: FINANÇAS PÚBLICAS — receitas e despesas públicas, classificações orçamentárias, estágios da receita e despesa, Lei 4.320/1964 e conexões com LRF. Seguir a rotação de quatro aulas e avançar lacunas ainda não cobertas.
+[FIM DA AULA 95 — 12/10/2026 — CONTABILIDADE APLICADA À FISCALIZAÇÃO]
+[INÍCIO DA AULA 96 — 12/10/2026 — FINANÇAS PÚBLICAS]
+Cargo exclusivo: AGENTE FISCAL de Queimados/RJ. Aula 96 — Finanças Públicas. Continuidade após a Aula 95. Objetivo: distinguir receita e despesa, estágios da execução orçamentária, restos a pagar e responsabilidade fiscal. Fontes: Lei nº 4.320/1964, LC nº 101/2000 e Constituição Federal, art. 165.
+1. RECUPERAÇÃO ATIVA: Sem consultar a aula anterior, explique (a) patrimônio líquido = ativo menos passivo; (b) diferença entre BP e DRE; (c) regime de competência; (d) por que divergência fiscal não prova fraude; (e) qual é o prazo de pagar ou garantir na execução fiscal. Não há respostas registradas, portanto não há nota ou domínio aferidos.
+2. FINANÇAS PÚBLICAS: estudo das receitas, despesas, orçamento, execução e prestação de contas do Estado. A Lei Orçamentária Anual estima receitas e fixa despesas. A previsão de R$ 10 milhões de ISS não garante que esse valor será arrecadado; a dotação para uma obra não significa pagamento realizado. O orçamento é uma autorização legal, não um extrato bancário.
+
+
+3. PRINCÍPIOS ORÇAMENTÁRIOS. Lei 4.320/1964, art. 2º: unidade, universalidade e anualidade. Unidade: visão integrada do orçamento do ente, considerada a estrutura constitucional. Universalidade: abrangência das receitas e despesas que devem constar da lei. Anualidade: referência a um exercício financeiro. Art. 34: exercício financeiro coincide com o ano civil, de 1º de janeiro a 31 de dezembro. Art. 6º: orçamento bruto, receitas e despesas por seus totais. Pegadinha: anualidade da LOA não significa que o PPA dure apenas um ano.
+
+
+4. RECEITAS CORRENTES E DE CAPITAL. Lei 4.320, art. 11. Receitas correntes incluem tributárias, contribuições, patrimoniais, agropecuárias, industriais, de serviços, transferências correntes e outras correntes. Exemplos municipais: ISS, IPTU e taxas. Receitas de capital incluem operações de crédito, alienação de bens, amortização de empréstimos concedidos, transferências de capital e outras receitas de capital. Exemplos: operação de crédito autorizada e venda de imóvel público. O superávit do orçamento corrente não constitui item autônomo de receita orçamentária (§ 3º). Ingressos extraorçamentários são entradas temporárias que não pertencem definitivamente ao ente, como determinadas cauções recebidas com obrigação de devolução. Pegadinha: nem toda entrada de dinheiro é receita orçamentária; nem toda receita é tributária.
+
+
+5. ESTÁGIOS DA RECEITA. Sequência didática: previsão → lançamento (quando cabível) → arrecadação → recolhimento. Previsão é estimativa na LOA; lançamento verifica/constitui o crédito quando aplicável; arrecadação é o recebimento pelos agentes arrecadadores; recolhimento é a entrega dos valores ao Tesouro, conforme a unidade de tesouraria (art. 56). Nem toda receita exige lançamento. Atenção: lançamento da receita na Lei 4.320 (arts. 52–53) e lançamento tributário no CTN (art. 142) não são conceitos automaticamente idênticos em todos os casos. Exemplo: IPTU previsto, lançado, pago ao agente arrecadador e recolhido ao Tesouro. Pegadinha: recolhimento não precede arrecadação.
+
+
+6. DESPESAS CORRENTES E DE CAPITAL. Correntes: em geral manutenção dos serviços, pessoal, encargos e custeio. Capital: investimentos, inversões financeiras e amortização da dívida, conforme classificação orçamentária. Exemplo: salário de servidores é despesa corrente; construção de escola é despesa de capital, investimento. A aquisição de imóvel pode ser investimento quando necessária à execução de obra ou inversão financeira em outras hipóteses, conforme art. 12. Pegadinha: toda aquisição de imóvel não é necessariamente investimento.
+
+
+7. ESTÁGIOS DA DESPESA. Fixação (autorização na lei orçamentária) → empenho → liquidação → pagamento. Empenho, art. 58: ato da autoridade competente que cria obrigação de pagamento pendente ou não de condição. Art. 60: é vedada despesa sem prévio empenho, observadas as particularidades legais quanto à nota. Liquidação, art. 63: verificar direito do credor, origem, objeto, importância exata e destinatário do pagamento, com documentos comprobatórios. Pagamento, arts. 62–65: após regular liquidação e ordem de pagamento. Exemplo: compra de computadores: empenhar R$ 40 mil; receber e conferir os bens; liquidar; ordenar e pagar. Pegadinhas: empenho não é pagamento; liquidação não é depósito bancário.
+
+
+8. TIPOS DE EMPENHO. Ordinário: despesa de valor determinado, usualmente paga de uma só vez. Global: despesa contratual de valor conhecido e pagamento parcelado. Por estimativa: montante não determinável antecipadamente com precisão, como certos consumos variáveis. Art. 60, §§ 2º e 3º, fundamenta estimativa e global. Pegadinha: contrato com valor total conhecido e parcelas tende a empenho global, não por estimativa.
+
+
+9. REGIME ORÇAMENTÁRIO E RESTOS A PAGAR. Lei 4.320, art. 35: pertencem ao exercício as receitas nele ARRECADADAS e as despesas nele LEGALMENTE EMPENHADAS. Essa regra orçamentária não elimina a contabilidade patrimonial por competência. Art. 36: restos a pagar são despesas empenhadas mas não pagas até 31 de dezembro. Processados: já liquidados, ainda não pagos. Não processados: empenhados, ainda não liquidados, observadas condições legais de inscrição. Exemplo: R$ 20 mil empenhados e liquidados, sem pagamento em dezembro: restos a pagar processados. R$ 15 mil empenhados sem liquidação nem pagamento: não processados, se inscritos regularmente. Pegadinha: nem todo resto a pagar está liquidado.
+
+
+10. PPA, LDO E LOA. Constituição, art. 165. PPA organiza diretrizes, objetivos e metas de médio prazo; LDO estabelece diretrizes e prioridades, orienta a elaboração da LOA; LOA estima receitas e fixa despesas anuais. Exemplo: PPA prevê expansão da atenção básica; LDO seleciona prioridades para o ano; LOA traz dotações para ações concretas. Macete: PPA = planejamento; LDO = ponte; LOA = autorização anual. A duração e tramitação específicas devem ser conferidas na Constituição e na Lei Orgânica municipal. Pegadinha: LDO não substitui LOA.
+
+
+11. LRF — NOÇÕES CENTRAIS. LC 101/2000, art. 1º: responsabilidade fiscal exige planejamento, transparência, prevenção de riscos e correção de desvios. Art. 11: instituição, previsão e efetiva arrecadação de TODOS os tributos de competência constitucional do ente são requisitos essenciais. Porém a vedação de transferências voluntárias do parágrafo único refere-se aos IMPOSTOS. Art. 8º: até 30 dias após a publicação dos orçamentos, Executivo estabelece programação financeira e cronograma de desembolso. Art. 9º: ao fim de bimestre,
+ se a arrecadação esperada ameaçar as metas fiscais, haverá medidas de ajuste nos prazos e condições definidos pela LRF.

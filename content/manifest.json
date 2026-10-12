@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 87,
+  "contentVersion": 89,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-12T01:22:46.820Z",
-  "contentHashGlobal": "e5353507c2505fda",
-  "totalAulas": 88,
-  "totalQuestoes": 571,
+  "ultimaSincronizacao": "2026-10-12T19:53:07.927Z",
+  "contentHashGlobal": "a8aaca941e519758",
+  "totalAulas": 90,
+  "totalQuestoes": 615,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -904,8 +904,32 @@
       "disciplina": "Direito Tributário",
       "assunto": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
       "arquivo": "aulas/direito-tributario-aula-093.json",
-      "hash": "40ef4ad34cb613c0",
+      "hash": "a4d9cca74e6e2dcd",
       "totalQuestoes": 0,
+      "ultimaAtualizacao": "2026-10-12"
+    },
+    {
+      "id": "direito-tributario-aula-094",
+      "numero": 94,
+      "titulo": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+      "slug": "revisao-cumulativa-recuperacao-ativa-e-simulado-intercalado",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+      "arquivo": "aulas/direito-tributario-aula-094.json",
+      "hash": "b79ebcd1c9b14995",
+      "totalQuestoes": 24,
+      "ultimaAtualizacao": "2026-10-12"
+    },
+    {
+      "id": "direito-tributario-aula-095",
+      "numero": 95,
+      "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "arquivo": "aulas/direito-tributario-aula-095.json",
+      "hash": "e91cd266e675dee8",
+      "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-12"
     },
     {

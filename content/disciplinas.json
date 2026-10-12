@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 75,
-    "totalQuestoes": 545,
-    "tempoEstimadoMin": 379,
+    "totalAulas": 77,
+    "totalQuestoes": 589,
+    "tempoEstimadoMin": 399,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -76,7 +76,9 @@
       "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIA, CRUZAMENTO E DETECÇÃO DE INCONSISTÊNCIAS",
       "PARTE 4/4 — QUESTÕES SEM GABARITO ANTECIPADO",
       "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
-      "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980"
+      "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
+      "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+      "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
     ],
     "aulas": [
       {
@@ -528,6 +530,18 @@
         "numero": 93,
         "titulo": "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
         "slug": "processo-judicial-tributario-e-lei-n-6-830-1980"
+      },
+      {
+        "id": "direito-tributario-aula-094",
+        "numero": 94,
+        "titulo": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+        "slug": "revisao-cumulativa-recuperacao-ativa-e-simulado-intercalado"
+      },
+      {
+        "id": "direito-tributario-aula-095",
+        "numero": 95,
+        "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+        "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc"
       }
     ]
   },

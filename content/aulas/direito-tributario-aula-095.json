@@ -1,0 +1,769 @@
+{
+  "id": "direito-tributario-aula-095",
+  "numero": 95,
+  "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+  "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+  "disciplina": "Direito Tributário",
+  "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+  "ordem": 95,
+  "data": "2026-10-12",
+  "tempoEstimadoMin": 13,
+  "resumo": "Relembre de cabeça: (i) A=P+PL; (ii) diferença BP x DRE; (iii) competência x caixa; (iv) lançamentos da prestação a prazo e do recebimento; (v) por que um crédito bancário não é necessariamente receita; (vi) o que fazer antes de apontar diferença de ISS.\n20 questões propostas; nenhuma resposta registrada nesta execução. Não atribuir nota, acerto, erro ou domínio. Ao receber respostas, corrigir A, B, C e D em cada questão, explicar distrator e registrar: questão | escolha | erro | causa provável | regra | pegadinha | revisão futura. Repetir em 24h, 72h e 7 dias em questões misturadas; considerar domínio somente com retenção posterior.\nPróxima AULA 96: FINANÇAS PÚBLICAS — receitas e despesas públicas, classificações orçamentárias, estágios da receita e despesa, Lei 4.320/1964 e conexões com LRF. Seguir a rotação de quatro aulas e avançar lacunas ainda não cobertas.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-095-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Duração orientativa: 55 a 65 minutos. Objetivo: ampliar a primeira volta dos Conhecimentos Específicos, sem sacrificar recuperação ativa. A Aula 94 terminou em revisão cumulativa e 24 questões ainda sem respostas registradas; não há domínio confirmado.\nFONTES DE APOIO: Lei 6.404/1976, arts. 176 a 188 (https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm); Conselho Federal de Contabilidade, normas contábeis (https://cfc.org.br/); Lei 5.172/1966, CTN arts. 194-200 (https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm). O guia de estudo Agente Fiscal Queimados 2026, recuperado da biblioteca, delimita este bloco como contabilidade geral e fiscal, demonstrações, análise de balanços, escrituração e apuração de tributos. Não se atribuem estas questões à IAN: são AUTORAIS, em formato de quatro alternativas, sem gabarito antecipado. A coletânea de 911 questões e os oito cadernos não foram disponibilizados nesta execução para cotejo e deduplicação."
+    },
+    {
+      "id": "direito-tributario-aula-095-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA (3 MINUTOS, SEM CONSULTAR)",
+      "texto": "R1. A CDA possui presunção absoluta ou relativa de certeza e liquidez?\nR2. Na Lei de Execução Fiscal, quais atos correspondem aos prazos 5–30–30?\nR3. Qual é a diferença entre NFS-e e DANFE?\nR4. A existência de divergência entre NFS-e e PGDAS-D comprova automaticamente fraude?\nR5. O conectivo “embora” normalmente introduz que relação de sentido?\nNão há gabarito antecipado: responda mentalmente e prossiga. A aula termina com questões mistas."
+    },
+    {
+      "id": "direito-tributario-aula-095-b3",
+      "tipo": "teoria",
+      "titulo": "2. PATRIMÔNIO E EQUAÇÃO FUNDAMENTAL",
+      "texto": "Contabilidade registra e organiza fatos que afetam a posição patrimonial e o desempenho da entidade. Patrimônio é composto por bens, direitos e obrigações. Bens: caixa, equipamentos e imóveis. Direitos: valores a receber de clientes. Obrigações: fornecedores, empréstimos e tributos a recolher.\nATIVO = recursos econômicos controlados pela entidade, decorrentes de eventos passados, com potencial de produzir benefícios econômicos.\nPASSIVO = obrigações presentes de transferir recursos econômicos, decorrentes de eventos passados.\nPATRIMÔNIO LÍQUIDO (PL) = interesse residual nos ativos após deduzir todos os passivos.\nEQUAÇÃO: ATIVO = PASSIVO + PATRIMÔNIO LÍQUIDO. Portanto, PL = ATIVO − PASSIVO.\nEXEMPLO RESOLVIDO: uma empresa tem ativos de R$ 260.000 e passivos de R$ 170.000. PL = 260.000 − 170.000 = R$ 90.000. Se os passivos superarem os ativos, o PL poderá ser negativo. PL não é sinônimo de dinheiro no caixa.\nPEGADINHA: “Clientes a receber” é DIREITO/ATIVO, não PASSIVO; “tributos a recolher” são obrigação/PASSIVO, não despesa automaticamente paga."
+    },
+    {
+      "id": "direito-tributario-aula-095-b4",
+      "tipo": "teoria",
+      "titulo": "3. BALANÇO PATRIMONIAL (BP): FOTOGRAFIA DE UMA DATA",
+      "texto": "O BP evidencia a posição patrimonial e financeira em determinada data. Conforme art. 178 da Lei 6.404/1976, ativo circulante e não circulante; passivo circulante e não circulante; patrimônio líquido.\nATIVO CIRCULANTE: caixa, bancos, clientes a receber no curto prazo, estoques. ATIVO NÃO CIRCULANTE: realizável a longo prazo, investimentos, imobilizado (máquinas usadas na atividade) e intangível (por exemplo, software reconhecido contabilmente, quando preenchidos os requisitos).\nPASSIVO CIRCULANTE: fornecedores, salários e tributos com exigibilidade no curto prazo. PASSIVO NÃO CIRCULANTE: dívidas e obrigações de longo prazo. PATRIMÔNIO LÍQUIDO: capital social, reservas e resultados acumulados, conforme a situação.\nEXEMPLO RESOLVIDO: Ativo circulante R$ 90.000; não circulante R$ 150.000; passivo circulante R$ 60.000; não circulante R$ 100.000. Ativo total = R$ 240.000; passivo total = R$ 160.000; PL = R$ 80.000."
+    },
+    {
+      "id": "direito-tributario-aula-095-b5",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: BP NÃO informa, isoladamente, o lucro gerado no mês. Também não se deve tratar capital social como saldo bancário.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b6",
+      "tipo": "teoria",
+      "titulo": "4. DEMONSTRAÇÃO DO RESULTADO (DRE): FILME DE UM PERÍODO",
+      "texto": "A DRE evidencia receitas, custos, despesas e o resultado de um período. A Lei 6.404/1976, art. 187, disciplina sua estrutura para companhias. Para estudo introdutório, resultado simplificado = receitas líquidas − custos − despesas. A DRE formal pode conter deduções da receita bruta, tributos, resultado financeiro e outras rubricas; não confundir receita bruta com lucro.\nEXEMPLO RESOLVIDO: receita líquida R$ 100.000, custo dos serviços R$ 35.000 e despesas operacionais R$ 40.000. Resultado simplificado = 100.000 − 35.000 − 40.000 = R$ 25.000 de lucro.\nSe custos e despesas superassem as receitas, haveria prejuízo. RECEITA não é sinônimo de ENTRADA DE CAIXA; DESPESA não é sinônimo de PAGAMENTO. DRE mede desempenho; BP mede posição numa data.\nA DFC (demonstração dos fluxos de caixa) apresenta movimentações de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento. A DFC não substitui a DRE."
+    },
+    {
+      "id": "direito-tributario-aula-095-b7",
+      "tipo": "teoria",
+      "titulo": "5. REGIME DE COMPETÊNCIA VERSUS REGIME DE CAIXA",
+      "texto": "COMPETÊNCIA: receitas e despesas são reconhecidas quando geradas/incorridas segundo os critérios contábeis, independentemente do momento do recebimento/pagamento.\nCAIXA: observa entradas e saídas efetivas de recursos financeiros.\nEXEMPLO RESOLVIDO: serviço concluído em 10/09, por R$ 12.000, recebido em 10/10. Em regra, no regime de competência, a receita do serviço pertence a setembro; em outubro ocorre o recebimento do direito a receber. NÃO se reconhece nova receita apenas porque o cliente pagou. Para apuração de tributos, conferir a legislação e o regime tributário aplicável, pois a regra fiscal pode diferir da contábil.\nOutro exemplo: conta de energia referente a setembro, paga em outubro, em regra representa despesa de setembro sob competência."
+    },
+    {
+      "id": "direito-tributario-aula-095-b8",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: dizer que “toda receita contábil só existe após recebimento bancário” confunde competência com caixa.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b9",
+      "tipo": "teoria",
+      "titulo": "6. PARTIDAS DOBRADAS — MECANISMO DO LANÇAMENTO",
+      "texto": "Em um lançamento contábil, a soma dos débitos deve igualar a soma dos créditos. Débito e crédito são posições contábeis; não significam necessariamente “ruim” e “bom”.\nREGRA BÁSICA: aumento de ATIVO normalmente é DÉBITO; aumento de PASSIVO e de RECEITA normalmente é CRÉDITO; aumento de DESPESA normalmente é DÉBITO."
+    },
+    {
+      "id": "direito-tributario-aula-095-b10",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 1 — SERVIÇO PRESTADO A PRAZO POR R$ 8.000:",
+      "texto": "D — Clientes a receber (ativo): R$ 8.000.\nC — Receita de serviços (resultado): R$ 8.000."
+    },
+    {
+      "id": "direito-tributario-aula-095-b11",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 2 — RECEBIMENTO POSTERIOR DOS R$ 8.000:",
+      "texto": "D — Banco/Caixa (ativo): R$ 8.000.\nC — Clientes a receber (ativo): R$ 8.000.\nNão houve nova receita no segundo lançamento. Houve troca entre contas do ativo."
+    },
+    {
+      "id": "direito-tributario-aula-095-b12",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 3 — RECONHECIMENTO DE DESPESA DE ENERGIA A PAGAR, R$ 900:",
+      "texto": "D — Despesa de energia: R$ 900.\nC — Contas a pagar: R$ 900.\nPAGAMENTO POSTERIOR: D — Contas a pagar; C — Banco. Não reconhecer novamente a despesa.\nPEGADINHA: débito em Caixa aumenta o ativo; crédito em Caixa diminui o ativo. Não confundir linguagem bancária cotidiana com a lógica das contas contábeis."
+    },
+    {
+      "id": "direito-tributario-aula-095-b13",
+      "tipo": "teoria",
+      "titulo": "7. ANÁLISE DE BALANÇOS — DOIS INDICADORES",
+      "texto": "LIQUIDEZ CORRENTE = ATIVO CIRCULANTE / PASSIVO CIRCULANTE. Exemplo: AC R$ 90.000; PC R$ 60.000; liquidez corrente = 1,5. Isso significa R$ 1,50 de ativo circulante por R$ 1,00 de passivo circulante; NÃO significa que a empresa tenha R$ 1,50 em dinheiro para cada R$ 1,00 de dívida.\nCAPITAL CIRCULANTE LÍQUIDO (CCL) = AC − PC. Exemplo: 90.000 − 60.000 = R$ 30.000.\nENDIVIDAMENTO GERAL (versão introdutória) = PASSIVO EXIGÍVEL TOTAL / ATIVO TOTAL. Exemplo: 160.000 / 240.000 = 66,67%. O índice descreve a participação de obrigações no financiamento dos ativos, não comprova irregularidade fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-095-b14",
+      "tipo": "atencao",
+      "titulo": "CUIDADO: índices são sinais de análise financeira, não prova de fraude tributária.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b15",
+      "tipo": "teoria",
+      "titulo": "8. CONTABILIDADE APLICADA À FISCALIZAÇÃO DO ISS",
+      "texto": "O Agente Fiscal pode comparar, mediante acesso legalmente autorizado: NFS-e válidas e canceladas; receitas escrituradas; livros/relatórios contábeis; declarações tributárias; recebimentos bancários; contratos; retenções; competências; notas substituídas; comprovantes de pagamento.\nCASO RESOLVIDO: empresa apresenta NFS-e emitidas no mês totalizando R$ 80.000, das quais R$ 10.000 foram regularmente canceladas. Documentos válidos somam R$ 70.000. A receita de serviços registrada na contabilidade para esse período é R$ 70.000. Recebimentos bancários foram R$ 65.000 e R$ 5.000 permanecem em clientes a receber. Isso pode ser perfeitamente compatível com competência: recebimento bancário não é igual, necessariamente, à receita do período. Se a declaração tributária mostrar R$ 68.000, a diferença preliminar em relação às NFS-e válidas é R$ 2.000; investigar substituições, cancelamentos, competências, retenções, regras fiscais, outros ajustes e local de incidência antes de qualquer conclusão.\nRETENÇÃO DO ISS: o fato de o tomador reter imposto não significa, por si só, que o valor bruto do serviço desapareça da receita contábil; examinar tratamento contábil e fiscal.\nCONCILIAÇÃO: primeiro conferir se se comparam bases homogêneas (mesmo período, mesmo contribuinte, mesma natureza de receita, documentos válidos, regime correto). Só depois calcular diferenças.\nSIGILO: CTN art. 198. Dados fiscais não são de divulgação livre. CTN arts. 194 a 200 tratam da fiscalização, com requisitos e limites.\nPEGADINHA: aumento de contas a receber pode refletir vendas a prazo; não prova omissão de receita. Movimentação bancária pode incluir empréstimo, transferência ou aporte; não é automaticamente faturamento."
+    },
+    {
+      "id": "direito-tributario-aula-095-b16",
+      "tipo": "mapa-mental",
+      "titulo": "9. MAPA DE MEMORIZAÇÃO (SEM RESPOSTAS DAS QUESTÕES)",
+      "texto": "Ativo = recursos e direitos; Passivo = obrigações; PL = ativo menos passivo.\nBP = posição em uma data; DRE = resultado em um período; DFC = fluxos de caixa.\nCompetência = quando gerado/incorrido; Caixa = quando recebido/pago.\nPartidas dobradas = débitos totais iguais aos créditos totais.\nLiquidez corrente = AC/PC; capital circulante líquido = AC−PC.\nFiscalização = conciliar fontes, verificar legalidade e justificar conclusões; diferença não equivale automaticamente a fraude.",
+      "mapaId": "direito-tributario-aula-095-b16"
+    },
+    {
+      "id": "direito-tributario-aula-095-b17",
+      "tipo": "questao",
+      "titulo": "10. QUESTÕES AUTORAIS — TREINO IAN (20 QUESTÕES, QUATRO ALTERNATIVAS, GABARITO OCULTO)",
+      "texto": "Resolva sem consultar a aula. Comandos CORRETA, INCORRETA, EXCETO e assertivas simulam mecanismos gerais de prova, não transcrevem questões oficiais.",
+      "questionIds": [
+        "direito-tributario-aula-095-q-001",
+        "direito-tributario-aula-095-q-002",
+        "direito-tributario-aula-095-q-003",
+        "direito-tributario-aula-095-q-004",
+        "direito-tributario-aula-095-q-005",
+        "direito-tributario-aula-095-q-006",
+        "direito-tributario-aula-095-q-007",
+        "direito-tributario-aula-095-q-008",
+        "direito-tributario-aula-095-q-009",
+        "direito-tributario-aula-095-q-010",
+        "direito-tributario-aula-095-q-011",
+        "direito-tributario-aula-095-q-012",
+        "direito-tributario-aula-095-q-013",
+        "direito-tributario-aula-095-q-014",
+        "direito-tributario-aula-095-q-015",
+        "direito-tributario-aula-095-q-016",
+        "direito-tributario-aula-095-q-017",
+        "direito-tributario-aula-095-q-018",
+        "direito-tributario-aula-095-q-019",
+        "direito-tributario-aula-095-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-095-b18",
+      "tipo": "fechamento",
+      "titulo": "11. FECHAMENTO, RETENÇÃO E CADERNO DE ERROS",
+      "texto": "Relembre de cabeça: (i) A=P+PL; (ii) diferença BP x DRE; (iii) competência x caixa; (iv) lançamentos da prestação a prazo e do recebimento; (v) por que um crédito bancário não é necessariamente receita; (vi) o que fazer antes de apontar diferença de ISS.\n20 questões propostas; nenhuma resposta registrada nesta execução. Não atribuir nota, acerto, erro ou domínio. Ao receber respostas, corrigir A, B, C e D em cada questão, explicar distrator e registrar: questão | escolha | erro | causa provável | regra | pegadinha | revisão futura. Repetir em 24h, 72h e 7 dias em questões misturadas; considerar domínio somente com retenção posterior.\nPróxima AULA 96: FINANÇAS PÚBLICAS — receitas e despesas públicas, classificações orçamentárias, estágios da receita e despesa, Lei 4.320/1964 e conexões com LRF. Seguir a rotação de quatro aulas e avançar lacunas ainda não cobertas."
+    },
+    {
+      "id": "direito-tributario-aula-095-b19",
+      "tipo": "teoria",
+      "titulo": "[FIM DA AULA 95 — 12/10/2026 — CONTABILIDADE APLICADA À FISCALIZAÇÃO]",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b20",
+      "tipo": "teoria",
+      "titulo": "[INÍCIO DA AULA 96 — 12/10/2026 — FINANÇAS PÚBLICAS]",
+      "texto": "Cargo exclusivo: AGENTE FISCAL de Queimados/RJ. Aula 96 — Finanças Públicas. Continuidade após a Aula 95. Objetivo: distinguir receita e despesa, estágios da execução orçamentária, restos a pagar e responsabilidade fiscal. Fontes: Lei nº 4.320/1964, LC nº 101/2000 e Constituição Federal, art. 165.\n1. RECUPERAÇÃO ATIVA: Sem consultar a aula anterior, explique (a) patrimônio líquido = ativo menos passivo; (b) diferença entre BP e DRE; (c) regime de competência; (d) por que divergência fiscal não prova fraude; (e) qual é o prazo de pagar ou garantir na execução fiscal. Não há respostas registradas, portanto não há nota ou domínio aferidos.\n2. FINANÇAS PÚBLICAS: estudo das receitas, despesas, orçamento, execução e prestação de contas do Estado. A Lei Orçamentária Anual estima receitas e fixa despesas. A previsão de R$ 10 milhões de ISS não garante que esse valor será arrecadado; a dotação para uma obra não significa pagamento realizado. O orçamento é uma autorização legal, não um extrato bancário.\n3. PRINCÍPIOS ORÇAMENTÁRIOS. Lei 4.320/1964, art. 2º: unidade, universalidade e anualidade. Unidade: visão integrada do orçamento do ente, considerada a estrutura constitucional. Universalidade: abrangência das receitas e despesas que devem constar da lei. Anualidade: referência a um exercício financeiro. Art. 34: exercício financeiro coincide com o ano civil, de 1º de janeiro a 31 de dezembro. Art. 6º: orçamento bruto, receitas e despesas por seus totais. Pegadinha: anualidade da LOA não significa que o PPA dure apenas um ano.\n4. RECEITAS CORRENTES E DE CAPITAL. Lei 4.320, art. 11. Receitas correntes incluem tributárias, contribuições, patrimoniais, agropecuárias, industriais, de serviços, transferências correntes e outras correntes. Exemplos municipais: ISS, IPTU e taxas. Receitas de capital incluem operações de crédito, alienação de bens, amortização de empréstimos concedidos, transferências de capital e outras receitas de capital. Exemplos: operação de crédito autorizada e venda de imóvel público. O superávit do orçamento corrente não constitui item autônomo de receita orçamentária (§ 3º). Ingressos extraorçamentários são entradas temporárias que não pertencem definitivamente ao ente, como determinadas cauções recebidas com obrigação de devolução. Pegadinha: nem toda entrada de dinheiro é receita orçamentária; nem toda receita é tributária.\n5. ESTÁGIOS DA RECEITA. Sequência didática: previsão → lançamento (quando cabível) → arrecadação → recolhimento. Previsão é estimativa na LOA; lançamento verifica/constitui o crédito quando aplicável; arrecadação é o recebimento pelos agentes arrecadadores; recolhimento é a entrega dos valores ao Tesouro, conforme a unidade de tesouraria (art. 56). Nem toda receita exige lançamento. Atenção: lançamento da receita na Lei 4.320 (arts. 52–53) e lançamento tributário no CTN (art. 142) não são conceitos automaticamente idênticos em todos os casos. Exemplo: IPTU previsto, lançado, pago ao agente arrecadador e recolhido ao Tesouro. Pegadinha: recolhimento não precede arrecadação.\n6. DESPESAS CORRENTES E DE CAPITAL. Correntes: em geral manutenção dos serviços, pessoal, encargos e custeio. Capital: investimentos, inversões financeiras e amortização da dívida, conforme classificação orçamentária. Exemplo: salário de servidores é despesa corrente; construção de escola é despesa de capital, investimento. A aquisição de imóvel pode ser investimento quando necessária à execução de obra ou inversão financeira em outras hipóteses, conforme art. 12. Pegadinha: toda aquisição de imóvel não é necessariamente investimento.\n7. ESTÁGIOS DA DESPESA. Fixação (autorização na lei orçamentária) → empenho → liquidação → pagamento. Empenho, art. 58: ato da autoridade competente que cria obrigação de pagamento pendente ou não de condição. Art. 60: é vedada despesa sem prévio empenho, observadas as particularidades legais quanto à nota. Liquidação, art. 63: verificar direito do credor, origem, objeto, importância exata e destinatário do pagamento, com documentos comprobatórios. Pagamento, arts. 62–65: após regular liquidação e ordem de pagamento. Exemplo: compra de computadores: empenhar R$ 40 mil; receber e conferir os bens; liquidar; ordenar e pagar. Pegadinhas: empenho não é pagamento; liquidação não é depósito bancário.\n8. TIPOS DE EMPENHO. Ordinário: despesa de valor determinado, usualmente paga de uma só vez. Global: despesa contratual de valor conhecido e pagamento parcelado. Por estimativa: montante não determinável antecipadamente com precisão, como certos consumos variáveis. Art. 60, §§ 2º e 3º, fundamenta estimativa e global. Pegadinha: contrato com valor total conhecido e parcelas tende a empenho global, não por estimativa.\n9. REGIME ORÇAMENTÁRIO E RESTOS A PAGAR. Lei 4.320, art. 35: pertencem ao exercício as receitas nele ARRECADADAS e as despesas nele LEGALMENTE EMPENHADAS. Essa regra orçamentária não elimina a contabilidade patrimonial por competência. Art. 36: restos a pagar são despesas empenhadas mas não pagas até 31 de dezembro. Processados: já liquidados, ainda não pagos. Não processados: empenhados, ainda não liquidados, observadas condições legais de inscrição. Exemplo: R$ 20 mil empenhados e liquidados, sem pagamento em dezembro: restos a pagar processados. R$ 15 mil empenhados sem liquidação nem pagamento: não processados, se inscritos regularmente. Pegadinha: nem todo resto a pagar está liquidado.\n10. PPA, LDO E LOA. Constituição, art. 165. PPA organiza diretrizes, objetivos e metas de médio prazo; LDO estabelece diretrizes e prioridades, orienta a elaboração da LOA; LOA estima receitas e fixa despesas anuais. Exemplo: PPA prevê expansão da atenção básica; LDO seleciona prioridades para o ano; LOA traz dotações para ações concretas. Macete: PPA = planejamento; LDO = ponte; LOA = autorização anual. A duração e tramitação específicas devem ser conferidas na Constituição e na Lei Orgânica municipal. Pegadinha: LDO não substitui LOA.\n11. LRF — NOÇÕES CENTRAIS. LC 101/2000, art. 1º: responsabilidade fiscal exige planejamento, transparência, prevenção de riscos e correção de desvios. Art. 11: instituição, previsão e efetiva arrecadação de TODOS os tributos de competência constitucional do ente são requisitos essenciais. Porém a vedação de transferências voluntárias do parágrafo único refere-se aos IMPOSTOS. Art. 8º: até 30 dias após a publicação dos orçamentos, Executivo estabelece programação financeira e cronograma de desembolso. Art. 9º: ao fim de bimestre,\nse a arrecadação esperada ameaçar as metas fiscais, haverá medidas de ajuste nos prazos e condições definidos pela LRF."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-095-q-001",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 1,
+      "question": "Q01 — CONCEITO. O patrimônio líquido corresponde, em termos contábeis, a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soma do ativo com o passivo."
+        },
+        {
+          "id": "B",
+          "text": "Ativo menos passivo."
+        },
+        {
+          "id": "C",
+          "text": "Saldo exclusivo de caixa."
+        },
+        {
+          "id": "D",
+          "text": "Receita total do mês. Q02 — CLASSIFICAÇÃO. Um valor de serviços já prestados e ainda não recebido de cliente representa, em regra:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-002",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 2,
+      "question": "Q02 — CLASSIFICAÇÃO. Um valor de serviços já prestados e ainda não recebido de cliente representa, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passivo circulante."
+        },
+        {
+          "id": "B",
+          "text": "Despesa financeira."
+        },
+        {
+          "id": "C",
+          "text": "Direito registrado no ativo."
+        },
+        {
+          "id": "D",
+          "text": "Patrimônio líquido obrigatoriamente negativo. Q03 — INCORRETA. Assinale a afirmação INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-003",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 3,
+      "question": "Q03 — INCORRETA. Assinale a afirmação INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tributos a recolher podem integrar o passivo."
+        },
+        {
+          "id": "B",
+          "text": "Máquinas utilizadas na operação podem integrar o imobilizado."
+        },
+        {
+          "id": "C",
+          "text": "Capital social é necessariamente igual ao dinheiro disponível em caixa."
+        },
+        {
+          "id": "D",
+          "text": "Clientes a receber são direitos da entidade. Q04 — CÁLCULO. Ativos de R$ 250.000 e passivos exigíveis de R$ 190.000 resultam em PL de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-004",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 4,
+      "question": "Q04 — CÁLCULO. Ativos de R$ 250.000 e passivos exigíveis de R$ 190.000 resultam em PL de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 60.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 190.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 250.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 440.000. Q05 — CÁLCULO. Se o ativo circulante é R$ 120.000 e o passivo circulante é R$ 80.000, a liquidez corrente é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-005",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 5,
+      "question": "Q05 — CÁLCULO. Se o ativo circulante é R$ 120.000 e o passivo circulante é R$ 80.000, a liquidez corrente é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0,67."
+        },
+        {
+          "id": "B",
+          "text": "1,20."
+        },
+        {
+          "id": "C",
+          "text": "1,50."
+        },
+        {
+          "id": "D",
+          "text": "2,00. Q06 — BALANÇO. A demonstração que apresenta a posição patrimonial em uma data é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-006",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 6,
+      "question": "Q06 — BALANÇO. A demonstração que apresenta a posição patrimonial em uma data é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balanço patrimonial."
+        },
+        {
+          "id": "B",
+          "text": "Demonstração do resultado do período."
+        },
+        {
+          "id": "C",
+          "text": "Relatório de notas fiscais emitidas."
+        },
+        {
+          "id": "D",
+          "text": "Guia de recolhimento de ISS. Q07 — DRE. A demonstração que evidencia receitas, custos, despesas e resultado de um período é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-007",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 7,
+      "question": "Q07 — DRE. A demonstração que evidencia receitas, custos, despesas e resultado de um período é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balanço patrimonial."
+        },
+        {
+          "id": "B",
+          "text": "DRE."
+        },
+        {
+          "id": "C",
+          "text": "DANFE."
+        },
+        {
+          "id": "D",
+          "text": "Certidão de Dívida Ativa. Q08 — CÁLCULO. Receita líquida R$ 70.000, custos R$ 28.000 e despesas R$ 30.000: resultado simplificado é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-008",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 8,
+      "question": "Q08 — CÁLCULO. Receita líquida R$ 70.000, custos R$ 28.000 e despesas R$ 30.000: resultado simplificado é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lucro de R$ 12.000."
+        },
+        {
+          "id": "B",
+          "text": "Prejuízo de R$ 12.000."
+        },
+        {
+          "id": "C",
+          "text": "Lucro de R$ 42.000."
+        },
+        {
+          "id": "D",
+          "text": "Receita de R$ 128.000. Q09 — COMPETÊNCIA. Serviço concluído em setembro e recebido em outubro, em regra, pelo regime de competência:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-009",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 9,
+      "question": "Q09 — COMPETÊNCIA. Serviço concluído em setembro e recebido em outubro, em regra, pelo regime de competência:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gera receita somente em outubro."
+        },
+        {
+          "id": "B",
+          "text": "Gera receita em setembro, com recebimento em outubro."
+        },
+        {
+          "id": "C",
+          "text": "Não gera direito a receber."
+        },
+        {
+          "id": "D",
+          "text": "Implica dois reconhecimentos de receita. Q10 — PARTIDAS DOBRADAS. Na prestação de serviços a prazo, sem considerar tributos, o lançamento inicial adequado é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-010",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 10,
+      "question": "Q10 — PARTIDAS DOBRADAS. Na prestação de serviços a prazo, sem considerar tributos, o lançamento inicial adequado é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "D Receita; C Clientes."
+        },
+        {
+          "id": "B",
+          "text": "D Caixa; C Empréstimos."
+        },
+        {
+          "id": "C",
+          "text": "D Clientes; C Receita de serviços."
+        },
+        {
+          "id": "D",
+          "text": "D Despesa; C Caixa. Q11 — INCORRETA. Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-011",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 11,
+      "question": "Q11 — INCORRETA. Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O recebimento de cliente pode aumentar Caixa e reduzir Clientes."
+        },
+        {
+          "id": "B",
+          "text": "O recebimento de valor já reconhecido como receita gera obrigatoriamente nova receita contábil."
+        },
+        {
+          "id": "C",
+          "text": "Débitos e créditos totais devem se igualar no lançamento."
+        },
+        {
+          "id": "D",
+          "text": "Uma despesa incorrida pode ser registrada antes do pagamento. Q12 — EXCETO. São exemplos de ativo circulante, em condições usuais, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-012",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 12,
+      "question": "Q12 — EXCETO. São exemplos de ativo circulante, em condições usuais, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dinheiro em caixa."
+        },
+        {
+          "id": "B",
+          "text": "Clientes a receber no curto prazo."
+        },
+        {
+          "id": "C",
+          "text": "Estoques."
+        },
+        {
+          "id": "D",
+          "text": "Empréstimo bancário exigível no curto prazo. Q13 — INDICADORES. O capital circulante líquido é calculado por:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-013",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 13,
+      "question": "Q13 — INDICADORES. O capital circulante líquido é calculado por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ativo total dividido pelo PL."
+        },
+        {
+          "id": "B",
+          "text": "Ativo circulante menos passivo circulante."
+        },
+        {
+          "id": "C",
+          "text": "Receita menos ISS."
+        },
+        {
+          "id": "D",
+          "text": "Caixa mais passivo exigível. Q14 — FLUXOS DE CAIXA. A DFC busca evidenciar:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-014",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 14,
+      "question": "Q14 — FLUXOS DE CAIXA. A DFC busca evidenciar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusivamente o saldo de tributos a recolher."
+        },
+        {
+          "id": "B",
+          "text": "Fluxos de caixa e equivalentes, inclusive atividades operacionais, de investimento e financiamento."
+        },
+        {
+          "id": "C",
+          "text": "Apenas a receita bruta de serviços."
+        },
+        {
+          "id": "D",
+          "text": "A idade dos bens imóveis. Q15 — ASSERTIVAS. Considere: I. O BP apresenta posição patrimonial em uma data. II. A DRE informa desempenho de um período. III. Todo crédito bancário é necessariamente receita de serviço tributável pelo ISS. Assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-015",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 15,
+      "question": "Q15 — ASSERTIVAS. Considere: I. O BP apresenta posição patrimonial em uma data. II. A DRE informa desempenho de um período. III. Todo crédito bancário é necessariamente receita de serviço tributável pelo ISS. Assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas I."
+        },
+        {
+          "id": "B",
+          "text": "Apenas II."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q16 — INCORRETA. Sobre fiscalização contábil, assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-016",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 16,
+      "question": "Q16 — INCORRETA. Sobre fiscalização contábil, assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "É necessário comparar dados do mesmo período e natureza."
+        },
+        {
+          "id": "B",
+          "text": "Cancelamentos válidos podem explicar diferenças."
+        },
+        {
+          "id": "C",
+          "text": "Toda divergência entre NFS-e e contabilidade comprova automaticamente fraude."
+        },
+        {
+          "id": "D",
+          "text": "Receitas a prazo podem não coincidir com recebimentos bancários do mês. Q17 — CÁLCULO FISCAL. NFS-e emitidas: R$ 75.000. Documentos regularmente cancelados: R$ 9.000. Declaração de receitas do período: R$ 60.000. Diferença preliminar entre documentos válidos e declaração:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-017",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 17,
+      "question": "Q17 — CÁLCULO FISCAL. NFS-e emitidas: R$ 75.000. Documentos regularmente cancelados: R$ 9.000. Declaração de receitas do período: R$ 60.000. Diferença preliminar entre documentos válidos e declaração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 6.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 9.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 15.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 24.000. Q18 — REVISÃO SPED. O módulo associado aos livros contábeis digitais, como Diário e Razão, é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-018",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 18,
+      "question": "Q18 — REVISÃO SPED. O módulo associado aos livros contábeis digitais, como Diário e Razão, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "DANFE."
+        },
+        {
+          "id": "B",
+          "text": "ECD."
+        },
+        {
+          "id": "C",
+          "text": "NFS-e."
+        },
+        {
+          "id": "D",
+          "text": "DAS. Q19 — REVISÃO LEF. Segundo a Lei 6.830/1980, o executado é citado para pagar ou garantir a execução no prazo de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-019",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 19,
+      "question": "Q19 — REVISÃO LEF. Segundo a Lei 6.830/1980, o executado é citado para pagar ou garantir a execução no prazo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "20 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias. Q20 — PORTUGUÊS. Em “Embora os registros divirjam, a conclusão exige análise documental”, o conectivo “embora” introduz:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-020",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 20,
+      "question": "Q20 — PORTUGUÊS. Em “Embora os registros divirjam, a conclusão exige análise documental”, o conectivo “embora” introduz:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Causa."
+        },
+        {
+          "id": "B",
+          "text": "Concessão."
+        },
+        {
+          "id": "C",
+          "text": "Finalidade."
+        },
+        {
+          "id": "D",
+          "text": "Consequência necessária."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-095-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA (3 MINUTOS, SEM CONSULTAR)",
+      "texto": "R1. A CDA possui presunção absoluta ou relativa de certeza e liquidez?\nR2. Na Lei de Execução Fiscal, quais atos correspondem aos prazos 5–30–30?\nR3. Qual é a diferença entre NFS-e e DANFE?\nR4. A existência de divergência entre NFS-e e PGDAS-D comprova automaticamente fraude?\nR5. O conectivo “embora” normalmente introduz que relação de sentido?\nNão há gabarito antecipado: responda mentalmente e prossiga. A aula termina com questões mistas."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-095-b16",
+      "titulo": "9. MAPA DE MEMORIZAÇÃO (SEM RESPOSTAS DAS QUESTÕES)",
+      "nos": [
+        "Ativo = recursos e direitos; Passivo = obrigações; PL = ativo menos passivo",
+        "BP = posição em uma data; DRE = resultado em um período; DFC = fluxos de caixa",
+        "Competência = quando gerado/incorrido; Caixa = quando recebido/pago",
+        "Partidas dobradas = débitos totais iguais aos créditos totais",
+        "Liquidez corrente = AC/PC; capital circulante líquido = AC−PC",
+        "Fiscalização = conciliar fontes, verificar legalidade e justificar conclusões; diferença não equivale automaticamente a fraude"
+      ]
+    }
+  ],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-12",
+  "contentHash": "e91cd266e675dee8"
+}

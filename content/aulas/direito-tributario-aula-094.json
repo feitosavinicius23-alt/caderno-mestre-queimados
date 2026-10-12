@@ -1,0 +1,835 @@
+{
+  "id": "direito-tributario-aula-094",
+  "numero": 94,
+  "titulo": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+  "slug": "revisao-cumulativa-recuperacao-ativa-e-simulado-intercalado",
+  "disciplina": "Direito Tributário",
+  "assunto": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
+  "ordem": 94,
+  "data": "2026-10-12",
+  "tempoEstimadoMin": 7,
+  "resumo": "Não revelar gabarito antes da resposta. Ao receber as alternativas escolhidas, corrigir cada questão comentando A, B, C e D; registrar o mecanismo da pegadinha (literalidade, EXCETO, troca de prazo, generalização, cálculo, conectivo ou exceção). Se a questão não tiver gabarito fornecido por fonte externa, classificá-la como autoral ou tecnicamente resolvida, jamais como gabarito oficial do arquivo de 911.\nControle individual: 24 questões propostas; 0 respostas registradas nesta execução; acertos, erros e percentual ainda NÃO AFERIDOS. Não considerar assunto dominado sem nova demonstração de retenção em teste misturado.\nCaderno de erros a preencher somente após resposta: número da questão | alternativa marcada | erro observado | causa provável | regra correta | distrator/pegadinha | próxima revisão. Não atribuir erros fictícios a Vinícius nem transferir anotações pessoais para Jonathan.\nCritérios de ajuste: desempenho abaixo de 70% em bloco => reforço de conceitos e 5 itens novos; 70–89% => revisão curta e recuperação em 24–72 horas; 90% ou mais => reavaliar após 72 horas e sete dias antes de declarar domínio. Aplicar separadamente por assunto, sem usar média global para esconder fraquezas.\nRecuperação final sem consulta: explique 5–30–30 da LEF; diferencie teto EPP e sublimite; defina DANFE; calcule a diferença 72 mil menos 61 mil; associe licença, gravame e construção não legalizada aos três parágrafos do art. 377.\nPróxima Aula 95: CONTABILIDADE APLICADA À FISCALIZAÇÃO — patrimônio, balanço patrimonial, resultado, receitas/despesas, regime de competência, conciliação e cruzamento fiscal; avançar primeira volta do edital, com recuperação breve da Aula 94.",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-094-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Cargo exclusivo: AGENTE FISCAL. Banca: IAN. Prova prevista: 22/11/2026.\nDuração sugerida: 45 a 60 minutos (12 min recuperação + 12 min revisão explicada + 25 min teste + 5 min autoverificação). Meta: aproximadamente 90% em simulados futuros.\nContinuidade: Aula 93 — Processo Judicial Tributário e Lei 6.830/1980. Nesta aula não abriremos novo bloco; faremos revisão intercalada das Aulas 89 a 93 e do art. 377 do Código Tributário Municipal, evitando falsa sensação de domínio.\nMATERIAL E MÉTODO: 24 questões autorais, não extraídas nem atribuídas ao arquivo questoes_ian_911.pdf. A coletânea de 911 questões e os oito cadernos IAN não estavam acessíveis nesta execução; portanto, não há gabaritos de fonte externa atribuídos. Os comandos CORRETA, INCORRETA, EXCETO, assertivas e distratores são técnicas de treinamento, não alegação de transcrição literal da banca.\nREFERÊNCIAS: LEF Lei 6.830/1980 https://www.planalto.gov.br/ccivil_03/leis/l6830.htm ; LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; CTN https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm ; notícia oficial do sublimite 2026 https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=94c10cc2-7eb5-4ef0-bfb2-5479e72caff8 ; edital IAN https://portal.ian.org.br/edital/ver/53 ; Código Tributário Municipal de Queimados, art. 377, retomado conforme aulas anteriores."
+    },
+    {
+      "id": "direito-tributario-aula-094-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA (6 MINUTOS)",
+      "texto": "Antes de reler as regras, escreva mentalmente ou em papel respostas curtas:\nR1. Qual a diferença entre lançamento, inscrição em dívida ativa, CDA e execução fiscal?\nR2. Qual é a sequência de prazos 5–30–30 da LEF e a que atos se refere?\nR3. O que significa a presunção relativa da CDA?\nR4. O que é RBT12? Qual a diferença entre teto da EPP e sublimite do ISS/ICMS em 2026?\nR5. Diferencie NF-e, DANFE, NFS-e e ECD.\nR6. Por que uma divergência NFS-e × PGDAS-D não basta para provar fraude?\nR7. Em Português, diferencie concessão, condição e conclusão.\nR8. No art. 377 municipal, associe licença, gravame e construção não legalizada aos respectivos critérios.\nNão há correção pessoal ainda: não foram recebidas respostas das aulas 90 a 93. O objetivo desta etapa é recuperar, não reler passivamente."
+    },
+    {
+      "id": "direito-tributario-aula-094-b3",
+      "tipo": "revisao",
+      "titulo": "2. REVISÃO EXPLICADA — EXECUÇÃO FISCAL (AULA 93)",
+      "texto": "A LEF regula a cobrança judicial da dívida ativa da Fazenda Pública, tributária ou não tributária. A inscrição administrativa em dívida ativa não é a própria execução judicial; a CDA certifica a inscrição e acompanha a petição inicial. A dívida regularmente inscrita tem presunção RELATIVA de certeza e liquidez, afastável por prova inequívoca (LEF, art. 3º).\nO executado é citado para pagar ou garantir em CINCO DIAS (art. 8º). Pode garantir por depósito em dinheiro, fiança bancária, seguro garantia, nomeação de bens à penhora ou indicação de bens de terceiros aceitos pela Fazenda, conforme o art. 9º. O prazo de EMBARGOS é TRINTA DIAS, contado dos marcos do art. 16 (depósito; juntada da prova de fiança ou seguro; intimação da penhora). Recebidos os embargos, a Fazenda tem TRINTA DIAS para impugnar (art. 17). Cuidado: 30 dias dos embargos NÃO começam invariavelmente na citação. Suspensão por ausência de localização do devedor/bens não equivale à extinção imediata; há disciplina de prescrição intercorrente (art. 40).\nExemplo resolvido: Município inscreve crédito de ISS, emite CDA e ajuíza execução. A empresa é citada: a LEF prevê 5 dias para pagar/garantir. Se garantir por seguro, o marco dos embargos, conforme o art. 16, é a juntada da prova dessa garantia. A CDA não torna impossível contestar o débito.\nPegadinha: trocar “relativa” por “absoluta”; trocar prazo de 5 pelo de 30; confundir ação de repetição de indébito (restituição) com execução (cobrança)."
+    },
+    {
+      "id": "direito-tributario-aula-094-b4",
+      "tipo": "revisao",
+      "titulo": "3. REVISÃO EXPLICADA — SIMPLES NACIONAL (AULA 90)",
+      "texto": "LC 123/2006: ME até R$ 360 mil/ano; EPP acima de R$ 360 mil e até R$ 4,8 milhões/ano, considerado o critério de receita e os demais requisitos. Sublimite 2026 para recolhimento de ISS/ICMS no DAS: R$ 3,6 milhões. Ultrapassar sublimite NÃO significa automaticamente exclusão integral do Simples; os efeitos concretos dependem da regra aplicável.\nRBT12 é a receita bruta acumulada nos 12 meses anteriores ao período de apuração, usada para a faixa. Alíquota efetiva = [(RBT12 × alíquota nominal) – parcela a deduzir] / RBT12. A receita do período de apuração é outra informação.\nExemplo resolvido: RBT12 de R$ 600.000, nominal 13,5%, dedução R$ 17.640. Produto: R$ 81.000; menos dedução: R$ 63.360; dividido por R$ 600.000 = 0,1056 = 10,56%. Com receita tributável mensal hipotética de R$ 50.000, aplicação simples dessa alíquota resultaria em R$ 5.280, antes de considerar segregações e tratamentos especiais.\nPegadinha: alíquota nominal ≠ efetiva; teto EPP ≠ sublimite ISS/ICMS; Simples não afasta fiscalização municipal nem todas as obrigações acessórias."
+    },
+    {
+      "id": "direito-tributario-aula-094-b5",
+      "tipo": "revisao",
+      "titulo": "4. REVISÃO EXPLICADA — SPED, DOCUMENTOS E AUDITORIA (AULAS 89 E 91)",
+      "texto": "SPED é SISTEMA, não imposto. ECD: escrituração contábil digital. EFD ICMS/IPI: escrituração fiscal desses impostos. EFD-Contribuições: escrituração de contribuições, como PIS/Pasep e Cofins, conforme a disciplina aplicável. NF-e é documento fiscal eletrônico; DANFE é documento AUXILIAR, não substitui o XML; NFS-e documenta serviços e interessa à fiscalização do ISS. Não confunda emissão de NFS-e com definição automática do Município competente para o ISS: examine a LC 116/2003.\nAuditoria fiscal exige planejamento, procedimentos, evidências e conclusão fundamentada. Exemplo: NFS-e emitidas somam R$ 75.000, mas declaração registra R$ 61.000. A diferença aritmética é R$ 14.000; não é, por si, prova de sonegação. Verificar cancelamentos, substituições, competência, reconhecimento de receita, retenções e demais justificativas.\nPegadinha: “XML autorizado prova entrega material”; “divergência prova fraude”; “ECD é nota de serviço”; “todo ISS pertence ao município do prestador”."
+    },
+    {
+      "id": "direito-tributario-aula-094-b6",
+      "tipo": "revisao",
+      "titulo": "5. REVISÃO EXPLICADA — PORTUGUÊS E CÓDIGO TRIBUTÁRIO MUNICIPAL (AULAS 87 E 92)",
+      "texto": "Português: “embora” introduz concessão; “se”, condição em construções condicionais; “portanto”, conclusão; “mas”, oposição. Inferência é conclusão sustentada pelo texto; extrapolação é afirmação que vai além do texto. Não separe sujeito e verbo por vírgula sem justificativa sintática. “A equipe recorreu à análise”: fusão de preposição a + artigo a; antes de verbo não ocorre crase.\nCódigo Tributário Municipal de Queimados, art. 377, conforme material da Aula 87: § 1º, construção/acréscimo legalizado — último prazo constante da licença; documentos do inciso I (Habite-se, Aceitação de Obras ou licença posterior) admitidos em qualquer tempo; inciso II (medidores, ligação de água, notas fiscais, BIC) sujeito ao prazo regulamentar de impugnação. § 2º, legalização com gravame de obra concluída — exercício posterior ao gravame. § 3º, construção não legalizada — idade arbitrada de cinco anos, admitida prova contrária na forma legal com declaração de três testemunhas acompanhada dos documentos exigidos e dentro do prazo regulamentar.\nPegadinha: cinco ANOS de idade arbitrada não são três testemunhas; “em qualquer tempo” do inciso I não se estende indistintamente ao inciso II."
+    },
+    {
+      "id": "direito-tributario-aula-094-b7",
+      "tipo": "questao",
+      "titulo": "6. SIMULADO INTERCALADO — 24 QUESTÕES AUTORAIS, SEM GABARITO ANTECIPADO",
+      "texto": "Instruções: resolva em 25 minutos, sem consulta. São 18 de conhecimentos específicos, 3 de legislação municipal e 3 de Português. O resultado será aferido após resposta; não há percentual presumido. Para cada questão, marque apenas A, B, C ou D.",
+      "questionIds": [
+        "direito-tributario-aula-094-q-001",
+        "direito-tributario-aula-094-q-002",
+        "direito-tributario-aula-094-q-003",
+        "direito-tributario-aula-094-q-004",
+        "direito-tributario-aula-094-q-005",
+        "direito-tributario-aula-094-q-006",
+        "direito-tributario-aula-094-q-007",
+        "direito-tributario-aula-094-q-008",
+        "direito-tributario-aula-094-q-009",
+        "direito-tributario-aula-094-q-010",
+        "direito-tributario-aula-094-q-011",
+        "direito-tributario-aula-094-q-012",
+        "direito-tributario-aula-094-q-013",
+        "direito-tributario-aula-094-q-014",
+        "direito-tributario-aula-094-q-015",
+        "direito-tributario-aula-094-q-016",
+        "direito-tributario-aula-094-q-017",
+        "direito-tributario-aula-094-q-018",
+        "direito-tributario-aula-094-q-019",
+        "direito-tributario-aula-094-q-020",
+        "direito-tributario-aula-094-q-021",
+        "direito-tributario-aula-094-q-022",
+        "direito-tributario-aula-094-q-023",
+        "direito-tributario-aula-094-q-024"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-094-b8",
+      "tipo": "fechamento",
+      "titulo": "7. FECHAMENTO E CONTROLE DE RETENÇÃO",
+      "texto": "Não revelar gabarito antes da resposta. Ao receber as alternativas escolhidas, corrigir cada questão comentando A, B, C e D; registrar o mecanismo da pegadinha (literalidade, EXCETO, troca de prazo, generalização, cálculo, conectivo ou exceção). Se a questão não tiver gabarito fornecido por fonte externa, classificá-la como autoral ou tecnicamente resolvida, jamais como gabarito oficial do arquivo de 911.\nControle individual: 24 questões propostas; 0 respostas registradas nesta execução; acertos, erros e percentual ainda NÃO AFERIDOS. Não considerar assunto dominado sem nova demonstração de retenção em teste misturado.\nCaderno de erros a preencher somente após resposta: número da questão | alternativa marcada | erro observado | causa provável | regra correta | distrator/pegadinha | próxima revisão. Não atribuir erros fictícios a Vinícius nem transferir anotações pessoais para Jonathan.\nCritérios de ajuste: desempenho abaixo de 70% em bloco => reforço de conceitos e 5 itens novos; 70–89% => revisão curta e recuperação em 24–72 horas; 90% ou mais => reavaliar após 72 horas e sete dias antes de declarar domínio. Aplicar separadamente por assunto, sem usar média global para esconder fraquezas.\nRecuperação final sem consulta: explique 5–30–30 da LEF; diferencie teto EPP e sublimite; defina DANFE; calcule a diferença 72 mil menos 61 mil; associe licença, gravame e construção não legalizada aos três parágrafos do art. 377.\nPróxima Aula 95: CONTABILIDADE APLICADA À FISCALIZAÇÃO — patrimônio, balanço patrimonial, resultado, receitas/despesas, regime de competência, conciliação e cruzamento fiscal; avançar primeira volta do edital, com recuperação breve da Aula 94."
+    },
+    {
+      "id": "direito-tributario-aula-094-b9",
+      "tipo": "teoria",
+      "titulo": "[FIM DA AULA 94 — 12/10/2026 — REVISÃO CUMULATIVA E SIMULADO INTERCALADO]",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-094-b10",
+      "tipo": "teoria",
+      "titulo": "[INÍCIO DA AULA 95 — 12/10/2026 — CONTABILIDADE APLICADA À FISCALIZAÇÃO]",
+      "texto": "CONCURSO: Prefeitura de Queimados/RJ — EXCLUSIVAMENTE AGENTE FISCAL — banca IAN."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-094-q-001",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 1,
+      "question": "Q01 — LEF. Uma CDA regularmente emitida é contestada com prova inequívoca de pagamento anterior. Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A CDA torna a cobrança incontestável."
+        },
+        {
+          "id": "B",
+          "text": "A presunção de certeza e liquidez é relativa e admite prova contrária."
+        },
+        {
+          "id": "C",
+          "text": "O pagamento anterior não pode ser considerado judicialmente."
+        },
+        {
+          "id": "D",
+          "text": "A CDA equivale a sentença penal condenatória. Q02 — LEF. O executado é citado em execução fiscal. O prazo previsto na LEF para pagar ou garantir a execução é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-002",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 2,
+      "question": "Q02 — LEF. O executado é citado em execução fiscal. O prazo previsto na LEF para pagar ou garantir a execução é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias. Q03 — LEF — INCORRETA. Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-003",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 3,
+      "question": "Q03 — LEF — INCORRETA. Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dívida ativa pode ser tributária ou não tributária."
+        },
+        {
+          "id": "B",
+          "text": "A CDA instrui a inicial da execução fiscal."
+        },
+        {
+          "id": "C",
+          "text": "O prazo de embargos é de 30 dias conforme marcos legais."
+        },
+        {
+          "id": "D",
+          "text": "Os embargos sempre têm prazo contado exclusivamente da citação. Q04 — LEF. A empresa garante a execução mediante seguro garantia. Para os embargos, a LEF considera como marco:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-004",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 4,
+      "question": "Q04 — LEF. A empresa garante a execução mediante seguro garantia. Para os embargos, a LEF considera como marco:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A data do fato gerador."
+        },
+        {
+          "id": "B",
+          "text": "A emissão da primeira nota fiscal."
+        },
+        {
+          "id": "C",
+          "text": "A juntada da prova do seguro garantia."
+        },
+        {
+          "id": "D",
+          "text": "A publicação do edital de abertura do concurso. Q05 — LEF — EXCETO. São formas de garantia contempladas na LEF, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-005",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 5,
+      "question": "Q05 — LEF — EXCETO. São formas de garantia contempladas na LEF, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Depósito em dinheiro."
+        },
+        {
+          "id": "B",
+          "text": "Fiança bancária."
+        },
+        {
+          "id": "C",
+          "text": "Seguro garantia."
+        },
+        {
+          "id": "D",
+          "text": "Simples promessa verbal de pagamento sem garantia. Q06 — LEF. Recebidos os embargos à execução, a Fazenda Pública terá, segundo o art. 17, prazo de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-006",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 6,
+      "question": "Q06 — LEF. Recebidos os embargos à execução, a Fazenda Pública terá, segundo o art. 17, prazo de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 dias."
+        },
+        {
+          "id": "B",
+          "text": "10 dias."
+        },
+        {
+          "id": "C",
+          "text": "15 dias."
+        },
+        {
+          "id": "D",
+          "text": "30 dias. Q07 — LEF — ASSERTIVAS. I. A inscrição em dívida ativa é ato administrativo. II. A CDA certifica a inscrição. III. A ausência de bens penhoráveis extingue automaticamente a execução no mesmo dia. Está correto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-007",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 7,
+      "question": "Q07 — LEF — ASSERTIVAS. I. A inscrição em dívida ativa é ato administrativo. II. A CDA certifica a inscrição. III. A ausência de bens penhoráveis extingue automaticamente a execução no mesmo dia. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas I."
+        },
+        {
+          "id": "B",
+          "text": "Apenas II."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q08 — SIMPLES. Uma empresa com receita anual de R$ 4,2 milhões, atendidos os demais requisitos, ultrapassou o sublimite de ISS/ICMS de 2026. Assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-008",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 8,
+      "question": "Q08 — SIMPLES. Uma empresa com receita anual de R$ 4,2 milhões, atendidos os demais requisitos, ultrapassou o sublimite de ISS/ICMS de 2026. Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A ultrapassagem do sublimite implica necessariamente exclusão integral e imediata do Simples."
+        },
+        {
+          "id": "B",
+          "text": "A empresa é microempresa pelo critério da receita."
+        },
+        {
+          "id": "C",
+          "text": "A empresa pode permanecer no Simples, mas o recolhimento de ISS/ICMS pode ocorrer fora do DAS, conforme os efeitos legais aplicáveis."
+        },
+        {
+          "id": "D",
+          "text": "O ISS deixa de existir para essa empresa. Q09 — SIMPLES. Para 2026, o sublimite divulgado para ISS e ICMS no Simples Nacional foi:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-009",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 9,
+      "question": "Q09 — SIMPLES. Para 2026, o sublimite divulgado para ISS e ICMS no Simples Nacional foi:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 360 mil."
+        },
+        {
+          "id": "B",
+          "text": "R$ 1,8 milhão."
+        },
+        {
+          "id": "C",
+          "text": "R$ 3,6 milhões."
+        },
+        {
+          "id": "D",
+          "text": "R$ 4,8 milhões. Q10 — SIMPLES — INCORRETA. Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-010",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 10,
+      "question": "Q10 — SIMPLES — INCORRETA. Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "RBT12 corresponde à receita bruta acumulada nos 12 meses anteriores ao período de apuração."
+        },
+        {
+          "id": "B",
+          "text": "A alíquota nominal e a efetiva são sempre idênticas."
+        },
+        {
+          "id": "C",
+          "text": "O DAS é documento de arrecadação do regime."
+        },
+        {
+          "id": "D",
+          "text": "O Simples não impede toda fiscalização municipal. Q11 — SIMPLES — CÁLCULO. Com RBT12 = R$ 720.000, alíquota nominal = 13,5% e parcela a deduzir = R$ 17.640, qual a alíquota efetiva?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-011",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 11,
+      "question": "Q11 — SIMPLES — CÁLCULO. Com RBT12 = R$ 720.000, alíquota nominal = 13,5% e parcela a deduzir = R$ 17.640, qual a alíquota efetiva?",
+      "options": [
+        {
+          "id": "A",
+          "text": "13,50%."
+        },
+        {
+          "id": "B",
+          "text": "11,05%."
+        },
+        {
+          "id": "C",
+          "text": "7,50%."
+        },
+        {
+          "id": "D",
+          "text": "17,64%. Q12 — SIMPLES — ASSERTIVAS. I. O teto geral de receita da EPP é distinto do sublimite de ISS/ICMS. II. O regime pode abranger ISS. III. A opção pelo Simples elimina toda obrigação acessória. Assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-012",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 12,
+      "question": "Q12 — SIMPLES — ASSERTIVAS. I. O teto geral de receita da EPP é distinto do sublimite de ISS/ICMS. II. O regime pode abranger ISS. III. A opção pelo Simples elimina toda obrigação acessória. Assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas I."
+        },
+        {
+          "id": "B",
+          "text": "Apenas II."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q13 — SPED. Um fiscal deseja examinar livros Diário e Razão apresentados digitalmente. Qual módulo está mais diretamente relacionado?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-013",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 13,
+      "question": "Q13 — SPED. Um fiscal deseja examinar livros Diário e Razão apresentados digitalmente. Qual módulo está mais diretamente relacionado?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ECD."
+        },
+        {
+          "id": "B",
+          "text": "DANFE."
+        },
+        {
+          "id": "C",
+          "text": "NFS-e."
+        },
+        {
+          "id": "D",
+          "text": "DAS. Q14 — SPED — INCORRETA. Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-014",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 14,
+      "question": "Q14 — SPED — INCORRETA. Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "EFD ICMS/IPI trata de escrituração fiscal desses impostos."
+        },
+        {
+          "id": "B",
+          "text": "EFD-Contribuições tem disciplina voltada a contribuições como PIS/Pasep e Cofins."
+        },
+        {
+          "id": "C",
+          "text": "SPED é um novo imposto federal cobrado sobre notas fiscais."
+        },
+        {
+          "id": "D",
+          "text": "ECD se relaciona a livros contábeis digitais. Q15 — DOCUMENTOS. O DANFE é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-015",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 15,
+      "question": "Q15 — DOCUMENTOS. O DANFE é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A própria NF-e em formato XML."
+        },
+        {
+          "id": "B",
+          "text": "Um documento auxiliar de representação da NF-e."
+        },
+        {
+          "id": "C",
+          "text": "Uma guia municipal de recolhimento de ISS."
+        },
+        {
+          "id": "D",
+          "text": "Um livro obrigatório de contabilidade. Q16 — NFS-e/ISS. A emissão de NFS-e por prestador situado em Queimados permite concluir que:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-016",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 16,
+      "question": "Q16 — NFS-e/ISS. A emissão de NFS-e por prestador situado em Queimados permite concluir que:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O ISS sempre pertence a Queimados, sem exceções."
+        },
+        {
+          "id": "B",
+          "text": "A LC 116/2003 não se aplica."
+        },
+        {
+          "id": "C",
+          "text": "O ICMS se transforma em tributo municipal."
+        },
+        {
+          "id": "D",
+          "text": "É preciso examinar o serviço e as regras de local de incidência do ISS. Q17 — AUDITORIA. Um cruzamento mostra notas fiscais de R$ 72.000 e declaração de R$ 61.000. Qual a diferença aritmética?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-017",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 17,
+      "question": "Q17 — AUDITORIA. Um cruzamento mostra notas fiscais de R$ 72.000 e declaração de R$ 61.000. Qual a diferença aritmética?",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 9.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 11.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 13.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 133.000. Q18 — AUDITORIA — CORRETA. Diante da divergência documental, a providência tecnicamente adequada é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-018",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 18,
+      "question": "Q18 — AUDITORIA — CORRETA. Diante da divergência documental, a providência tecnicamente adequada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concluir fraude sem examinar registros."
+        },
+        {
+          "id": "B",
+          "text": "Ignorar todas as diferenças por serem digitais."
+        },
+        {
+          "id": "C",
+          "text": "Investigar competência, cancelamentos, substituições, documentos e justificativas."
+        },
+        {
+          "id": "D",
+          "text": "Presumir automaticamente responsabilidade penal. Q19 — LEGISLAÇÃO MUNICIPAL. No art. 377, § 1º, a presunção de ocupação de construção/acréscimo legalizado utiliza:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-019",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 19,
+      "question": "Q19 — LEGISLAÇÃO MUNICIPAL. No art. 377, § 1º, a presunção de ocupação de construção/acréscimo legalizado utiliza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O último prazo constante da licença."
+        },
+        {
+          "id": "B",
+          "text": "Sempre a data da venda do imóvel."
+        },
+        {
+          "id": "C",
+          "text": "O exercício posterior ao gravame em qualquer situação."
+        },
+        {
+          "id": "D",
+          "text": "A idade arbitrada de três anos. Q20 — LEGISLAÇÃO MUNICIPAL — EXCETO. Na distinção do art. 377, § 1º, inciso I, são documentos apresentados “em qualquer tempo”, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-020",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 20,
+      "question": "Q20 — LEGISLAÇÃO MUNICIPAL — EXCETO. Na distinção do art. 377, § 1º, inciso I, são documentos apresentados “em qualquer tempo”, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Certidão de Habite-se."
+        },
+        {
+          "id": "B",
+          "text": "Certidão de Aceitação de Obras."
+        },
+        {
+          "id": "C",
+          "text": "Licença que estabeleça prazo posterior de conclusão."
+        },
+        {
+          "id": "D",
+          "text": "Comprovação de ligação de água. Q21 — LEGISLAÇÃO MUNICIPAL — ASSERTIVAS. I. O § 2º associa legalização com gravame ao exercício posterior ao gravame. II. O § 3º arbitra em cinco anos a idade de construção não legalizada. III. O § 3º exige declaração de cinco testemunhas. Está correto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-021",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 21,
+      "question": "Q21 — LEGISLAÇÃO MUNICIPAL — ASSERTIVAS. I. O § 2º associa legalização com gravame ao exercício posterior ao gravame. II. O § 3º arbitra em cinco anos a idade de construção não legalizada. III. O § 3º exige declaração de cinco testemunhas. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas I."
+        },
+        {
+          "id": "B",
+          "text": "Apenas II."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q22 — PORTUGUÊS. Em “Embora a CDA possua presunção, admite prova contrária”, o conectivo indica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-022",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 22,
+      "question": "Q22 — PORTUGUÊS. Em “Embora a CDA possua presunção, admite prova contrária”, o conectivo indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Causa."
+        },
+        {
+          "id": "B",
+          "text": "Concessão."
+        },
+        {
+          "id": "C",
+          "text": "Conclusão."
+        },
+        {
+          "id": "D",
+          "text": "Finalidade. Q23 — PORTUGUÊS. Compare “Os documentos que estavam incompletos foram devolvidos” com “Os documentos, que estavam incompletos, foram devolvidos”. Assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-023",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 23,
+      "question": "Q23 — PORTUGUÊS. Compare “Os documentos que estavam incompletos foram devolvidos” com “Os documentos, que estavam incompletos, foram devolvidos”. Assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pontuação não altera a interpretação em hipótese alguma."
+        },
+        {
+          "id": "B",
+          "text": "A primeira construção contém oração restritiva; a segunda, explicativa."
+        },
+        {
+          "id": "C",
+          "text": "A primeira construção contém oração explicativa; a segunda, restritiva."
+        },
+        {
+          "id": "D",
+          "text": "Ambas estão necessariamente incorretas. Q24 — PORTUGUÊS — CRASE. Assinale a alternativa adequada à norma-padrão:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    },
+    {
+      "id": "direito-tributario-aula-094-q-024",
+      "lessonId": "direito-tributario-aula-094",
+      "numero": 24,
+      "question": "Q24 — PORTUGUÊS — CRASE. Assinale a alternativa adequada à norma-padrão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A equipe começou à revisar os autos."
+        },
+        {
+          "id": "B",
+          "text": "O fiscal entregou o relatório à servidores."
+        },
+        {
+          "id": "C",
+          "text": "O setor recorreu à análise documental."
+        },
+        {
+          "id": "D",
+          "text": "A conferência começou à partir da manhã."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-094-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA (6 MINUTOS)",
+      "texto": "Antes de reler as regras, escreva mentalmente ou em papel respostas curtas:\nR1. Qual a diferença entre lançamento, inscrição em dívida ativa, CDA e execução fiscal?\nR2. Qual é a sequência de prazos 5–30–30 da LEF e a que atos se refere?\nR3. O que significa a presunção relativa da CDA?\nR4. O que é RBT12? Qual a diferença entre teto da EPP e sublimite do ISS/ICMS em 2026?\nR5. Diferencie NF-e, DANFE, NFS-e e ECD.\nR6. Por que uma divergência NFS-e × PGDAS-D não basta para provar fraude?\nR7. Em Português, diferencie concessão, condição e conclusão.\nR8. No art. 377 municipal, associe licença, gravame e construção não legalizada aos respectivos critérios.\nNão há correção pessoal ainda: não foram recebidas respostas das aulas 90 a 93. O objetivo desta etapa é recuperar, não reler passivamente."
+    },
+    {
+      "id": "direito-tributario-aula-094-b3",
+      "titulo": "2. REVISÃO EXPLICADA — EXECUÇÃO FISCAL (AULA 93)",
+      "texto": "A LEF regula a cobrança judicial da dívida ativa da Fazenda Pública, tributária ou não tributária. A inscrição administrativa em dívida ativa não é a própria execução judicial; a CDA certifica a inscrição e acompanha a petição inicial. A dívida regularmente inscrita tem presunção RELATIVA de certeza e liquidez, afastável por prova inequívoca (LEF, art. 3º).\nO executado é citado para pagar ou garantir em CINCO DIAS (art. 8º). Pode garantir por depósito em dinheiro, fiança bancária, seguro garantia, nomeação de bens à penhora ou indicação de bens de terceiros aceitos pela Fazenda, conforme o art. 9º. O prazo de EMBARGOS é TRINTA DIAS, contado dos marcos do art. 16 (depósito; juntada da prova de fiança ou seguro; intimação da penhora). Recebidos os embargos, a Fazenda tem TRINTA DIAS para impugnar (art. 17). Cuidado: 30 dias dos embargos NÃO começam invariavelmente na citação. Suspensão por ausência de localização do devedor/bens não equivale à extinção imediata; há disciplina de prescrição intercorrente (art. 40).\nExemplo resolvido: Município inscreve crédito de ISS, emite CDA e ajuíza execução. A empresa é citada: a LEF prevê 5 dias para pagar/garantir. Se garantir por seguro, o marco dos embargos, conforme o art. 16, é a juntada da prova dessa garantia. A CDA não torna impossível contestar o débito.\nPegadinha: trocar “relativa” por “absoluta”; trocar prazo de 5 pelo de 30; confundir ação de repetição de indébito (restituição) com execução (cobrança)."
+    },
+    {
+      "id": "direito-tributario-aula-094-b4",
+      "titulo": "3. REVISÃO EXPLICADA — SIMPLES NACIONAL (AULA 90)",
+      "texto": "LC 123/2006: ME até R$ 360 mil/ano; EPP acima de R$ 360 mil e até R$ 4,8 milhões/ano, considerado o critério de receita e os demais requisitos. Sublimite 2026 para recolhimento de ISS/ICMS no DAS: R$ 3,6 milhões. Ultrapassar sublimite NÃO significa automaticamente exclusão integral do Simples; os efeitos concretos dependem da regra aplicável.\nRBT12 é a receita bruta acumulada nos 12 meses anteriores ao período de apuração, usada para a faixa. Alíquota efetiva = [(RBT12 × alíquota nominal) – parcela a deduzir] / RBT12. A receita do período de apuração é outra informação.\nExemplo resolvido: RBT12 de R$ 600.000, nominal 13,5%, dedução R$ 17.640. Produto: R$ 81.000; menos dedução: R$ 63.360; dividido por R$ 600.000 = 0,1056 = 10,56%. Com receita tributável mensal hipotética de R$ 50.000, aplicação simples dessa alíquota resultaria em R$ 5.280, antes de considerar segregações e tratamentos especiais.\nPegadinha: alíquota nominal ≠ efetiva; teto EPP ≠ sublimite ISS/ICMS; Simples não afasta fiscalização municipal nem todas as obrigações acessórias."
+    },
+    {
+      "id": "direito-tributario-aula-094-b5",
+      "titulo": "4. REVISÃO EXPLICADA — SPED, DOCUMENTOS E AUDITORIA (AULAS 89 E 91)",
+      "texto": "SPED é SISTEMA, não imposto. ECD: escrituração contábil digital. EFD ICMS/IPI: escrituração fiscal desses impostos. EFD-Contribuições: escrituração de contribuições, como PIS/Pasep e Cofins, conforme a disciplina aplicável. NF-e é documento fiscal eletrônico; DANFE é documento AUXILIAR, não substitui o XML; NFS-e documenta serviços e interessa à fiscalização do ISS. Não confunda emissão de NFS-e com definição automática do Município competente para o ISS: examine a LC 116/2003.\nAuditoria fiscal exige planejamento, procedimentos, evidências e conclusão fundamentada. Exemplo: NFS-e emitidas somam R$ 75.000, mas declaração registra R$ 61.000. A diferença aritmética é R$ 14.000; não é, por si, prova de sonegação. Verificar cancelamentos, substituições, competência, reconhecimento de receita, retenções e demais justificativas.\nPegadinha: “XML autorizado prova entrega material”; “divergência prova fraude”; “ECD é nota de serviço”; “todo ISS pertence ao município do prestador”."
+    },
+    {
+      "id": "direito-tributario-aula-094-b6",
+      "titulo": "5. REVISÃO EXPLICADA — PORTUGUÊS E CÓDIGO TRIBUTÁRIO MUNICIPAL (AULAS 87 E 92)",
+      "texto": "Português: “embora” introduz concessão; “se”, condição em construções condicionais; “portanto”, conclusão; “mas”, oposição. Inferência é conclusão sustentada pelo texto; extrapolação é afirmação que vai além do texto. Não separe sujeito e verbo por vírgula sem justificativa sintática. “A equipe recorreu à análise”: fusão de preposição a + artigo a; antes de verbo não ocorre crase.\nCódigo Tributário Municipal de Queimados, art. 377, conforme material da Aula 87: § 1º, construção/acréscimo legalizado — último prazo constante da licença; documentos do inciso I (Habite-se, Aceitação de Obras ou licença posterior) admitidos em qualquer tempo; inciso II (medidores, ligação de água, notas fiscais, BIC) sujeito ao prazo regulamentar de impugnação. § 2º, legalização com gravame de obra concluída — exercício posterior ao gravame. § 3º, construção não legalizada — idade arbitrada de cinco anos, admitida prova contrária na forma legal com declaração de três testemunhas acompanhada dos documentos exigidos e dentro do prazo regulamentar.\nPegadinha: cinco ANOS de idade arbitrada não são três testemunhas; “em qualquer tempo” do inciso I não se estende indistintamente ao inciso II."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-12",
+  "contentHash": "b79ebcd1c9b14995"
+}
