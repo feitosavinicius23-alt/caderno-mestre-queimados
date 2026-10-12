@@ -8,7 +8,7 @@ import type { Lesson } from '@/types';
 import { findEntryBySlug, lessonHref, loadLesson, manifest, subjectSlugOf } from '@/services/content';
 import { useStore } from '@/hooks/useStore';
 import { ContentBlockView } from '@/components/ContentBlock';
-import { LeitorAula } from '@/components/LeitorAula';
+import { LeitorAula, type LeitorAulaHandle } from '@/components/LeitorAula';
 import { MissionPanel } from '@/components/MissionPanel';
 import { Barra, SeloStatus, Skeleton, Vazio, formatarData } from '@/components/ui';
 
@@ -20,6 +20,7 @@ export default function LessonPage() {
   const [notaAberta, setNotaAberta] = useState(false);
   const [rascunho, setRascunho] = useState('');
   const artigoRef = useRef<HTMLElement | null>(null);
+  const leitorRef = useRef<LeitorAulaHandle | null>(null);
 
   const entry = findEntryBySlug(disciplina, slug);
   const lessonId = entry?.id ?? null;
@@ -202,7 +203,7 @@ export default function LessonPage() {
           </button>
         </div>
 
-        <LeitorAula texto={textoParaLeitura} />
+        <LeitorAula ref={leitorRef} texto={textoParaLeitura} />
 
         {notaAberta ? (
           <div className="cartao mt">
@@ -261,14 +262,7 @@ export default function LessonPage() {
           lessonId={lesson.id}
           disciplina={lesson.disciplina}
           assunto={lesson.assunto}
-          onOuvirTexto={(texto) => {
-            if ('speechSynthesis' in window) {
-              window.speechSynthesis.cancel();
-              const fala = new SpeechSynthesisUtterance(texto);
-              fala.lang = 'pt-BR';
-              window.speechSynthesis.speak(fala);
-            }
-          }}
+          onOuvirTexto={(texto) => leitorRef.current?.ouvir(texto)}
         />
       ))}
 
