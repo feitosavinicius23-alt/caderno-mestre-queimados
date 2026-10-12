@@ -8,6 +8,7 @@ import type { Lesson } from '@/types';
 import { findEntryBySlug, lessonHref, loadLesson, manifest, subjectSlugOf } from '@/services/content';
 import { useStore } from '@/hooks/useStore';
 import { ContentBlockView } from '@/components/ContentBlock';
+import { LeitorAula } from '@/components/LeitorAula';
 import { MissionPanel } from '@/components/MissionPanel';
 import { Barra, SeloStatus, Skeleton, Vazio, formatarData } from '@/components/ui';
 
@@ -110,6 +111,15 @@ export default function LessonPage() {
     [state.notas, lessonId],
   );
 
+  const textoParaLeitura = useMemo(() => {
+    if (!lesson) return '';
+    return [
+      lesson.titulo,
+      lesson.assunto,
+      ...lesson.conteudo.flatMap((bloco) => [bloco.titulo, bloco.texto]),
+    ].filter((trecho): trecho is string => Boolean(trecho?.trim())).join('.\n\n');
+  }, [lesson]);
+
   if (!entry) {
     return (
       <Vazio
@@ -192,6 +202,8 @@ export default function LessonPage() {
           </button>
         </div>
 
+        <LeitorAula texto={textoParaLeitura} />
+
         {notaAberta ? (
           <div className="cartao mt">
             <label className="rotulo-secao" htmlFor="nova-nota" style={{ marginTop: 0 }}>
@@ -249,6 +261,14 @@ export default function LessonPage() {
           lessonId={lesson.id}
           disciplina={lesson.disciplina}
           assunto={lesson.assunto}
+          onOuvirTexto={(texto) => {
+            if ('speechSynthesis' in window) {
+              window.speechSynthesis.cancel();
+              const fala = new SpeechSynthesisUtterance(texto);
+              fala.lang = 'pt-BR';
+              window.speechSynthesis.speak(fala);
+            }
+          }}
         />
       ))}
 

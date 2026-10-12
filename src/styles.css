@@ -268,6 +268,11 @@ a:hover { text-decoration: underline; }
 .botao--perigo { background: var(--vermelho-600); color: #fff; }
 .botao--grande { width: 100%; padding: 16px 20px; font-size: 1rem; border-radius: var(--raio); }
 .botao--fantasma { background: transparent; color: var(--acento); border-color: transparent; padding: 6px 10px; }
+.leitor-aula { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+.leitor-aula__ajuda { font-size: 0.88rem; }
+.leitor-aula__indisponivel { margin: 12px 0 0; }
+.bloco__texto--falado { cursor: pointer; border-radius: 6px; transition: background 120ms ease; }
+.bloco__texto--falado:hover, .bloco__texto--falado:focus-visible { background: var(--bg-sunken); outline: 2px solid var(--borda-forte); outline-offset: 3px; }
 
 .continuar {
   display: flex; align-items: center; gap: 14px; width: 100%;

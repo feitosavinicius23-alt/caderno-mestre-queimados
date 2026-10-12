@@ -4,6 +4,7 @@
  */
 import type { ContentBlock as Block, MindMap, Question, TableData } from '@/types';
 import { QuestionCard } from './QuestionCard';
+import { TextoFalado } from './LeitorAula';
 
 const ROTULOS: Record<string, { rotulo: string; icone: string }> = {
   pegadinha: { rotulo: 'Pegadinha', icone: '⚠️' },
@@ -75,6 +76,7 @@ interface Props {
   disciplina: string;
   assunto: string;
   modoImpressao?: boolean;
+  onOuvirTexto?: (texto: string) => void;
 }
 
 function PrintQuestionCard({ question }: { question: Question }) {
@@ -112,7 +114,7 @@ function PrintQuestionCard({ question }: { question: Question }) {
   );
 }
 
-export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina, assunto, modoImpressao = false }: Props) {
+export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina, assunto, modoImpressao = false, onOuvirTexto }: Props) {
   const texto = bloco.texto?.trim() ?? '';
 
   // Mapa mental: componente visual dedicado (requisito 69).
@@ -148,7 +150,7 @@ export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina,
         {bloco.titulo && bloco.titulo.toUpperCase() !== 'LEI SECA' ? (
           <h3 className="bloco__titulo">{bloco.titulo}</h3>
         ) : null}
-        <div className="bloco__texto">{texto}</div>
+        <TextoFalado texto={texto} onOuvir={onOuvirTexto} />
       </section>
     );
   }
@@ -157,7 +159,7 @@ export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina,
     return (
       <section className="bloco" id={bloco.id}>
         {bloco.titulo ? <h3 className="bloco__titulo">{bloco.titulo}</h3> : null}
-        {texto && !texto.includes('|') ? <div className="bloco__texto">{texto}</div> : null}
+        {texto && !texto.includes('|') ? <TextoFalado texto={texto} onOuvir={onOuvirTexto} /> : null}
         <Tabela tabela={bloco.tabela} />
       </section>
     );
@@ -173,7 +175,7 @@ export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina,
           <span aria-hidden="true">{destaque.icone}</span> {destaque.rotulo}
         </div>
         {tituloExtra ? <h3 className="bloco__titulo">{tituloExtra}</h3> : null}
-        <div className="bloco__texto">{texto}</div>
+        <TextoFalado texto={texto} onOuvir={onOuvirTexto} />
       </section>
     );
   }
@@ -183,7 +185,7 @@ export function ContentBlockView({ bloco, mapas, questoes, lessonId, disciplina,
   return (
     <section className="bloco" id={bloco.id}>
       {bloco.titulo ? <h3 className="bloco__titulo">{bloco.titulo}</h3> : null}
-      <div className="bloco__texto">{texto}</div>
+      <TextoFalado texto={texto} onOuvir={onOuvirTexto} />
     </section>
   );
 }
