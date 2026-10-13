@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 111,
+  "contentVersion": 113,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-13T20:18:01.980Z",
-  "contentHashGlobal": "5f2e4c6daa829060",
-  "totalAulas": 92,
-  "totalQuestoes": 675,
+  "ultimaSincronizacao": "2026-10-13T22:37:37.910Z",
+  "contentHashGlobal": "e5061038d4598004",
+  "totalAulas": 93,
+  "totalQuestoes": 695,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -952,7 +952,19 @@
       "disciplina": "Direito Tributário",
       "assunto": "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-100.json",
-      "hash": "ac32a1f6e162286a",
+      "hash": "9d0f0461bd64af60",
+      "totalQuestoes": 20,
+      "ultimaAtualizacao": "2026-10-13"
+    },
+    {
+      "id": "direito-tributario-aula-101",
+      "numero": 101,
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "arquivo": "aulas/direito-tributario-aula-101.json",
+      "hash": "3251b1e349f894d7",
       "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-13"
     },

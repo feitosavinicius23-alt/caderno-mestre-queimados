@@ -1407,7 +1407,7 @@ Quem é contribuinte?
   
 Quem é responsável?
 Qual a diferença   entre competência tributária   e capacidade   tributária ativa?
-RESPOSTAS: multa   não é tributo, pois   é sanção; a obrigação   principal pode ter   por objeto   tributo ou   penalidade   pecuniária; obrigação   acessória é   dever instrumental     positivo/negativo;   contribuinte tem relação   pessoal e   direta com   o fato gerador;   responsável é   obrigado por   disposição   expressa de lei; competência   tributária é o   poder de instituir   tributos e   é indelegável, enquanto funções de   arrecadação/fiscalização     podem ser   atribuídas nos termos legais.
+RESPOSTAS: multa   não é tributo, pois   é sanção; a obrigação   principal pode ter   por objeto   tributo ou   penalidade   pecuniária; obrigação   acessória é   dever instrumental     positivo/negativo;   contribuinte tem relação   pessoal e   direta com   o fato gerador;   responsável é   obrigado por   disposição   expressa de lei; competência   tributária é o   poder de instituir   tributos e   é indelegável, enquanto funções de   arrecadação/fiscalização     podem ser   atribuídas nos   termos legais.
 
 
 10. FRASE DE FECHAMENTO
@@ -18463,3 +18463,181 @@ Prova IAN 2025 Santa Maria Madalena/RJ Português (ID 1i7D0YfI7IbxZ9b1fiZggPDJru
 Prova IAN 2024 Três Rios/RJ Auditor de Controle Interno (ID 13SSqcH8ZqeApZdLqlpeUKpkfxmkWswi6).
 Questões originais desta aula não possuem gabarito oficial IAN. Não foi possível localizar questoes_ian_911.pdf. A prova-alvo é exclusivamente AGENTE FISCAL.
 ========== FIM AULA 100 ==========
+
+
+
+
+
+
+========== INÍCIO AULA 101 ==========
+AULA 101 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ
+Data: 13/10/2026. Duração estimada: 40–50 minutos. Continuidade: Aulas 97 (Lei Orgânica e orçamento), 98 (Direito Administrativo), 99 (LRF) e 100 (Português). Questões autorais de quatro alternativas, sem gabarito antecipado. Cargo EXCLUSIVO: AGENTE FISCAL.
+
+
+1. RECUPERAÇÃO ATIVA
+Sem consultar, responda mentalmente: (1) quais os princípios LIMPE? (2) diferença entre motivo e motivação? (3) diferença entre caput e parágrafo único do art. 11 da LRF? (4) RREO e RGF são publicados em que periodicidade geral? (5) quais as quatro atribuições tributárias do art. 117 da Lei Orgânica de Queimados? (6) o conectivo 'embora' indica o quê? (7) 'pode ter contribuído' equivale a 'foi a única causa'?
+
+
+2. MICROAULA — LRF E CÁLCULO
+Art. 19 da LC 101/2000: limite global de despesa com pessoal do Município = 60% da RCL. Art. 20: limite do Executivo municipal = 54%; do Legislativo = 6%. Art. 22: restrições prudenciais quando excedidos 95% do respectivo limite; art. 59: alerta ao ultrapassar 90% do limite. Pegadinha: 95% DO LIMITE não equivale a 95% DA RCL.
+Exemplo resolvido: RCL hipotética R$ 150 milhões. Limite do Executivo = 150 x 54% = R$ 81 milhões. Patamar prudencial = 81 x 95% = R$ 76,95 milhões. Se a despesa for R$ 77 milhões, estará acima do prudencial e abaixo do limite máximo.
+
+
+3. MICROAULA — ATOS E PODERES ADMINISTRATIVOS
+Princípios expressos do art. 37 da CF: legalidade, impessoalidade, moralidade, publicidade e eficiência. Elementos do ato: competência, finalidade, forma, motivo e objeto. Motivo são pressupostos de fato e de direito; motivação é a exposição desses fundamentos. Excesso de poder = extrapolação da competência. Desvio de finalidade = competência utilizada para finalidade ilegítima. Anulação combate ilegalidade; revogação retira ato válido por conveniência e oportunidade, observados limites jurídicos. Poder de polícia não autoriza sanções sem fundamento legal.
+Exemplo resolvido: fiscal competente interdita um comércio apenas para retaliar uma crítica pessoal. A competência pode existir, mas há desvio de finalidade.
+
+
+4. MICROAULA — LEI ORGÂNICA MUNICIPAL
+Art. 117 da Lei Orgânica de Queimados: administração tributária é atividade vinculada e essencial ao Município; deve contar com recursos humanos e materiais para: (I) cadastrar contribuintes e atividades econômicas; (II) lançar tributos; (III) fiscalizar o cumprimento das obrigações tributárias; (IV) inscrever inadimplentes em dívida ativa e realizar cobrança amigável ou encaminhamento para cobrança judicial. Art. 80: o Executivo é exercido pelo Prefeito com auxílio dos secretários. Art. 123: leis de iniciativa do Executivo estabelecem PPA, LDO e LOA. O fiscal não se transforma em juiz ao encaminhar crédito para cobrança judicial.
+
+
+5. MICROAULA — LRF, ORÇAMENTO E INTERPRETAÇÃO
+Art. 11 da LRF: o caput trata da instituição, previsão e efetiva arrecadação de TODOS os tributos da competência constitucional do ente; o parágrafo único estabelece consequência específica quanto aos IMPOSTOS. Art. 13: metas BIMESTRAIS de arrecadação. Art. 4º: Anexo de Metas Fiscais e Anexo de Riscos Fiscais integram o projeto da LDO. Art. 14: em regra, estimativa do impacto da renúncia no exercício inicial e nos dois seguintes, atendimento à LDO e pelo menos uma das condições dos incisos I e II, sem esquecer exceções legais. RREO: regra geral bimestral; RGF: regra geral quadrimestral.
+Português: 'embora' = concessão; 'porém' = oposição; 'portanto' = conclusão; 'além disso' = adição. 'Pode' não equivale a 'certamente'; 'alguns' não equivale a 'todos'. Inferência precisa ter apoio textual; extrapolação acrescenta certeza não autorizada.
+Exemplo resolvido: 'Embora a arrecadação tenha aumentado, não é possível atribuir todo o resultado a um único sistema'. A frase reconhece o crescimento, mas rejeita causalidade exclusiva; substituir 'embora' por 'porque' altera o sentido.
+
+
+6. MÉTODO PARA QUESTÕES MISTAS
+Primeiro, identificar se o comando pede CORRETA, INCORRETA ou EXCETO. Segundo, reconhecer a matéria e o dispositivo ou trecho de texto. Terceiro, eliminar generalizações indevidas como 'sempre', 'nunca', 'todos', 'automaticamente'. Quarto, nos cálculos, escrever a base e o percentual antes de multiplicar. Quinto, não consultar material até terminar. Provas IAN de 2024 e 2026 consultadas apresentam quatro alternativas A–D e cobram literalidade, compreensão e INCORRETA; as questões abaixo são AUTORAIS e não recebem gabarito atribuído à banca.
+
+
+7. SIMULADO CUMULATIVO — QUESTÕES 1 A 20. Tempo: 20–25 minutos. NÃO REVELAR GABARITO ANTES DAS RESPOSTAS.
+Q01 — LRF / CORRETA. No art. 11 da LRF, caput e parágrafo único referem-se, respectivamente, a:
+A) impostos e taxas.
+B) todos os tributos da competência constitucional do ente e impostos, quanto à consequência específica sobre transferências voluntárias.
+C) contribuições e preços públicos.
+D) apenas impostos, em ambos.
+
+
+Q02 — PORTUGUÊS. Em 'Embora o cadastro tenha sido atualizado, ainda há divergências', a conjunção expressa:
+A) causa. B) conclusão. C) concessão. D) finalidade.
+
+
+Q03 — LRF. Segundo o art. 13, o Executivo desdobra receitas previstas em metas de arrecadação:
+A) semanais. B) bimestrais. C) quadrienais. D) decenais.
+
+
+Q04 — LEI ORGÂNICA / EXCETO. Entre as atividades relacionadas no art. 117 da Lei Orgânica de Queimados, encontra-se tudo o que segue, EXCETO:
+A) cadastramento dos contribuintes.
+B) lançamento de tributos.
+C) fiscalização das obrigações tributárias.
+D) prolação de sentenças judiciais criminais.
+
+
+Q05 — DIREITO ADMINISTRATIVO. Servidor pratica ato reservado por lei a autoridade de outra competência, sem delegação válida. O vício relaciona-se principalmente a:
+A) excesso de poder/incompetência. B) simples revogação. C) imunidade tributária. D) conotação.
+
+
+Q06 — LRF / INCORRETA. Sobre a Receita Corrente Líquida, assinale a INCORRETA:
+A) Sua apuração considera o mês de referência e os onze anteriores, com deduções legais.
+B) É referência para limites de despesa com pessoal.
+C) Equivale sempre ao saldo disponível na conta bancária do Município.
+D) Não se confunde automaticamente com a receita bruta total.
+
+
+Texto para as questões 7 e 8: 'A Prefeitura implantou um novo sistema e registrou aumento de arrecadação. Entretanto, a atividade econômica também cresceu no período. Por isso, atribuir todo o resultado exclusivamente à tecnologia seria precipitado.'
+Q07 — PORTUGUÊS. A expressão 'Entretanto' introduz:
+A) oposição ou ressalva. B) finalidade. C) causa única. D) comparação de igualdade.
+
+
+Q08 — PORTUGUÊS / INFERÊNCIA. É compatível com o texto concluir que:
+A) o sistema não teve qualquer efeito.
+B) a tecnologia foi comprovadamente a única causa.
+C) há mais de um fator potencialmente associado ao resultado.
+D) o Município comprovadamente manipulou os dados.
+
+
+Q09 — LRF. Quanto à periodicidade geral, RREO e RGF são, respectivamente:
+A) bimestral e quadrimestral.
+B) quadrimestral e bimestral.
+C) ambos anuais.
+D) ambos semanais.
+
+
+Q10 — LEI ORGÂNICA. Nos termos do art. 80 da Lei Orgânica de Queimados, o Executivo municipal é exercido:
+A) exclusivamente pela Câmara Municipal.
+B) pelo Prefeito, com auxílio dos secretários.
+C) pelo Tribunal de Contas.
+D) diretamente pelo Poder Judiciário.
+
+
+Q11 — DIREITO ADMINISTRATIVO. A diferença conceitual entre motivo e motivação do ato administrativo está corretamente apresentada em:
+A) motivo é a publicação; motivação é a assinatura.
+B) motivo é o efeito; motivação é o agente.
+C) motivo é a competência; motivação é a finalidade.
+D) motivo são os pressupostos fáticos e jurídicos; motivação é sua exposição.
+
+
+Q12 — LRF / CÁLCULO. RCL = R$ 200 milhões. Limite do Executivo municipal = 54% da RCL. Qual é o patamar de 95% desse limite?
+A) R$ 190 milhões. B) R$ 108 milhões. C) R$ 102,6 milhões. D) R$ 95 milhões.
+
+
+Q13 — LEI ORGÂNICA. O art. 123 da Lei Orgânica trata de leis de iniciativa do Executivo para estabelecer:
+A) somente autos de infração.
+B) PPA, LDO e LOA.
+C) exclusivamente sentenças judiciais.
+D) apenas regimento interno da Câmara.
+
+
+Q14 — DIREITO ADMINISTRATIVO / INCORRETA. Assinale a INCORRETA:
+A) A anulação está ligada à ilegalidade.
+B) A revogação, em regra, incide sobre ato válido e envolve conveniência/oportunidade.
+C) Todo ato ilegal deve ser necessariamente revogado, nunca anulado.
+D) A discricionariedade não afasta o controle de legalidade.
+
+
+Q15 — LRF / RENÚNCIA. Em regra, além da estimativa de impacto e do atendimento à LDO, o art. 14 exige:
+A) pelo menos uma das condições previstas nos incisos I e II.
+B) as condições I e II cumulativamente em todos os casos.
+C) dispensa integral de compensação ou demonstração.
+D) simples declaração verbal do contribuinte.
+
+
+Q16 — PORTUGUÊS / PRESSUPOSTO. Em 'A repartição voltou a publicar boletins', a expressão 'voltou a' pressupõe que:
+A) jamais houve publicação anterior.
+B) a publicação já ocorrera e foi retomada.
+C) a publicação era obrigatoriamente diária.
+D) todos os boletins eram falsos.
+
+
+Q17 — LEI ORGÂNICA. O art. 117 inclui, entre as atribuições essenciais da administração tributária:
+A) inscrição dos inadimplentes em dívida ativa e cobrança amigável ou encaminhamento para cobrança judicial.
+B) condenação criminal de devedores pelo próprio fiscal.
+C) emissão de decisões judiciais definitivas pela Prefeitura.
+D) alteração de impostos por ato pessoal do servidor.
+
+
+Q18 — LRF. O Anexo de Riscos Fiscais, previsto no art. 4º, integra o projeto da:
+A) Certidão de Dívida Ativa. B) Lei de Diretrizes Orçamentárias. C) Nota Fiscal eletrônica. D) Lei Orgânica federal.
+
+
+Q19 — DIREITO ADMINISTRATIVO. O poder de polícia administrativa permite, nos limites da legislação:
+A) aplicar qualquer sanção imaginada pelo fiscal.
+B) afastar o devido processo em toda hipótese.
+C) fiscalizar atividades e impor medidas legalmente previstas para proteger interesses públicos.
+D) criar livremente impostos municipais por despacho.
+
+
+Q20 — PORTUGUÊS / EXTRAPOLAÇÃO. Em 'O aumento de arrecadação não significa necessariamente maior eficiência', qual reescrita distorce o sentido original?
+A) O aumento pode ocorrer sem melhoria de eficiência.
+B) O aumento, isoladamente, não comprova maior eficiência.
+C) É necessário examinar outros indicadores.
+D) O aumento jamais poderá acompanhar maior eficiência.
+
+
+8. RECUPERAÇÃO FINAL SEM CONSULTA
+Explique: 95% do limite versus 95% da RCL; caput e parágrafo único do art. 11; quatro atribuições do art. 117 municipal; motivo e motivação; anulação e revogação; RREO e RGF; inferência e extrapolação. Familiaridade não equivale a retenção.
+
+
+9. CONTROLE E CADERNO DE ERROS
+Aula 101: 20 questões propostas; respostas individuais não recebidas; acertos e erros NÃO AFERIDOS; domínio NÃO DEMONSTRADO. Após resposta real, corrigir alternativa por alternativa, identificar fundamento e pegadinha, registrar erro, causa provável, regra correta e revisão. Revisar dificuldades em aproximadamente 24h, 72h e 7 dias com questões mistas. Meta de longo prazo: aproximadamente 90% em simulados alinhados ao edital. Anotações individuais de cada aluno permanecem no respectivo documento.
+
+
+10. PRÓXIMO PONTO EXATO
+AULA 102 — CONHECIMENTOS ESPECÍFICOS NOVOS: AUDITORIA FISCAL, planejamento, evidências, cruzamento de informações, indícios e documentação, dentro do programa exclusivo de AGENTE FISCAL. Acelerar a primeira volta do edital em outubro, sem sacrificar recuperação ativa.
+
+
+FONTES DE REFERÊNCIA
+Constituição Federal, art. 37 (Planalto); LC 101/2000, arts. 4, 11, 13, 14, 19, 20, 22, 52, 54 e 59 (Planalto); Lei Orgânica de Queimados, arts. 80, 117 e 123 (acervo municipal); Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx; provas IAN 2026 Câmara de Jardim/MS e IAN 2024 Três Rios/RJ consultadas para padrão de questões. Questões desta aula são autorais; não se atribui gabarito oficial ao arquivo questoes_ian_911.pdf.
+========== FIM AULA 101 ==========

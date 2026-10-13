@@ -1,7 +1,7 @@
 {
-  "contentVersion": 111,
-  "geradoEm": "2026-10-13T20:18:01.980Z",
-  "total": 2284,
+  "contentVersion": 113,
+  "geradoEm": "2026-10-13T22:37:37.910Z",
+  "total": 2323,
   "documentos": [
     {
       "tipo": "aula",
@@ -22750,6 +22750,17 @@
       "texto": "========== FIM AULA 100 =========="
     },
     {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-100-b25",
+      "lessonId": "direito-tributario-aula-100",
+      "titulo": "========== INÍCIO AULA 101 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ",
+      "slug": "agente-fiscal-prefeitura-de-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "========== INÍCIO AULA 101 =========="
+    },
+    {
       "tipo": "questao",
       "id": "direito-tributario-aula-100-q-001",
       "lessonId": "direito-tributario-aula-100",
@@ -22968,6 +22979,401 @@
       "assunto": "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ",
       "slug": "agente-fiscal-prefeitura-de-queimados-rj",
       "texto": "Sem consulta, responda: (1) Como diferenciar informação explícita, inferência e extrapolação? (2) Qual é a tese do texto? (3) 'porém', 'além disso' e 'portanto' exprimem quais relações? (4) Por que 'não necessariamente' não equivale a 'nunca'? (5) Como 'voltou a' cria pressuposto? (6) Qual a diferença entre oração explicativa e restritiva? (7) Qual a diferença entre correlação e causalidade?\nRevis"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-101",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b1",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "Data: 13/10/2026. Duração estimada: 40–50 minutos. Continuidade: Aulas 97 (Lei Orgânica e orçamento), 98 (Direito Administrativo), 99 (LRF) e 100 (Português). Questões autorais de quatro alternativas, sem gabarito antecipado. Cargo EXCLUSIVO: AGENTE FISCAL."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b2",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "1. RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA Sem consultar, responda mentalmente: (1) quais os princípios LIMPE? (2) diferença entre motivo e motivação? (3) diferença entre caput e parágrafo único do art. 11 da LRF? (4) RREO e RGF são publicados em que periodicidade geral? (5) quais as quatro atribuições tributárias do art. 117 da Lei Orgânica de Queimados? (6) o conectivo 'embora' indica o quê? (7) 'pode ter contribuído"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-101-b3",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 19 da LC 101/2000: limite global de despesa com pessoal do Município = 60% da RCL. Art. 20: limite do Executivo municipal = 54%; do Legislativo = 6%. Art. 22: restrições prudenciais quando excedidos 95% do respectivo limite; art. 59: alerta ao ultrapassar 90% do limite. Pegadinha: 95% DO LIMITE não equivale a 95% DA RCL."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b4",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "2. MICROAULA — LRF E CÁLCULO",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "2. MICROAULA — LRF E CÁLCULO Exemplo resolvido: RCL hipotética R$ 150 milhões. Limite do Executivo = 150 x 54% = R$ 81 milhões. Patamar prudencial = 81 x 95% = R$ 76,95 milhões. Se a despesa for R$ 77 milhões, estará acima do prudencial e abaixo do limite máximo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b5",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "3. MICROAULA — ATOS E PODERES ADMINISTRATIVOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "3. MICROAULA — ATOS E PODERES ADMINISTRATIVOS Princípios expressos do art. 37 da CF: legalidade, impessoalidade, moralidade, publicidade e eficiência. Elementos do ato: competência, finalidade, forma, motivo e objeto. Motivo são pressupostos de fato e de direito; motivação é a exposição desses fundamentos. Excesso de poder = extrapolação da competência. Desvio de finalidade = competência utilizada"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-101-b6",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 117 da Lei Orgânica de Queimados: administração tributária é atividade vinculada e essencial ao Município; deve contar com recursos humanos e materiais para: (I) cadastrar contribuintes e atividades econômicas; (II) lançar tributos; (III) fiscalizar o cumprimento das obrigações tributárias; (IV) inscrever inadimplentes em dívida ativa e realizar cobrança amigável ou encaminhamento para cobran"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b7",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "4. MICROAULA — LEI ORGÂNICA MUNICIPAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "4. MICROAULA — LEI ORGÂNICA MUNICIPAL"
+    },
+    {
+      "tipo": "lei",
+      "id": "direito-tributario-aula-101-b8",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "lei-seca",
+      "texto": "Art. 11 da LRF: o caput trata da instituição, previsão e efetiva arrecadação de TODOS os tributos da competência constitucional do ente; o parágrafo único estabelece consequência específica quanto aos IMPOSTOS. Art. 13: metas BIMESTRAIS de arrecadação. Art. 4º: Anexo de Metas Fiscais e Anexo de Riscos Fiscais integram o projeto da LDO. Art. 14: em regra, estimativa do impacto da renúncia no exercí"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b9",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "5. MICROAULA — LRF, ORÇAMENTO E INTERPRETAÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "5. MICROAULA — LRF, ORÇAMENTO E INTERPRETAÇÃO Português: 'embora' = concessão; 'porém' = oposição; 'portanto' = conclusão; 'além disso' = adição. 'Pode' não equivale a 'certamente'; 'alguns' não equivale a 'todos'. Inferência precisa ter apoio textual; extrapolação acrescenta certeza não autorizada.\nExemplo resolvido: 'Embora a arrecadação tenha aumentado, não é possível atribuir todo o resultado "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b10",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "6. MÉTODO PARA QUESTÕES MISTAS",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "questao",
+      "texto": "6. MÉTODO PARA QUESTÕES MISTAS Primeiro, identificar se o comando pede CORRETA, INCORRETA ou EXCETO. Segundo, reconhecer a matéria e o dispositivo ou trecho de texto. Terceiro, eliminar generalizações indevidas como 'sempre', 'nunca', 'todos', 'automaticamente'. Quarto, nos cálculos, escrever a base e o percentual antes de multiplicar. Quinto, não consultar material até terminar. Provas IAN de 202"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b11",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "8. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "revisao",
+      "texto": "8. RECUPERAÇÃO FINAL SEM CONSULTA Explique: 95% do limite versus 95% da RCL; caput e parágrafo único do art. 11; quatro atribuições do art. 117 municipal; motivo e motivação; anulação e revogação; RREO e RGF; inferência e extrapolação. Familiaridade não equivale a retenção."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b12",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "9. CONTROLE E CADERNO DE ERROS",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "9. CONTROLE E CADERNO DE ERROS Aula 101: 20 questões propostas; respostas individuais não recebidas; acertos e erros NÃO AFERIDOS; domínio NÃO DEMONSTRADO. Após resposta real, corrigir alternativa por alternativa, identificar fundamento e pegadinha, registrar erro, causa provável, regra correta e revisão. Revisar dificuldades em aproximadamente 24h, 72h e 7 dias com questões mistas. Meta de longo "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b13",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "10. PRÓXIMO PONTO EXATO",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "10. PRÓXIMO PONTO EXATO AULA 102 — CONHECIMENTOS ESPECÍFICOS NOVOS: AUDITORIA FISCAL, planejamento, evidências, cruzamento de informações, indícios e documentação, dentro do programa exclusivo de AGENTE FISCAL. Acelerar a primeira volta do edital em outubro, sem sacrificar recuperação ativa."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b14",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "FONTES DE REFERÊNCIA",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "FONTES DE REFERÊNCIA Constituição Federal, art. 37 (Planalto); LC 101/2000, arts. 4, 11, 13, 14, 19, 20, 22, 52, 54 e 59 (Planalto); Lei Orgânica de Queimados, arts. 80, 117 e 123 (acervo municipal); Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx; provas IAN 2026 Câmara de Jardim/MS e IAN 2024 Três Rios/RJ consultadas para padrão de questões. Questões desta aula são autorais; não se atribui gabar"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-101-b15",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "========== FIM AULA 101 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "blocoTipo": "teoria",
+      "texto": "========== FIM AULA 101 =========="
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-001",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 7 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "SIMULADO CUMULATIVO — QUESTÕES 1 A 20. Tempo: 20–25 minutos. NÃO REVELAR GABARITO ANTES DAS RESPOSTAS. Q01 — LRF / CORRETA. No art. 11 da LRF, caput e parágrafo único referem-se, respectivamente, a:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-002",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 2 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q02 — PORTUGUÊS. Em 'Embora o cadastro tenha sido atualizado, ainda há divergências', a conjunção expressa:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-003",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 3 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q03 — LRF. Segundo o art. 13, o Executivo desdobra receitas previstas em metas de arrecadação:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-004",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 4 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q04 — LEI ORGÂNICA / EXCETO. Entre as atividades relacionadas no art. 117 da Lei Orgânica de Queimados, encontra-se tudo o que segue, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-005",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 5 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q05 — DIREITO ADMINISTRATIVO. Servidor pratica ato reservado por lei a autoridade de outra competência, sem delegação válida. O vício relaciona-se principalmente a:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-006",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 6 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q06 — LRF / INCORRETA. Sobre a Receita Corrente Líquida, assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-007",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 7 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q07 — PORTUGUÊS. A expressão 'Entretanto' introduz:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-008",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 8 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q08 — PORTUGUÊS / INFERÊNCIA. É compatível com o texto concluir que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-009",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 9 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q09 — LRF. Quanto à periodicidade geral, RREO e RGF são, respectivamente:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-010",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 10 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q10 — LEI ORGÂNICA. Nos termos do art. 80 da Lei Orgânica de Queimados, o Executivo municipal é exercido:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-011",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 11 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q11 — DIREITO ADMINISTRATIVO. A diferença conceitual entre motivo e motivação do ato administrativo está corretamente apresentada em:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-012",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 12 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q12 — LRF / CÁLCULO. RCL = R$ 200 milhões. Limite do Executivo municipal = 54% da RCL. Qual é o patamar de 95% desse limite?"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-013",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 13 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q13 — LEI ORGÂNICA. O art. 123 da Lei Orgânica trata de leis de iniciativa do Executivo para estabelecer:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-014",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 14 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q14 — DIREITO ADMINISTRATIVO / INCORRETA. Assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-015",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 15 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q15 — LRF / RENÚNCIA. Em regra, além da estimativa de impacto e do atendimento à LDO, o art. 14 exige:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-016",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 16 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q16 — PORTUGUÊS / PRESSUPOSTO. Em 'A repartição voltou a publicar boletins', a expressão 'voltou a' pressupõe que:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-017",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 17 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q17 — LEI ORGÂNICA. O art. 117 inclui, entre as atribuições essenciais da administração tributária:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-018",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 18 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q18 — LRF. O Anexo de Riscos Fiscais, previsto no art. 4º, integra o projeto da:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-019",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 19 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q19 — DIREITO ADMINISTRATIVO. O poder de polícia administrativa permite, nos limites da legislação:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-101-q-020",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "Questão 20 — REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Q20 — PORTUGUÊS / EXTRAPOLAÇÃO. Em 'O aumento de arrecadação não significa necessariamente maior eficiência', qual reescrita distorce o sentido original?"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-101-b2",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "1. RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Sem consultar, responda mentalmente: (1) quais os princípios LIMPE? (2) diferença entre motivo e motivação? (3) diferença entre caput e parágrafo único do art. 11 da LRF? (4) RREO e RGF são publicados em que periodicidade geral? (5) quais as quatro atribuições tributárias do art. 117 da Lei Orgânica de Queimados? (6) o conectivo 'embora' indica o quê? (7) 'pode ter contribuído' equivale a 'foi a ú"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-101-b11",
+      "lessonId": "direito-tributario-aula-101",
+      "titulo": "8. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "disciplina": "Direito Tributário",
+      "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj",
+      "texto": "Explique: 95% do limite versus 95% da RCL; caput e parágrafo único do art. 11; quatro atribuições do art. 117 municipal; motivo e motivação; anulação e revogação; RREO e RGF; inferência e extrapolação. Familiaridade não equivale a retenção."
     },
     {
       "tipo": "aula",
