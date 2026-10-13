@@ -17782,3 +17782,174 @@ Q20 REVISÃO Art.35 Lei 4.320: receitas pertencem ao exercício quando: A) previ
 16. RECUPERAÇÃO FINAL: diferencie competências local/comum/suplementar; liste funções art.117; identifique quem controla externamente e quem representa em juízo; explique PPA/LDO/LOA.
 17. CONTROLE: 20 questões propostas; respostas e acertos ainda não aferidos. Registrar caderno de erros somente após respostas, com causa, regra e revisão 24h/72h/7d. Próxima AULA 98: Direito Administrativo ou outra lacuna específica.
 === FIM AULA 97 ===
+
+
+
+
+========== INÍCIO AULA 98 — 13/10/2026, 07h ==========
+CONCURSO: PREFEITURA DE QUEIMADOS/RJ — CARGO EXCLUSIVO: AGENTE FISCAL
+TEMA: DIREITO ADMINISTRATIVO — PRINCÍPIOS, ATOS, PODERES, PROCESSO E RESPONSABILIDADE
+BLOCO: CONHECIMENTOS ESPECÍFICOS | DURAÇÃO ORIENTATIVA: 55–65 MINUTOS
+CONTINUIDADE: AULA 97 (LEI ORGÂNICA: COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE).
+BASE: CF/1988, arts. 5º, LIV e LV, e 37; CTN, art. 78; Lei federal 9.784/1999 como referência conceitual, NÃO como rito municipal automático. Lei municipal 1.060/2011 e legislação tributária local prevalecem quando aplicáveis. Material-guia de Agente Fiscal conferido; cadernos IAN e PDF de 911 questões não localizados nesta execução. Questões abaixo: AUTORAIS, SEM GABARITO ANTECIPADO.
+
+
+1. OBJETIVOS E RECUPERAÇÃO ATIVA (5 MIN)
+Sem consultar, tente recordar: (a) Qual artigo da Lei Orgânica de Queimados enumera cadastro, lançamento, fiscalização e dívida ativa? (b) Quem exerce controle externo municipal? (c) Qual é a diferença entre PPA, LDO e LOA? (d) Qual é a distinção entre empenho, liquidação e pagamento? (e) A CDA tem presunção absoluta ou relativa? Não há respostas registradas das Aulas 95–97: domínio NÃO aferido.
+
+
+2. PRINCÍPIOS EXPRESSOS DA ADMINISTRAÇÃO — ART. 37, CAPUT, CF
+LIMPE: LEGALIDADE, IMPESSOALIDADE, MORALIDADE, PUBLICIDADE, EFICIÊNCIA.
+LEGALIDADE: o agente público precisa de fundamento jurídico para agir; não vale o raciocínio de que pode fazer tudo o que não é proibido. Exemplo: não pode criar multa sem previsão legal.
+IMPESSOALIDADE: a atuação persegue a finalidade pública e trata situações equivalentes de forma isonômica; fiscal não pode escolher alvo para retaliar desafeto nem favorecer amigo.
+MORALIDADE: agir de modo probo, leal e ético; conduta formalmente disfarçada pode violar o dever de moralidade.
+PUBLICIDADE: transparência é regra, ressalvados sigilos legais (por exemplo, informações fiscais protegidas). Publicidade NÃO autoriza divulgar dados sigilosos de contribuintes.
+EFICIÊNCIA: buscar bons resultados com uso adequado de recursos, sem afastar legalidade ou garantias.
+PEGADINHA: “publicidade obriga divulgar qualquer documento fiscal” é falso. “Eficiência permite dispensar a lei” também é falso.
+Outros princípios relevantes: finalidade, motivação, razoabilidade, proporcionalidade, segurança jurídica, autotutela, supremacia e indisponibilidade do interesse público, com suas limitações constitucionais.
+
+
+3. ATO ADMINISTRATIVO — CINCO ELEMENTOS (10 MIN)
+C-O-F-M-O: COMPETÊNCIA, OBJETO, FORMA, MOTIVO, FINALIDADE (ou Co-Fi-Fo-Mo-Ob).
+COMPETÊNCIA: quem tem atribuição legal para praticar o ato; em regra decorre de norma, não da vontade pessoal.
+FINALIDADE: interesse público e finalidade específica estabelecida na lei.
+FORMA: modo de exteriorização juridicamente exigido, frequentemente escrito, motivado quando necessário.
+MOTIVO: pressupostos de fato e de direito que justificam o ato.
+OBJETO: efeito jurídico imediato produzido pelo ato, como aplicar penalidade prevista em lei.
+NÃO CONFUNDA MOTIVO COM MOTIVAÇÃO: motivo é a situação fática/jurídica; motivação é a exposição dos fundamentos.
+EXEMPLO RESOLVIDO: fiscal aplica interdição para punir comerciante que fez crítica política, sem infração correspondente. Mesmo que tenha competência geral para fiscalizar, a finalidade é desviada e faltam pressupostos legítimos. O ato é viciado.
+TEORIA DOS MOTIVOS DETERMINANTES: se a Administração explicita fundamentos para praticar um ato, sua validade depende da correspondência desses fundamentos com a realidade e o Direito.
+ATOS VINCULADOS: a lei fixa requisitos e consequências, sem margem legítima para escolha de conveniência.
+ATOS DISCRICIONÁRIOS: há margem legal de avaliação de conveniência e oportunidade em aspectos autorizados; discricionariedade NÃO é arbitrariedade.
+ATRIBUTOS (NÃO PRESENTES UNIVERSALMENTE): presunção relativa de legitimidade e veracidade; imperatividade quando o ato impõe obrigações; autoexecutoriedade somente quando a lei permite ou a urgência juridicamente justifica, observados limites; tipicidade conforme a disciplina doutrinária. A autoexecutoriedade não autoriza qualquer medida coercitiva indiscriminada.
+PEGADINHA: nem todo ato administrativo tem imperatividade e autoexecutoriedade.
+
+
+4. ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO (8 MIN)
+ANULAÇÃO: corrige ilegalidade; Administração pode/deve exercer autotutela conforme limites, e Judiciário pode controlar legalidade. Efeitos tipicamente retroativos, ressalvadas situações juridicamente protegidas.
+REVOGAÇÃO: retira ato VÁLIDO por conveniência e oportunidade, em regra pela própria Administração, com efeitos prospectivos e limites (direitos adquiridos, atos consumados, atos vinculados etc.). O Judiciário não revoga ato por mero juízo de mérito administrativo.
+CONVALIDAÇÃO: saneia vício sanável, quando juridicamente possível e sem prejuízo ao interesse público ou a terceiros; não transforma todo ato ilegal em válido.
+LEI 9.784/1999, arts. 53–55: fornece exemplos federais desses institutos. O prazo quinquenal do art. 54 refere-se à disciplina federal dos atos favoráveis, salvo má-fé; NÃO se deve importar automaticamente esse prazo para o procedimento municipal de Queimados.
+EXEMPLO: um ato legal de organização de atendimento pode ser revogado por mudança de conveniência, respeitados os limites; um ato que aplica multa sem previsão legal deve ser invalidado, não “revogado por oportunidade”.
+MACETE: ANULAR = ILEGALIDADE; REVOGAR = MÉRITO DE ATO VÁLIDO; CONVALIDAR = SANAR VÍCIO ADMISSÍVEL.
+
+
+5. PODERES ADMINISTRATIVOS (10 MIN)
+PODER HIERÁRQUICO: distribuição e organização de funções, fiscalização interna, revisão e comando dentro de uma estrutura hierárquica. Não há hierarquia geral entre entidades políticas autônomas.
+PODER DISCIPLINAR: apurar e punir infrações funcionais ou de pessoas submetidas a vínculo especial com a Administração, com devido processo.
+PODER REGULAMENTAR/NORMATIVO: editar atos normativos nos limites da competência e da lei; decreto regulamentar ordinário não cria imposto nem multa sem fundamento legal.
+PODER DE POLÍCIA: condiciona ou restringe direitos, atividades e interesses em favor do interesse público, nos limites da lei. CTN art. 78 fornece conceito normativo relevante. Licenças, vistorias e autuações podem integrar sua manifestação.
+PODER VINCULADO E DISCRICIONÁRIO: classificações relativas à margem de decisão, não uma licença para arbitrariedade.
+ABUSO DE PODER: EXCESSO DE PODER (agente ultrapassa sua competência) e DESVIO DE FINALIDADE (usa competência para objetivo diferente do legal).
+EXEMPLO 1: fiscal autorizado a vistoriar exige pagamento pessoal para deixar de autuar: abuso e potencial ilícito, não exercício legítimo do poder de polícia.
+EXEMPLO 2: servidor sem atribuição legal impõe interdição: possível excesso de poder.
+EXEMPLO 3: fiscal competente usa auto de infração para perseguir rival: desvio de finalidade.
+ATENÇÃO: fiscalização e sanção devem observar competência, tipicidade/legalidade, prova e procedimento. A inviolabilidade domiciliar do art. 5º, XI, da CF também limita ingresso forçado em domicílio; não há autorização geral para invadir residências sob pretexto de fiscalização.
+
+
+6. PROCESSO ADMINISTRATIVO E DIREITOS DO CONTRIBUINTE (7 MIN)
+CF art. 5º, LIV e LV: devido processo legal, contraditório e ampla defesa nos processos pertinentes.
+ESQUEMA GERAL (DIDÁTICO, NÃO RITO LOCAL): constatação/documentação -> ciência regular -> oportunidade de defesa e prova -> decisão fundamentada por autoridade competente -> recurso, se previsto -> providências subsequentes.
+A Lei 9.784/1999 regula diretamente o processo ADMINISTRATIVO FEDERAL. Seu art. 2º lista princípios e seu art. 50 exemplifica hipóteses de motivação; para Queimados, prazos, instâncias e formalidades precisam ser conferidos na legislação MUNICIPAL aplicável. NÃO memorizar prazos federais como municipais.
+CASO: uma multa é lavrada sem descrição dos fatos e sem indicação da norma violada. O problema envolve motivação, fundamentação e direito de defesa; não é correto afirmar que a mera assinatura do agente resolve qualquer vício.
+PROPORCIONALIDADE: a medida não pode exceder o necessário, observadas as escolhas e sanções legalmente previstas.
+SIGILO: dados tributários têm proteção específica, inclusive CTN art. 198; transparência administrativa não permite exposição arbitrária de informações fiscais.
+
+
+7. RESPONSABILIDADE DO ESTADO E DO AGENTE (5 MIN)
+CF art. 37, §6º: pessoas jurídicas de direito público e pessoas jurídicas de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros; assegurado regresso contra o responsável em casos de dolo ou culpa.
+DIFERENÇA: responsabilidade CIVIL estatal objetiva, em regra, não significa responsabilidade pessoal automática e objetiva de todo agente. A responsabilização funcional exige apuração segundo a legislação aplicável e respeito às garantias.
+Exemplo: em fiscalização, agente causa dano indevido a bens de terceiro. A responsabilidade do ente pode ser examinada segundo o art. 37, §6º, e eventual regresso contra agente dependerá de dolo ou culpa.
+Atenção: nem todo dano é automaticamente indenizável; examinam-se conduta, nexo, dano e excludentes conforme o caso.
+
+
+8. ESQUEMA DE REVISÃO DE 60 SEGUNDOS
+LIMPE = legalidade, impessoalidade, moralidade, publicidade, eficiência.
+ATO = competência, finalidade, forma, motivo, objeto.
+ANULAR = ilegalidade; REVOGAR = conveniência/oportunidade em ato válido; CONVALIDAR = sanar vício sanável.
+PODERES = hierárquico, disciplinar, regulamentar e polícia.
+ABUSO = excesso de poder OU desvio de finalidade.
+PROCESSO = devido processo, defesa, contraditório e motivação.
+RESPONSABILIDADE = Estado objetivamente (regra do art. 37, §6º), regresso do agente com dolo/culpa.
+ALERTA DE PROVA: “sempre”, “nunca”, “automaticamente”, “qualquer” e “sem lei” frequentemente transformam proposição correta em incorreta.
+
+
+9. TREINO AUTORAL — 20 QUESTÕES (NÃO REVELAR RESPOSTAS)
+Responda no formato 1A 2B ... 20D. Não consulte o texto. Tempo: 20–25 min.
+Q1. Qual conjunto corresponde aos princípios EXPRESSOS no caput do art. 37 da CF?
+A) Legalidade, impessoalidade, moralidade, publicidade e eficiência.
+B) Legalidade, celeridade, economicidade, autotutela e soberania.
+C) Moralidade, motivação, tipicidade, universalidade e anualidade.
+D) Hierarquia, disciplina, oportunidade, conveniência e publicidade.
+Q2. INCORRETA. Em fiscalização municipal:
+A) A legalidade limita a imposição de sanções.
+B) A impessoalidade veda perseguição pessoal.
+C) A eficiência permite ignorar requisitos legais para acelerar a autuação.
+D) O sigilo legal pode restringir a divulgação de informações fiscais.
+Q3. Um agente aplica multa para retaliar comerciante por crítica política, embora seja competente para fiscalizar. O vício central é:
+A) Desvio de finalidade. B) Arrecadação orçamentária. C) Revogação de ato válido. D) Simples erro material irrelevante.
+Q4. Em ato administrativo, o MOTIVO corresponde:
+A) À autoridade que o pratica. B) Aos pressupostos de fato e de direito. C) Ao efeito jurídico produzido. D) À forma de publicação.
+Q5. EXCETO. São elementos clássicos do ato administrativo:
+A) Competência. B) Finalidade. C) Objeto. D) Lucro.
+Q6. Sobre os atributos dos atos administrativos, assinale a CORRETA:
+A) A autoexecutoriedade está presente em absolutamente todos os atos.
+B) A presunção de legitimidade impede prova contrária.
+C) A imperatividade pode não estar presente em atos que não impõem obrigações.
+D) Todos os atos permitem uso indiscriminado de força.
+Q7. A retirada de ato VÁLIDO por razões de conveniência e oportunidade, respeitados os limites jurídicos, denomina-se:
+A) Anulação. B) Revogação. C) Lançamento. D) Prescrição.
+Q8. A Administração constata ato ilegal que aplicou penalidade sem fundamento legal. A providência conceitualmente adequada é:
+A) Revogá-lo por mera conveniência, mantendo sua legalidade.
+B) Invalidá-lo conforme o devido processo e os limites jurídicos.
+C) Convalidar obrigatoriamente qualquer vício.
+D) Considerá-lo automaticamente válido porque foi assinado.
+Q9. Sobre a Lei 9.784/1999, assinale a CORRETA:
+A) Regula diretamente todo processo municipal brasileiro, com idênticos prazos.
+B) É lei federal de processo administrativo e não substitui automaticamente o rito municipal.
+C) Revogou todos os códigos tributários municipais.
+D) Dispensa contraditório em qualquer sanção administrativa.
+Q10. A organização de tarefas e revisão interna dentro de uma repartição está mais ligada ao poder:
+A) Hierárquico. B) Constituinte. C) Tributário residual da União. D) Judiciário.
+Q11. A apuração de infração funcional e eventual sanção a servidor, com garantias legais, relaciona-se ao poder:
+A) Regulamentar. B) Disciplinar. C) Econômico. D) Orçamentário.
+Q12. Decreto municipal que pretende criar multa nova sem base legal viola principalmente:
+A) A legalidade. B) A anualidade orçamentária apenas. C) A liquidez corrente. D) A regra dos restos a pagar.
+Q13. O poder de polícia administrativa pode manifestar-se por:
+A) Vistorias e licenciamento nos limites da lei.
+B) Criação livre de tributos pelo fiscal.
+C) Julgamento criminal por qualquer agente.
+D) Ingresso forçado em qualquer domicílio sem restrições.
+Q14. ASSERTIVAS: I. Excesso de poder ocorre quando agente ultrapassa competência. II. Desvio de finalidade envolve objetivo diferente do legal. III. Discricionariedade significa ausência de controle jurídico. Está correto:
+A) Apenas I. B) Apenas III. C) I e II. D) I, II e III.
+Q15. INCORRETA sobre processo sancionador:
+A) Deve respeitar devido processo.
+B) A decisão deve observar exigências legais de fundamentação.
+C) O contraditório pode ser relevante para produção de provas.
+D) A assinatura do fiscal torna qualquer sanção imune a contestação.
+Q16. A motivação de um ato administrativo é:
+A) Sua publicação em jornal, necessariamente.
+B) A exposição dos fundamentos fáticos e jurídicos que o sustentam.
+C) Sinônimo de competência.
+D) Sempre dispensável em sanções.
+Q17. O art. 37, §6º, da CF prevê, como regra geral, responsabilidade das pessoas jurídicas abrangidas por danos causados por agentes nessa qualidade:
+A) Objetiva, com regresso por dolo ou culpa do agente.
+B) Exclusivamente penal, sem reparação civil.
+C) Objetiva do agente em toda hipótese, sem apuração.
+D) Dependente sempre de condenação criminal prévia.
+Q18. Um fiscal tem acesso regular a dados protegidos de contribuinte. A publicidade administrativa:
+A) Autoriza divulgação irrestrita em rede social.
+B) Deve conviver com deveres legais de sigilo.
+C) Extingue o art. 198 do CTN.
+D) Transforma todos os dados em informação pública irrestrita.
+Q19. REVISÃO LEGISLAÇÃO MUNICIPAL: a administração tributária do art. 117 da Lei Orgânica de Queimados envolve:
+A) Somente julgamento criminal. B) Cadastro, lançamento, fiscalização e providências relativas à dívida ativa. C) Apenas construção de escolas. D) Exclusivamente execução judicial por fiscais.
+Q20. REVISÃO FINANÇAS PÚBLICAS: uma despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, configura:
+A) Receita corrente. B) Restos a Pagar Processados. C) Restos a Pagar Não Processados. D) Receita de capital.
+
+
+10. FECHAMENTO E RETENÇÃO
+Recite sem consultar: LIMPE; os 5 elementos do ato; diferenças entre anular/revogar/convalidar; quatro poderes; excesso/desvio; responsabilidade do art. 37, §6º. Questões permanecem SEM GABARITO para preservar recuperação ativa. Após resposta: corrigir ALTERNATIVA POR ALTERNATIVA, identificar mecanismo do distrator, registrar no caderno de erros (erro, causa, regra, pegadinha, revisão 24h/72h/7d). Sem respostas, nenhum tema é declarado dominado.
+PRÓXIMA AULA 99: GESTÃO FISCAL/LRF — metas, relatórios, renúncia de receita e controle (apenas conteúdos confirmados para Agente Fiscal), seguida de Português/Informática e revisão cumulativa no ciclo.
+FONTES: Constituição art. 37 e art. 5º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm); CTN art. 78 e 198 (https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm); Lei federal 9.784/1999 (https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-normaatualizada-pl.html). Guia verticalizado Agente Fiscal (biblioteca do aluno). O edital oficial é o limite, e esta aula restringiu-se ao bloco de Direito Administrativo indicado no guia.
+========== FIM AULA 98 ==========

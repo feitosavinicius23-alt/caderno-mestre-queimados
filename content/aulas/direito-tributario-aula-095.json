@@ -7,7 +7,7 @@
   "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
   "ordem": 95,
   "data": "2026-10-13",
-  "tempoEstimadoMin": 22,
+  "tempoEstimadoMin": 30,
   "resumo": "Relembre de cabeça: (i) A=P+PL; (ii) diferença BP x DRE; (iii) competência x caixa; (iv) lançamentos da prestação a prazo e do recebimento; (v) por que um crédito bancário não é necessariamente receita; (vi) o que fazer antes de apontar diferença de ISS.\n20 questões propostas; nenhuma resposta registrada nesta execução. Não atribuir nota, acerto, erro ou domínio. Ao receber respostas, corrigir A, B, C e D em cada questão, explicar distrator e registrar: questão | escolha | erro | causa provável | regra | pegadinha | revisão futura. Repetir em 24h, 72h e 7 dias em questões misturadas; considerar domínio somente com retenção posterior.\nPróxima AULA 96: FINANÇAS PÚBLICAS — receitas e despesas públicas, classificações orçamentárias, estágios da receita e despesa, Lei 4.320/1964 e conexões com LRF. Seguir a rotação de quatro aulas e avançar lacunas ainda não cobertas.",
   "conteudo": [
     {
@@ -193,6 +193,136 @@
       "id": "direito-tributario-aula-095-b27",
       "tipo": "teoria",
       "titulo": "=== FIM AULA 97 ===",
+      "texto": "========== INÍCIO AULA 98 — 13/10/2026, 07h =========="
+    },
+    {
+      "id": "direito-tributario-aula-095-b28",
+      "tipo": "teoria",
+      "titulo": "CONCURSO: PREFEITURA DE QUEIMADOS/RJ — CARGO EXCLUSIVO: AGENTE FISCAL",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b29",
+      "tipo": "teoria",
+      "titulo": "TEMA: DIREITO ADMINISTRATIVO — PRINCÍPIOS, ATOS, PODERES, PROCESSO E RESPONSABILIDADE",
+      "texto": "BLOCO: CONHECIMENTOS ESPECÍFICOS | DURAÇÃO ORIENTATIVA: 55–65 MINUTOS\nCONTINUIDADE: AULA 97 (LEI ORGÂNICA: COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE).\nBASE: CF/1988, arts. 5º, LIV e LV, e 37; CTN, art. 78; Lei federal 9.784/1999 como referência conceitual, NÃO como rito municipal automático. Lei municipal 1.060/2011 e legislação tributária local prevalecem quando aplicáveis. Material-guia de Agente Fiscal conferido; cadernos IAN e PDF de 911 questões não localizados nesta execução. Questões abaixo: AUTORAIS, SEM GABARITO ANTECIPADO."
+    },
+    {
+      "id": "direito-tributario-aula-095-b30",
+      "tipo": "teoria",
+      "titulo": "1. OBJETIVOS E RECUPERAÇÃO ATIVA (5 MIN)",
+      "texto": "Sem consultar, tente recordar: (a) Qual artigo da Lei Orgânica de Queimados enumera cadastro, lançamento, fiscalização e dívida ativa? (b) Quem exerce controle externo municipal? (c) Qual é a diferença entre PPA, LDO e LOA? (d) Qual é a distinção entre empenho, liquidação e pagamento? (e) A CDA tem presunção absoluta ou relativa? Não há respostas registradas das Aulas 95–97: domínio NÃO aferido."
+    },
+    {
+      "id": "direito-tributario-aula-095-b31",
+      "tipo": "teoria",
+      "titulo": "2. PRINCÍPIOS EXPRESSOS DA ADMINISTRAÇÃO — ART. 37, CAPUT, CF",
+      "texto": "LIMPE: LEGALIDADE, IMPESSOALIDADE, MORALIDADE, PUBLICIDADE, EFICIÊNCIA.\nLEGALIDADE: o agente público precisa de fundamento jurídico para agir; não vale o raciocínio de que pode fazer tudo o que não é proibido. Exemplo: não pode criar multa sem previsão legal.\nIMPESSOALIDADE: a atuação persegue a finalidade pública e trata situações equivalentes de forma isonômica; fiscal não pode escolher alvo para retaliar desafeto nem favorecer amigo.\nMORALIDADE: agir de modo probo, leal e ético; conduta formalmente disfarçada pode violar o dever de moralidade.\nPUBLICIDADE: transparência é regra, ressalvados sigilos legais (por exemplo, informações fiscais protegidas). Publicidade NÃO autoriza divulgar dados sigilosos de contribuintes.\nEFICIÊNCIA: buscar bons resultados com uso adequado de recursos, sem afastar legalidade ou garantias."
+    },
+    {
+      "id": "direito-tributario-aula-095-b32",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: “publicidade obriga divulgar qualquer documento fiscal” é falso. “Eficiência permite dispensar a lei” também é falso.",
+      "texto": "Outros princípios relevantes: finalidade, motivação, razoabilidade, proporcionalidade, segurança jurídica, autotutela, supremacia e indisponibilidade do interesse público, com suas limitações constitucionais."
+    },
+    {
+      "id": "direito-tributario-aula-095-b33",
+      "tipo": "teoria",
+      "titulo": "3. ATO ADMINISTRATIVO — CINCO ELEMENTOS (10 MIN)",
+      "texto": "C-O-F-M-O: COMPETÊNCIA, OBJETO, FORMA, MOTIVO, FINALIDADE (ou Co-Fi-Fo-Mo-Ob).\nCOMPETÊNCIA: quem tem atribuição legal para praticar o ato; em regra decorre de norma, não da vontade pessoal.\nFINALIDADE: interesse público e finalidade específica estabelecida na lei.\nFORMA: modo de exteriorização juridicamente exigido, frequentemente escrito, motivado quando necessário.\nMOTIVO: pressupostos de fato e de direito que justificam o ato.\nOBJETO: efeito jurídico imediato produzido pelo ato, como aplicar penalidade prevista em lei.\nNÃO CONFUNDA MOTIVO COM MOTIVAÇÃO: motivo é a situação fática/jurídica; motivação é a exposição dos fundamentos.\nEXEMPLO RESOLVIDO: fiscal aplica interdição para punir comerciante que fez crítica política, sem infração correspondente. Mesmo que tenha competência geral para fiscalizar, a finalidade é desviada e faltam pressupostos legítimos. O ato é viciado.\nTEORIA DOS MOTIVOS DETERMINANTES: se a Administração explicita fundamentos para praticar um ato, sua validade depende da correspondência desses fundamentos com a realidade e o Direito.\nATOS VINCULADOS: a lei fixa requisitos e consequências, sem margem legítima para escolha de conveniência.\nATOS DISCRICIONÁRIOS: há margem legal de avaliação de conveniência e oportunidade em aspectos autorizados; discricionariedade NÃO é arbitrariedade.\nATRIBUTOS (NÃO PRESENTES UNIVERSALMENTE): presunção relativa de legitimidade e veracidade; imperatividade quando o ato impõe obrigações; autoexecutoriedade somente quando a lei permite ou a urgência juridicamente justifica, observados limites; tipicidade conforme a disciplina doutrinária. A autoexecutoriedade não autoriza qualquer medida coercitiva indiscriminada."
+    },
+    {
+      "id": "direito-tributario-aula-095-b34",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: nem todo ato administrativo tem imperatividade e autoexecutoriedade.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b35",
+      "tipo": "teoria",
+      "titulo": "4. ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO (8 MIN)",
+      "texto": "ANULAÇÃO: corrige ilegalidade; Administração pode/deve exercer autotutela conforme limites, e Judiciário pode controlar legalidade. Efeitos tipicamente retroativos, ressalvadas situações juridicamente protegidas.\nREVOGAÇÃO: retira ato VÁLIDO por conveniência e oportunidade, em regra pela própria Administração, com efeitos prospectivos e limites (direitos adquiridos, atos consumados, atos vinculados etc.). O Judiciário não revoga ato por mero juízo de mérito administrativo.\nCONVALIDAÇÃO: saneia vício sanável, quando juridicamente possível e sem prejuízo ao interesse público ou a terceiros; não transforma todo ato ilegal em válido.\nLEI 9.784/1999, arts. 53–55: fornece exemplos federais desses institutos. O prazo quinquenal do art. 54 refere-se à disciplina federal dos atos favoráveis, salvo má-fé; NÃO se deve importar automaticamente esse prazo para o procedimento municipal de Queimados.\nEXEMPLO: um ato legal de organização de atendimento pode ser revogado por mudança de conveniência, respeitados os limites; um ato que aplica multa sem previsão legal deve ser invalidado, não “revogado por oportunidade”.\nMACETE: ANULAR = ILEGALIDADE; REVOGAR = MÉRITO DE ATO VÁLIDO; CONVALIDAR = SANAR VÍCIO ADMISSÍVEL."
+    },
+    {
+      "id": "direito-tributario-aula-095-b36",
+      "tipo": "teoria",
+      "titulo": "5. PODERES ADMINISTRATIVOS (10 MIN)",
+      "texto": "PODER HIERÁRQUICO: distribuição e organização de funções, fiscalização interna, revisão e comando dentro de uma estrutura hierárquica. Não há hierarquia geral entre entidades políticas autônomas.\nPODER DISCIPLINAR: apurar e punir infrações funcionais ou de pessoas submetidas a vínculo especial com a Administração, com devido processo.\nPODER REGULAMENTAR/NORMATIVO: editar atos normativos nos limites da competência e da lei; decreto regulamentar ordinário não cria imposto nem multa sem fundamento legal.\nPODER DE POLÍCIA: condiciona ou restringe direitos, atividades e interesses em favor do interesse público, nos limites da lei. CTN art. 78 fornece conceito normativo relevante. Licenças, vistorias e autuações podem integrar sua manifestação.\nPODER VINCULADO E DISCRICIONÁRIO: classificações relativas à margem de decisão, não uma licença para arbitrariedade.\nABUSO DE PODER: EXCESSO DE PODER (agente ultrapassa sua competência) e DESVIO DE FINALIDADE (usa competência para objetivo diferente do legal).\nEXEMPLO 1: fiscal autorizado a vistoriar exige pagamento pessoal para deixar de autuar: abuso e potencial ilícito, não exercício legítimo do poder de polícia."
+    },
+    {
+      "id": "direito-tributario-aula-095-b37",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 2: servidor sem atribuição legal impõe interdição: possível excesso de poder.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b38",
+      "tipo": "exemplo",
+      "titulo": "EXEMPLO 3: fiscal competente usa auto de infração para perseguir rival: desvio de finalidade.",
+      "texto": "ATENÇÃO: fiscalização e sanção devem observar competência, tipicidade/legalidade, prova e procedimento. A inviolabilidade domiciliar do art. 5º, XI, da CF também limita ingresso forçado em domicílio; não há autorização geral para invadir residências sob pretexto de fiscalização."
+    },
+    {
+      "id": "direito-tributario-aula-095-b39",
+      "tipo": "teoria",
+      "titulo": "6. PROCESSO ADMINISTRATIVO E DIREITOS DO CONTRIBUINTE (7 MIN)",
+      "texto": "CF art. 5º, LIV e LV: devido processo legal, contraditório e ampla defesa nos processos pertinentes.\nESQUEMA GERAL (DIDÁTICO, NÃO RITO LOCAL): constatação/documentação -> ciência regular -> oportunidade de defesa e prova -> decisão fundamentada por autoridade competente -> recurso, se previsto -> providências subsequentes.\nA Lei 9.784/1999 regula diretamente o processo ADMINISTRATIVO FEDERAL. Seu art. 2º lista princípios e seu art. 50 exemplifica hipóteses de motivação; para Queimados, prazos, instâncias e formalidades precisam ser conferidos na legislação MUNICIPAL aplicável. NÃO memorizar prazos federais como municipais.\nCASO: uma multa é lavrada sem descrição dos fatos e sem indicação da norma violada. O problema envolve motivação, fundamentação e direito de defesa; não é correto afirmar que a mera assinatura do agente resolve qualquer vício.\nPROPORCIONALIDADE: a medida não pode exceder o necessário, observadas as escolhas e sanções legalmente previstas.\nSIGILO: dados tributários têm proteção específica, inclusive CTN art. 198; transparência administrativa não permite exposição arbitrária de informações fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-b40",
+      "tipo": "teoria",
+      "titulo": "7. RESPONSABILIDADE DO ESTADO E DO AGENTE (5 MIN)",
+      "texto": "CF art. 37, §6º: pessoas jurídicas de direito público e pessoas jurídicas de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros; assegurado regresso contra o responsável em casos de dolo ou culpa.\nDIFERENÇA: responsabilidade CIVIL estatal objetiva, em regra, não significa responsabilidade pessoal automática e objetiva de todo agente. A responsabilização funcional exige apuração segundo a legislação aplicável e respeito às garantias.\nExemplo: em fiscalização, agente causa dano indevido a bens de terceiro. A responsabilidade do ente pode ser examinada segundo o art. 37, §6º, e eventual regresso contra agente dependerá de dolo ou culpa."
+    },
+    {
+      "id": "direito-tributario-aula-095-b41",
+      "tipo": "atencao",
+      "titulo": "Atenção: nem todo dano é automaticamente indenizável; examinam-se conduta, nexo, dano e excludentes conforme o caso.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b42",
+      "tipo": "teoria",
+      "titulo": "8. ESQUEMA DE REVISÃO DE 60 SEGUNDOS",
+      "texto": "LIMPE = legalidade, impessoalidade, moralidade, publicidade, eficiência.\nATO = competência, finalidade, forma, motivo, objeto.\nANULAR = ilegalidade; REVOGAR = conveniência/oportunidade em ato válido; CONVALIDAR = sanar vício sanável.\nPODERES = hierárquico, disciplinar, regulamentar e polícia.\nABUSO = excesso de poder OU desvio de finalidade.\nPROCESSO = devido processo, defesa, contraditório e motivação.\nRESPONSABILIDADE = Estado objetivamente (regra do art. 37, §6º), regresso do agente com dolo/culpa.\nALERTA DE PROVA: “sempre”, “nunca”, “automaticamente”, “qualquer” e “sem lei” frequentemente transformam proposição correta em incorreta."
+    },
+    {
+      "id": "direito-tributario-aula-095-b43",
+      "tipo": "questao",
+      "titulo": "9. TREINO AUTORAL — 20 QUESTÕES (NÃO REVELAR RESPOSTAS)",
+      "texto": "Responda no formato 1A 2B ... 20D. Não consulte o texto. Tempo: 20–25 min.",
+      "questionIds": [
+        "direito-tributario-aula-095-q-021",
+        "direito-tributario-aula-095-q-022",
+        "direito-tributario-aula-095-q-023",
+        "direito-tributario-aula-095-q-024",
+        "direito-tributario-aula-095-q-025",
+        "direito-tributario-aula-095-q-026",
+        "direito-tributario-aula-095-q-027",
+        "direito-tributario-aula-095-q-028",
+        "direito-tributario-aula-095-q-029",
+        "direito-tributario-aula-095-q-030",
+        "direito-tributario-aula-095-q-031",
+        "direito-tributario-aula-095-q-032",
+        "direito-tributario-aula-095-q-033",
+        "direito-tributario-aula-095-q-034",
+        "direito-tributario-aula-095-q-035",
+        "direito-tributario-aula-095-q-036",
+        "direito-tributario-aula-095-q-037",
+        "direito-tributario-aula-095-q-038",
+        "direito-tributario-aula-095-q-039",
+        "direito-tributario-aula-095-q-040"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-095-b44",
+      "tipo": "fechamento",
+      "titulo": "10. FECHAMENTO E RETENÇÃO",
+      "texto": "Recite sem consultar: LIMPE; os 5 elementos do ato; diferenças entre anular/revogar/convalidar; quatro poderes; excesso/desvio; responsabilidade do art. 37, §6º. Questões permanecem SEM GABARITO para preservar recuperação ativa. Após resposta: corrigir ALTERNATIVA POR ALTERNATIVA, identificar mecanismo do distrator, registrar no caderno de erros (erro, causa, regra, pegadinha, revisão 24h/72h/7d). Sem respostas, nenhum tema é declarado dominado.\nPRÓXIMA AULA 99: GESTÃO FISCAL/LRF — metas, relatórios, renúncia de receita e controle (apenas conteúdos confirmados para Agente Fiscal), seguida de Português/Informática e revisão cumulativa no ciclo.\nFONTES: Constituição art. 37 e art. 5º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm); CTN art. 78 e 198 (https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm); Lei federal 9.784/1999 (https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-normaatualizada-pl.html). Guia verticalizado Agente Fiscal (biblioteca do aluno). O edital oficial é o limite, e esta aula restringiu-se ao bloco de Direito Administrativo indicado no guia."
+    },
+    {
+      "id": "direito-tributario-aula-095-b45",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 98 ==========",
       "texto": ""
     }
   ],
@@ -776,6 +906,586 @@
       "gabaritoOculto": true,
       "subject": "Direito Tributário",
       "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-021",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 1,
+      "question": "Q1. Qual conjunto corresponde aos princípios EXPRESSOS no caput do art. 37 da CF?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legalidade, impessoalidade, moralidade, publicidade e eficiência."
+        },
+        {
+          "id": "B",
+          "text": "Legalidade, celeridade, economicidade, autotutela e soberania."
+        },
+        {
+          "id": "C",
+          "text": "Moralidade, motivação, tipicidade, universalidade e anualidade."
+        },
+        {
+          "id": "D",
+          "text": "Hierarquia, disciplina, oportunidade, conveniência e publicidade. Q2. INCORRETA. Em fiscalização municipal:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-022",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 2,
+      "question": "Q2. INCORRETA. Em fiscalização municipal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A legalidade limita a imposição de sanções."
+        },
+        {
+          "id": "B",
+          "text": "A impessoalidade veda perseguição pessoal."
+        },
+        {
+          "id": "C",
+          "text": "A eficiência permite ignorar requisitos legais para acelerar a autuação."
+        },
+        {
+          "id": "D",
+          "text": "O sigilo legal pode restringir a divulgação de informações fiscais. Q3. Um agente aplica multa para retaliar comerciante por crítica política, embora seja competente para fiscalizar. O vício central é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-023",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 3,
+      "question": "Q3. Um agente aplica multa para retaliar comerciante por crítica política, embora seja competente para fiscalizar. O vício central é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Desvio de finalidade."
+        },
+        {
+          "id": "B",
+          "text": "Arrecadação orçamentária."
+        },
+        {
+          "id": "C",
+          "text": "Revogação de ato válido."
+        },
+        {
+          "id": "D",
+          "text": "Simples erro material irrelevante. Q4. Em ato administrativo, o MOTIVO corresponde:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-024",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 4,
+      "question": "Q4. Em ato administrativo, o MOTIVO corresponde:",
+      "options": [
+        {
+          "id": "A",
+          "text": "À autoridade que o pratica."
+        },
+        {
+          "id": "B",
+          "text": "Aos pressupostos de fato e de direito."
+        },
+        {
+          "id": "C",
+          "text": "Ao efeito jurídico produzido."
+        },
+        {
+          "id": "D",
+          "text": "À forma de publicação. Q5. EXCETO. São elementos clássicos do ato administrativo:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-025",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 5,
+      "question": "Q5. EXCETO. São elementos clássicos do ato administrativo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Competência."
+        },
+        {
+          "id": "B",
+          "text": "Finalidade."
+        },
+        {
+          "id": "C",
+          "text": "Objeto."
+        },
+        {
+          "id": "D",
+          "text": "Lucro. Q6. Sobre os atributos dos atos administrativos, assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-026",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 6,
+      "question": "Q6. Sobre os atributos dos atos administrativos, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A autoexecutoriedade está presente em absolutamente todos os atos."
+        },
+        {
+          "id": "B",
+          "text": "A presunção de legitimidade impede prova contrária."
+        },
+        {
+          "id": "C",
+          "text": "A imperatividade pode não estar presente em atos que não impõem obrigações."
+        },
+        {
+          "id": "D",
+          "text": "Todos os atos permitem uso indiscriminado de força. Q7. A retirada de ato VÁLIDO por razões de conveniência e oportunidade, respeitados os limites jurídicos, denomina-se:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-027",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 7,
+      "question": "Q7. A retirada de ato VÁLIDO por razões de conveniência e oportunidade, respeitados os limites jurídicos, denomina-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anulação."
+        },
+        {
+          "id": "B",
+          "text": "Revogação."
+        },
+        {
+          "id": "C",
+          "text": "Lançamento."
+        },
+        {
+          "id": "D",
+          "text": "Prescrição. Q8. A Administração constata ato ilegal que aplicou penalidade sem fundamento legal. A providência conceitualmente adequada é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-028",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 8,
+      "question": "Q8. A Administração constata ato ilegal que aplicou penalidade sem fundamento legal. A providência conceitualmente adequada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revogá-lo por mera conveniência, mantendo sua legalidade."
+        },
+        {
+          "id": "B",
+          "text": "Invalidá-lo conforme o devido processo e os limites jurídicos."
+        },
+        {
+          "id": "C",
+          "text": "Convalidar obrigatoriamente qualquer vício."
+        },
+        {
+          "id": "D",
+          "text": "Considerá-lo automaticamente válido porque foi assinado. Q9. Sobre a Lei 9.784/1999, assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-029",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 9,
+      "question": "Q9. Sobre a Lei 9.784/1999, assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regula diretamente todo processo municipal brasileiro, com idênticos prazos."
+        },
+        {
+          "id": "B",
+          "text": "É lei federal de processo administrativo e não substitui automaticamente o rito municipal."
+        },
+        {
+          "id": "C",
+          "text": "Revogou todos os códigos tributários municipais."
+        },
+        {
+          "id": "D",
+          "text": "Dispensa contraditório em qualquer sanção administrativa. Q10. A organização de tarefas e revisão interna dentro de uma repartição está mais ligada ao poder:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-030",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 10,
+      "question": "Q10. A organização de tarefas e revisão interna dentro de uma repartição está mais ligada ao poder:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hierárquico."
+        },
+        {
+          "id": "B",
+          "text": "Constituinte."
+        },
+        {
+          "id": "C",
+          "text": "Tributário residual da União."
+        },
+        {
+          "id": "D",
+          "text": "Judiciário. Q11. A apuração de infração funcional e eventual sanção a servidor, com garantias legais, relaciona-se ao poder:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-031",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 11,
+      "question": "Q11. A apuração de infração funcional e eventual sanção a servidor, com garantias legais, relaciona-se ao poder:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regulamentar."
+        },
+        {
+          "id": "B",
+          "text": "Disciplinar."
+        },
+        {
+          "id": "C",
+          "text": "Econômico."
+        },
+        {
+          "id": "D",
+          "text": "Orçamentário. Q12. Decreto municipal que pretende criar multa nova sem base legal viola principalmente:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-032",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 12,
+      "question": "Q12. Decreto municipal que pretende criar multa nova sem base legal viola principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A legalidade."
+        },
+        {
+          "id": "B",
+          "text": "A anualidade orçamentária apenas."
+        },
+        {
+          "id": "C",
+          "text": "A liquidez corrente."
+        },
+        {
+          "id": "D",
+          "text": "A regra dos restos a pagar. Q13. O poder de polícia administrativa pode manifestar-se por:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-033",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 13,
+      "question": "Q13. O poder de polícia administrativa pode manifestar-se por:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vistorias e licenciamento nos limites da lei."
+        },
+        {
+          "id": "B",
+          "text": "Criação livre de tributos pelo fiscal."
+        },
+        {
+          "id": "C",
+          "text": "Julgamento criminal por qualquer agente."
+        },
+        {
+          "id": "D",
+          "text": "Ingresso forçado em qualquer domicílio sem restrições. Q14. ASSERTIVAS: I. Excesso de poder ocorre quando agente ultrapassa competência. II. Desvio de finalidade envolve objetivo diferente do legal. III. Discricionariedade significa ausência de controle jurídico. Está correto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-034",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 14,
+      "question": "Q14. ASSERTIVAS: I. Excesso de poder ocorre quando agente ultrapassa competência. II. Desvio de finalidade envolve objetivo diferente do legal. III. Discricionariedade significa ausência de controle jurídico. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas I."
+        },
+        {
+          "id": "B",
+          "text": "Apenas III."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q15. INCORRETA sobre processo sancionador:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-035",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 15,
+      "question": "Q15. INCORRETA sobre processo sancionador:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deve respeitar devido processo."
+        },
+        {
+          "id": "B",
+          "text": "A decisão deve observar exigências legais de fundamentação."
+        },
+        {
+          "id": "C",
+          "text": "O contraditório pode ser relevante para produção de provas."
+        },
+        {
+          "id": "D",
+          "text": "A assinatura do fiscal torna qualquer sanção imune a contestação. Q16. A motivação de um ato administrativo é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-036",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 16,
+      "question": "Q16. A motivação de um ato administrativo é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sua publicação em jornal, necessariamente."
+        },
+        {
+          "id": "B",
+          "text": "A exposição dos fundamentos fáticos e jurídicos que o sustentam."
+        },
+        {
+          "id": "C",
+          "text": "Sinônimo de competência."
+        },
+        {
+          "id": "D",
+          "text": "Sempre dispensável em sanções. Q17. O art. 37, §6º, da CF prevê, como regra geral, responsabilidade das pessoas jurídicas abrangidas por danos causados por agentes nessa qualidade:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-037",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 17,
+      "question": "Q17. O art. 37, §6º, da CF prevê, como regra geral, responsabilidade das pessoas jurídicas abrangidas por danos causados por agentes nessa qualidade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objetiva, com regresso por dolo ou culpa do agente."
+        },
+        {
+          "id": "B",
+          "text": "Exclusivamente penal, sem reparação civil."
+        },
+        {
+          "id": "C",
+          "text": "Objetiva do agente em toda hipótese, sem apuração."
+        },
+        {
+          "id": "D",
+          "text": "Dependente sempre de condenação criminal prévia. Q18. Um fiscal tem acesso regular a dados protegidos de contribuinte. A publicidade administrativa:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-038",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 18,
+      "question": "Q18. Um fiscal tem acesso regular a dados protegidos de contribuinte. A publicidade administrativa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Autoriza divulgação irrestrita em rede social."
+        },
+        {
+          "id": "B",
+          "text": "Deve conviver com deveres legais de sigilo."
+        },
+        {
+          "id": "C",
+          "text": "Extingue o art. 198 do CTN."
+        },
+        {
+          "id": "D",
+          "text": "Transforma todos os dados em informação pública irrestrita. Q19. REVISÃO LEGISLAÇÃO MUNICIPAL: a administração tributária do art. 117 da Lei Orgânica de Queimados envolve:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-039",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 19,
+      "question": "Q19. REVISÃO LEGISLAÇÃO MUNICIPAL: a administração tributária do art. 117 da Lei Orgânica de Queimados envolve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somente julgamento criminal."
+        },
+        {
+          "id": "B",
+          "text": "Cadastro, lançamento, fiscalização e providências relativas à dívida ativa."
+        },
+        {
+          "id": "C",
+          "text": "Apenas construção de escolas."
+        },
+        {
+          "id": "D",
+          "text": "Exclusivamente execução judicial por fiscais. Q20. REVISÃO FINANÇAS PÚBLICAS: uma despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, configura:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+    },
+    {
+      "id": "direito-tributario-aula-095-q-040",
+      "lessonId": "direito-tributario-aula-095",
+      "numero": 20,
+      "question": "Q20. REVISÃO FINANÇAS PÚBLICAS: uma despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, configura:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Receita corrente."
+        },
+        {
+          "id": "B",
+          "text": "Restos a Pagar Processados."
+        },
+        {
+          "id": "C",
+          "text": "Restos a Pagar Não Processados."
+        },
+        {
+          "id": "D",
+          "text": "Receita de capital."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
     }
   ],
   "gabaritos": [],
@@ -813,5 +1523,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-13",
-  "contentHash": "776c6553570edee0"
+  "contentHash": "15386263a28661cc"
 }

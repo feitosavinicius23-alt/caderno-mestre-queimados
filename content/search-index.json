@@ -1,7 +1,7 @@
 {
-  "contentVersion": 103,
-  "geradoEm": "2026-10-13T03:04:27.179Z",
-  "total": 2139,
+  "contentVersion": 105,
+  "geradoEm": "2026-10-13T17:40:23.243Z",
+  "total": 2177,
   "documentos": [
     {
       "tipo": "aula",
@@ -21219,7 +21219,205 @@
       "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
       "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
       "blocoTipo": "teoria",
-      "texto": "=== FIM AULA 97 ==="
+      "texto": "=== FIM AULA 97 === ========== INÍCIO AULA 98 — 13/10/2026, 07h =========="
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b28",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "CONCURSO: PREFEITURA DE QUEIMADOS/RJ — CARGO EXCLUSIVO: AGENTE FISCAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "CONCURSO: PREFEITURA DE QUEIMADOS/RJ — CARGO EXCLUSIVO: AGENTE FISCAL"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b29",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "TEMA: DIREITO ADMINISTRATIVO — PRINCÍPIOS, ATOS, PODERES, PROCESSO E RESPONSABILIDADE",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "TEMA: DIREITO ADMINISTRATIVO — PRINCÍPIOS, ATOS, PODERES, PROCESSO E RESPONSABILIDADE BLOCO: CONHECIMENTOS ESPECÍFICOS | DURAÇÃO ORIENTATIVA: 55–65 MINUTOS\nCONTINUIDADE: AULA 97 (LEI ORGÂNICA: COMPETÊNCIAS, TRIBUTAÇÃO, ORÇAMENTO E CONTROLE).\nBASE: CF/1988, arts. 5º, LIV e LV, e 37; CTN, art. 78; Lei federal 9.784/1999 como referência conceitual, NÃO como rito municipal automático. Lei municipal 1."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b30",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "1. OBJETIVOS E RECUPERAÇÃO ATIVA (5 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "1. OBJETIVOS E RECUPERAÇÃO ATIVA (5 MIN) Sem consultar, tente recordar: (a) Qual artigo da Lei Orgânica de Queimados enumera cadastro, lançamento, fiscalização e dívida ativa? (b) Quem exerce controle externo municipal? (c) Qual é a diferença entre PPA, LDO e LOA? (d) Qual é a distinção entre empenho, liquidação e pagamento? (e) A CDA tem presunção absoluta ou relativa? Não há respostas registrada"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b31",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "2. PRINCÍPIOS EXPRESSOS DA ADMINISTRAÇÃO — ART. 37, CAPUT, CF",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "2. PRINCÍPIOS EXPRESSOS DA ADMINISTRAÇÃO — ART. 37, CAPUT, CF LIMPE: LEGALIDADE, IMPESSOALIDADE, MORALIDADE, PUBLICIDADE, EFICIÊNCIA.\nLEGALIDADE: o agente público precisa de fundamento jurídico para agir; não vale o raciocínio de que pode fazer tudo o que não é proibido. Exemplo: não pode criar multa sem previsão legal.\nIMPESSOALIDADE: a atuação persegue a finalidade pública e trata situações equi"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b32",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "PEGADINHA: “publicidade obriga divulgar qualquer documento fiscal” é falso. “Eficiência permite dispensar a lei” também é falso.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: “publicidade obriga divulgar qualquer documento fiscal” é falso. “Eficiência permite dispensar a lei” também é falso. Outros princípios relevantes: finalidade, motivação, razoabilidade, proporcionalidade, segurança jurídica, autotutela, supremacia e indisponibilidade do interesse público, com suas limitações constitucionais."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b33",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "3. ATO ADMINISTRATIVO — CINCO ELEMENTOS (10 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "3. ATO ADMINISTRATIVO — CINCO ELEMENTOS (10 MIN) C-O-F-M-O: COMPETÊNCIA, OBJETO, FORMA, MOTIVO, FINALIDADE (ou Co-Fi-Fo-Mo-Ob).\nCOMPETÊNCIA: quem tem atribuição legal para praticar o ato; em regra decorre de norma, não da vontade pessoal.\nFINALIDADE: interesse público e finalidade específica estabelecida na lei.\nFORMA: modo de exteriorização juridicamente exigido, frequentemente escrito, motivado "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b34",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "PEGADINHA: nem todo ato administrativo tem imperatividade e autoexecutoriedade.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "pegadinha",
+      "texto": "PEGADINHA: nem todo ato administrativo tem imperatividade e autoexecutoriedade."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b35",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "4. ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO (8 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "4. ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO (8 MIN) ANULAÇÃO: corrige ilegalidade; Administração pode/deve exercer autotutela conforme limites, e Judiciário pode controlar legalidade. Efeitos tipicamente retroativos, ressalvadas situações juridicamente protegidas.\nREVOGAÇÃO: retira ato VÁLIDO por conveniência e oportunidade, em regra pela própria Administração, com efeitos prospectivos e limites (direit"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b36",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "5. PODERES ADMINISTRATIVOS (10 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "5. PODERES ADMINISTRATIVOS (10 MIN) PODER HIERÁRQUICO: distribuição e organização de funções, fiscalização interna, revisão e comando dentro de uma estrutura hierárquica. Não há hierarquia geral entre entidades políticas autônomas.\nPODER DISCIPLINAR: apurar e punir infrações funcionais ou de pessoas submetidas a vínculo especial com a Administração, com devido processo.\nPODER REGULAMENTAR/NORMATIV"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b37",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "EXEMPLO 2: servidor sem atribuição legal impõe interdição: possível excesso de poder.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "exemplo",
+      "texto": "EXEMPLO 2: servidor sem atribuição legal impõe interdição: possível excesso de poder."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b38",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "EXEMPLO 3: fiscal competente usa auto de infração para perseguir rival: desvio de finalidade.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "exemplo",
+      "texto": "EXEMPLO 3: fiscal competente usa auto de infração para perseguir rival: desvio de finalidade. ATENÇÃO: fiscalização e sanção devem observar competência, tipicidade/legalidade, prova e procedimento. A inviolabilidade domiciliar do art. 5º, XI, da CF também limita ingresso forçado em domicílio; não há autorização geral para invadir residências sob pretexto de fiscalização."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b39",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "6. PROCESSO ADMINISTRATIVO E DIREITOS DO CONTRIBUINTE (7 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "6. PROCESSO ADMINISTRATIVO E DIREITOS DO CONTRIBUINTE (7 MIN) CF art. 5º, LIV e LV: devido processo legal, contraditório e ampla defesa nos processos pertinentes.\nESQUEMA GERAL (DIDÁTICO, NÃO RITO LOCAL): constatação/documentação -> ciência regular -> oportunidade de defesa e prova -> decisão fundamentada por autoridade competente -> recurso, se previsto -> providências subsequentes.\nA Lei 9.784/1"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b40",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "7. RESPONSABILIDADE DO ESTADO E DO AGENTE (5 MIN)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "7. RESPONSABILIDADE DO ESTADO E DO AGENTE (5 MIN) CF art. 37, §6º: pessoas jurídicas de direito público e pessoas jurídicas de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros; assegurado regresso contra o responsável em casos de dolo ou culpa.\nDIFERENÇA: responsabilidade CIVIL estatal objetiva, em regra, não significa r"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b41",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Atenção: nem todo dano é automaticamente indenizável; examinam-se conduta, nexo, dano e excludentes conforme o caso.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "atencao",
+      "texto": "Atenção: nem todo dano é automaticamente indenizável; examinam-se conduta, nexo, dano e excludentes conforme o caso."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b42",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "8. ESQUEMA DE REVISÃO DE 60 SEGUNDOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "8. ESQUEMA DE REVISÃO DE 60 SEGUNDOS LIMPE = legalidade, impessoalidade, moralidade, publicidade, eficiência.\nATO = competência, finalidade, forma, motivo, objeto.\nANULAR = ilegalidade; REVOGAR = conveniência/oportunidade em ato válido; CONVALIDAR = sanar vício sanável.\nPODERES = hierárquico, disciplinar, regulamentar e polícia.\nABUSO = excesso de poder OU desvio de finalidade.\nPROCESSO = devido p"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b43",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "9. TREINO AUTORAL — 20 QUESTÕES (NÃO REVELAR RESPOSTAS)",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "questao",
+      "texto": "9. TREINO AUTORAL — 20 QUESTÕES (NÃO REVELAR RESPOSTAS) Responda no formato 1A 2B ... 20D. Não consulte o texto. Tempo: 20–25 min."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b44",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "10. FECHAMENTO E RETENÇÃO",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "fechamento",
+      "texto": "10. FECHAMENTO E RETENÇÃO Recite sem consultar: LIMPE; os 5 elementos do ato; diferenças entre anular/revogar/convalidar; quatro poderes; excesso/desvio; responsabilidade do art. 37, §6º. Questões permanecem SEM GABARITO para preservar recuperação ativa. Após resposta: corrigir ALTERNATIVA POR ALTERNATIVA, identificar mecanismo do distrator, registrar no caderno de erros (erro, causa, regra, pegad"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-095-b45",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "========== FIM AULA 98 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "blocoTipo": "teoria",
+      "texto": "========== FIM AULA 98 =========="
     },
     {
       "tipo": "questao",
@@ -21420,6 +21618,206 @@
       "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
       "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
       "texto": "Q20 — PORTUGUÊS. Em “Embora os registros divirjam, a conclusão exige análise documental”, o conectivo “embora” introduz:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-021",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 1 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q1. Qual conjunto corresponde aos princípios EXPRESSOS no caput do art. 37 da CF?"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-022",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 2 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q2. INCORRETA. Em fiscalização municipal:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-023",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 3 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q3. Um agente aplica multa para retaliar comerciante por crítica política, embora seja competente para fiscalizar. O vício central é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-024",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 4 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q4. Em ato administrativo, o MOTIVO corresponde:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-025",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 5 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q5. EXCETO. São elementos clássicos do ato administrativo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-026",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 6 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q6. Sobre os atributos dos atos administrativos, assinale a CORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-027",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 7 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q7. A retirada de ato VÁLIDO por razões de conveniência e oportunidade, respeitados os limites jurídicos, denomina-se:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-028",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 8 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q8. A Administração constata ato ilegal que aplicou penalidade sem fundamento legal. A providência conceitualmente adequada é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-029",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 9 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q9. Sobre a Lei 9.784/1999, assinale a CORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-030",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 10 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q10. A organização de tarefas e revisão interna dentro de uma repartição está mais ligada ao poder:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-031",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 11 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q11. A apuração de infração funcional e eventual sanção a servidor, com garantias legais, relaciona-se ao poder:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-032",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 12 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q12. Decreto municipal que pretende criar multa nova sem base legal viola principalmente:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-033",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 13 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q13. O poder de polícia administrativa pode manifestar-se por:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-034",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 14 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q14. ASSERTIVAS: I. Excesso de poder ocorre quando agente ultrapassa competência. II. Desvio de finalidade envolve objetivo diferente do legal. III. Discricionariedade significa ausência de controle jurídico. Está correto:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-035",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 15 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q15. INCORRETA sobre processo sancionador:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-036",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 16 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q16. A motivação de um ato administrativo é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-037",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 17 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q17. O art. 37, §6º, da CF prevê, como regra geral, responsabilidade das pessoas jurídicas abrangidas por danos causados por agentes nessa qualidade:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-038",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 18 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q18. Um fiscal tem acesso regular a dados protegidos de contribuinte. A publicidade administrativa:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-039",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 19 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q19. REVISÃO LEGISLAÇÃO MUNICIPAL: a administração tributária do art. 117 da Lei Orgânica de Queimados envolve:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-095-q-040",
+      "lessonId": "direito-tributario-aula-095",
+      "titulo": "Questão 20 — CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "disciplina": "Direito Tributário",
+      "assunto": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc",
+      "texto": "Q20. REVISÃO FINANÇAS PÚBLICAS: uma despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, configura:"
     },
     {
       "tipo": "mapa",
