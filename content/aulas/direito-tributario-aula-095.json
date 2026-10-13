@@ -324,6 +324,12 @@
       "tipo": "teoria",
       "titulo": "========== FIM AULA 98 ==========",
       "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-095-b46",
+      "tipo": "teoria",
+      "titulo": "========== INÍCIO AULA 99 — 13/10/2026 ==========",
+      "texto": ""
     }
   ],
   "questoes": [
@@ -1523,5 +1529,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-13",
-  "contentHash": "15386263a28661cc"
+  "contentHash": "3c5efaf8094c39d3"
 }

@@ -1,0 +1,920 @@
+{
+  "id": "direito-tributario-aula-099",
+  "numero": 99,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "slug": "agente-fiscal-de-queimados-rj-aula-99",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ",
+  "ordem": 99,
+  "data": "2026-10-13",
+  "tempoEstimadoMin": 10,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-099-b1",
+      "tipo": "teoria",
+      "titulo": "GESTÃO FISCAL: LRF, METAS, RENÚNCIA DE RECEITA, LIMITES, RELATÓRIOS E TRANSPARÊNCIA",
+      "texto": "Duração orientativa: 55–65 minutos. Continuidade: Aula 98 (Direito Administrativo). Somente cargo AGENTE FISCAL. Conteúdo: Gestão Fiscal do guia verticalizado do edital. Questões autorais inspiradas em padrões objetivos, NÃO transcritas nem atribuídas à banca IAN. Gabarito intencionalmente oculto até resposta do aluno."
+    },
+    {
+      "id": "direito-tributario-aula-099-b2",
+      "tipo": "teoria",
+      "titulo": "OBJETIVOS",
+      "texto": "Ao concluir, diferenciar PPA/LDO/LOA; compreender os Anexos de Metas e Riscos Fiscais; aplicar a LRF à arrecadação municipal; explicar requisitos de renúncia tributária (incluindo atualizações em vigor em 2026); calcular limites de pessoal; diferenciar RREO/RGF; reconhecer transparência e controle fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-099-b3",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA (SEM CONSULTAR)",
+      "texto": "a) Quais são os cinco princípios expressos no art. 37 da CF?\nb) Anulação e revogação diferem em quê?\nc) Excesso de poder e desvio de finalidade: qual a diferença?\nd) Receita orçamentária pertence ao exercício da previsão ou arrecadação, segundo art. 35 da Lei 4.320/1964?\ne) Quem exerce controle externo municipal?\nNão considerar os temas dominados sem respostas e retenção em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-099-b4",
+      "tipo": "teoria",
+      "titulo": "2. LRF — IDEIA CENTRAL (ART. 1º)",
+      "texto": "Lei Complementar 101/2000: gestão fiscal responsável é planejada e transparente, previne riscos e corrige desvios que afetem o equilíbrio das contas públicas; exige metas e limites para receitas, despesas, dívida, crédito, garantias e Restos a Pagar. Abrange União, Estados, DF e Municípios. Não é lei que simplesmente proíbe gastos: disciplina como planejar, arrecadar, executar e prestar contas.\nCASO: o Município planeja ampliar fiscalização de ISS. Precisa prever custo e fonte, verificar compatibilidade orçamentária, acompanhar receitas e prestar contas; eficiência não dispensa legalidade."
+    },
+    {
+      "id": "direito-tributario-aula-099-b5",
+      "tipo": "teoria",
+      "titulo": "3. PPA, LDO, LOA E METAS (CF ART. 165; LRF ARTS. 4º E 5º)",
+      "texto": "PPA = diretrizes, objetivos e metas de médio prazo. LDO = prioridades e orientações para a LOA, equilíbrio e critérios de limitação de empenho. LOA = estima receitas e fixa despesas anuais, compatível com PPA/LDO.\nO PROJETO DA LDO contém:\n- ANEXO DE METAS FISCAIS (art. 4º, §1º): metas anuais de receitas, despesas, resultados nominal e primário e montante da dívida, para o exercício da LDO e os dois seguintes; avaliação de metas anteriores, estimativa e compensação de renúncia e margem de expansão de despesas continuadas, entre outros demonstrativos.\n- ANEXO DE RISCOS FISCAIS (art. 4º, §3º): avalia passivos contingentes e outros riscos que podem atingir as contas e providências se ocorrerem.\nPEGADINHA: metas são resultados pretendidos; riscos são eventos que podem frustrá-los. LDO NÃO é LOA. Disposições específicas adicionais da União não devem ser generalizadas automaticamente aos Municípios."
+    },
+    {
+      "id": "direito-tributario-aula-099-b6",
+      "tipo": "teoria",
+      "titulo": "4. RECEITA CORRENTE LÍQUIDA — RCL (ART. 2º, IV, §3º)",
+      "texto": "RCL não é toda receita bruta nem o dinheiro em caixa. É calculada a partir das receitas correntes especificadas em lei, feitas as deduções legais. Apuração considera o mês de referência e os 11 anteriores, excluídas duplicidades: janela móvel de 12 meses. Serve como denominador de limites fiscais, especialmente despesa com pessoal.\nEXEMPLO RESOLVIDO: RCL apurada = R$ 100 milhões; pessoal Executivo = R$ 50 milhões; índice = 50/100 = 50% da RCL. Não confundir índice com limite total do Município."
+    },
+    {
+      "id": "direito-tributario-aula-099-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 11, caput: instituição, previsão e efetiva arrecadação de TODOS OS TRIBUTOS da competência constitucional do ente são requisitos essenciais. Parágrafo único: restrição a TRANSFERÊNCIAS VOLUNTÁRIAS quando o ente não observa o caput NO QUE SE REFERE AOS IMPOSTOS."
+    },
+    {
+      "id": "direito-tributario-aula-099-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 12: previsão técnica, considerando legislação, inflação, crescimento etc., com demonstrativos e metodologia."
+    },
+    {
+      "id": "direito-tributario-aula-099-b9",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 13: no prazo do art. 8º, o Executivo desdobra receitas previstas em METAS BIMESTRAIS de arrecadação; quando cabível, especifica combate à evasão/sonegação, ações de cobrança de dívida ativa e créditos passíveis de cobrança administrativa."
+    },
+    {
+      "id": "direito-tributario-aula-099-b10",
+      "tipo": "teoria",
+      "titulo": "5. ARRECADAÇÃO E COMBATE À EVASÃO (ARTS. 11 A 13)",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-099-b11",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: \"tributos\" no caput e \"impostos\" no parágrafo único NÃO são intercambiáveis.",
+      "texto": "EXEMPLO: IPTU previsto R$ 12 milhões e arrecadado R$ 9 milhões: diferença R$ 3 milhões; isso exige avaliação, mas não comprova automaticamente fraude."
+    },
+    {
+      "id": "direito-tributario-aula-099-b12",
+      "tipo": "teoria",
+      "titulo": "6. RENÚNCIA DE RECEITA — ART. 14, REDAÇÃO VIGENTE EM 2026",
+      "texto": "A concessão, ampliação OU prorrogação de benefício tributário que gere renúncia deve vir acompanhada da estimativa do impacto no exercício de início e nos DOIS subsequentes; atender à LDO; e a PELO MENOS UMA das condições:\nI — demonstrar que a renúncia foi considerada na estimativa da receita da LOA e não afetará metas fiscais; OU\nII — acompanhar medidas compensatórias de aumento de receita (elevação de alíquotas, ampliação de base, majoração/criação de tributo ou contribuição).\nSe escolhida a via II, a vigência do benefício depende da implementação da compensação (art. 14, §2º).\nExemplos de renúncia do §1º: anistia, remissão, crédito presumido, isenção não geral, redução discriminada de alíquota/base e benefícios equivalentes. Há exceções legais, como cancelamento de débito cujo custo de cobrança supere seu valor (§3º, II).\nEXEMPLO RESOLVIDO: desconto tributário seletivo com impacto estimado R$ 400 mil no primeiro exercício, R$ 450 mil no segundo e R$ 480 mil no terceiro. A proposta deve demonstrar os impactos e atender à LDO e à condição I OU II. Não basta dizer que \"atrairá empresas\".\nPEGADINHA: \"é obrigatório cumprir cumulativamente I e II\" é falso; \"qualquer isenção geral sempre se enquadra como renúncia do §1º\" é generalização inadequada.\nATUALIZAÇÃO 2026: a LC 224/2025 alterou o caput do art. 14, vigente desde 1º/1/2026. Estude o texto atualizado, não apostila antiga."
+    },
+    {
+      "id": "direito-tributario-aula-099-b13",
+      "tipo": "teoria",
+      "titulo": "7. NOVO ART. 14-A — BENEFÍCIO A PESSOA JURÍDICA",
+      "texto": "Inserido pela LC 224/2025, com efeitos a partir de 1º/1/2026. Para proposição legislativa de concessão/ampliação/prorrogação de benefício tributário com renúncia e beneficiário pessoa jurídica, exige, entre outros: estimativa de número de beneficiários; prazo de vigência em regra até 5 anos (com exceção legal para investimento de longo prazo); metas objetivas e quantificáveis em dimensões econômicas, sociais e ambientais; impacto regional quando cabível; transparência, monitoramento e avaliação.\nNão confundir a regra geral de 5 anos com proibição absoluta de qualquer duração superior: a lei prevê exceção qualificada. Há hipóteses específicas de não aplicação e regras sobre diferimento. A LC 235/2026 também previu hipótese especial de não aplicação; não extrapolar sem ler o caso concreto.\nCASO: isenção de ISS para setor econômico por seis anos, sem metas nem avaliação. Não basta alegar geração de empregos: precisa conferir os requisitos legais, a exceção eventualmente aplicável e os instrumentos de transparência."
+    },
+    {
+      "id": "direito-tributario-aula-099-b14",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: benefício fiscal concedido em 2026 não deve ser avaliado só com redação da LRF de 2024.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-099-b15",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 16: criação/expansão/aperfeiçoamento de ação governamental com aumento de despesa requer estimativa de impacto no exercício e nos dois seguintes e declaração do ordenador sobre adequação à LOA e compatibilidade com PPA/LDO, ressalvas legais."
+    },
+    {
+      "id": "direito-tributario-aula-099-b16",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 17: despesa obrigatória de caráter continuado é DESPESA CORRENTE derivada de ato normativo com obrigação por período SUPERIOR A DOIS EXERCÍCIOS; exige regras próprias de demonstração e compensação."
+    },
+    {
+      "id": "direito-tributario-aula-099-b17",
+      "tipo": "teoria",
+      "titulo": "8. DESPESA, LIMITES DE PESSOAL E ALERTAS (ARTS. 16 A 23 E 59)",
+      "texto": "Limites de pessoal sobre RCL (arts. 19 e 20): Município total 60%; Executivo municipal 54%; Legislativo municipal 6%. Não somar 54% com 60%: 54%+6%=60%.\nAlerta do Tribunal de Contas (art. 59, §1º, II): pessoal ultrapassou 90% do respectivo limite. Limite prudencial (art. 22, parágrafo único): despesa ultrapassa 95% do limite do respectivo Poder/órgão, incidindo restrições legais, com exceções.\nEXEMPLO RESOLVIDO: RCL R$ 100 milhões; limite Executivo = R$ 54 milhões. 90% desse limite = R$ 48,6 milhões (alerta se ultrapassado). 95% = R$ 51,3 milhões (prudencial se ultrapassado). Gastos de R$ 52 milhões equivalem a 52% da RCL e ultrapassam o prudencial, embora abaixo do teto de 54%. Não confundir \"95% do limite\" com \"95% da RCL\"."
+    },
+    {
+      "id": "direito-tributario-aula-099-b18",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 23: excesso acima do limite deve ser eliminado nos dois quadrimestres seguintes, ao menos 1/3 no primeiro, observadas regras e exceções."
+    },
+    {
+      "id": "direito-tributario-aula-099-b19",
+      "tipo": "pegadinha",
+      "titulo": "PEGADINHA: dizer que o teto do Executivo é 60% confunde limite do ente com limite do Poder.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-099-b20",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 8º: até 30 dias após publicação dos orçamentos, Executivo estabelece programação financeira e cronograma mensal de desembolso."
+    },
+    {
+      "id": "direito-tributario-aula-099-b21",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 9º: se, ao final de BIMESTRE, a receita não comportar as metas de resultado, Poderes e Ministério Público adotam, por ato próprio, limitação de empenho e movimentação financeira nos 30 dias seguintes, conforme LDO, ressalvadas despesas protegidas."
+    },
+    {
+      "id": "direito-tributario-aula-099-b22",
+      "tipo": "teoria",
+      "titulo": "9. PROGRAMAÇÃO, LIMITAÇÃO DE EMPENHO E CONTROLE (ARTS. 8º E 9º)",
+      "texto": "EXEMPLO: arrecadação ficou abaixo do necessário para meta fiscal; a Administração pode ter de limitar empenhos, mas isso não é autorização para cancelar livremente direitos e obrigações legais.\nATENÇÃO: o art. 9º, §3º, que autorizava o Executivo a limitar valores de outros Poderes, foi declarado inconstitucional pelo STF. Não tratá-lo como autorização válida."
+    },
+    {
+      "id": "direito-tributario-aula-099-b23",
+      "tipo": "teoria",
+      "titulo": "10. TRANSPARÊNCIA, RELATÓRIOS E CONTROLE (ARTS. 48, 48-A, 52 A 55, 58 E 59)",
+      "texto": "RREO = RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA; abrange todos os Poderes e MP; periodicidade BIMESTRAL; publicação até 30 dias após cada bimestre (art. 52); demonstra execução de receitas/despesas e outros dados.\nRGF = RELATÓRIO DE GESTÃO FISCAL; emitido em regra ao fim de cada QUADRIMESTRE pelos titulares dos Poderes/órgãos; publicação até 30 dias após período (arts. 54–55); compara limites de pessoal, dívida, garantias, operações de crédito e medidas corretivas. Há regime facultativo especial do art. 63 para Municípios com menos de 50 mil habitantes; não presumir aplicação a Queimados."
+    },
+    {
+      "id": "direito-tributario-aula-099-b24",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 48: transparência abrange planos, orçamentos, LDO, prestações de contas, pareceres, RREO, RGF e versões simplificadas; participação popular e informações detalhadas da execução."
+    },
+    {
+      "id": "direito-tributario-aula-099-b25",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "ATUALIZAÇÃO 2026: art. 48, §1º, IV, prevê dados atualizados de benefícios tributários, financeiros e creditícios em formato aberto e padronizado no Portal de Transparência."
+    },
+    {
+      "id": "direito-tributario-aula-099-b26",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 48-A: dados da despesa e da receita, inclusive lançamento e recebimento. Art. 58: prestação de contas destaca desempenho arrecadatório, combate à sonegação e recuperação de créditos. Art. 59: fiscalização pelo Legislativo, Tribunais de Contas e controle interno."
+    },
+    {
+      "id": "direito-tributario-aula-099-b27",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "PEGADINHA: RREO NÃO é quadrimestral; RGF NÃO é bimestral. Transparência não elimina sigilo fiscal individual legalmente protegido (CTN art. 198)."
+    },
+    {
+      "id": "direito-tributario-aula-099-b28",
+      "tipo": "teoria",
+      "titulo": "11. CASO INTEGRADOR RESOLVIDO",
+      "texto": "Município hipotético: RCL R$ 200 milhões; pessoal Executivo R$ 104 milhões; proposta de benefício seletivo de ISS com impacto R$ 600 mil, R$ 650 mil e R$ 700 mil nos três exercícios; arrecadação bimestral abaixo da meta.\na) Percentual pessoal Executivo = 104/200 = 52% da RCL. Teto = 54% de 200 = R$ 108 milhões. Prudencial = 95% de 108 = R$ 102,6 milhões. O gasto supera o prudencial mesmo sem superar o teto.\nb) Benefício ISS exige impacto nos três exercícios, observância da LDO e condição I OU II do art. 14; se pessoa jurídica, verificar art. 14-A.\nc) Receita frustrada exige acompanhamento e possível limitação de empenho nos termos do art. 9º; não significa automaticamente fraude tributária.\nd) O RREO registra execução bimestral; o RGF monitora limites em regra quadrimestralmente.\ne) Fiscalização municipal, controle interno, Câmara e Tribunal de Contas possuem papéis distintos."
+    },
+    {
+      "id": "direito-tributario-aula-099-b29",
+      "tipo": "mapa-mental",
+      "titulo": "12. MAPA DE MEMORIZAÇÃO",
+      "texto": "LRF art. 1º = planejar + transparência + limites.\nLDO art. 4º = Metas (objetivos) + Riscos (ameaças).\nRCL art. 2º = mês atual + 11 anteriores, deduções legais.\nArt. 11 = todos os TRIBUTOS no caput; IMPOSTOS na sanção de transferências voluntárias.\nArt. 13 = metas BIMESTRAIS de arrecadação.\nArt. 14 = impacto 3 exercícios + LDO + condição I OU II.\nArt. 14-A (2026) = metas, avaliação e transparência para benefício a pessoa jurídica; prazo geral até 5 anos, ressalvas.\nPessoal Município = 60%; Executivo = 54%; Legislativo = 6%.\n90% do limite = alerta; acima de 95% do limite = prudencial.\nArt. 9º = verificação BIMESTRAL, limitação nos 30 dias subsequentes.\nRREO = BIMESTRAL; RGF = QUADRIMESTRAL (regra geral).",
+      "mapaId": "direito-tributario-aula-099-b29"
+    },
+    {
+      "id": "direito-tributario-aula-099-b30",
+      "tipo": "questao",
+      "titulo": "13. TESTE ATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO",
+      "texto": "Não consultar. Responder 1A, 2B...; se houver dúvida, indicar nível de confiança. Alternativas não reveladas como corretas antes da resposta.",
+      "questionIds": [
+        "direito-tributario-aula-099-q-001",
+        "direito-tributario-aula-099-q-002",
+        "direito-tributario-aula-099-q-003",
+        "direito-tributario-aula-099-q-004",
+        "direito-tributario-aula-099-q-005",
+        "direito-tributario-aula-099-q-006",
+        "direito-tributario-aula-099-q-007",
+        "direito-tributario-aula-099-q-008",
+        "direito-tributario-aula-099-q-009",
+        "direito-tributario-aula-099-q-010",
+        "direito-tributario-aula-099-q-011",
+        "direito-tributario-aula-099-q-012",
+        "direito-tributario-aula-099-q-013",
+        "direito-tributario-aula-099-q-014",
+        "direito-tributario-aula-099-q-015",
+        "direito-tributario-aula-099-q-016",
+        "direito-tributario-aula-099-q-017",
+        "direito-tributario-aula-099-q-018",
+        "direito-tributario-aula-099-q-019",
+        "direito-tributario-aula-099-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-099-b31",
+      "tipo": "revisao",
+      "titulo": "14. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "texto": "Explique em voz alta: (1) LDO/Metas/Riscos; (2) art. 11 caput x parágrafo; (3) art. 14 I OU II e novo 14-A; (4) 54%, 60%, 90%, 95%; (5) RREO x RGF; (6) efeito de frustração de receita. Em 24h, 72h e 7 dias repetir em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-099-b32",
+      "tipo": "teoria",
+      "titulo": "15. CONTROLE E CADERNO DE ERROS",
+      "texto": "20 questões propostas; respostas 0 nesta execução; acertos, erros e domínio NÃO AFERIDOS. Não inventar gabarito oficial IAN nem resultados individuais. Após resposta do aluno: corrigir cada alternativa, explicar mecanismo do distrator, registrar erro, causa provável, regra correta, pegadinha e revisão futura. Não transferir anotações individuais entre documentos.\nPRÓXIMA AULA 100: Português OU Informática, priorizando lacuna do edital, seguida de revisão cumulativa no próximo ciclo."
+    },
+    {
+      "id": "direito-tributario-aula-099-b33",
+      "tipo": "teoria",
+      "titulo": "FONTES CONFERIDAS EM 13/10/2026",
+      "texto": "LC 101/2000, texto atualizado na Câmara: https://www2.camara.leg.br/legin/fed/leicom/2000/leicomplementar-101-4-maio-2000-351480-normaatualizada-pl.html\nConstituição Federal, art. 165: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm\nLei 4.320/1964: https://www.planalto.gov.br/ccivil_03/leis/l4320.htm\nGuia verticalizado Agente Fiscal Queimados 2026, arquivo da biblioteca. Edital oficial é limite absoluto. Nenhum gabarito de questões IAN foi inventado."
+    },
+    {
+      "id": "direito-tributario-aula-099-b34",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 99 ==========",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-099-b35",
+      "tipo": "teoria",
+      "titulo": "========== INÍCIO AULA 100 — 13/10/2026 ==========",
+      "texto": ""
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-099-q-001",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 1,
+      "question": "Q1. Segundo a LRF, a responsabilidade na gestão fiscal pressupõe:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas proibição de contratação."
+        },
+        {
+          "id": "B",
+          "text": "Ação planejada e transparente, prevenção de riscos e correção de desvios."
+        },
+        {
+          "id": "C",
+          "text": "Supressão da fiscalização tributária."
+        },
+        {
+          "id": "D",
+          "text": "Dispensa de metas fiscais. Q2. O Anexo de Riscos Fiscais integra o projeto de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-002",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 2,
+      "question": "Q2. O Anexo de Riscos Fiscais integra o projeto de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "LDO."
+        },
+        {
+          "id": "B",
+          "text": "Decreto de lançamento."
+        },
+        {
+          "id": "C",
+          "text": "CDA."
+        },
+        {
+          "id": "D",
+          "text": "NFS-e. Q3. INCORRETA. Sobre o Anexo de Metas Fiscais:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-003",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 3,
+      "question": "Q3. INCORRETA. Sobre o Anexo de Metas Fiscais:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inclui metas de receitas e despesas."
+        },
+        {
+          "id": "B",
+          "text": "Trata de resultados primário e nominal."
+        },
+        {
+          "id": "C",
+          "text": "Avalia exclusivamente a folha de pagamento do mês."
+        },
+        {
+          "id": "D",
+          "text": "Abrange exercício de referência e dois seguintes na regra geral. Q4. A RCL, para fins da LRF, é apurada, em regra, considerando:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-004",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 4,
+      "question": "Q4. A RCL, para fins da LRF, é apurada, em regra, considerando:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apenas o mês atual."
+        },
+        {
+          "id": "B",
+          "text": "Mês de referência e 11 anteriores, excluídas duplicidades."
+        },
+        {
+          "id": "C",
+          "text": "Apenas janeiro a dezembro do ano anterior."
+        },
+        {
+          "id": "D",
+          "text": "Somente o saldo bancário. Q5. Art. 11 da LRF: a sanção do parágrafo único sobre transferências voluntárias refere-se especificamente à ausência de observância quanto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-005",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 5,
+      "question": "Q5. Art. 11 da LRF: a sanção do parágrafo único sobre transferências voluntárias refere-se especificamente à ausência de observância quanto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aos impostos."
+        },
+        {
+          "id": "B",
+          "text": "A toda tarifa pública."
+        },
+        {
+          "id": "C",
+          "text": "A qualquer preço privado."
+        },
+        {
+          "id": "D",
+          "text": "Somente a empréstimos. Q6. A LRF exige desdobramento das receitas previstas em metas de arrecadação:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-006",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 6,
+      "question": "Q6. A LRF exige desdobramento das receitas previstas em metas de arrecadação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diárias."
+        },
+        {
+          "id": "B",
+          "text": "Semanais."
+        },
+        {
+          "id": "C",
+          "text": "Bimestrais."
+        },
+        {
+          "id": "D",
+          "text": "Quadrienais. Q7. Sobre renúncia de receita (art. 14, redação 2026), assinale a CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-007",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 7,
+      "question": "Q7. Sobre renúncia de receita (art. 14, redação 2026), assinale a CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basta justificativa verbal."
+        },
+        {
+          "id": "B",
+          "text": "Exige estimativa do exercício inicial e dois seguintes, LDO e pelo menos uma das condições legais."
+        },
+        {
+          "id": "C",
+          "text": "Exige obrigatoriamente condições I e II cumulativas."
+        },
+        {
+          "id": "D",
+          "text": "Toda renúncia dispensa impacto. Q8. EXCETO. Em regra, podem configurar renúncia no art. 14, §1º, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-008",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 8,
+      "question": "Q8. EXCETO. Em regra, podem configurar renúncia no art. 14, §1º, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Remissão."
+        },
+        {
+          "id": "B",
+          "text": "Anistia."
+        },
+        {
+          "id": "C",
+          "text": "Crédito presumido."
+        },
+        {
+          "id": "D",
+          "text": "Recebimento integral do imposto sem benefício. Q9. Se o incentivo tributário depende da compensação do art. 14, II, sua vigência ocorre:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-009",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 9,
+      "question": "Q9. Se o incentivo tributário depende da compensação do art. 14, II, sua vigência ocorre:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Independentemente da compensação."
+        },
+        {
+          "id": "B",
+          "text": "Após implementadas as medidas de compensação."
+        },
+        {
+          "id": "C",
+          "text": "Automaticamente por despacho do fiscal."
+        },
+        {
+          "id": "D",
+          "text": "Sem necessidade de lei. Q10. Sobre o art. 14-A, vigente em 2026, é CORRETO afirmar:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-010",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 10,
+      "question": "Q10. Sobre o art. 14-A, vigente em 2026, é CORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O prazo de cinco anos não admite nenhuma exceção."
+        },
+        {
+          "id": "B",
+          "text": "Proíbe qualquer monitoramento."
+        },
+        {
+          "id": "C",
+          "text": "Prevê estimativa de beneficiários, metas e avaliação para hipóteses abrangidas."
+        },
+        {
+          "id": "D",
+          "text": "Revoga o art. 14. Q11. O limite global de pessoal dos Municípios na LRF é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-011",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 11,
+      "question": "Q11. O limite global de pessoal dos Municípios na LRF é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "40% da RCL."
+        },
+        {
+          "id": "B",
+          "text": "50% da RCL."
+        },
+        {
+          "id": "C",
+          "text": "54% da RCL."
+        },
+        {
+          "id": "D",
+          "text": "60% da RCL. Q12. O limite de despesa com pessoal do Executivo municipal é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-012",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 12,
+      "question": "Q12. O limite de despesa com pessoal do Executivo municipal é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6% da RCL."
+        },
+        {
+          "id": "B",
+          "text": "54% da RCL."
+        },
+        {
+          "id": "C",
+          "text": "60% da RCL."
+        },
+        {
+          "id": "D",
+          "text": "95% da RCL. Q13. RCL = R$ 100 milhões; limite Executivo = 54%. O patamar de 95% desse limite é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-013",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 13,
+      "question": "Q13. RCL = R$ 100 milhões; limite Executivo = 54%. O patamar de 95% desse limite é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 95 milhões."
+        },
+        {
+          "id": "B",
+          "text": "R$ 54 milhões."
+        },
+        {
+          "id": "C",
+          "text": "R$ 51,3 milhões."
+        },
+        {
+          "id": "D",
+          "text": "R$ 5,4 milhões. Q14. O Tribunal de Contas emite alerta de pessoal quando ultrapassados:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-014",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 14,
+      "question": "Q14. O Tribunal de Contas emite alerta de pessoal quando ultrapassados:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90% do respectivo limite."
+        },
+        {
+          "id": "B",
+          "text": "90% da receita bruta total."
+        },
+        {
+          "id": "C",
+          "text": "95% da RCL."
+        },
+        {
+          "id": "D",
+          "text": "100% do orçamento. Q15. A limitação de empenho do art. 9º é avaliada após o encerramento de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-015",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 15,
+      "question": "Q15. A limitação de empenho do art. 9º é avaliada após o encerramento de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cada dia."
+        },
+        {
+          "id": "B",
+          "text": "Cada bimestre."
+        },
+        {
+          "id": "C",
+          "text": "Cada quinquênio."
+        },
+        {
+          "id": "D",
+          "text": "Cada legislatura. Q16. INCORRETA. A respeito dos relatórios:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-016",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 16,
+      "question": "Q16. INCORRETA. A respeito dos relatórios:",
+      "options": [
+        {
+          "id": "A",
+          "text": "RREO é, em regra, bimestral."
+        },
+        {
+          "id": "B",
+          "text": "RGF é, em regra, quadrimestral."
+        },
+        {
+          "id": "C",
+          "text": "RREO e RGF têm necessariamente periodicidade mensal."
+        },
+        {
+          "id": "D",
+          "text": "Ambos são instrumentos de transparência fiscal. Q17. RGF deve ser publicado, na regra geral, em até:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-017",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 17,
+      "question": "Q17. RGF deve ser publicado, na regra geral, em até:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 dias após encerramento do período."
+        },
+        {
+          "id": "B",
+          "text": "2 anos após encerramento."
+        },
+        {
+          "id": "C",
+          "text": "180 dias após cada semana."
+        },
+        {
+          "id": "D",
+          "text": "10 dias antes do período. Q18. A alteração de 2026 no art. 48 da LRF reforçou:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-018",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 18,
+      "question": "Q18. A alteração de 2026 no art. 48 da LRF reforçou:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sigilo absoluto dos benefícios fiscais."
+        },
+        {
+          "id": "B",
+          "text": "Divulgação em formato aberto e padronizado de benefícios tributários, financeiros e creditícios."
+        },
+        {
+          "id": "C",
+          "text": "Extinção do RREO."
+        },
+        {
+          "id": "D",
+          "text": "Dispensa de prestação de contas. Q19. REVISÃO DIREITO ADMINISTRATIVO. Excesso de poder é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-019",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 19,
+      "question": "Q19. REVISÃO DIREITO ADMINISTRATIVO. Excesso de poder é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uso de competência para fim pessoal."
+        },
+        {
+          "id": "B",
+          "text": "Ultrapassagem dos limites de competência."
+        },
+        {
+          "id": "C",
+          "text": "Revogação de ato válido."
+        },
+        {
+          "id": "D",
+          "text": "Controle judicial da legalidade. Q20. REVISÃO FINANÇAS PÚBLICAS. A despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, constitui:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    },
+    {
+      "id": "direito-tributario-aula-099-q-020",
+      "lessonId": "direito-tributario-aula-099",
+      "numero": 20,
+      "question": "Q20. REVISÃO FINANÇAS PÚBLICAS. A despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, constitui:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Restos a Pagar Processados."
+        },
+        {
+          "id": "B",
+          "text": "Receita de capital."
+        },
+        {
+          "id": "C",
+          "text": "Restos a Pagar Não Processados."
+        },
+        {
+          "id": "D",
+          "text": "Ingresso extraorçamentário."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-099-b3",
+      "titulo": "1. RECUPERAÇÃO ATIVA (SEM CONSULTAR)",
+      "texto": "a) Quais são os cinco princípios expressos no art. 37 da CF?\nb) Anulação e revogação diferem em quê?\nc) Excesso de poder e desvio de finalidade: qual a diferença?\nd) Receita orçamentária pertence ao exercício da previsão ou arrecadação, segundo art. 35 da Lei 4.320/1964?\ne) Quem exerce controle externo municipal?\nNão considerar os temas dominados sem respostas e retenção em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-099-b31",
+      "titulo": "14. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "texto": "Explique em voz alta: (1) LDO/Metas/Riscos; (2) art. 11 caput x parágrafo; (3) art. 14 I OU II e novo 14-A; (4) 54%, 60%, 90%, 95%; (5) RREO x RGF; (6) efeito de frustração de receita. Em 24h, 72h e 7 dias repetir em questões misturadas."
+    }
+  ],
+  "mapasMentais": [
+    {
+      "id": "direito-tributario-aula-099-b29",
+      "titulo": "12. MAPA DE MEMORIZAÇÃO",
+      "nos": [
+        "LRF art. 1º = planejar + transparência + limites",
+        "LDO art. 4º = Metas (objetivos) + Riscos (ameaças)",
+        "RCL art. 2º = mês atual + 11 anteriores, deduções legais",
+        "Art. 11 = todos os TRIBUTOS no caput; IMPOSTOS na sanção de transferências voluntárias",
+        "Art. 13 = metas BIMESTRAIS de arrecadação",
+        "Art. 14 = impacto 3 exercícios + LDO + condição I OU II",
+        "Art. 14-A (2026) = metas, avaliação e transparência para benefício a pessoa jurídica; prazo geral até 5 anos, ressalvas",
+        "Pessoal Município = 60%; Executivo = 54%; Legislativo = 6%",
+        "90% do limite = alerta; acima de 95% do limite = prudencial",
+        "Art. 9º = verificação BIMESTRAL, limitação nos 30 dias subsequentes",
+        "RREO = BIMESTRAL; RGF = QUADRIMESTRAL (regra geral)"
+      ]
+    }
+  ],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-099-b7",
+      "titulo": "5. ARRECADAÇÃO E COMBATE À EVASÃO (ARTS. 11 A 13)",
+      "texto": "Art. 11, caput: instituição, previsão e efetiva arrecadação de TODOS OS TRIBUTOS da competência constitucional do ente são requisitos essenciais. Parágrafo único: restrição a TRANSFERÊNCIAS VOLUNTÁRIAS quando o ente não observa o caput NO QUE SE REFERE AOS IMPOSTOS."
+    },
+    {
+      "id": "direito-tributario-aula-099-b8",
+      "titulo": "5. ARRECADAÇÃO E COMBATE À EVASÃO (ARTS. 11 A 13)",
+      "texto": "Art. 12: previsão técnica, considerando legislação, inflação, crescimento etc., com demonstrativos e metodologia."
+    },
+    {
+      "id": "direito-tributario-aula-099-b9",
+      "titulo": "5. ARRECADAÇÃO E COMBATE À EVASÃO (ARTS. 11 A 13)",
+      "texto": "Art. 13: no prazo do art. 8º, o Executivo desdobra receitas previstas em METAS BIMESTRAIS de arrecadação; quando cabível, especifica combate à evasão/sonegação, ações de cobrança de dívida ativa e créditos passíveis de cobrança administrativa."
+    },
+    {
+      "id": "direito-tributario-aula-099-b15",
+      "titulo": "8. DESPESA, LIMITES DE PESSOAL E ALERTAS (ARTS. 16 A 23 E 59)",
+      "texto": "Art. 16: criação/expansão/aperfeiçoamento de ação governamental com aumento de despesa requer estimativa de impacto no exercício e nos dois seguintes e declaração do ordenador sobre adequação à LOA e compatibilidade com PPA/LDO, ressalvas legais."
+    },
+    {
+      "id": "direito-tributario-aula-099-b16",
+      "titulo": "8. DESPESA, LIMITES DE PESSOAL E ALERTAS (ARTS. 16 A 23 E 59)",
+      "texto": "Art. 17: despesa obrigatória de caráter continuado é DESPESA CORRENTE derivada de ato normativo com obrigação por período SUPERIOR A DOIS EXERCÍCIOS; exige regras próprias de demonstração e compensação."
+    },
+    {
+      "id": "direito-tributario-aula-099-b18",
+      "titulo": "8. DESPESA, LIMITES DE PESSOAL E ALERTAS (ARTS. 16 A 23 E 59)",
+      "texto": "Art. 23: excesso acima do limite deve ser eliminado nos dois quadrimestres seguintes, ao menos 1/3 no primeiro, observadas regras e exceções."
+    },
+    {
+      "id": "direito-tributario-aula-099-b20",
+      "titulo": "9. PROGRAMAÇÃO, LIMITAÇÃO DE EMPENHO E CONTROLE (ARTS. 8º E 9º)",
+      "texto": "Art. 8º: até 30 dias após publicação dos orçamentos, Executivo estabelece programação financeira e cronograma mensal de desembolso."
+    },
+    {
+      "id": "direito-tributario-aula-099-b21",
+      "titulo": "9. PROGRAMAÇÃO, LIMITAÇÃO DE EMPENHO E CONTROLE (ARTS. 8º E 9º)",
+      "texto": "Art. 9º: se, ao final de BIMESTRE, a receita não comportar as metas de resultado, Poderes e Ministério Público adotam, por ato próprio, limitação de empenho e movimentação financeira nos 30 dias seguintes, conforme LDO, ressalvadas despesas protegidas."
+    },
+    {
+      "id": "direito-tributario-aula-099-b24",
+      "titulo": "10. TRANSPARÊNCIA, RELATÓRIOS E CONTROLE (ARTS. 48, 48-A, 52 A 55, 58 E 59)",
+      "texto": "Art. 48: transparência abrange planos, orçamentos, LDO, prestações de contas, pareceres, RREO, RGF e versões simplificadas; participação popular e informações detalhadas da execução."
+    },
+    {
+      "id": "direito-tributario-aula-099-b26",
+      "titulo": "10. TRANSPARÊNCIA, RELATÓRIOS E CONTROLE (ARTS. 48, 48-A, 52 A 55, 58 E 59)",
+      "texto": "Art. 48-A: dados da despesa e da receita, inclusive lançamento e recebimento. Art. 58: prestação de contas destaca desempenho arrecadatório, combate à sonegação e recuperação de créditos. Art. 59: fiscalização pelo Legislativo, Tribunais de Contas e controle interno."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-13",
+  "contentHash": "bedcf740fa03e538"
+}

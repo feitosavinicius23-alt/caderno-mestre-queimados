@@ -17953,3 +17953,513 @@ Recite sem consultar: LIMPE; os 5 elementos do ato; diferenças entre anular/rev
 PRÓXIMA AULA 99: GESTÃO FISCAL/LRF — metas, relatórios, renúncia de receita e controle (apenas conteúdos confirmados para Agente Fiscal), seguida de Português/Informática e revisão cumulativa no ciclo.
 FONTES: Constituição art. 37 e art. 5º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm); CTN art. 78 e 198 (https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm); Lei federal 9.784/1999 (https://www2.camara.leg.br/legin/fed/lei/1999/lei-9784-29-janeiro-1999-322239-normaatualizada-pl.html). Guia verticalizado Agente Fiscal (biblioteca do aluno). O edital oficial é o limite, e esta aula restringiu-se ao bloco de Direito Administrativo indicado no guia.
 ========== FIM AULA 98 ==========
+
+
+========== INÍCIO AULA 99 — 13/10/2026 ==========
+AULA 99 — AGENTE FISCAL DE QUEIMADOS/RJ
+GESTÃO FISCAL: LRF, METAS, RENÚNCIA DE RECEITA, LIMITES, RELATÓRIOS E TRANSPARÊNCIA
+Duração orientativa: 55–65 minutos. Continuidade: Aula 98 (Direito Administrativo). Somente cargo AGENTE FISCAL. Conteúdo: Gestão Fiscal do guia verticalizado do edital. Questões autorais inspiradas em padrões objetivos, NÃO transcritas nem atribuídas à banca IAN. Gabarito intencionalmente oculto até resposta do aluno.
+
+
+OBJETIVOS
+Ao concluir, diferenciar PPA/LDO/LOA; compreender os Anexos de Metas e Riscos Fiscais; aplicar a LRF à arrecadação municipal; explicar requisitos de renúncia tributária (incluindo atualizações em vigor em 2026); calcular limites de pessoal; diferenciar RREO/RGF; reconhecer transparência e controle fiscal.
+
+
+1. RECUPERAÇÃO ATIVA (SEM CONSULTAR)
+a) Quais são os cinco princípios expressos no art. 37 da CF?
+b) Anulação e revogação diferem em quê?
+c) Excesso de poder e desvio de finalidade: qual a diferença?
+d) Receita orçamentária pertence ao exercício da previsão ou arrecadação, segundo art. 35 da Lei 4.320/1964?
+e) Quem exerce controle externo municipal?
+Não considerar os temas dominados sem respostas e retenção em questões misturadas.
+
+
+2. LRF — IDEIA CENTRAL (ART. 1º)
+Lei Complementar 101/2000: gestão fiscal responsável é planejada e transparente, previne riscos e corrige desvios que afetem o equilíbrio das contas públicas; exige metas e limites para receitas, despesas, dívida, crédito, garantias e Restos a Pagar. Abrange União, Estados, DF e Municípios. Não é lei que simplesmente proíbe gastos: disciplina como planejar, arrecadar, executar e prestar contas.
+CASO: o Município planeja ampliar fiscalização de ISS. Precisa prever custo e fonte, verificar compatibilidade orçamentária, acompanhar receitas e prestar contas; eficiência não dispensa legalidade.
+
+
+3. PPA, LDO, LOA E METAS (CF ART. 165; LRF ARTS. 4º E 5º)
+PPA = diretrizes, objetivos e metas de médio prazo. LDO = prioridades e orientações para a LOA, equilíbrio e critérios de limitação de empenho. LOA = estima receitas e fixa despesas anuais, compatível com PPA/LDO.
+O PROJETO DA LDO contém:
+- ANEXO DE METAS FISCAIS (art. 4º, §1º): metas anuais de receitas, despesas, resultados nominal e primário e montante da dívida, para o exercício da LDO e os dois seguintes; avaliação de metas anteriores, estimativa e compensação de renúncia e margem de expansão de despesas continuadas, entre outros demonstrativos.
+- ANEXO DE RISCOS FISCAIS (art. 4º, §3º): avalia passivos contingentes e outros riscos que podem atingir as contas e providências se ocorrerem.
+PEGADINHA: metas são resultados pretendidos; riscos são eventos que podem frustrá-los. LDO NÃO é LOA. Disposições específicas adicionais da União não devem ser generalizadas automaticamente aos Municípios.
+
+
+4. RECEITA CORRENTE LÍQUIDA — RCL (ART. 2º, IV, §3º)
+RCL não é toda receita bruta nem o dinheiro em caixa. É calculada a partir das receitas correntes especificadas em lei, feitas as deduções legais. Apuração considera o mês de referência e os 11 anteriores, excluídas duplicidades: janela móvel de 12 meses. Serve como denominador de limites fiscais, especialmente despesa com pessoal.
+EXEMPLO RESOLVIDO: RCL apurada = R$ 100 milhões; pessoal Executivo = R$ 50 milhões; índice = 50/100 = 50% da RCL. Não confundir índice com limite total do Município.
+
+
+5. ARRECADAÇÃO E COMBATE À EVASÃO (ARTS. 11 A 13)
+Art. 11, caput: instituição, previsão e efetiva arrecadação de TODOS OS TRIBUTOS da competência constitucional do ente são requisitos essenciais. Parágrafo único: restrição a TRANSFERÊNCIAS VOLUNTÁRIAS quando o ente não observa o caput NO QUE SE REFERE AOS IMPOSTOS.
+Art. 12: previsão técnica, considerando legislação, inflação, crescimento etc., com demonstrativos e metodologia.
+Art. 13: no prazo do art. 8º, o Executivo desdobra receitas previstas em METAS BIMESTRAIS de arrecadação; quando cabível, especifica combate à evasão/sonegação, ações de cobrança de dívida ativa e créditos passíveis de cobrança administrativa.
+PEGADINHA: "tributos" no caput e "impostos" no parágrafo único NÃO são intercambiáveis.
+EXEMPLO: IPTU previsto R$ 12 milhões e arrecadado R$ 9 milhões: diferença R$ 3 milhões; isso exige avaliação, mas não comprova automaticamente fraude.
+
+
+6. RENÚNCIA DE RECEITA — ART. 14, REDAÇÃO VIGENTE EM 2026
+A concessão, ampliação OU prorrogação de benefício tributário que gere renúncia deve vir acompanhada da estimativa do impacto no exercício de início e nos DOIS subsequentes; atender à LDO; e a PELO MENOS UMA das condições:
+I — demonstrar que a renúncia foi considerada na estimativa da receita da LOA e não afetará metas fiscais; OU
+II — acompanhar medidas compensatórias de aumento de receita (elevação de alíquotas, ampliação de base, majoração/criação de tributo ou contribuição).
+Se escolhida a via II, a vigência do benefício depende da implementação da compensação (art. 14, §2º).
+Exemplos de renúncia do §1º: anistia, remissão, crédito presumido, isenção não geral, redução discriminada de alíquota/base e benefícios equivalentes. Há exceções legais, como cancelamento de débito cujo custo de cobrança supere seu valor (§3º, II).
+EXEMPLO RESOLVIDO: desconto tributário seletivo com impacto estimado R$ 400 mil no primeiro exercício, R$ 450 mil no segundo e R$ 480 mil no terceiro. A proposta deve demonstrar os impactos e atender à LDO e à condição I OU II. Não basta dizer que "atrairá empresas".
+PEGADINHA: "é obrigatório cumprir cumulativamente I e II" é falso; "qualquer isenção geral sempre se enquadra como renúncia do §1º" é generalização inadequada.
+ATUALIZAÇÃO 2026: a LC 224/2025 alterou o caput do art. 14, vigente desde 1º/1/2026. Estude o texto atualizado, não apostila antiga.
+
+
+7. NOVO ART. 14-A — BENEFÍCIO A PESSOA JURÍDICA
+Inserido pela LC 224/2025, com efeitos a partir de 1º/1/2026. Para proposição legislativa de concessão/ampliação/prorrogação de benefício tributário com renúncia e beneficiário pessoa jurídica, exige, entre outros: estimativa de número de beneficiários; prazo de vigência em regra até 5 anos (com exceção legal para investimento de longo prazo); metas objetivas e quantificáveis em dimensões econômicas, sociais e ambientais; impacto regional quando cabível; transparência, monitoramento e avaliação.
+Não confundir a regra geral de 5 anos com proibição absoluta de qualquer duração superior: a lei prevê exceção qualificada. Há hipóteses específicas de não aplicação e regras sobre diferimento. A LC 235/2026 também previu hipótese especial de não aplicação; não extrapolar sem ler o caso concreto.
+CASO: isenção de ISS para setor econômico por seis anos, sem metas nem avaliação. Não basta alegar geração de empregos: precisa conferir os requisitos legais, a exceção eventualmente aplicável e os instrumentos de transparência.
+PEGADINHA: benefício fiscal concedido em 2026 não deve ser avaliado só com redação da LRF de 2024.
+
+
+8. DESPESA, LIMITES DE PESSOAL E ALERTAS (ARTS. 16 A 23 E 59)
+Art. 16: criação/expansão/aperfeiçoamento de ação governamental com aumento de despesa requer estimativa de impacto no exercício e nos dois seguintes e declaração do ordenador sobre adequação à LOA e compatibilidade com PPA/LDO, ressalvas legais.
+Art. 17: despesa obrigatória de caráter continuado é DESPESA CORRENTE derivada de ato normativo com obrigação por período SUPERIOR A DOIS EXERCÍCIOS; exige regras próprias de demonstração e compensação.
+Limites de pessoal sobre RCL (arts. 19 e 20): Município total 60%; Executivo municipal 54%; Legislativo municipal 6%. Não somar 54% com 60%: 54%+6%=60%.
+Alerta do Tribunal de Contas (art. 59, §1º, II): pessoal ultrapassou 90% do respectivo limite. Limite prudencial (art. 22, parágrafo único): despesa ultrapassa 95% do limite do respectivo Poder/órgão, incidindo restrições legais, com exceções.
+EXEMPLO RESOLVIDO: RCL R$ 100 milhões; limite Executivo = R$ 54 milhões. 90% desse limite = R$ 48,6 milhões (alerta se ultrapassado). 95% = R$ 51,3 milhões (prudencial se ultrapassado). Gastos de R$ 52 milhões equivalem a 52% da RCL e ultrapassam o prudencial, embora abaixo do teto de 54%. Não confundir "95% do limite" com "95% da RCL".
+Art. 23: excesso acima do limite deve ser eliminado nos dois quadrimestres seguintes, ao menos 1/3 no primeiro, observadas regras e exceções.
+PEGADINHA: dizer que o teto do Executivo é 60% confunde limite do ente com limite do Poder.
+
+
+9. PROGRAMAÇÃO, LIMITAÇÃO DE EMPENHO E CONTROLE (ARTS. 8º E 9º)
+Art. 8º: até 30 dias após publicação dos orçamentos, Executivo estabelece programação financeira e cronograma mensal de desembolso.
+Art. 9º: se, ao final de BIMESTRE, a receita não comportar as metas de resultado, Poderes e Ministério Público adotam, por ato próprio, limitação de empenho e movimentação financeira nos 30 dias seguintes, conforme LDO, ressalvadas despesas protegidas.
+EXEMPLO: arrecadação ficou abaixo do necessário para meta fiscal; a Administração pode ter de limitar empenhos, mas isso não é autorização para cancelar livremente direitos e obrigações legais.
+ATENÇÃO: o art. 9º, §3º, que autorizava o Executivo a limitar valores de outros Poderes, foi declarado inconstitucional pelo STF. Não tratá-lo como autorização válida.
+
+
+10. TRANSPARÊNCIA, RELATÓRIOS E CONTROLE (ARTS. 48, 48-A, 52 A 55, 58 E 59)
+RREO = RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA; abrange todos os Poderes e MP; periodicidade BIMESTRAL; publicação até 30 dias após cada bimestre (art. 52); demonstra execução de receitas/despesas e outros dados.
+RGF = RELATÓRIO DE GESTÃO FISCAL; emitido em regra ao fim de cada QUADRIMESTRE pelos titulares dos Poderes/órgãos; publicação até 30 dias após período (arts. 54–55); compara limites de pessoal, dívida, garantias, operações de crédito e medidas corretivas. Há regime facultativo especial do art. 63 para Municípios com menos de 50 mil habitantes; não presumir aplicação a Queimados.
+Art. 48: transparência abrange planos, orçamentos, LDO, prestações de contas, pareceres, RREO, RGF e versões simplificadas; participação popular e informações detalhadas da execução.
+ATUALIZAÇÃO 2026: art. 48, §1º, IV, prevê dados atualizados de benefícios tributários, financeiros e creditícios em formato aberto e padronizado no Portal de Transparência.
+Art. 48-A: dados da despesa e da receita, inclusive lançamento e recebimento. Art. 58: prestação de contas destaca desempenho arrecadatório, combate à sonegação e recuperação de créditos. Art. 59: fiscalização pelo Legislativo, Tribunais de Contas e controle interno.
+PEGADINHA: RREO NÃO é quadrimestral; RGF NÃO é bimestral. Transparência não elimina sigilo fiscal individual legalmente protegido (CTN art. 198).
+
+
+11. CASO INTEGRADOR RESOLVIDO
+Município hipotético: RCL R$ 200 milhões; pessoal Executivo R$ 104 milhões; proposta de benefício seletivo de ISS com impacto R$ 600 mil, R$ 650 mil e R$ 700 mil nos três exercícios; arrecadação bimestral abaixo da meta.
+a) Percentual pessoal Executivo = 104/200 = 52% da RCL. Teto = 54% de 200 = R$ 108 milhões. Prudencial = 95% de 108 = R$ 102,6 milhões. O gasto supera o prudencial mesmo sem superar o teto.
+b) Benefício ISS exige impacto nos três exercícios, observância da LDO e condição I OU II do art. 14; se pessoa jurídica, verificar art. 14-A.
+c) Receita frustrada exige acompanhamento e possível limitação de empenho nos termos do art. 9º; não significa automaticamente fraude tributária.
+d) O RREO registra execução bimestral; o RGF monitora limites em regra quadrimestralmente.
+e) Fiscalização municipal, controle interno, Câmara e Tribunal de Contas possuem papéis distintos.
+
+
+12. MAPA DE MEMORIZAÇÃO
+LRF art. 1º = planejar + transparência + limites.
+LDO art. 4º = Metas (objetivos) + Riscos (ameaças).
+RCL art. 2º = mês atual + 11 anteriores, deduções legais.
+Art. 11 = todos os TRIBUTOS no caput; IMPOSTOS na sanção de transferências voluntárias.
+Art. 13 = metas BIMESTRAIS de arrecadação.
+Art. 14 = impacto 3 exercícios + LDO + condição I OU II.
+Art. 14-A (2026) = metas, avaliação e transparência para benefício a pessoa jurídica; prazo geral até 5 anos, ressalvas.
+Pessoal Município = 60%; Executivo = 54%; Legislativo = 6%.
+90% do limite = alerta; acima de 95% do limite = prudencial.
+Art. 9º = verificação BIMESTRAL, limitação nos 30 dias subsequentes.
+RREO = BIMESTRAL; RGF = QUADRIMESTRAL (regra geral).
+
+
+13. TESTE ATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO
+Não consultar. Responder 1A, 2B...; se houver dúvida, indicar nível de confiança. Alternativas não reveladas como corretas antes da resposta.
+
+
+Q1. Segundo a LRF, a responsabilidade na gestão fiscal pressupõe:
+A) Apenas proibição de contratação. B) Ação planejada e transparente, prevenção de riscos e correção de desvios. C) Supressão da fiscalização tributária. D) Dispensa de metas fiscais.
+
+
+Q2. O Anexo de Riscos Fiscais integra o projeto de:
+A) LDO. B) Decreto de lançamento. C) CDA. D) NFS-e.
+
+
+Q3. INCORRETA. Sobre o Anexo de Metas Fiscais:
+A) Inclui metas de receitas e despesas. B) Trata de resultados primário e nominal. C) Avalia exclusivamente a folha de pagamento do mês. D) Abrange exercício de referência e dois seguintes na regra geral.
+
+
+Q4. A RCL, para fins da LRF, é apurada, em regra, considerando:
+A) Apenas o mês atual. B) Mês de referência e 11 anteriores, excluídas duplicidades. C) Apenas janeiro a dezembro do ano anterior. D) Somente o saldo bancário.
+
+
+Q5. Art. 11 da LRF: a sanção do parágrafo único sobre transferências voluntárias refere-se especificamente à ausência de observância quanto:
+A) Aos impostos. B) A toda tarifa pública. C) A qualquer preço privado. D) Somente a empréstimos.
+
+
+Q6. A LRF exige desdobramento das receitas previstas em metas de arrecadação:
+A) Diárias. B) Semanais. C) Bimestrais. D) Quadrienais.
+
+
+Q7. Sobre renúncia de receita (art. 14, redação 2026), assinale a CORRETA:
+A) Basta justificativa verbal. B) Exige estimativa do exercício inicial e dois seguintes, LDO e pelo menos uma das condições legais. C) Exige obrigatoriamente condições I e II cumulativas. D) Toda renúncia dispensa impacto.
+
+
+Q8. EXCETO. Em regra, podem configurar renúncia no art. 14, §1º, EXCETO:
+A) Remissão. B) Anistia. C) Crédito presumido. D) Recebimento integral do imposto sem benefício.
+
+
+Q9. Se o incentivo tributário depende da compensação do art. 14, II, sua vigência ocorre:
+A) Independentemente da compensação. B) Após implementadas as medidas de compensação. C) Automaticamente por despacho do fiscal. D) Sem necessidade de lei.
+
+
+Q10. Sobre o art. 14-A, vigente em 2026, é CORRETO afirmar:
+A) O prazo de cinco anos não admite nenhuma exceção. B) Proíbe qualquer monitoramento. C) Prevê estimativa de beneficiários, metas e avaliação para hipóteses abrangidas. D) Revoga o art. 14.
+
+
+Q11. O limite global de pessoal dos Municípios na LRF é:
+A) 40% da RCL. B) 50% da RCL. C) 54% da RCL. D) 60% da RCL.
+
+
+Q12. O limite de despesa com pessoal do Executivo municipal é:
+A) 6% da RCL. B) 54% da RCL. C) 60% da RCL. D) 95% da RCL.
+
+
+Q13. RCL = R$ 100 milhões; limite Executivo = 54%. O patamar de 95% desse limite é:
+A) R$ 95 milhões. B) R$ 54 milhões. C) R$ 51,3 milhões. D) R$ 5,4 milhões.
+
+
+Q14. O Tribunal de Contas emite alerta de pessoal quando ultrapassados:
+A) 90% do respectivo limite. B) 90% da receita bruta total. C) 95% da RCL. D) 100% do orçamento.
+
+
+Q15. A limitação de empenho do art. 9º é avaliada após o encerramento de:
+A) Cada dia. B) Cada bimestre. C) Cada quinquênio. D) Cada legislatura.
+
+
+Q16. INCORRETA. A respeito dos relatórios:
+A) RREO é, em regra, bimestral. B) RGF é, em regra, quadrimestral. C) RREO e RGF têm necessariamente periodicidade mensal. D) Ambos são instrumentos de transparência fiscal.
+
+
+Q17. RGF deve ser publicado, na regra geral, em até:
+A) 30 dias após encerramento do período. B) 2 anos após encerramento. C) 180 dias após cada semana. D) 10 dias antes do período.
+
+
+Q18. A alteração de 2026 no art. 48 da LRF reforçou:
+A) Sigilo absoluto dos benefícios fiscais. B) Divulgação em formato aberto e padronizado de benefícios tributários, financeiros e creditícios. C) Extinção do RREO. D) Dispensa de prestação de contas.
+
+
+Q19. REVISÃO DIREITO ADMINISTRATIVO. Excesso de poder é:
+A) Uso de competência para fim pessoal. B) Ultrapassagem dos limites de competência. C) Revogação de ato válido. D) Controle judicial da legalidade.
+
+
+Q20. REVISÃO FINANÇAS PÚBLICAS. A despesa empenhada e liquidada, mas não paga até 31/12, se regularmente inscrita, constitui:
+A) Restos a Pagar Processados. B) Receita de capital. C) Restos a Pagar Não Processados. D) Ingresso extraorçamentário.
+
+
+14. RECUPERAÇÃO FINAL SEM CONSULTA
+Explique em voz alta: (1) LDO/Metas/Riscos; (2) art. 11 caput x parágrafo; (3) art. 14 I OU II e novo 14-A; (4) 54%, 60%, 90%, 95%; (5) RREO x RGF; (6) efeito de frustração de receita. Em 24h, 72h e 7 dias repetir em questões misturadas.
+
+
+15. CONTROLE E CADERNO DE ERROS
+20 questões propostas; respostas 0 nesta execução; acertos, erros e domínio NÃO AFERIDOS. Não inventar gabarito oficial IAN nem resultados individuais. Após resposta do aluno: corrigir cada alternativa, explicar mecanismo do distrator, registrar erro, causa provável, regra correta, pegadinha e revisão futura. Não transferir anotações individuais entre documentos.
+PRÓXIMA AULA 100: Português OU Informática, priorizando lacuna do edital, seguida de revisão cumulativa no próximo ciclo.
+
+
+FONTES CONFERIDAS EM 13/10/2026
+LC 101/2000, texto atualizado na Câmara: https://www2.camara.leg.br/legin/fed/leicom/2000/leicomplementar-101-4-maio-2000-351480-normaatualizada-pl.html
+Constituição Federal, art. 165: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+Lei 4.320/1964: https://www.planalto.gov.br/ccivil_03/leis/l4320.htm
+Guia verticalizado Agente Fiscal Queimados 2026, arquivo da biblioteca. Edital oficial é limite absoluto. Nenhum gabarito de questões IAN foi inventado.
+========== FIM AULA 99 ==========
+
+
+
+
+========== INÍCIO AULA 100 — 13/10/2026 ==========
+AULA 100 — AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ
+LÍNGUA PORTUGUESA: INTERPRETAÇÃO, INFERÊNCIA, PRESSUPOSTOS, COESÃO E SENTIDO
+Duração orientativa: 45–55 minutos. Continuidade pedagógica: Aula 99 (LRF). Cargo EXCLUSIVO: AGENTE FISCAL. Aula 3 do ciclo: Português. Meta operacional: fechar lacunas do edital e manter recuperação ativa. Questões autorais, SEM gabarito revelado.
+
+
+FONTES E CONTROLE DO ESCOPO
+O guia verticalizado do cargo Agente Fiscal lista expressamente leitura/compreensão/interpretação, informações explícitas e implícitas, sentido global, inferência, vocabulário, pontuação, conjunções e sintaxe. Foram consultadas provas IAN efetivas de 2024 (Três Rios, Auditor de Controle Interno), 2025 (Belford Roxo, Professor II; Santa Maria Madalena, Português) e 2026 (Câmara de Jardim, Controlador Interno), apenas para identificar características de formulação: texto-base seguido de questões; quatro alternativas A-D; ideia central; substituição lexical; comando INCORRETA; conectivos e relações de sentido. As 20 questões abaixo são novas, não reproduções de provas oficiais. O arquivo questoes_ian_911.pdf não foi localizado nesta execução: nenhuma frequência estatística ou gabarito dele é presumido.
+
+
+OBJETIVOS DE APRENDIZAGEM
+1) Separar informação expressa de inferência legítima e de extrapolação.
+2) Identificar tema, tese, argumento, ressalva e conclusão.
+3) Interpretar conectivos, pronomes referenciais, pressupostos e escolhas vocabulares.
+4) Evitar erros de quantificadores (todos, alguns, apenas), negação e causalidade.
+5) Resolver 20 questões sem acesso antecipado às respostas.
+
+
+1. RECUPERAÇÃO ATIVA INTERCALADA — AULAS 97–99
+Responda mentalmente ANTES da leitura: a) Qual é a diferença entre o caput e o parágrafo único do art. 11 da LRF? b) O que é desvio de finalidade? c) O que significa LIMPE? d) RREO é bimestral ou quadrimestral, em regra? e) Qual é a função da LDO? Não consulte a resposta. Anote a confiança de 0 a 3 para cada item. Esta recuperação é diagnóstica, não comprova domínio.
+
+
+2. TEXTO-BASE ORIGINAL PARA LEITURA ATENTA
+Título: QUANDO O NÚMERO NÃO CONTA TODA A HISTÓRIA
+
+
+[1] A Prefeitura de uma cidade hipotética anunciou aumento de 18% na arrecadação de determinado tributo municipal. A notícia foi apresentada como prova de que o novo sistema de fiscalização funcionava perfeitamente. O crescimento da receita, porém, pode ter diversas explicações: ampliação da atividade econômica, atualização cadastral, recuperação de créditos antigos, mudanças na legislação ou maior eficiência administrativa.
+
+
+[2] O dado, por si só, não permite atribuir todo o resultado a uma única medida. Para avaliar o impacto do sistema, seria necessário comparar períodos equivalentes, examinar o comportamento dos contribuintes e verificar se outros fatores influenciaram a arrecadação. Essa cautela não diminui a importância da tecnologia; apenas impede que uma conclusão seja anunciada antes da análise.
+
+
+[3] Além disso, arrecadar mais não significa, necessariamente, fiscalizar melhor. Uma fiscalização de qualidade deve combinar legalidade, tratamento impessoal, orientação adequada e identificação de irregularidades. Se a Administração amplia a arrecadação, mas desrespeita garantias dos contribuintes, não se pode afirmar que a melhoria financeira representa, isoladamente, uma atuação pública exemplar.
+
+
+[4] Portanto, indicadores são ferramentas indispensáveis, mas não substituem o raciocínio crítico. O desafio não é abandonar os números, e sim interpretá-los com responsabilidade, distinguindo o que eles mostram daquilo que ainda precisa ser investigado.
+
+
+LEITURA EM DUAS PASSAGENS
+Primeira passagem (40–60 segundos): diga em uma frase qual é a tese do autor.
+Segunda passagem: sublinhe mentalmente 'porém', 'por si só', 'além disso', 'se', 'mas', 'portanto' e 'e sim'. Pergunte: cada expressão adiciona, opõe, condiciona, conclui ou retifica?
+Tese orientadora para o estudo (não é resposta de nenhuma questão): indicadores precisam de contexto; crescimento de arrecadação isolado não demonstra causalidade nem qualidade global da fiscalização.
+
+
+3. INFORMAÇÃO EXPLÍCITA X INFERÊNCIA X EXTRAPOLAÇÃO
+Informação explícita é afirmada no texto: houve anúncio de aumento de 18% em uma cidade hipotética.
+Inferência legítima é conclusão compatível com o conjunto do texto: a arrecadação pode variar por múltiplas causas e exige comparação cuidadosa.
+Extrapolação é inserir algo não autorizado: 'o sistema cometeu fraude', 'a cidade perdeu arrecadação' ou 'o crescimento decorreu exclusivamente da tecnologia'. Nenhuma dessas conclusões decorre necessariamente dos parágrafos.
+MÉTODO PRÁTICO: para cada alternativa, pergunte 'onde está a base textual?'. Se depender de hipótese adicional, desconfie. Informações plausíveis no mundo real podem ser erradas como respostas DE ACORDO COM O TEXTO.
+
+
+4. TEMA, TESE, ARGUMENTO E CONCLUSÃO
+Tema: assunto geral — avaliação de indicadores de arrecadação e fiscalização.
+Tese: posição defendida — números são úteis, mas precisam de interpretação contextualizada.
+Argumentos: causas alternativas para o crescimento; necessidade de comparação; importância da legalidade e das garantias.
+Conclusão: usar dados sem abrir mão de análise crítica.
+DISTINÇÃO: 'o texto fala sobre tecnologia' é assunto excessivamente amplo; 'o texto condena o uso de indicadores' contradiz a tese. Em questão de ideia central, prefira a opção que integra todos os parágrafos e preserva ressalvas.
+
+
+5. COESÃO: CONECTIVOS E RETOMADAS
+'Porém' (parágrafo 1) = oposição/ressalva ao entusiasmo inicial.
+'Para' (parágrafo 2, em 'Para avaliar') = finalidade.
+'Além disso' (parágrafo 3) = acréscimo argumentativo.
+'Se' (parágrafo 3) = condição; não equivale a certeza de ocorrência.
+'Mas' (parágrafo 3) = oposição.
+'Portanto' (parágrafo 4) = conclusão.
+'Não é... e sim...' (parágrafo 4) = correção/retificação de uma interpretação.
+'O dado' (parágrafo 2) retoma o aumento divulgado, não qualquer informação numérica futura.
+'Essa cautela' (parágrafo 2) retoma a exigência de comparar e investigar fatores antes de atribuir causalidade.
+REGRA: trocar 'porém' por 'portanto' geralmente muda oposição para conclusão; trocar 'embora' por 'porque' muda concessão para causa. Observe o efeito semântico, não apenas a classe gramatical.
+
+
+6. PRESSUPOSTO X SUBENTENDIDO
+Pressuposto é informação assumida por determinada expressão.
+Exemplo inventado: 'O setor voltou a publicar relatórios.' Pressupõe publicação anterior e interrupção/retomada contextual, não informa o dia da publicação.
+'Deixou de atrasar os relatórios' pressupõe atrasos anteriores.
+'Até o fiscal mais experiente consultou a norma' usa 'até' para marcar surpresa/inclusão em uma escala.
+Subentendido depende mais do contexto e da intenção comunicativa, sem necessariamente estar linguisticamente imposto.
+CUIDADO: 'pode', 'talvez' e 'é possível' indicam possibilidade; não autorizam trocar por 'certamente'. A expressão 'não necessariamente' não significa 'nunca'.
+
+
+7. QUANTIFICADORES, NEGAÇÃO E RACIOCÍNIO
+'TODOS os contribuintes foram notificados' é diferente de 'ALGUNS foram notificados'.
+'APENAS o sistema causou o aumento' é mais forte que 'o sistema pode ter contribuído'.
+'Não é necessário' é diferente de 'é proibido'.
+'Se A, então B' não autoriza, sozinho, concluir 'se B, então A'. Exemplo: 'Se houver chuva intensa, a rua ficará molhada'; rua molhada não prova chuva intensa.
+Correlação não prova causalidade. Dois indicadores podem crescer simultaneamente sem que um seja causa única do outro.
+REGRA DE PROVA: desconfie de 'sempre', 'nunca', 'exclusivamente', 'todos', 'necessariamente' quando o texto usa 'pode', 'em geral', 'alguns', 'por si só' ou ressalvas.
+
+
+8. DENOTAÇÃO, CONOTAÇÃO E VOCABULÁRIO NO CONTEXTO
+Denotação: sentido literal ('a receita aumentou 18%').
+Conotação: sentido figurado ('os números contam uma história').
+Polissemia: uma palavra assume sentidos diferentes ('crédito' tributário, 'crédito' de confiança).
+Sinônimos dependem do contexto: 'cautela' pode ser substituída por 'prudência' neste texto, mas não por 'desinteresse'.
+Antônimos contextuais: 'isoladamente' contrasta com 'em conjunto' ou 'considerando outros fatores'.
+Evite sinônimo por semelhança sonora: 'ratificar' = confirmar; 'retificar' = corrigir.
+
+
+9. PONTUAÇÃO QUE MUDA O SENTIDO
+'Os fiscais, que participaram do curso, receberam o material.' — oração explicativa: sugere que todos os fiscais do conjunto mencionado participaram.
+'Os fiscais que participaram do curso receberam o material.' — oração restritiva: seleciona os que participaram.
+Vírgulas não são meros adornos: podem alterar a extensão do grupo referido.
+'Embora a arrecadação tenha aumentado, a causa ainda precisa ser estudada.' — concessão; não confundir com causalidade.
+Pontuação e conectivos devem ser interpretados em conjunto.
+
+
+10. EXEMPLOS RESOLVIDOS (NÃO SÃO QUESTÕES DO TESTE)
+Exemplo A: 'O sistema pode ter contribuído para o resultado'. Posso reescrever como 'o sistema foi a única causa'? NÃO: 'pode' indica possibilidade, 'única' introduz exclusividade.
+Exemplo B: 'Embora o relatório esteja pronto, ainda falta revisão'. 'Embora' expressa concessão: a conclusão de uma etapa não elimina a ressalva.
+Exemplo C: 'A administração retomou as vistorias'. O verbo 'retomou' sugere que a atividade já havia ocorrido e foi reiniciada; não informa por quanto tempo esteve suspensa.
+Exemplo D: 'Os dados, que foram conferidos, serão publicados' x 'Os dados que foram conferidos serão publicados'. No primeiro, a oração é explicativa; no segundo, restringe quais dados serão publicados.
+
+
+11. ESTRATÉGIA PARA A IAN (EVIDÊNCIA OBSERVADA)
+Nas provas IAN consultadas de 2024, 2025 e 2026, aparecem textos-base e questões com quatro alternativas, comandos como 'ideia central', substituição de palavra e 'INCORRETA'. Essa observação NÃO é frequência estatística do banco de 911 questões nem garante a distribuição na prova de Queimados. Para resolver: (1) leia o comando; (2) marque mentalmente CORRETA/INCORRETA/EXCETO; (3) localize a frase-chave; (4) descarte exageros, inversões de causa/consequência e sinônimos imprecisos; (5) só então assinale.
+
+
+12. SIMULADO AUTORAL — 20 QUESTÕES (SEM GABARITO)
+Questões 1 a 14 referem-se ao TEXTO-BASE 'QUANDO O NÚMERO NÃO CONTA TODA A HISTÓRIA'. Responda sem consultar as explicações. Todas possuem UMA alternativa correta, exceto quando o comando pede a INCORRETA (a única incorreta).
+
+
+Q01. A ideia central do texto é:
+A) A fiscalização eletrônica deve ser abandonada por todos os municípios.
+B) O aumento de arrecadação comprova a eficiência de uma medida específica.
+C) Indicadores são úteis, mas precisam ser interpretados com contexto e responsabilidade.
+D) O crescimento econômico é sempre a única causa da arrecadação.
+
+
+Q02. Segundo o primeiro parágrafo, o aumento de 18% foi:
+A) Um dado anunciado pela Prefeitura de uma cidade hipotética.
+B) Uma prova de fraude administrativa.
+C) Uma estimativa para o exercício seguinte.
+D) Uma queda verificada na arrecadação.
+
+
+Q03. O conectivo 'porém', no primeiro parágrafo, introduz:
+A) Conclusão inevitável.
+B) Ressalva à interpretação inicialmente apresentada.
+C) Finalidade da fiscalização.
+D) Enumeração sem contraste.
+
+
+Q04. O trecho 'O dado, por si só, não permite atribuir todo o resultado a uma única medida' significa que:
+A) O dado não possui nenhuma utilidade.
+B) O sistema eletrônico jamais pode contribuir para a arrecadação.
+C) É impossível analisar arrecadação municipal.
+D) A informação isolada é insuficiente para estabelecer causalidade exclusiva.
+
+
+Q05. A expressão 'Essa cautela', no segundo parágrafo, retoma principalmente:
+A) A decisão de interromper a fiscalização.
+B) A necessidade de comparar períodos e verificar outros fatores.
+C) A obrigatoriedade de divulgar dados pessoais.
+D) O aumento automático de multas.
+
+
+Q06. Assinale a alternativa INCORRETA em relação ao texto.
+A) A atualização cadastral pode influenciar a arrecadação.
+B) A tecnologia pode ser importante na Administração.
+C) O autor afirma que o sistema foi comprovadamente a única causa do aumento.
+D) A avaliação de resultados requer análise de fatores adicionais.
+
+
+Q07. No trecho 'Além disso, arrecadar mais não significa, necessariamente, fiscalizar melhor', 'Além disso' introduz:
+A) Novo argumento que amplia o raciocínio.
+B) Negação do parágrafo anterior.
+C) Condição impossível.
+D) Exclusão da ideia de legalidade.
+
+
+Q08. A palavra 'necessariamente', no terceiro parágrafo, poderia ser substituída, sem alteração essencial de sentido, por:
+A) Provavelmente.
+B) Obrigatoriamente.
+C) Raramente.
+D) Aproximadamente.
+
+
+Q09. A oração iniciada por 'Se a Administração amplia a arrecadação, mas desrespeita garantias...' estabelece inicialmente:
+A) Uma condição hipotética.
+B) Uma certeza histórica sobre Queimados.
+C) Uma ordem dirigida ao contribuinte.
+D) Uma definição de tributo.
+
+
+Q10. A tese do quarto parágrafo pode ser resumida como:
+A) A análise crítica é incompatível com indicadores.
+B) O Município deve ocultar dados de arrecadação.
+C) Os números dispensam investigação.
+D) Dados e raciocínio crítico devem atuar de forma complementar.
+
+
+Q11. A expressão 'e sim', em 'não é abandonar os números, e sim interpretá-los', indica:
+A) Explicação de causa.
+B) Reformulação corretiva do objetivo.
+C) Hipótese futura.
+D) Comparação de quantidade.
+
+
+Q12. É inferência compatível com o texto:
+A) Uma política fiscal pode ser avaliada por mais de um indicador.
+B) Toda atualização cadastral reduz a arrecadação.
+C) A fiscalização só é legítima quando diminui a receita.
+D) O autor rejeita a utilização de tecnologias.
+
+
+Q13. Assinale a alternativa que EXTRAPOLA as informações do texto.
+A) O aumento de arrecadação foi anunciado em uma cidade hipotética.
+B) O crescimento pode decorrer de diversos fatores.
+C) A Prefeitura comprovadamente adulterou os dados divulgados.
+D) A legalidade integra uma fiscalização de qualidade.
+
+
+Q14. A palavra 'isoladamente', no terceiro parágrafo, tem sentido contextual mais próximo de:
+A) Ilegalmente.
+B) Sem considerar outros elementos.
+C) Em conjunto com todos os fatores.
+D) Imediatamente.
+
+
+Questões 15 a 17: linguagem aplicada a frases independentes.
+
+
+Q15. Em 'Os contribuintes que atualizaram o cadastro receberam a comunicação', a oração 'que atualizaram o cadastro' tem valor:
+A) Explicativo, com vírgulas obrigatórias.
+B) Conclusivo, equivalente a 'portanto'.
+C) Restritivo, delimitando o grupo mencionado.
+D) Causal, equivalente a 'porque'.
+
+
+Q16. Assinale a alternativa CORRETA quanto ao sentido do conectivo.
+A) 'Embora' introduz necessariamente uma causa.
+B) 'Portanto' costuma introduzir conclusão.
+C) 'Contudo' expressa exclusivamente finalidade.
+D) 'Porque' é sempre sinônimo de 'apesar de'.
+
+
+Q17. Em 'A equipe voltou a publicar relatórios', o verbo 'voltou' permite pressupor que:
+A) Nunca houve publicação anterior.
+B) A publicação anterior foi obrigatoriamente diária.
+C) Os relatórios atuais são falsos.
+D) A publicação já ocorrera anteriormente e foi retomada.
+
+
+Questões 18 a 20: revisão cumulativa das aulas 97–99.
+
+
+Q18. DIREITO ADMINISTRATIVO. Um agente competente aplica sanção para perseguir pessoalmente um comerciante. O vício central é:
+A) Desvio de finalidade.
+B) Excesso de arrecadação.
+C) Revogação por conveniência.
+D) Convalidação obrigatória.
+
+
+Q19. LRF. O Anexo de Riscos Fiscais integra o projeto de:
+A) LOA, necessariamente como anexo exclusivo.
+B) LDO.
+C) Certidão de Dívida Ativa.
+D) Auto de Infração.
+
+
+Q20. LRF — CÁLCULO. Com RCL de R$ 100 milhões e limite de pessoal do Executivo municipal de 54% da RCL, o patamar prudencial de 95% DO LIMITE é:
+A) R$ 95 milhões.
+B) R$ 54 milhões.
+C) R$ 51,3 milhões.
+D) R$ 6 milhões.
+
+
+13. INSTRUÇÕES DE RESPOSTA E CORREÇÃO
+Responder em sequência '1C 2A ... 20D' (modelo de FORMATO, não gabarito). Não divulgar respostas antes da tentativa. Após respostas reais, corrigir alternativa por alternativa, justificar o comando e o trecho do texto, classificar o erro (extrapolação; quantificador; conectivo; coesão; pressuposto; regra jurídica; cálculo), indicar mecanismo de distrator IAN e regra prática. Anotar confiança e tempo. Questões sem resposta não viram acerto nem erro.
+
+
+14. RECUPERAÇÃO FINAL E REPETIÇÃO ESPAÇADA
+Sem consulta, responda: (1) Como diferenciar informação explícita, inferência e extrapolação? (2) Qual é a tese do texto? (3) 'porém', 'além disso' e 'portanto' exprimem quais relações? (4) Por que 'não necessariamente' não equivale a 'nunca'? (5) Como 'voltou a' cria pressuposto? (6) Qual a diferença entre oração explicativa e restritiva? (7) Qual a diferença entre correlação e causalidade?
+Revisões propostas: 14/10 (24h), 16/10 (72h) e 20/10 (7 dias), com questões misturadas e reescritas, não mera releitura. Domínio só após retenção posterior.
+
+
+15. CONTROLE E CADERNO DE ERROS
+Aula 100; 20 questões propostas; 0 respostas recebidas nesta execução; percentual de acertos NÃO AFERIDO; domínio NÃO DEMONSTRADO. Sem inventar anotações pessoais. Registro de erros individual somente após respostas reais. Meta de longo prazo: aproximadamente 90% em simulados cumulativos alinhados ao cargo.
+
+
+16. PRÓXIMO PONTO DE CONTINUIDADE
+AULA 101: REVISÃO CUMULATIVA MISTA — LRF, Direito Administrativo, Lei Orgânica e Português, com recuperação ativa e questões autorais de estilo IAN. No próximo ciclo, retornar a blocos específicos ainda insuficientemente cobertos, com prioridade para Auditoria Fiscal, Simples Nacional, SPED/NF-e/EFD, Processo Judicial Tributário, Informática e Ética.
+
+
+FONTES DE ESTUDO
+Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (guia verticalizado do aluno).
+Prova IAN 2026 Câmara de Jardim/MS Controlador Interno (arquivo no Drive, ID 1AeyE5sh1PFmA5IbRf-Khcv59Zfkf6k6o).
+Prova IAN 2025 Belford Roxo/RJ Professor II (ID 1r_3DJVYjfiPJunVP1k7Arz7-EQ0yCfTo).
+Prova IAN 2025 Santa Maria Madalena/RJ Português (ID 1i7D0YfI7IbxZ9b1fiZggPDJru9CofEAx).
+Prova IAN 2024 Três Rios/RJ Auditor de Controle Interno (ID 13SSqcH8ZqeApZdLqlpeUKpkfxmkWswi6).
+Questões originais desta aula não possuem gabarito oficial IAN. Não foi possível localizar questoes_ian_911.pdf. A prova-alvo é exclusivamente AGENTE FISCAL.
+========== FIM AULA 100 ==========

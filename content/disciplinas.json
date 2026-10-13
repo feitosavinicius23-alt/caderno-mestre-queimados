@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 77,
-    "totalQuestoes": 609,
-    "tempoEstimadoMin": 416,
+    "totalAulas": 79,
+    "totalQuestoes": 649,
+    "tempoEstimadoMin": 435,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -78,7 +78,8 @@
       "PORTUGUÊS: INTERPRETAÇÃO, INFERÊNCIA, CONECTIVOS, PONTUAÇÃO E SINTAXE",
       "PROCESSO JUDICIAL TRIBUTÁRIO E LEI Nº 6.830/1980",
       "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
-      "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais."
+      "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
+      "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ"
     ],
     "aulas": [
       {
@@ -542,6 +543,18 @@
         "numero": 95,
         "titulo": "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
         "slug": "contabilidade-aplicada-a-fiscalizacao-patrimonio-balanco-dre-regime-de-competenc"
+      },
+      {
+        "id": "direito-tributario-aula-099",
+        "numero": 99,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ",
+        "slug": "agente-fiscal-de-queimados-rj-aula-99"
+      },
+      {
+        "id": "direito-tributario-aula-100",
+        "numero": 100,
+        "titulo": "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ",
+        "slug": "agente-fiscal-prefeitura-de-queimados-rj"
       }
     ]
   },
