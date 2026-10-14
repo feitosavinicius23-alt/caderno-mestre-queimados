@@ -1,0 +1,819 @@
+{
+  "id": "direito-tributario-aula-102",
+  "numero": 102,
+  "titulo": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+  "slug": "auditoria-fiscal-planejamento-evidencias-auditoria-documental-contabil-eletronic",
+  "disciplina": "Direito Tributário",
+  "assunto": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+  "ordem": 102,
+  "data": "2026-10-14",
+  "tempoEstimadoMin": 8,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-102-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Duração orientativa: 55–65 minutos. Meta: avançar a primeira volta do edital e consolidar conhecimentos por recuperação ativa. Conteúdo programático conferido no Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (bloco AUDITORIA FISCAL: planejamento e técnicas; auditoria documental, contábil e eletrônica; fraudes e evasão; ISS e receitas municipais). Aulas anteriores: 101, revisão cumulativa. Questões abaixo AUTORAIS, estruturadas em quatro alternativas com comandos CORRETA/INCORRETA/EXCETO e assertivas; não são apresentadas como questões oficiais IAN. Provas de Controlador Interno de Jardim/MS (IAN 2026) e Auditor de Controle Interno de Três Rios/RJ (IAN 2024) foram consultadas para observar forma e distratores. O arquivo questoes_ian_911.pdf não foi localizado nesta execução; nenhum gabarito dele foi atribuído."
+    },
+    {
+      "id": "direito-tributario-aula-102-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "texto": "R1. Diferencie excesso de poder e desvio de finalidade.\nR2. O que o art. 117 da Lei Orgânica de Queimados prevê quanto à fiscalização tributária?\nR3. O art. 11 da LRF fala em tributos no caput e em qual espécie no parágrafo único?\nR4. A frase “o sistema pode ter contribuído” autoriza dizer “foi a única causa”? Por quê?\nR5. Qual a diferença entre dívida ativa e execução fiscal?\nRegistre mentalmente dúvidas. A correção individual depende de respostas efetivamente recebidas; não presumir domínio."
+    },
+    {
+      "id": "direito-tributario-aula-102-b3",
+      "tipo": "teoria",
+      "titulo": "2. CONCEITO OPERACIONAL",
+      "texto": "Auditoria fiscal é o exame sistemático de fatos, documentos, registros e declarações para verificar cumprimento de obrigações tributárias, identificar divergências e fundamentar providências legais. Auditoria NÃO é sinônimo de autuação: pode resultar em regularidade, orientação/autorregularização, pedido de esclarecimento ou providência fiscal cabível. Indício NÃO equivale a prova definitiva. Conclusão exige evidências suficientes e adequadas, contraditório quando cabível, competência e observância do rito legal.\nExemplo: notas de serviços emitidas no valor de R$ 480.000 e declaração de R$ 420.000 não demonstram, por si, sonegação de R$ 60.000. Podem existir cancelamentos, substituições, diferenças de competência, deduções legais ou erros cadastrais. A auditoria deve conciliar fontes antes de concluir."
+    },
+    {
+      "id": "direito-tributario-aula-102-b4",
+      "tipo": "teoria",
+      "titulo": "3. PLANEJAMENTO — MATRIZ DE RISCO",
+      "texto": "Etapas didáticas: (a) definir objetivo e tributo/período; (b) identificar competência e autorização; (c) selecionar contribuintes por critérios impessoais de risco; (d) mapear fontes e limites legais de acesso; (e) formalizar início e comunicar nos termos aplicáveis; (f) coletar e preservar evidências; (g) cruzar e testar hipóteses; (h) solicitar esclarecimentos; (i) registrar achados e concluir; (j) adotar medidas e encaminhamentos legais.\nRisco é uma prioridade de investigação, não condenação. Exemplo de matriz: empresa A com alta divergência entre NFS-e e declarações e sem justificativa documentada = maior prioridade; empresa B com pequena divergência explicada por notas canceladas = menor prioridade. Não usar afinidade pessoal como critério.\nCritérios de qualidade: materialidade (valor ou relevância), probabilidade de irregularidade, histórico, confiabilidade das fontes, tempo e recursos. Amostragem é possível, mas conclusões precisam respeitar alcance da amostra; extrapolação quantitativa exige método válido."
+    },
+    {
+      "id": "direito-tributario-aula-102-b5",
+      "tipo": "teoria",
+      "titulo": "4. TIPOS DE AUDITORIA",
+      "texto": "Documental: notas fiscais, contratos, recibos, guias, declarações, alvarás e livros; verifica autenticidade, datas, partes, objeto e coerência. Contábil: concilia lançamentos, receitas, contas a receber, extratos obtidos licitamente, razão e balancetes; registro contábil divergente pode ter explicação legítima. Eletrônica: usa NFS-e, declarações digitais, cadastros, bases autorizadas, planilhas e trilhas de auditoria. SPED é ecossistema de escrituração digital, não sinônimo de NFS-e. NF-e normalmente documenta operações com mercadorias; NFS-e documenta serviços; EFD reúne escrituração fiscal digital de módulos específicos. A utilização para ISS municipal exige observar qual sistema, competência e integração estão disponíveis.\nPegadinha: cruzamento eletrônico identifica inconsistência, mas não substitui análise jurídica nem permite divulgar dados protegidos."
+    },
+    {
+      "id": "direito-tributario-aula-102-b6",
+      "tipo": "teoria",
+      "titulo": "5. EVIDÊNCIA E CADEIA DE DOCUMENTAÇÃO",
+      "texto": "Evidência suficiente: quantidade e alcance capazes de sustentar conclusão. Evidência adequada: relevante e confiável para o fato investigado. Confrontar fontes independentes pode aumentar confiabilidade. Preservar origem, período, data de extração, identificador do documento, filtros, cálculos e eventuais retificações. Registrar hipóteses alternativas e respostas do contribuinte. Uma planilha sem fonte ou metodologia é evidência fraca.\nExemplo de achado bem documentado: Critério: norma tributária aplicável; condição: divergência objetiva em período identificado; causa possível: erro de classificação, omissão ou diferença temporal (a confirmar); efeito: potencial impacto no ISS; evidência: relação individualizada de documentos e declarações; encaminhamento: intimação/esclarecimento e decisão motivada conforme rito. Evite qualificar como “fraude” antes de comprovar seus elementos.\n6. CÁLCULO RESOLVIDO — CONCILIAÇÃO DE NFS-e\nDados hipotéticos: NFS-e emitidas = R$ 480.000; notas canceladas válidas = R$ 30.000; receitas de serviços declaradas no mesmo período = R$ 420.000. Valor líquido inicial para conciliação = 480.000 - 30.000 = R$ 450.000. Divergência = 450.000 - 420.000 = R$ 30.000. Percentual da divergência em relação ao líquido = 30.000 / 450.000 x 100 = 6,67% (aprox.). Isso é um SINAL DE AUDITORIA, não automaticamente base tributável nem tributo devido. Conferir datas, competência, natureza dos serviços, local de incidência, retenções, substituições, cancelamentos e regime de apuração. Não presumir alíquota municipal sem consultar legislação atualizada."
+    },
+    {
+      "id": "direito-tributario-aula-102-b7",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 194: legislação tributária regula competência e poderes fiscalizatórios; alcança pessoas físicas e jurídicas, contribuintes ou não, inclusive imunes ou isentas (§1º). NOVO: LC 236/2026 acrescentou §2º (priorização e disponibilização de métodos preventivos de autorregularização antes do auto, conforme legislação específica) e §3º (programas de conformidade, diálogo, boa-fé, transparência, proporcionalidade etc.). Não afirmar que toda fiscalização necessariamente termina com multa."
+    },
+    {
+      "id": "direito-tributario-aula-102-b8",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 194-A (LC 236/2026): decisões definitivas vinculantes de STF/STJ, nos termos do dispositivo, vinculam a administração tributária; estudar a relação com precedentes e prevenção de autuações incompatíveis."
+    },
+    {
+      "id": "direito-tributario-aula-102-b9",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 195: exame de livros, arquivos, documentos e elementos comerciais/fiscais nos termos legais; livros obrigatórios e comprovantes conservados até prescrição dos créditos decorrentes das operações. Não confundir poder de examinar com acesso irrestrito a domicílio, dados protegidos ou atuação sem competência."
+    },
+    {
+      "id": "direito-tributario-aula-102-b10",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 196: LC 236/2026 ALTEROU a redação. Deve-se documentar o procedimento; §2º exige documento prévio de início contendo identificação da autoridade emissora, encarregados, contribuinte/estabelecimentos, objeto, período, documentos necessários, forma de confirmação da autenticidade e prazo de duração. §3º: fiscalização em estabelecimento ou domicílio com entrega de via ao contribuinte/representante/preposto. §4º: acompanhamento policial nessa hipótese condicionado a justo receio de resistência, reduzido a termo e consignado no documento. Atenção: apostilas antigas reproduzem caput anterior e omitem esses parágrafos."
+    },
+    {
+      "id": "direito-tributario-aula-102-b11",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 197: determinadas pessoas e entidades devem prestar informações sobre terceiros mediante intimação escrita; parágrafo único ressalva fatos protegidos por segredo legal decorrente de cargo, ofício, função, ministério, atividade ou profissão."
+    },
+    {
+      "id": "direito-tributario-aula-102-b12",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 198: sigilo fiscal; exceções e hipóteses legais específicas. Não publicar dados econômicos individuais em redes sociais."
+    },
+    {
+      "id": "direito-tributario-aula-102-b13",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 199: assistência mútua e intercâmbio de informações entre Fazendas Públicas na forma de lei/convênio. Art. 199-A (LC 236/2026): convênio pode permitir compartilhamento de atividades de fiscalização, lançamento, cobrança e estrutura de processo administrativo fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-102-b14",
+      "tipo": "lei-seca",
+      "titulo": "",
+      "texto": "Art. 200: auxílio de força pública em hipóteses legais; não significa acompanhamento policial obrigatório em qualquer diligência."
+    },
+    {
+      "id": "direito-tributario-aula-102-b15",
+      "tipo": "teoria",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Fonte normativa primária: CTN atualizado na Câmara dos Deputados e LC 236/2026, publicada em 04/09/2026 e em vigor desde sua publicação. O rito municipal e as normas específicas permanecem relevantes."
+    },
+    {
+      "id": "direito-tributario-aula-102-b16",
+      "tipo": "teoria",
+      "titulo": "8. ISS — APLICAÇÃO PRÁTICA",
+      "texto": "Na auditoria de ISS, verificar se o serviço integra a lista legal, quem é sujeito passivo, município competente, local da incidência, base de cálculo, eventual retenção/substituição, alíquota municipal vigente, regime Simples Nacional quando aplicável e prova de recolhimento. NFS-e emitida em Queimados não basta isoladamente para afirmar que todo ISS pertence a Queimados: a LC 116/2003 contém regras e exceções de local de incidência. Também não confundir receita contábil total com base de cálculo do ISS sem análise jurídica.\nCaso: empresa declara receita R$ 100 mil, notas líquidas R$ 130 mil e apresenta R$ 30 mil de documentos de estorno. Auditor deve verificar validade e correspondência desses documentos; não escolher automaticamente a maior base."
+    },
+    {
+      "id": "direito-tributario-aula-102-b17",
+      "tipo": "teoria",
+      "titulo": "9. FRAUDE, EVASÃO, ELISÃO E ERRO",
+      "texto": "Evasão ilícita: descumprimento tributário (ex.: omitir receita tributável comprovada). Elisão lícita: planejamento permitido dentro da lei. Erro: inexatidão que pode ser involuntária. Fraude/dolo exigem elementos probatórios; mera diferença numérica não comprova intenção. Use linguagem prudente no relatório: “divergência a esclarecer”, não “fraude confirmada”, enquanto faltar prova."
+    },
+    {
+      "id": "direito-tributario-aula-102-b18",
+      "tipo": "teoria",
+      "titulo": "10. ESQUEMA DE RETENÇÃO",
+      "texto": "Planejar -> autorizar/documentar -> obter evidências lícitas -> conciliar -> ouvir/esclarecer -> concluir motivadamente -> encaminhar. Cinco perguntas da auditoria: O quê? Quando? Qual fonte? Qual norma? Qual explicação alternativa? A evidência deve sustentar a conclusão, não o contrário."
+    },
+    {
+      "id": "direito-tributario-aula-102-b19",
+      "tipo": "questao",
+      "titulo": "11. QUESTÕES AUTORAIS — PADRÃO OBJETIVO A-D; NÃO REVELAR RESPOSTAS ANTES DO ALUNO",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-102-q-001",
+        "direito-tributario-aula-102-q-002",
+        "direito-tributario-aula-102-q-003",
+        "direito-tributario-aula-102-q-004",
+        "direito-tributario-aula-102-q-005",
+        "direito-tributario-aula-102-q-006",
+        "direito-tributario-aula-102-q-007",
+        "direito-tributario-aula-102-q-008",
+        "direito-tributario-aula-102-q-009",
+        "direito-tributario-aula-102-q-010",
+        "direito-tributario-aula-102-q-011",
+        "direito-tributario-aula-102-q-012",
+        "direito-tributario-aula-102-q-013",
+        "direito-tributario-aula-102-q-014",
+        "direito-tributario-aula-102-q-015",
+        "direito-tributario-aula-102-q-016",
+        "direito-tributario-aula-102-q-017",
+        "direito-tributario-aula-102-q-018",
+        "direito-tributario-aula-102-q-019",
+        "direito-tributario-aula-102-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-102-b20",
+      "tipo": "revisao",
+      "titulo": "12. RECUPERAÇÃO FINAL",
+      "texto": "Sem consultar: (1) enumere etapas de auditoria; (2) diferencie evidência de indício; (3) refaça o cálculo 480-30-420; (4) diga o que mudou nos arts. 194 e 196 em setembro/2026; (5) explique por que nota fiscal emitida não determina isoladamente o Município competente para ISS; (6) diferencie fraude e erro. Registrar as respostas reais quando existirem."
+    },
+    {
+      "id": "direito-tributario-aula-102-b21",
+      "tipo": "teoria",
+      "titulo": "13. CONTROLE E CADERNO DE ERROS",
+      "texto": "Aula 102 ministrada; 20 questões propostas, sem respostas individuais nesta execução. Acertos NÃO AFERIDOS; erros NÃO AFERIDOS; domínio NÃO DEMONSTRADO. Após respostas, corrigir alternativa por alternativa, identificar comando e distrator, registrar erro, causa provável, regra correta, pegadinha e revisão em 24h/72h/7 dias. Questões oficiais IAN consultadas apenas para forma; não há gabarito fabricado. A primeira volta continua em ritmo acelerado."
+    },
+    {
+      "id": "direito-tributario-aula-102-b22",
+      "tipo": "teoria",
+      "titulo": "14. PRÓXIMO PONTO EXATO",
+      "texto": "AULA 103 — SIMPLES NACIONAL: LC 123/2006, ISS no DAS, segregação de receitas, retenção, fiscalização e exclusão/desenquadramento, somente no programa de AGENTE FISCAL.\nFONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca do aluno); CTN consolidado atualizado https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html ; LC 236/2026 https://www.presidencia.gov.br/ccivil_03/leis/lcp/lcp236.htm ; LC 116/2003; provas IAN Jardim/MS 2026 e Três Rios/RJ 2024, consultadas para perfil formal."
+    },
+    {
+      "id": "direito-tributario-aula-102-b23",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 102 ==========",
+      "texto": "========== INÍCIO AULA 103 — 14/10/2026 — 11h ==========\nCONCURSO: PREFEITURA DE QUEIMADOS/RJ — EXCLUSIVAMENTE AGENTE FISCAL — IAN."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-102-q-001",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 1,
+      "question": "Q01. A finalidade principal da auditoria fiscal é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "impor multa em toda diligência."
+        },
+        {
+          "id": "B",
+          "text": "verificar fatos e obrigações com evidências e fundamento legal."
+        },
+        {
+          "id": "C",
+          "text": "substituir o processo judicial."
+        },
+        {
+          "id": "D",
+          "text": "dispensar documentação do procedimento. Q02 — INCORRETA. Sobre indícios e evidências:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-002",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 2,
+      "question": "Q02 — INCORRETA. Sobre indícios e evidências:",
+      "options": [
+        {
+          "id": "A",
+          "text": "divergência pode justificar aprofundamento."
+        },
+        {
+          "id": "B",
+          "text": "fontes distintas podem ser conciliadas."
+        },
+        {
+          "id": "C",
+          "text": "divergência numérica comprova automaticamente dolo."
+        },
+        {
+          "id": "D",
+          "text": "evidências devem ser documentadas. Q03. Na matriz de risco, a materialidade refere-se principalmente:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-003",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 3,
+      "question": "Q03. Na matriz de risco, a materialidade refere-se principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à cor da nota fiscal."
+        },
+        {
+          "id": "B",
+          "text": "à relevância do valor ou impacto do achado."
+        },
+        {
+          "id": "C",
+          "text": "à preferência pessoal do agente."
+        },
+        {
+          "id": "D",
+          "text": "ao número de servidores no prédio. Q04 — EXCETO. São fontes úteis à auditoria de ISS, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-004",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 4,
+      "question": "Q04 — EXCETO. São fontes úteis à auditoria de ISS, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "NFS-e."
+        },
+        {
+          "id": "B",
+          "text": "contratos e declarações."
+        },
+        {
+          "id": "C",
+          "text": "documentos contábeis pertinentes."
+        },
+        {
+          "id": "D",
+          "text": "boatos anônimos tratados como prova definitiva. Q05. A auditoria eletrônica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-005",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 5,
+      "question": "Q05. A auditoria eletrônica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "torna dispensável o fundamento legal."
+        },
+        {
+          "id": "B",
+          "text": "permite cruzar registros digitais, exigindo análise das divergências."
+        },
+        {
+          "id": "C",
+          "text": "elimina o sigilo fiscal."
+        },
+        {
+          "id": "D",
+          "text": "comprova automaticamente sonegação. Q06 — CÁLCULO. NFS-e emitidas R$ 480 mil; canceladas válidas R$ 30 mil; declaradas R$ 420 mil. Divergência inicial:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-006",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 6,
+      "question": "Q06 — CÁLCULO. NFS-e emitidas R$ 480 mil; canceladas válidas R$ 30 mil; declaradas R$ 420 mil. Divergência inicial:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 60 mil."
+        },
+        {
+          "id": "B",
+          "text": "R$ 30 mil."
+        },
+        {
+          "id": "C",
+          "text": "R$ 450 mil."
+        },
+        {
+          "id": "D",
+          "text": "R$ 900 mil. Q07 — CÁLCULO. A divergência da Q06 representa aproximadamente que percentual do valor líquido de NFS-e?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-007",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 7,
+      "question": "Q07 — CÁLCULO. A divergência da Q06 representa aproximadamente que percentual do valor líquido de NFS-e?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6,67%."
+        },
+        {
+          "id": "B",
+          "text": "12,50%."
+        },
+        {
+          "id": "C",
+          "text": "30%."
+        },
+        {
+          "id": "D",
+          "text": "66,7%. Q08. Nos termos do art. 194, §1º, do CTN, a fiscalização:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-008",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 8,
+      "question": "Q08. Nos termos do art. 194, §1º, do CTN, a fiscalização:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclui imunes e isentos."
+        },
+        {
+          "id": "B",
+          "text": "alcança apenas contribuintes que pagaram imposto."
+        },
+        {
+          "id": "C",
+          "text": "pode alcançar pessoas físicas ou jurídicas, contribuintes ou não, inclusive imunes e isentos."
+        },
+        {
+          "id": "D",
+          "text": "depende de condenação criminal prévia. Q09 — NOVA REDAÇÃO. O art. 194, §2º, incluído pela LC 236/2026, enfatiza:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-009",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 9,
+      "question": "Q09 — NOVA REDAÇÃO. O art. 194, §2º, incluído pela LC 236/2026, enfatiza:",
+      "options": [
+        {
+          "id": "A",
+          "text": "multa automática antes de qualquer orientação."
+        },
+        {
+          "id": "B",
+          "text": "métodos preventivos de autorregularização nos termos da legislação específica."
+        },
+        {
+          "id": "C",
+          "text": "extinção de toda fiscalização."
+        },
+        {
+          "id": "D",
+          "text": "divulgação irrestrita de dados pessoais. Q10 — ART. 196. O documento prévio de início da fiscalização deve conter:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-010",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 10,
+      "question": "Q10 — ART. 196. O documento prévio de início da fiscalização deve conter:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas a assinatura do fiscal, sem objeto nem período."
+        },
+        {
+          "id": "B",
+          "text": "identificação, objeto, período, documentos necessários, autenticação e duração, nos termos legais."
+        },
+        {
+          "id": "C",
+          "text": "somente a multa pretendida."
+        },
+        {
+          "id": "D",
+          "text": "apenas dados do proprietário do imóvel. Q11 — INCORRETA. Conforme art. 196 atualizado:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-011",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 11,
+      "question": "Q11 — INCORRETA. Conforme art. 196 atualizado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a autoridade deve documentar o procedimento."
+        },
+        {
+          "id": "B",
+          "text": "há previsão de entrega de via no procedimento em estabelecimento/domicílio."
+        },
+        {
+          "id": "C",
+          "text": "força policial é obrigatória em toda visita."
+        },
+        {
+          "id": "D",
+          "text": "o documento prévio inclui forma de confirmar autenticidade. Q12. O art. 197 do CTN exige, em sua hipótese:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-012",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 12,
+      "question": "Q12. O art. 197 do CTN exige, em sua hipótese:",
+      "options": [
+        {
+          "id": "A",
+          "text": "intimação escrita para informações de terceiros, ressalvado segredo legal."
+        },
+        {
+          "id": "B",
+          "text": "ordem verbal informal sem qualquer limite."
+        },
+        {
+          "id": "C",
+          "text": "divulgação pública de dados bancários pelo fiscal."
+        },
+        {
+          "id": "D",
+          "text": "afastamento de todo sigilo profissional. Q13. A regra do art. 198 do CTN diz respeito principalmente:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-013",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 13,
+      "question": "Q13. A regra do art. 198 do CTN diz respeito principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à publicidade irrestrita de todos os dados."
+        },
+        {
+          "id": "B",
+          "text": "ao sigilo fiscal e suas exceções legais."
+        },
+        {
+          "id": "C",
+          "text": "à criação de ISS por decreto."
+        },
+        {
+          "id": "D",
+          "text": "ao fim do cadastro tributário. Q14 — ASSERTIVAS. I. Amostragem deve respeitar seus limites. II. Cruzamento de dados dispensa verificar retificações. III. Um achado deve identificar norma e evidência. Assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-014",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 14,
+      "question": "Q14 — ASSERTIVAS. I. Amostragem deve respeitar seus limites. II. Cruzamento de dados dispensa verificar retificações. III. Um achado deve identificar norma e evidência. Assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "I apenas."
+        },
+        {
+          "id": "B",
+          "text": "II apenas."
+        },
+        {
+          "id": "C",
+          "text": "I e III apenas."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q15. Sobre a NFS-e e a NF-e, é CORRETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-015",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 15,
+      "question": "Q15. Sobre a NFS-e e a NF-e, é CORRETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ambas são sempre documentos idênticos."
+        },
+        {
+          "id": "B",
+          "text": "NFS-e relaciona-se a serviços; NF-e, em regra, a operações com mercadorias."
+        },
+        {
+          "id": "C",
+          "text": "NF-e é sempre declaração de ISS municipal."
+        },
+        {
+          "id": "D",
+          "text": "SPED significa exclusivamente NFS-e. Q16 — ISS. A emissão de NFS-e em determinado Município:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-016",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 16,
+      "question": "Q16 — ISS. A emissão de NFS-e em determinado Município:",
+      "options": [
+        {
+          "id": "A",
+          "text": "comprova que todo ISS será sempre devido a ele."
+        },
+        {
+          "id": "B",
+          "text": "dispensa examinar a LC 116/2003."
+        },
+        {
+          "id": "C",
+          "text": "deve ser analisada com as regras legais de incidência e local do imposto."
+        },
+        {
+          "id": "D",
+          "text": "autoriza presumir alíquota única nacional. Q17 — FRAUDE. Um conjunto de notas e declarações apresenta diferença ainda não esclarecida. A conclusão tecnicamente mais adequada é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-017",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 17,
+      "question": "Q17 — FRAUDE. Um conjunto de notas e declarações apresenta diferença ainda não esclarecida. A conclusão tecnicamente mais adequada é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "fraude dolosa definitivamente provada."
+        },
+        {
+          "id": "B",
+          "text": "divergência a conciliar e documentar."
+        },
+        {
+          "id": "C",
+          "text": "crime necessariamente consumado."
+        },
+        {
+          "id": "D",
+          "text": "nulidade automática de todos os documentos. Q18 — DIREITO ADMINISTRATIVO. Agente competente fiscaliza por vingança pessoal. Há:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-018",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 18,
+      "question": "Q18 — DIREITO ADMINISTRATIVO. Agente competente fiscaliza por vingança pessoal. Há:",
+      "options": [
+        {
+          "id": "A",
+          "text": "desvio de finalidade."
+        },
+        {
+          "id": "B",
+          "text": "simples revogação."
+        },
+        {
+          "id": "C",
+          "text": "competência residual."
+        },
+        {
+          "id": "D",
+          "text": "prescrição automática. Q19 — LRF. O art. 13 prevê metas de arrecadação:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-019",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 19,
+      "question": "Q19 — LRF. O art. 13 prevê metas de arrecadação:",
+      "options": [
+        {
+          "id": "A",
+          "text": "bimestrais."
+        },
+        {
+          "id": "B",
+          "text": "decenais."
+        },
+        {
+          "id": "C",
+          "text": "apenas quinquenais."
+        },
+        {
+          "id": "D",
+          "text": "diárias obrigatórias. Q20 — PORTUGUÊS. “A divergência pode indicar erro; portanto, exige verificação.” O conectivo “portanto” indica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    },
+    {
+      "id": "direito-tributario-aula-102-q-020",
+      "lessonId": "direito-tributario-aula-102",
+      "numero": 20,
+      "question": "Q20 — PORTUGUÊS. “A divergência pode indicar erro; portanto, exige verificação.” O conectivo “portanto” indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "oposição."
+        },
+        {
+          "id": "B",
+          "text": "conclusão."
+        },
+        {
+          "id": "C",
+          "text": "concessão."
+        },
+        {
+          "id": "D",
+          "text": "condição."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS."
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-102-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "texto": "R1. Diferencie excesso de poder e desvio de finalidade.\nR2. O que o art. 117 da Lei Orgânica de Queimados prevê quanto à fiscalização tributária?\nR3. O art. 11 da LRF fala em tributos no caput e em qual espécie no parágrafo único?\nR4. A frase “o sistema pode ter contribuído” autoriza dizer “foi a única causa”? Por quê?\nR5. Qual a diferença entre dívida ativa e execução fiscal?\nRegistre mentalmente dúvidas. A correção individual depende de respostas efetivamente recebidas; não presumir domínio."
+    },
+    {
+      "id": "direito-tributario-aula-102-b20",
+      "titulo": "12. RECUPERAÇÃO FINAL",
+      "texto": "Sem consultar: (1) enumere etapas de auditoria; (2) diferencie evidência de indício; (3) refaça o cálculo 480-30-420; (4) diga o que mudou nos arts. 194 e 196 em setembro/2026; (5) explique por que nota fiscal emitida não determina isoladamente o Município competente para ISS; (6) diferencie fraude e erro. Registrar as respostas reais quando existirem."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [
+    {
+      "id": "direito-tributario-aula-102-b7",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 194: legislação tributária regula competência e poderes fiscalizatórios; alcança pessoas físicas e jurídicas, contribuintes ou não, inclusive imunes ou isentas (§1º). NOVO: LC 236/2026 acrescentou §2º (priorização e disponibilização de métodos preventivos de autorregularização antes do auto, conforme legislação específica) e §3º (programas de conformidade, diálogo, boa-fé, transparência, proporcionalidade etc.). Não afirmar que toda fiscalização necessariamente termina com multa."
+    },
+    {
+      "id": "direito-tributario-aula-102-b8",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 194-A (LC 236/2026): decisões definitivas vinculantes de STF/STJ, nos termos do dispositivo, vinculam a administração tributária; estudar a relação com precedentes e prevenção de autuações incompatíveis."
+    },
+    {
+      "id": "direito-tributario-aula-102-b9",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 195: exame de livros, arquivos, documentos e elementos comerciais/fiscais nos termos legais; livros obrigatórios e comprovantes conservados até prescrição dos créditos decorrentes das operações. Não confundir poder de examinar com acesso irrestrito a domicílio, dados protegidos ou atuação sem competência."
+    },
+    {
+      "id": "direito-tributario-aula-102-b10",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 196: LC 236/2026 ALTEROU a redação. Deve-se documentar o procedimento; §2º exige documento prévio de início contendo identificação da autoridade emissora, encarregados, contribuinte/estabelecimentos, objeto, período, documentos necessários, forma de confirmação da autenticidade e prazo de duração. §3º: fiscalização em estabelecimento ou domicílio com entrega de via ao contribuinte/representante/preposto. §4º: acompanhamento policial nessa hipótese condicionado a justo receio de resistência, reduzido a termo e consignado no documento. Atenção: apostilas antigas reproduzem caput anterior e omitem esses parágrafos."
+    },
+    {
+      "id": "direito-tributario-aula-102-b11",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 197: determinadas pessoas e entidades devem prestar informações sobre terceiros mediante intimação escrita; parágrafo único ressalva fatos protegidos por segredo legal decorrente de cargo, ofício, função, ministério, atividade ou profissão."
+    },
+    {
+      "id": "direito-tributario-aula-102-b12",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 198: sigilo fiscal; exceções e hipóteses legais específicas. Não publicar dados econômicos individuais em redes sociais."
+    },
+    {
+      "id": "direito-tributario-aula-102-b13",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 199: assistência mútua e intercâmbio de informações entre Fazendas Públicas na forma de lei/convênio. Art. 199-A (LC 236/2026): convênio pode permitir compartilhamento de atividades de fiscalização, lançamento, cobrança e estrutura de processo administrativo fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-102-b14",
+      "titulo": "7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)",
+      "texto": "Art. 200: auxílio de força pública em hipóteses legais; não significa acompanhamento policial obrigatório em qualquer diligência."
+    }
+  ],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-14",
+  "contentHash": "b7e76e4af52be41a"
+}

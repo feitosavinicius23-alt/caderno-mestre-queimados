@@ -7,7 +7,7 @@
   "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
   "ordem": 101,
   "data": "2026-10-14",
-  "tempoEstimadoMin": 4,
+  "tempoEstimadoMin": 5,
   "resumo": "",
   "conteudo": [
     {
@@ -120,7 +120,7 @@
       "id": "direito-tributario-aula-101-b15",
       "tipo": "teoria",
       "titulo": "========== FIM AULA 101 ==========",
-      "texto": ""
+      "texto": "========== INÍCIO AULA 102 — 14/10/2026 — 07h ==========\nCONCURSO: PREFEITURA DE QUEIMADOS/RJ — EXCLUSIVAMENTE AGENTE FISCAL — IAN."
     }
   ],
   "questoes": [
@@ -742,5 +742,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-14",
-  "contentHash": "95f2d4ebb85330a7"
+  "contentHash": "7d26bf4b54f22128"
 }

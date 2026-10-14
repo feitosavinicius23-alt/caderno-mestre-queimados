@@ -1,0 +1,742 @@
+{
+  "id": "direito-tributario-aula-103",
+  "numero": 103,
+  "titulo": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+  "slug": "simples-nacional-lc-123-2006-iss-das-pgdas-d-segregacao-de-receitas-retencao-fis",
+  "disciplina": "Direito Tributário",
+  "assunto": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+  "ordem": 103,
+  "data": "2026-10-14",
+  "tempoEstimadoMin": 8,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-103-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "Duração estimada: 50–60 minutos. Conteúdo delimitado pelo Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (bloco SIMPLES NACIONAL). Questões autorais com quatro alternativas, inspiradas na forma observada em provas IAN de 2024 (Três Rios, Auditor de Controle Interno) e 2026 (Câmara de Jardim, Controlador Interno). Não são questões oficiais nem possuem gabarito fornecido pela IAN. Sem respostas prévias."
+    },
+    {
+      "id": "direito-tributario-aula-103-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTAR",
+      "texto": "R1. Na auditoria fiscal, uma divergência entre notas e declaração comprova automaticamente fraude? Justifique.\nR2. Distinga evidência suficiente de evidência adequada.\nR3. Em qual artigo do CTN aparece a proteção ao sigilo fiscal?\nR4. Qual a diferença entre anulação e revogação de ato administrativo?\nR5. Qual a periodicidade geral do RREO e do RGF? Guarde as respostas e retome no fim."
+    },
+    {
+      "id": "direito-tributario-aula-103-b3",
+      "tipo": "teoria",
+      "titulo": "2. CONCEITO E FINALIDADE",
+      "texto": "O Simples Nacional é um regime especial unificado de arrecadação, cobrança e fiscalização de tributos e contribuições devidos por microempresas (ME) e empresas de pequeno porte (EPP), disciplinado principalmente pela LC federal 123/2006 e pela Resolução CGSN 140/2018, com atualizações. Ele simplifica procedimentos e permite recolhimento conjunto de parcelas tributárias por DAS. Não cria imunidade, não transforma tributos diferentes em imposto único e não dispensa a fiscalização municipal do ISS.\nPegadinha: optante do Simples pode dever valores fora do DAS em hipóteses legais, como ISS sujeito a retenção ou substituição tributária e outros tributos especificados no art. 13, §1º."
+    },
+    {
+      "id": "direito-tributario-aula-103-b4",
+      "tipo": "teoria",
+      "titulo": "3. QUEM É ME E QUEM É EPP — ART. 3º",
+      "texto": "Microempresa: receita bruta anual até R$ 360.000. Empresa de pequeno porte: receita bruta anual superior a R$ 360.000 e até R$ 4.800.000. Há proporcionalidade de limites para empresa em início de atividade, regras de impedimento e condições adicionais. A classificação por porte não assegura, sozinha, direito irrestrito de opção pelo Simples.\nExemplos: R$ 350.000 no ano = porte ME; R$ 600.000 = porte EPP, em princípio; R$ 5 milhões supera o teto geral anual do regime, exigindo análise de efeitos e exceções da legislação. Não confundir limite geral de R$ 4,8 milhões com sublimite para ISS/ICMS."
+    },
+    {
+      "id": "direito-tributario-aula-103-b5",
+      "tipo": "teoria",
+      "titulo": "4. QUAIS TRIBUTOS SÃO RECOLHIDOS — ART. 13",
+      "texto": "No regime tradicional, o DAS reúne, conforme a atividade e as exceções, IRPJ, IPI, CSLL, Cofins, PIS/Pasep, CPP, ICMS e ISS. A contribuição patronal previdenciária não está incluída no DAS para determinadas atividades do Anexo IV. A legislação também prevê hipóteses de recolhimento fora do documento único, incluindo ISS devido em substituição/retenção na fonte e importação de serviços (art. 13, §1º, XIV). Não concluir que todas as obrigações estão quitadas só porque existe um DAS pago."
+    },
+    {
+      "id": "direito-tributario-aula-103-b6",
+      "tipo": "teoria",
+      "titulo": "5. APURAÇÃO E FÓRMULA — ART. 18",
+      "texto": "A apuração é, em regra, mensal, com uso do PGDAS-D. O enquadramento na faixa usa a receita bruta acumulada nos doze meses ANTERIORES ao período de apuração (RBT12), observadas regras específicas para início de atividade e demais exceções. O valor devido considera a receita do mês, segregada conforme atividade e tratamento tributário, e a alíquota efetiva da faixa.\nFórmula didática: ALÍQUOTA EFETIVA = [(RBT12 × ALÍQUOTA NOMINAL) − PARCELA A DEDUZIR] ÷ RBT12.\nExemplo numérico controlado: empresa com receitas tributadas pelo Anexo III; RBT12 de R$ 300.000; alíquota nominal da 2ª faixa = 11,2%; parcela a deduzir = R$ 9.360. Cálculo: (300.000 × 0,112 − 9.360) ÷ 300.000 = (33.600 − 9.360) ÷ 300.000 = 0,0808 = 8,08%. Se a receita tributável do mês for R$ 20.000, sem segregações adicionais nem exceções, valor global ilustrativo no DAS para essa receita = R$ 1.616. ATENÇÃO: 8,08% é alíquota global efetiva do anexo, NÃO alíquota isolada de ISS; a parcela do ISS decorre da repartição legal aplicável.\nPegadinha IAN: não aplicar diretamente a alíquota NOMINAL de 11,2% sobre o mês sem considerar a parcela a deduzir. Também não usar a receita do próprio mês no lugar da RBT12."
+    },
+    {
+      "id": "direito-tributario-aula-103-b7",
+      "tipo": "teoria",
+      "titulo": "6. SEGREGAÇÃO DE RECEITAS E ISS",
+      "texto": "O contribuinte pode realizar atividades com enquadramentos e tratamentos distintos. É necessário segregar receitas de comércio, indústria e serviços, bem como receitas de serviços com ISS devido no próprio DAS, receitas com ISS retido/substituído e hipóteses de ISS devido fora do regime. A classificação da atividade e a incidência territorial do ISS exigem análise da LC 116/2003 e das normas pertinentes.\nCaso: empresa presta serviço sujeito ao ISS em situação legal de retenção, e também outro serviço cujo ISS é apurado no DAS. Não se deve cobrar duas vezes a mesma parcela de ISS. É necessário segregar a receita da operação retida e ajustar a parcela do ISS no PGDAS-D conforme as regras. A retenção não elimina, por si, as demais parcelas tributárias do Simples sobre aquela receita.\nA NFS-e ajuda na auditoria, mas a emissão no município X não prova isoladamente que o ISS é devido ao município X. O local de incidência decorre das regras legais, não da localização do sistema emissor."
+    },
+    {
+      "id": "direito-tributario-aula-103-b8",
+      "tipo": "teoria",
+      "titulo": "7. RETENÇÃO DO ISS — ART. 21, §4º",
+      "texto": "A retenção de ISS de ME/EPP optante do Simples só é permitida quando observadas as hipóteses de incidência territorial da LC 116/2003 e as regras especiais da LC 123/2006. Em geral, o documento fiscal informa a alíquota de ISS aplicável à retenção conforme as normas específicas; não é correto presumir que seja sempre 5%, nem confundir a alíquota efetiva GLOBAL do DAS com a parcela de ISS. Há regras especiais para início de atividade e informações omitidas.\nExemplo: o tomador retém legalmente o ISS sobre determinada prestação. A empresa deve tratar a receita corretamente no sistema para evitar recolhimento duplicado da parcela de ISS. Isso não a exonera automaticamente de IRPJ, CSLL, PIS/Cofins etc. que componham o cálculo."
+    },
+    {
+      "id": "direito-tributario-aula-103-b9",
+      "tipo": "teoria",
+      "titulo": "8. SUBLIMITE — ISS/ICMS",
+      "texto": "Em 2026, o limite geral de enquadramento no Simples é R$ 4,8 milhões, mas o sublimite aplicável a ISS/ICMS é de R$ 3,6 milhões, com regras de excesso e produção de efeitos. Assim, empresa que permanece no Simples para tributos federais pode, em certas situações, recolher ISS e ICMS fora do DAS. Não presumir saída integral do regime apenas por ultrapassar o sublimite; verificar o período, o excesso e as regras específicas.\nExemplo conceitual: EPP com receita acima do sublimite, mas abaixo do teto geral, pode ficar impedida de recolher ISS no DAS conforme os critérios legais, sem necessariamente deixar o Simples para todos os tributos."
+    },
+    {
+      "id": "direito-tributario-aula-103-b10",
+      "tipo": "teoria",
+      "titulo": "9. FISCALIZAÇÃO PELO MUNICÍPIO — ART. 33: REGRA DE 2026 E EFEITOS DE 2027",
+      "texto": "A LC 227/2026 alterou a redação do art. 33 da LC 123: a competência para fiscalizar obrigações principais e acessórias do Simples e hipóteses do art. 29 abrange a Receita Federal e as secretarias de fazenda/finanças estaduais, distrital ou municipais. O §1º-A dispensa convênio na hipótese de prestação de serviços sujeita ao ISS por estabelecimento localizado no município. O §1º-C prevê competência de lançamento nos termos da lei; o §1º-D reserva autuação de obrigação acessória à administração perante a qual ela deveria ser cumprida. A competência legal deve ser exercida por autoridade designada e com rito apropriado.\nCaso de auditoria: compare NFS-e, PGDAS-D, receita declarada, notas canceladas, comprovantes de retenção, contratos e extratos obtidos legalmente. Divergência é indício, não prova automática de fraude. Formalize o procedimento, fundamente a conclusão e preserve sigilo fiscal."
+    },
+    {
+      "id": "direito-tributario-aula-103-b11",
+      "tipo": "teoria",
+      "titulo": "10. EXCLUSÃO, DESENQUADRAMENTO E COMUNICAÇÃO — ARTS. 28 A 32",
+      "texto": "A exclusão do Simples pode ocorrer por comunicação da empresa ou de ofício (art. 28). O art. 29 prevê hipóteses de exclusão de ofício, entre elas embaraço ou resistência à fiscalização, interpostas pessoas, prática reiterada de infrações, ausência de escrituração exigida e outras situações taxativas. A produção dos efeitos depende da hipótese legal e dos marcos temporais; não dizer que toda exclusão opera retroativamente desde a abertura da empresa.\nDesenquadramento do SIMEI/MEI não é necessariamente a mesma coisa que exclusão integral do Simples Nacional. É possível deixar a sistemática de valores fixos do MEI e continuar no Simples como ME, se preenchidos os requisitos. Não confundir 'desenquadramento do SIMEI' com 'exclusão do Simples'.\nPegadinha: irregularidade cadastral ou excesso de receita exige verificar a norma, o prazo de comunicação, os efeitos e eventual possibilidade de regularização; não impor penalidade por mera suposição."
+    },
+    {
+      "id": "direito-tributario-aula-103-b12",
+      "tipo": "teoria",
+      "titulo": "11. NOTA DE ATUALIZAÇÃO 2026/2027",
+      "texto": "As Resoluções CGSN 190 e 191/2026 adaptam o regime à reforma tributária (IBS/CBS); a Receita Federal informou em 11/08/2026 que, em regra, as mudanças da Resolução 190 produzem efeitos a partir de 01/01/2027. Portanto, para resolver questões sobre a operação do ISS no Simples em 2026, não antecipar indiscriminadamente regras futuras. A LC 227/2026 já alterou o art. 33, que deve ser lido na redação vigente. Não misturar conceitos de 2027 com obrigações de 2026."
+    },
+    {
+      "id": "direito-tributario-aula-103-b13",
+      "tipo": "teoria",
+      "titulo": "12. QUADRO DE FIXAÇÃO",
+      "texto": "ME: até R$ 360 mil/ano. EPP: acima de R$ 360 mil e até R$ 4,8 milhões/ano. Sublimite ISS/ICMS: R$ 3,6 milhões (com regras próprias). DAS: documento único, com exceções legais. PGDAS-D: sistema de apuração/declaracão. RBT12: receita bruta dos 12 meses anteriores. Alíquota nominal ≠ alíquota efetiva. Retenção do ISS ≠ extinção das demais parcelas do Simples. Município pode fiscalizar na competência legal. Exclusão do Simples ≠ desenquadramento do SIMEI."
+    },
+    {
+      "id": "direito-tributario-aula-103-b14",
+      "tipo": "questao",
+      "titulo": "13. QUESTÕES AUTORAIS — FORMATO IAN A–D — NÃO REVELAR GABARITO ANTES DA RESPOSTA",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-103-q-001",
+        "direito-tributario-aula-103-q-002",
+        "direito-tributario-aula-103-q-003",
+        "direito-tributario-aula-103-q-004",
+        "direito-tributario-aula-103-q-005",
+        "direito-tributario-aula-103-q-006",
+        "direito-tributario-aula-103-q-007",
+        "direito-tributario-aula-103-q-008",
+        "direito-tributario-aula-103-q-009",
+        "direito-tributario-aula-103-q-010",
+        "direito-tributario-aula-103-q-011",
+        "direito-tributario-aula-103-q-012",
+        "direito-tributario-aula-103-q-013",
+        "direito-tributario-aula-103-q-014",
+        "direito-tributario-aula-103-q-015",
+        "direito-tributario-aula-103-q-016",
+        "direito-tributario-aula-103-q-017",
+        "direito-tributario-aula-103-q-018",
+        "direito-tributario-aula-103-q-019",
+        "direito-tributario-aula-103-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-103-b15",
+      "tipo": "revisao",
+      "titulo": "14. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "texto": "Explique: (1) ME x EPP; (2) RBT12 x receita mensal; (3) fórmula da alíquota efetiva; (4) diferença entre DAS global e parcela de ISS; (5) retenção e segregação; (6) sublimite de R$ 3,6 milhões; (7) competência municipal do art. 33; (8) exclusão do Simples x desenquadramento do SIMEI; (9) por que divergência não é fraude comprovada."
+    },
+    {
+      "id": "direito-tributario-aula-103-b16",
+      "tipo": "caderno-de-erros",
+      "titulo": "15. CADERNO DE ERROS E REVISÃO ESPAÇADA",
+      "texto": "Questões propostas: 20; respostas individuais: não recebidas; acertos/erros: não aferidos; domínio: não demonstrado. Após resposta, corrigir cada alternativa, registrar erro, causa provável, regra, pegadinha e revisão futura. Reaplicar conceitos em 24h, 72h e 7 dias, com assuntos misturados. Não presumir domínio apenas por leitura."
+    },
+    {
+      "id": "direito-tributario-aula-103-b17",
+      "tipo": "teoria",
+      "titulo": "16. PRÓXIMO PONTO EXATO",
+      "texto": ""
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-103-q-001",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 1,
+      "question": "Q01. O Simples Nacional é corretamente caracterizado como:",
+      "options": [
+        {
+          "id": "A",
+          "text": "imposto único municipal, substitutivo de toda tributação."
+        },
+        {
+          "id": "B",
+          "text": "regime unificado de arrecadação, cobrança e fiscalização, sujeito a exceções legais."
+        },
+        {
+          "id": "C",
+          "text": "imunidade tributária concedida a qualquer pessoa jurídica."
+        },
+        {
+          "id": "D",
+          "text": "autorização para dispensar obrigações acessórias de toda espécie. Q02 — CORRETA. O limite anual de receita bruta para microempresa, em regra, é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-002",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 2,
+      "question": "Q02 — CORRETA. O limite anual de receita bruta para microempresa, em regra, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 81.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 360.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 3.600.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 4.800.000. Q03 — INCORRETA. Sobre o DAS, assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-003",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 3,
+      "question": "Q03 — INCORRETA. Sobre o DAS, assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pode reunir diferentes tributos."
+        },
+        {
+          "id": "B",
+          "text": "há tributos e situações de recolhimento fora dele."
+        },
+        {
+          "id": "C",
+          "text": "seu pagamento dispensa toda fiscalização do ISS."
+        },
+        {
+          "id": "D",
+          "text": "sua apuração depende de regras legais de segregação. Q04. A RBT12 utilizada para a faixa de alíquota corresponde, em regra:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-004",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 4,
+      "question": "Q04. A RBT12 utilizada para a faixa de alíquota corresponde, em regra:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à receita do mês corrente apenas."
+        },
+        {
+          "id": "B",
+          "text": "à receita bruta dos 12 meses anteriores ao período de apuração."
+        },
+        {
+          "id": "C",
+          "text": "à soma dos lucros dos últimos cinco anos."
+        },
+        {
+          "id": "D",
+          "text": "exclusivamente à folha de pagamento anual. Q05 — CÁLCULO. RBT12 = R$ 300.000, nominal 11,2%, parcela a deduzir R$ 9.360. Alíquota efetiva:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-005",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 5,
+      "question": "Q05 — CÁLCULO. RBT12 = R$ 300.000, nominal 11,2%, parcela a deduzir R$ 9.360. Alíquota efetiva:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11,2%."
+        },
+        {
+          "id": "B",
+          "text": "3,12%."
+        },
+        {
+          "id": "C",
+          "text": "8,08%."
+        },
+        {
+          "id": "D",
+          "text": "9,36%. Q06 — CÁLCULO. Aplicando 8,08% sobre R$ 20.000 de receita tributável mensal hipotética, o DAS global ilustrativo será:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-006",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 6,
+      "question": "Q06 — CÁLCULO. Aplicando 8,08% sobre R$ 20.000 de receita tributável mensal hipotética, o DAS global ilustrativo será:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 1.616."
+        },
+        {
+          "id": "B",
+          "text": "R$ 2.240."
+        },
+        {
+          "id": "C",
+          "text": "R$ 808."
+        },
+        {
+          "id": "D",
+          "text": "R$ 936. Q07 — EXCETO. São providências adequadas à auditoria do Simples, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-007",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 7,
+      "question": "Q07 — EXCETO. São providências adequadas à auditoria do Simples, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "confrontar NFS-e e PGDAS-D."
+        },
+        {
+          "id": "B",
+          "text": "examinar cancelamentos e retificações."
+        },
+        {
+          "id": "C",
+          "text": "documentar o procedimento e os fundamentos."
+        },
+        {
+          "id": "D",
+          "text": "presumir fraude dolosa definitiva em qualquer diferença. Q08. A retenção do ISS de optante do Simples:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-008",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 8,
+      "question": "Q08. A retenção do ISS de optante do Simples:",
+      "options": [
+        {
+          "id": "A",
+          "text": "pode ocorrer em hipóteses legais e exige tratamento adequado da receita."
+        },
+        {
+          "id": "B",
+          "text": "ocorre obrigatoriamente em qualquer serviço prestado."
+        },
+        {
+          "id": "C",
+          "text": "extingue todas as demais parcelas de tributos do DAS."
+        },
+        {
+          "id": "D",
+          "text": "deve utilizar sempre a alíquota global efetiva do DAS como percentual de ISS. Q09 — CORRETA. O sublimite geral de referência para recolhimento de ISS/ICMS no Simples em 2026 é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-009",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 9,
+      "question": "Q09 — CORRETA. O sublimite geral de referência para recolhimento de ISS/ICMS no Simples em 2026 é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 360.000."
+        },
+        {
+          "id": "B",
+          "text": "R$ 3.600.000."
+        },
+        {
+          "id": "C",
+          "text": "R$ 4.800.000."
+        },
+        {
+          "id": "D",
+          "text": "R$ 81.000. Q10. Ultrapassar o sublimite do ISS/ICMS, sem ultrapassar o teto geral, pode implicar:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-010",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 10,
+      "question": "Q10. Ultrapassar o sublimite do ISS/ICMS, sem ultrapassar o teto geral, pode implicar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "impossibilidade automática de recolher todos os tributos federais pelo Simples, sem exceções."
+        },
+        {
+          "id": "B",
+          "text": "suspensão de qualquer fiscalização."
+        },
+        {
+          "id": "C",
+          "text": "recolhimento de ISS/ICMS fora do DAS, conforme os efeitos legais."
+        },
+        {
+          "id": "D",
+          "text": "anulação retroativa de todas as notas fiscais. Q11. Segundo a redação de 2026 do art. 33 da LC 123, a fiscalização do Simples compete:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-011",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 11,
+      "question": "Q11. Segundo a redação de 2026 do art. 33 da LC 123, a fiscalização do Simples compete:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente à Receita Federal."
+        },
+        {
+          "id": "B",
+          "text": "à Receita Federal e às secretarias fazendárias estaduais, distrital ou municipais, conforme a lei."
+        },
+        {
+          "id": "C",
+          "text": "exclusivamente ao Poder Judiciário."
+        },
+        {
+          "id": "D",
+          "text": "apenas aos órgãos federais de controle externo. Q12 — INCORRETA. Sobre fiscalização do Simples, é INCORRETO afirmar:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-012",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 12,
+      "question": "Q12 — INCORRETA. Sobre fiscalização do Simples, é INCORRETO afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "os municípios podem exercer competências previstas na LC 123."
+        },
+        {
+          "id": "B",
+          "text": "a fiscalização deve observar o sigilo e o procedimento."
+        },
+        {
+          "id": "C",
+          "text": "a autoridade municipal jamais pode fiscalizar obrigações do Simples."
+        },
+        {
+          "id": "D",
+          "text": "a apuração exige exame das evidências. Q13. A exclusão do Simples Nacional pode ocorrer:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-013",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 13,
+      "question": "Q13. A exclusão do Simples Nacional pode ocorrer:",
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivamente por decisão judicial criminal."
+        },
+        {
+          "id": "B",
+          "text": "apenas por solicitação de terceiro."
+        },
+        {
+          "id": "C",
+          "text": "de ofício ou mediante comunicação da empresa."
+        },
+        {
+          "id": "D",
+          "text": "somente após cinco anos de atividade. Q14 — ASSERTIVAS. I. Desenquadramento do SIMEI é sempre igual à exclusão do Simples. II. A empresa pode sair do SIMEI e permanecer no Simples, atendidos os requisitos. III. O ISS retido legalmente deve ser tratado para evitar cobrança duplicada da mesma parcela. Correto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-014",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 14,
+      "question": "Q14 — ASSERTIVAS. I. Desenquadramento do SIMEI é sempre igual à exclusão do Simples. II. A empresa pode sair do SIMEI e permanecer no Simples, atendidos os requisitos. III. O ISS retido legalmente deve ser tratado para evitar cobrança duplicada da mesma parcela. Correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas I."
+        },
+        {
+          "id": "B",
+          "text": "apenas II."
+        },
+        {
+          "id": "C",
+          "text": "II e III."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q15 — INCORRETA. Sobre apuração:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-015",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 15,
+      "question": "Q15 — INCORRETA. Sobre apuração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a alíquota nominal e a efetiva podem diferir."
+        },
+        {
+          "id": "B",
+          "text": "a parcela a deduzir integra a fórmula."
+        },
+        {
+          "id": "C",
+          "text": "a receita pode exigir segregação por atividade."
+        },
+        {
+          "id": "D",
+          "text": "a alíquota global do DAS é sempre igual à alíquota isolada de ISS. Q16. Uma empresa emite NFS-e em Queimados. Para definir o município credor do ISS, deve-se:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-016",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 16,
+      "question": "Q16. Uma empresa emite NFS-e em Queimados. Para definir o município credor do ISS, deve-se:",
+      "options": [
+        {
+          "id": "A",
+          "text": "olhar apenas o endereço do software emissor."
+        },
+        {
+          "id": "B",
+          "text": "observar as regras legais de local da incidência do ISS e as características do serviço."
+        },
+        {
+          "id": "C",
+          "text": "presumir que a emissão torna Queimados sempre credor."
+        },
+        {
+          "id": "D",
+          "text": "ignorar a LC 116/2003. Q17. Em uma auditoria, a diferença entre notas emitidas e receitas declaradas:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-017",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 17,
+      "question": "Q17. Em uma auditoria, a diferença entre notas emitidas e receitas declaradas:",
+      "options": [
+        {
+          "id": "A",
+          "text": "é sempre prova conclusiva de crime."
+        },
+        {
+          "id": "B",
+          "text": "nunca tem relevância fiscal."
+        },
+        {
+          "id": "C",
+          "text": "deve ser conciliada com cancelamentos, períodos e outras informações."
+        },
+        {
+          "id": "D",
+          "text": "dispensa motivação de eventual autuação. Q18 — REVISÃO AUDITORIA. Evidência adequada diz respeito principalmente:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-018",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 18,
+      "question": "Q18 — REVISÃO AUDITORIA. Evidência adequada diz respeito principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à relevância e confiabilidade."
+        },
+        {
+          "id": "B",
+          "text": "somente à quantidade."
+        },
+        {
+          "id": "C",
+          "text": "à preferência pessoal do agente."
+        },
+        {
+          "id": "D",
+          "text": "ao valor fixo da multa. Q19 — REVISÃO DIREITO ADMINISTRATIVO. Um agente usa competência legal para perseguir pessoalmente um contribuinte. O vício é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-019",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 19,
+      "question": "Q19 — REVISÃO DIREITO ADMINISTRATIVO. Um agente usa competência legal para perseguir pessoalmente um contribuinte. O vício é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "revogação."
+        },
+        {
+          "id": "B",
+          "text": "desvio de finalidade."
+        },
+        {
+          "id": "C",
+          "text": "anistia."
+        },
+        {
+          "id": "D",
+          "text": "elisão fiscal. Q20 — PORTUGUÊS. Em “Embora a empresa esteja no Simples, certas operações podem exigir ISS fora do DAS”, a palavra “embora” expressa:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    },
+    {
+      "id": "direito-tributario-aula-103-q-020",
+      "lessonId": "direito-tributario-aula-103",
+      "numero": 20,
+      "question": "Q20 — PORTUGUÊS. Em “Embora a empresa esteja no Simples, certas operações podem exigir ISS fora do DAS”, a palavra “embora” expressa:",
+      "options": [
+        {
+          "id": "A",
+          "text": "causa."
+        },
+        {
+          "id": "B",
+          "text": "conclusão."
+        },
+        {
+          "id": "C",
+          "text": "concessão."
+        },
+        {
+          "id": "D",
+          "text": "finalidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO."
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-103-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTAR",
+      "texto": "R1. Na auditoria fiscal, uma divergência entre notas e declaração comprova automaticamente fraude? Justifique.\nR2. Distinga evidência suficiente de evidência adequada.\nR3. Em qual artigo do CTN aparece a proteção ao sigilo fiscal?\nR4. Qual a diferença entre anulação e revogação de ato administrativo?\nR5. Qual a periodicidade geral do RREO e do RGF? Guarde as respostas e retome no fim."
+    },
+    {
+      "id": "direito-tributario-aula-103-b15",
+      "titulo": "14. RECUPERAÇÃO FINAL SEM CONSULTA",
+      "texto": "Explique: (1) ME x EPP; (2) RBT12 x receita mensal; (3) fórmula da alíquota efetiva; (4) diferença entre DAS global e parcela de ISS; (5) retenção e segregação; (6) sublimite de R$ 3,6 milhões; (7) competência municipal do art. 33; (8) exclusão do Simples x desenquadramento do SIMEI; (9) por que divergência não é fraude comprovada."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-14",
+  "contentHash": "ab6deccf70ba39e6"
+}

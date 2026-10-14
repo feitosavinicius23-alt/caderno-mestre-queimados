@@ -1,0 +1,38 @@
+{
+  "id": "direito-tributario-aula-104",
+  "numero": 104,
+  "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+  "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+  "disciplina": "Direito Tributário",
+  "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+  "ordem": 104,
+  "data": "2026-10-14",
+  "tempoEstimadoMin": 1,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-104-b1",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "FONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca); LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; LC 116/2003; Resolução CGSN 140/2018; Receita Federal 11/08/2026 https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo ; provas IAN Jardim/MS 2026 e Três Rios/RJ 2024 (formato, não gabarito)."
+    },
+    {
+      "id": "direito-tributario-aula-104-b2",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 103 ==========",
+      "texto": "ERRATA AULA 103: LC 227/2026, art. 182, I, b: a nova redação do art. 33 da LC 123 produz efeitos só em 01/01/2027. Para 2026, observar a competência municipal de fiscalização de serviços sujeitos ao ISS segundo a redação anterior."
+    }
+  ],
+  "questoes": [],
+  "gabaritos": [],
+  "revisao": [],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-14",
+  "contentHash": "5779a379fd6a8536"
+}

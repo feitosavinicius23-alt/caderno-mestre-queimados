@@ -18641,3 +18641,315 @@ AULA 102 — CONHECIMENTOS ESPECÍFICOS NOVOS: AUDITORIA FISCAL, planejamento, e
 FONTES DE REFERÊNCIA
 Constituição Federal, art. 37 (Planalto); LC 101/2000, arts. 4, 11, 13, 14, 19, 20, 22, 52, 54 e 59 (Planalto); Lei Orgânica de Queimados, arts. 80, 117 e 123 (acervo municipal); Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx; provas IAN 2026 Câmara de Jardim/MS e IAN 2024 Três Rios/RJ consultadas para padrão de questões. Questões desta aula são autorais; não se atribui gabarito oficial ao arquivo questoes_ian_911.pdf.
 ========== FIM AULA 101 ==========
+
+
+========== INÍCIO AULA 102 — 14/10/2026 — 07h ==========
+CONCURSO: PREFEITURA DE QUEIMADOS/RJ — EXCLUSIVAMENTE AGENTE FISCAL — IAN.
+AULA 102 — AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.
+Duração orientativa: 55–65 minutos. Meta: avançar a primeira volta do edital e consolidar conhecimentos por recuperação ativa. Conteúdo programático conferido no Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (bloco AUDITORIA FISCAL: planejamento e técnicas; auditoria documental, contábil e eletrônica; fraudes e evasão; ISS e receitas municipais). Aulas anteriores: 101, revisão cumulativa. Questões abaixo AUTORAIS, estruturadas em quatro alternativas com comandos CORRETA/INCORRETA/EXCETO e assertivas; não são apresentadas como questões oficiais IAN. Provas de Controlador Interno de Jardim/MS (IAN 2026) e Auditor de Controle Interno de Três Rios/RJ (IAN 2024) foram consultadas para observar forma e distratores. O arquivo questoes_ian_911.pdf não foi localizado nesta execução; nenhum gabarito dele foi atribuído.
+1. RECUPERAÇÃO ATIVA — SEM CONSULTA
+R1. Diferencie excesso de poder e desvio de finalidade.
+R2. O que o art. 117 da Lei Orgânica de Queimados prevê quanto à fiscalização tributária?
+R3. O art. 11 da LRF fala em tributos no caput e em qual espécie no parágrafo único?
+R4. A frase “o sistema pode ter contribuído” autoriza dizer “foi a única causa”? Por quê?
+R5. Qual a diferença entre dívida ativa e execução fiscal?
+Registre mentalmente dúvidas. A correção individual depende de respostas efetivamente recebidas; não presumir domínio.
+2. CONCEITO OPERACIONAL
+Auditoria fiscal é o exame sistemático de fatos, documentos, registros e declarações para verificar cumprimento de obrigações tributárias, identificar divergências e fundamentar providências legais. Auditoria NÃO é sinônimo de autuação: pode resultar em regularidade, orientação/autorregularização, pedido de esclarecimento ou providência fiscal cabível. Indício NÃO equivale a prova definitiva. Conclusão exige evidências suficientes e adequadas, contraditório quando cabível, competência e observância do rito legal.
+Exemplo: notas de serviços emitidas no valor de R$ 480.000 e declaração de R$ 420.000 não demonstram, por si, sonegação de R$ 60.000. Podem existir cancelamentos, substituições, diferenças de competência, deduções legais ou erros cadastrais. A auditoria deve conciliar fontes antes de concluir.
+3. PLANEJAMENTO — MATRIZ DE RISCO
+Etapas didáticas: (a) definir objetivo e tributo/período; (b) identificar competência e autorização; (c) selecionar contribuintes por critérios impessoais de risco; (d) mapear fontes e limites legais de acesso; (e) formalizar início e comunicar nos termos aplicáveis; (f) coletar e preservar evidências; (g) cruzar e testar hipóteses; (h) solicitar esclarecimentos; (i) registrar achados e concluir; (j) adotar medidas e encaminhamentos legais.
+Risco é uma prioridade de investigação, não condenação. Exemplo de matriz: empresa A com alta divergência entre NFS-e e declarações e sem justificativa documentada = maior prioridade; empresa B com pequena divergência explicada por notas canceladas = menor prioridade. Não usar afinidade pessoal como critério.
+Critérios de qualidade: materialidade (valor ou relevância), probabilidade de irregularidade, histórico, confiabilidade das fontes, tempo e recursos. Amostragem é possível, mas conclusões precisam respeitar alcance da amostra; extrapolação quantitativa exige método válido.
+4. TIPOS DE AUDITORIA
+Documental: notas fiscais, contratos, recibos, guias, declarações, alvarás e livros; verifica autenticidade, datas, partes, objeto e coerência. Contábil: concilia lançamentos, receitas, contas a receber, extratos obtidos licitamente, razão e balancetes; registro contábil divergente pode ter explicação legítima. Eletrônica: usa NFS-e, declarações digitais, cadastros, bases autorizadas, planilhas e trilhas de auditoria. SPED é ecossistema de escrituração digital, não sinônimo de NFS-e. NF-e normalmente documenta operações com mercadorias; NFS-e documenta serviços; EFD reúne escrituração fiscal digital de módulos específicos. A utilização para ISS municipal exige observar qual sistema, competência e integração estão disponíveis.
+Pegadinha: cruzamento eletrônico identifica inconsistência, mas não substitui análise jurídica nem permite divulgar dados protegidos.
+5. EVIDÊNCIA E CADEIA DE DOCUMENTAÇÃO
+Evidência suficiente: quantidade e alcance capazes de sustentar conclusão. Evidência adequada: relevante e confiável para o fato investigado. Confrontar fontes independentes pode aumentar confiabilidade. Preservar origem, período, data de extração, identificador do documento, filtros, cálculos e eventuais retificações. Registrar hipóteses alternativas e respostas do contribuinte. Uma planilha sem fonte ou metodologia é evidência fraca.
+Exemplo de achado bem documentado: Critério: norma tributária aplicável; condição: divergência objetiva em período identificado; causa possível: erro de classificação, omissão ou diferença temporal (a confirmar); efeito: potencial impacto no ISS; evidência: relação individualizada de documentos e declarações; encaminhamento: intimação/esclarecimento e decisão motivada conforme rito. Evite qualificar como “fraude” antes de comprovar seus elementos.
+6. CÁLCULO RESOLVIDO — CONCILIAÇÃO DE NFS-e
+Dados hipotéticos: NFS-e emitidas = R$ 480.000; notas canceladas válidas = R$ 30.000; receitas de serviços declaradas no mesmo período = R$ 420.000. Valor líquido inicial para conciliação = 480.000 - 30.000 = R$ 450.000. Divergência = 450.000 - 420.000 = R$ 30.000. Percentual da divergência em relação ao líquido = 30.000 / 450.000 x 100 = 6,67% (aprox.). Isso é um SINAL DE AUDITORIA, não automaticamente base tributável nem tributo devido. Conferir datas, competência, natureza dos serviços, local de incidência, retenções, substituições, cancelamentos e regime de apuração. Não presumir alíquota municipal sem consultar legislação atualizada.
+7. CTN — ARTS. 194 A 200 (REDAÇÃO VIGENTE EM 14/10/2026)
+Art. 194: legislação tributária regula competência e poderes fiscalizatórios; alcança pessoas físicas e jurídicas, contribuintes ou não, inclusive imunes ou isentas (§1º). NOVO: LC 236/2026 acrescentou §2º (priorização e disponibilização de métodos preventivos de autorregularização antes do auto, conforme legislação específica) e §3º (programas de conformidade, diálogo, boa-fé, transparência, proporcionalidade etc.). Não afirmar que toda fiscalização necessariamente termina com multa.
+Art. 194-A (LC 236/2026): decisões definitivas vinculantes de STF/STJ, nos termos do dispositivo, vinculam a administração tributária; estudar a relação com precedentes e prevenção de autuações incompatíveis.
+Art. 195: exame de livros, arquivos, documentos e elementos comerciais/fiscais nos termos legais; livros obrigatórios e comprovantes conservados até prescrição dos créditos decorrentes das operações. Não confundir poder de examinar com acesso irrestrito a domicílio, dados protegidos ou atuação sem competência.
+Art. 196: LC 236/2026 ALTEROU a redação. Deve-se documentar o procedimento; §2º exige documento prévio de início contendo identificação da autoridade emissora, encarregados, contribuinte/estabelecimentos, objeto, período, documentos necessários, forma de confirmação da autenticidade e prazo de duração. §3º: fiscalização em estabelecimento ou domicílio com entrega de via ao contribuinte/representante/preposto. §4º: acompanhamento policial nessa hipótese condicionado a justo receio de resistência, reduzido a termo e consignado no documento. Atenção: apostilas antigas reproduzem caput anterior e omitem esses parágrafos.
+Art. 197: determinadas pessoas e entidades devem prestar informações sobre terceiros mediante intimação escrita; parágrafo único ressalva fatos protegidos por segredo legal decorrente de cargo, ofício, função, ministério, atividade ou profissão.
+Art. 198: sigilo fiscal; exceções e hipóteses legais específicas. Não publicar dados econômicos individuais em redes sociais.
+Art. 199: assistência mútua e intercâmbio de informações entre Fazendas Públicas na forma de lei/convênio. Art. 199-A (LC 236/2026): convênio pode permitir compartilhamento de atividades de fiscalização, lançamento, cobrança e estrutura de processo administrativo fiscal.
+Art. 200: auxílio de força pública em hipóteses legais; não significa acompanhamento policial obrigatório em qualquer diligência.
+Fonte normativa primária: CTN atualizado na Câmara dos Deputados e LC 236/2026, publicada em 04/09/2026 e em vigor desde sua publicação. O rito municipal e as normas específicas permanecem relevantes.
+8. ISS — APLICAÇÃO PRÁTICA
+Na auditoria de ISS, verificar se o serviço integra a lista legal, quem é sujeito passivo, município competente, local da incidência, base de cálculo, eventual retenção/substituição, alíquota municipal vigente, regime Simples Nacional quando aplicável e prova de recolhimento. NFS-e emitida em Queimados não basta isoladamente para afirmar que todo ISS pertence a Queimados: a LC 116/2003 contém regras e exceções de local de incidência. Também não confundir receita contábil total com base de cálculo do ISS sem análise jurídica.
+Caso: empresa declara receita R$ 100 mil, notas líquidas R$ 130 mil e apresenta R$ 30 mil de documentos de estorno. Auditor deve verificar validade e correspondência desses documentos; não escolher automaticamente a maior base.
+9. FRAUDE, EVASÃO, ELISÃO E ERRO
+Evasão ilícita: descumprimento tributário (ex.: omitir receita tributável comprovada). Elisão lícita: planejamento permitido dentro da lei. Erro: inexatidão que pode ser involuntária. Fraude/dolo exigem elementos probatórios; mera diferença numérica não comprova intenção. Use linguagem prudente no relatório: “divergência a esclarecer”, não “fraude confirmada”, enquanto faltar prova.
+10. ESQUEMA DE RETENÇÃO
+Planejar -> autorizar/documentar -> obter evidências lícitas -> conciliar -> ouvir/esclarecer -> concluir motivadamente -> encaminhar. Cinco perguntas da auditoria: O quê? Quando? Qual fonte? Qual norma? Qual explicação alternativa? A evidência deve sustentar a conclusão, não o contrário.
+11. QUESTÕES AUTORAIS — PADRÃO OBJETIVO A-D; NÃO REVELAR RESPOSTAS ANTES DO ALUNO
+Q01. A finalidade principal da auditoria fiscal é:
+A) impor multa em toda diligência.
+B) verificar fatos e obrigações com evidências e fundamento legal.
+C) substituir o processo judicial.
+D) dispensar documentação do procedimento.
+Q02 — INCORRETA. Sobre indícios e evidências:
+A) divergência pode justificar aprofundamento.
+B) fontes distintas podem ser conciliadas.
+C) divergência numérica comprova automaticamente dolo.
+D) evidências devem ser documentadas.
+Q03. Na matriz de risco, a materialidade refere-se principalmente:
+A) à cor da nota fiscal.
+B) à relevância do valor ou impacto do achado.
+C) à preferência pessoal do agente.
+D) ao número de servidores no prédio.
+Q04 — EXCETO. São fontes úteis à auditoria de ISS, EXCETO:
+A) NFS-e.
+B) contratos e declarações.
+C) documentos contábeis pertinentes.
+D) boatos anônimos tratados como prova definitiva.
+Q05. A auditoria eletrônica:
+A) torna dispensável o fundamento legal.
+B) permite cruzar registros digitais, exigindo análise das divergências.
+C) elimina o sigilo fiscal.
+D) comprova automaticamente sonegação.
+Q06 — CÁLCULO. NFS-e emitidas R$ 480 mil; canceladas válidas R$ 30 mil; declaradas R$ 420 mil. Divergência inicial:
+A) R$ 60 mil.
+B) R$ 30 mil.
+C) R$ 450 mil.
+D) R$ 900 mil.
+Q07 — CÁLCULO. A divergência da Q06 representa aproximadamente que percentual do valor líquido de NFS-e?
+A) 6,67%.
+B) 12,50%.
+C) 30%.
+D) 66,7%.
+Q08. Nos termos do art. 194, §1º, do CTN, a fiscalização:
+A) exclui imunes e isentos.
+B) alcança apenas contribuintes que pagaram imposto.
+C) pode alcançar pessoas físicas ou jurídicas, contribuintes ou não, inclusive imunes e isentos.
+D) depende de condenação criminal prévia.
+Q09 — NOVA REDAÇÃO. O art. 194, §2º, incluído pela LC 236/2026, enfatiza:
+A) multa automática antes de qualquer orientação.
+B) métodos preventivos de autorregularização nos termos da legislação específica.
+C) extinção de toda fiscalização.
+D) divulgação irrestrita de dados pessoais.
+Q10 — ART. 196. O documento prévio de início da fiscalização deve conter:
+A) apenas a assinatura do fiscal, sem objeto nem período.
+B) identificação, objeto, período, documentos necessários, autenticação e duração, nos termos legais.
+C) somente a multa pretendida.
+D) apenas dados do proprietário do imóvel.
+Q11 — INCORRETA. Conforme art. 196 atualizado:
+A) a autoridade deve documentar o procedimento.
+B) há previsão de entrega de via no procedimento em estabelecimento/domicílio.
+C) força policial é obrigatória em toda visita.
+D) o documento prévio inclui forma de confirmar autenticidade.
+Q12. O art. 197 do CTN exige, em sua hipótese:
+A) intimação escrita para informações de terceiros, ressalvado segredo legal.
+B) ordem verbal informal sem qualquer limite.
+C) divulgação pública de dados bancários pelo fiscal.
+D) afastamento de todo sigilo profissional.
+Q13. A regra do art. 198 do CTN diz respeito principalmente:
+A) à publicidade irrestrita de todos os dados.
+B) ao sigilo fiscal e suas exceções legais.
+C) à criação de ISS por decreto.
+D) ao fim do cadastro tributário.
+Q14 — ASSERTIVAS. I. Amostragem deve respeitar seus limites. II. Cruzamento de dados dispensa verificar retificações. III. Um achado deve identificar norma e evidência. Assinale:
+A) I apenas.
+B) II apenas.
+C) I e III apenas.
+D) I, II e III.
+Q15. Sobre a NFS-e e a NF-e, é CORRETO:
+A) ambas são sempre documentos idênticos.
+B) NFS-e relaciona-se a serviços; NF-e, em regra, a operações com mercadorias.
+C) NF-e é sempre declaração de ISS municipal.
+D) SPED significa exclusivamente NFS-e.
+Q16 — ISS. A emissão de NFS-e em determinado Município:
+A) comprova que todo ISS será sempre devido a ele.
+B) dispensa examinar a LC 116/2003.
+C) deve ser analisada com as regras legais de incidência e local do imposto.
+D) autoriza presumir alíquota única nacional.
+Q17 — FRAUDE. Um conjunto de notas e declarações apresenta diferença ainda não esclarecida. A conclusão tecnicamente mais adequada é:
+A) fraude dolosa definitivamente provada.
+B) divergência a conciliar e documentar.
+C) crime necessariamente consumado.
+D) nulidade automática de todos os documentos.
+Q18 — DIREITO ADMINISTRATIVO. Agente competente fiscaliza por vingança pessoal. Há:
+A) desvio de finalidade.
+B) simples revogação.
+C) competência residual.
+D) prescrição automática.
+Q19 — LRF. O art. 13 prevê metas de arrecadação:
+A) bimestrais.
+B) decenais.
+C) apenas quinquenais.
+D) diárias obrigatórias.
+Q20 — PORTUGUÊS. “A divergência pode indicar erro; portanto, exige verificação.” O conectivo “portanto” indica:
+A) oposição.
+B) conclusão.
+C) concessão.
+D) condição.
+12. RECUPERAÇÃO FINAL
+Sem consultar: (1) enumere etapas de auditoria; (2) diferencie evidência de indício; (3) refaça o cálculo 480-30-420; (4) diga o que mudou nos arts. 194 e 196 em setembro/2026; (5) explique por que nota fiscal emitida não determina isoladamente o Município competente para ISS; (6) diferencie fraude e erro. Registrar as respostas reais quando existirem.
+13. CONTROLE E CADERNO DE ERROS
+Aula 102 ministrada; 20 questões propostas, sem respostas individuais nesta execução. Acertos NÃO AFERIDOS; erros NÃO AFERIDOS; domínio NÃO DEMONSTRADO. Após respostas, corrigir alternativa por alternativa, identificar comando e distrator, registrar erro, causa provável, regra correta, pegadinha e revisão em 24h/72h/7 dias. Questões oficiais IAN consultadas apenas para forma; não há gabarito fabricado. A primeira volta continua em ritmo acelerado.
+14. PRÓXIMO PONTO EXATO
+AULA 103 — SIMPLES NACIONAL: LC 123/2006, ISS no DAS, segregação de receitas, retenção, fiscalização e exclusão/desenquadramento, somente no programa de AGENTE FISCAL.
+FONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca do aluno); CTN consolidado atualizado https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html ; LC 236/2026 https://www.presidencia.gov.br/ccivil_03/leis/lcp/lcp236.htm ; LC 116/2003; provas IAN Jardim/MS 2026 e Três Rios/RJ 2024, consultadas para perfil formal.
+========== FIM AULA 102 ==========
+
+
+========== INÍCIO AULA 103 — 14/10/2026 — 11h ==========
+CONCURSO: PREFEITURA DE QUEIMADOS/RJ — EXCLUSIVAMENTE AGENTE FISCAL — IAN.
+AULA 103 — SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.
+Duração estimada: 50–60 minutos. Conteúdo delimitado pelo Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (bloco SIMPLES NACIONAL). Questões autorais com quatro alternativas, inspiradas na forma observada em provas IAN de 2024 (Três Rios, Auditor de Controle Interno) e 2026 (Câmara de Jardim, Controlador Interno). Não são questões oficiais nem possuem gabarito fornecido pela IAN. Sem respostas prévias.
+1. RECUPERAÇÃO ATIVA — SEM CONSULTAR
+R1. Na auditoria fiscal, uma divergência entre notas e declaração comprova automaticamente fraude? Justifique.
+R2. Distinga evidência suficiente de evidência adequada.
+R3. Em qual artigo do CTN aparece a proteção ao sigilo fiscal?
+R4. Qual a diferença entre anulação e revogação de ato administrativo?
+R5. Qual a periodicidade geral do RREO e do RGF? Guarde as respostas e retome no fim.
+2. CONCEITO E FINALIDADE
+O Simples Nacional é um regime especial unificado de arrecadação, cobrança e fiscalização de tributos e contribuições devidos por microempresas (ME) e empresas de pequeno porte (EPP), disciplinado principalmente pela LC federal 123/2006 e pela Resolução CGSN 140/2018, com atualizações. Ele simplifica procedimentos e permite recolhimento conjunto de parcelas tributárias por DAS. Não cria imunidade, não transforma tributos diferentes em imposto único e não dispensa a fiscalização municipal do ISS.
+Pegadinha: optante do Simples pode dever valores fora do DAS em hipóteses legais, como ISS sujeito a retenção ou substituição tributária e outros tributos especificados no art. 13, §1º.
+3. QUEM É ME E QUEM É EPP — ART. 3º
+Microempresa: receita bruta anual até R$ 360.000. Empresa de pequeno porte: receita bruta anual superior a R$ 360.000 e até R$ 4.800.000. Há proporcionalidade de limites para empresa em início de atividade, regras de impedimento e condições adicionais. A classificação por porte não assegura, sozinha, direito irrestrito de opção pelo Simples.
+Exemplos: R$ 350.000 no ano = porte ME; R$ 600.000 = porte EPP, em princípio; R$ 5 milhões supera o teto geral anual do regime, exigindo análise de efeitos e exceções da legislação. Não confundir limite geral de R$ 4,8 milhões com sublimite para ISS/ICMS.
+4. QUAIS TRIBUTOS SÃO RECOLHIDOS — ART. 13
+No regime tradicional, o DAS reúne, conforme a atividade e as exceções, IRPJ, IPI, CSLL, Cofins, PIS/Pasep, CPP, ICMS e ISS. A contribuição patronal previdenciária não está incluída no DAS para determinadas atividades do Anexo IV. A legislação também prevê hipóteses de recolhimento fora do documento único, incluindo ISS devido em substituição/retenção na fonte e importação de serviços (art. 13, §1º, XIV). Não concluir que todas as obrigações estão quitadas só porque existe um DAS pago.
+5. APURAÇÃO E FÓRMULA — ART. 18
+A apuração é, em regra, mensal, com uso do PGDAS-D. O enquadramento na faixa usa a receita bruta acumulada nos doze meses ANTERIORES ao período de apuração (RBT12), observadas regras específicas para início de atividade e demais exceções. O valor devido considera a receita do mês, segregada conforme atividade e tratamento tributário, e a alíquota efetiva da faixa.
+Fórmula didática: ALÍQUOTA EFETIVA = [(RBT12 × ALÍQUOTA NOMINAL) − PARCELA A DEDUZIR] ÷ RBT12.
+Exemplo numérico controlado: empresa com receitas tributadas pelo Anexo III; RBT12 de R$ 300.000; alíquota nominal da 2ª faixa = 11,2%; parcela a deduzir = R$ 9.360. Cálculo: (300.000 × 0,112 − 9.360) ÷ 300.000 = (33.600 − 9.360) ÷ 300.000 = 0,0808 = 8,08%. Se a receita tributável do mês for R$ 20.000, sem segregações adicionais nem exceções, valor global ilustrativo no DAS para essa receita = R$ 1.616. ATENÇÃO: 8,08% é alíquota global efetiva do anexo, NÃO alíquota isolada de ISS; a parcela do ISS decorre da repartição legal aplicável.
+Pegadinha IAN: não aplicar diretamente a alíquota NOMINAL de 11,2% sobre o mês sem considerar a parcela a deduzir. Também não usar a receita do próprio mês no lugar da RBT12.
+6. SEGREGAÇÃO DE RECEITAS E ISS
+O contribuinte pode realizar atividades com enquadramentos e tratamentos distintos. É necessário segregar receitas de comércio, indústria e serviços, bem como receitas de serviços com ISS devido no próprio DAS, receitas com ISS retido/substituído e hipóteses de ISS devido fora do regime. A classificação da atividade e a incidência territorial do ISS exigem análise da LC 116/2003 e das normas pertinentes.
+Caso: empresa presta serviço sujeito ao ISS em situação legal de retenção, e também outro serviço cujo ISS é apurado no DAS. Não se deve cobrar duas vezes a mesma parcela de ISS. É necessário segregar a receita da operação retida e ajustar a parcela do ISS no PGDAS-D conforme as regras. A retenção não elimina, por si, as demais parcelas tributárias do Simples sobre aquela receita.
+A NFS-e ajuda na auditoria, mas a emissão no município X não prova isoladamente que o ISS é devido ao município X. O local de incidência decorre das regras legais, não da localização do sistema emissor.
+7. RETENÇÃO DO ISS — ART. 21, §4º
+A retenção de ISS de ME/EPP optante do Simples só é permitida quando observadas as hipóteses de incidência territorial da LC 116/2003 e as regras especiais da LC 123/2006. Em geral, o documento fiscal informa a alíquota de ISS aplicável à retenção conforme as normas específicas; não é correto presumir que seja sempre 5%, nem confundir a alíquota efetiva GLOBAL do DAS com a parcela de ISS. Há regras especiais para início de atividade e informações omitidas.
+Exemplo: o tomador retém legalmente o ISS sobre determinada prestação. A empresa deve tratar a receita corretamente no sistema para evitar recolhimento duplicado da parcela de ISS. Isso não a exonera automaticamente de IRPJ, CSLL, PIS/Cofins etc. que componham o cálculo.
+8. SUBLIMITE — ISS/ICMS
+Em 2026, o limite geral de enquadramento no Simples é R$ 4,8 milhões, mas o sublimite aplicável a ISS/ICMS é de R$ 3,6 milhões, com regras de excesso e produção de efeitos. Assim, empresa que permanece no Simples para tributos federais pode, em certas situações, recolher ISS e ICMS fora do DAS. Não presumir saída integral do regime apenas por ultrapassar o sublimite; verificar o período, o excesso e as regras específicas.
+Exemplo conceitual: EPP com receita acima do sublimite, mas abaixo do teto geral, pode ficar impedida de recolher ISS no DAS conforme os critérios legais, sem necessariamente deixar o Simples para todos os tributos.
+9. FISCALIZAÇÃO PELO MUNICÍPIO — ART. 33: REGRA DE 2026 E EFEITOS DE 2027
+A LC 227/2026 alterou a redação do art. 33 da LC 123: a competência para fiscalizar obrigações principais e acessórias do Simples e hipóteses do art. 29 abrange a Receita Federal e as secretarias de fazenda/finanças estaduais, distrital ou municipais. O §1º-A dispensa convênio na hipótese de prestação de serviços sujeita ao ISS por estabelecimento localizado no município. O §1º-C prevê competência de lançamento nos termos da lei; o §1º-D reserva autuação de obrigação acessória à administração perante a qual ela deveria ser cumprida. A competência legal deve ser exercida por autoridade designada e com rito apropriado.
+Caso de auditoria: compare NFS-e, PGDAS-D, receita declarada, notas canceladas, comprovantes de retenção, contratos e extratos obtidos legalmente. Divergência é indício, não prova automática de fraude. Formalize o procedimento, fundamente a conclusão e preserve sigilo fiscal.
+10. EXCLUSÃO, DESENQUADRAMENTO E COMUNICAÇÃO — ARTS. 28 A 32
+A exclusão do Simples pode ocorrer por comunicação da empresa ou de ofício (art. 28). O art. 29 prevê hipóteses de exclusão de ofício, entre elas embaraço ou resistência à fiscalização, interpostas pessoas, prática reiterada de infrações, ausência de escrituração exigida e outras situações taxativas. A produção dos efeitos depende da hipótese legal e dos marcos temporais; não dizer que toda exclusão opera retroativamente desde a abertura da empresa.
+Desenquadramento do SIMEI/MEI não é necessariamente a mesma coisa que exclusão integral do Simples Nacional. É possível deixar a sistemática de valores fixos do MEI e continuar no Simples como ME, se preenchidos os requisitos. Não confundir 'desenquadramento do SIMEI' com 'exclusão do Simples'.
+Pegadinha: irregularidade cadastral ou excesso de receita exige verificar a norma, o prazo de comunicação, os efeitos e eventual possibilidade de regularização; não impor penalidade por mera suposição.
+11. NOTA DE ATUALIZAÇÃO 2026/2027
+As Resoluções CGSN 190 e 191/2026 adaptam o regime à reforma tributária (IBS/CBS); a Receita Federal informou em 11/08/2026 que, em regra, as mudanças da Resolução 190 produzem efeitos a partir de 01/01/2027. Portanto, para resolver questões sobre a operação do ISS no Simples em 2026, não antecipar indiscriminadamente regras futuras. A LC 227/2026 já alterou o art. 33, que deve ser lido na redação vigente. Não misturar conceitos de 2027 com obrigações de 2026.
+12. QUADRO DE FIXAÇÃO
+ME: até R$ 360 mil/ano. EPP: acima de R$ 360 mil e até R$ 4,8 milhões/ano. Sublimite ISS/ICMS: R$ 3,6 milhões (com regras próprias). DAS: documento único, com exceções legais. PGDAS-D: sistema de apuração/declaracão. RBT12: receita bruta dos 12 meses anteriores. Alíquota nominal ≠ alíquota efetiva. Retenção do ISS ≠ extinção das demais parcelas do Simples. Município pode fiscalizar na competência legal. Exclusão do Simples ≠ desenquadramento do SIMEI.
+13. QUESTÕES AUTORAIS — FORMATO IAN A–D — NÃO REVELAR GABARITO ANTES DA RESPOSTA
+Q01. O Simples Nacional é corretamente caracterizado como:
+A) imposto único municipal, substitutivo de toda tributação.
+B) regime unificado de arrecadação, cobrança e fiscalização, sujeito a exceções legais.
+C) imunidade tributária concedida a qualquer pessoa jurídica.
+D) autorização para dispensar obrigações acessórias de toda espécie.
+Q02 — CORRETA. O limite anual de receita bruta para microempresa, em regra, é:
+A) R$ 81.000.
+B) R$ 360.000.
+C) R$ 3.600.000.
+D) R$ 4.800.000.
+Q03 — INCORRETA. Sobre o DAS, assinale a INCORRETA:
+A) pode reunir diferentes tributos.
+B) há tributos e situações de recolhimento fora dele.
+C) seu pagamento dispensa toda fiscalização do ISS.
+D) sua apuração depende de regras legais de segregação.
+Q04. A RBT12 utilizada para a faixa de alíquota corresponde, em regra:
+A) à receita do mês corrente apenas.
+B) à receita bruta dos 12 meses anteriores ao período de apuração.
+C) à soma dos lucros dos últimos cinco anos.
+D) exclusivamente à folha de pagamento anual.
+Q05 — CÁLCULO. RBT12 = R$ 300.000, nominal 11,2%, parcela a deduzir R$ 9.360. Alíquota efetiva:
+A) 11,2%.
+B) 3,12%.
+C) 8,08%.
+D) 9,36%.
+Q06 — CÁLCULO. Aplicando 8,08% sobre R$ 20.000 de receita tributável mensal hipotética, o DAS global ilustrativo será:
+A) R$ 1.616.
+B) R$ 2.240.
+C) R$ 808.
+D) R$ 936.
+Q07 — EXCETO. São providências adequadas à auditoria do Simples, EXCETO:
+A) confrontar NFS-e e PGDAS-D.
+B) examinar cancelamentos e retificações.
+C) documentar o procedimento e os fundamentos.
+D) presumir fraude dolosa definitiva em qualquer diferença.
+Q08. A retenção do ISS de optante do Simples:
+A) pode ocorrer em hipóteses legais e exige tratamento adequado da receita.
+B) ocorre obrigatoriamente em qualquer serviço prestado.
+C) extingue todas as demais parcelas de tributos do DAS.
+D) deve utilizar sempre a alíquota global efetiva do DAS como percentual de ISS.
+Q09 — CORRETA. O sublimite geral de referência para recolhimento de ISS/ICMS no Simples em 2026 é:
+A) R$ 360.000.
+B) R$ 3.600.000.
+C) R$ 4.800.000.
+D) R$ 81.000.
+Q10. Ultrapassar o sublimite do ISS/ICMS, sem ultrapassar o teto geral, pode implicar:
+A) impossibilidade automática de recolher todos os tributos federais pelo Simples, sem exceções.
+B) suspensão de qualquer fiscalização.
+C) recolhimento de ISS/ICMS fora do DAS, conforme os efeitos legais.
+D) anulação retroativa de todas as notas fiscais.
+Q11. Segundo a redação de 2026 do art. 33 da LC 123, a fiscalização do Simples compete:
+A) exclusivamente à Receita Federal.
+B) à Receita Federal e às secretarias fazendárias estaduais, distrital ou municipais, conforme a lei.
+C) exclusivamente ao Poder Judiciário.
+D) apenas aos órgãos federais de controle externo.
+Q12 — INCORRETA. Sobre fiscalização do Simples, é INCORRETO afirmar:
+A) os municípios podem exercer competências previstas na LC 123.
+B) a fiscalização deve observar o sigilo e o procedimento.
+C) a autoridade municipal jamais pode fiscalizar obrigações do Simples.
+D) a apuração exige exame das evidências.
+Q13. A exclusão do Simples Nacional pode ocorrer:
+A) exclusivamente por decisão judicial criminal.
+B) apenas por solicitação de terceiro.
+C) de ofício ou mediante comunicação da empresa.
+D) somente após cinco anos de atividade.
+Q14 — ASSERTIVAS. I. Desenquadramento do SIMEI é sempre igual à exclusão do Simples. II. A empresa pode sair do SIMEI e permanecer no Simples, atendidos os requisitos. III. O ISS retido legalmente deve ser tratado para evitar cobrança duplicada da mesma parcela. Correto:
+A) apenas I.
+B) apenas II.
+C) II e III.
+D) I, II e III.
+Q15 — INCORRETA. Sobre apuração:
+A) a alíquota nominal e a efetiva podem diferir.
+B) a parcela a deduzir integra a fórmula.
+C) a receita pode exigir segregação por atividade.
+D) a alíquota global do DAS é sempre igual à alíquota isolada de ISS.
+Q16. Uma empresa emite NFS-e em Queimados. Para definir o município credor do ISS, deve-se:
+A) olhar apenas o endereço do software emissor.
+B) observar as regras legais de local da incidência do ISS e as características do serviço.
+C) presumir que a emissão torna Queimados sempre credor.
+D) ignorar a LC 116/2003.
+Q17. Em uma auditoria, a diferença entre notas emitidas e receitas declaradas:
+A) é sempre prova conclusiva de crime.
+B) nunca tem relevância fiscal.
+C) deve ser conciliada com cancelamentos, períodos e outras informações.
+D) dispensa motivação de eventual autuação.
+Q18 — REVISÃO AUDITORIA. Evidência adequada diz respeito principalmente:
+A) à relevância e confiabilidade.
+B) somente à quantidade.
+C) à preferência pessoal do agente.
+D) ao valor fixo da multa.
+Q19 — REVISÃO DIREITO ADMINISTRATIVO. Um agente usa competência legal para perseguir pessoalmente um contribuinte. O vício é:
+A) revogação.
+B) desvio de finalidade.
+C) anistia.
+D) elisão fiscal.
+Q20 — PORTUGUÊS. Em “Embora a empresa esteja no Simples, certas operações podem exigir ISS fora do DAS”, a palavra “embora” expressa:
+A) causa.
+B) conclusão.
+C) concessão.
+D) finalidade.
+14. RECUPERAÇÃO FINAL SEM CONSULTA
+Explique: (1) ME x EPP; (2) RBT12 x receita mensal; (3) fórmula da alíquota efetiva; (4) diferença entre DAS global e parcela de ISS; (5) retenção e segregação; (6) sublimite de R$ 3,6 milhões; (7) competência municipal do art. 33; (8) exclusão do Simples x desenquadramento do SIMEI; (9) por que divergência não é fraude comprovada.
+15. CADERNO DE ERROS E REVISÃO ESPAÇADA
+Questões propostas: 20; respostas individuais: não recebidas; acertos/erros: não aferidos; domínio: não demonstrado. Após resposta, corrigir cada alternativa, registrar erro, causa provável, regra, pegadinha e revisão futura. Reaplicar conceitos em 24h, 72h e 7 dias, com assuntos misturados. Não presumir domínio apenas por leitura.
+16. PRÓXIMO PONTO EXATO
+AULA 104 — SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.
+FONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca); LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; LC 116/2003; Resolução CGSN 140/2018; Receita Federal 11/08/2026 https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo ; provas IAN Jardim/MS 2026 e Três Rios/RJ 2024 (formato, não gabarito).
+========== FIM AULA 103 ==========
+
+
+ERRATA AULA 103: LC 227/2026, art. 182, I, b: a nova redação do art. 33 da LC 123 produz efeitos só em 01/01/2027. Para 2026, observar a competência municipal de fiscalização de serviços sujeitos ao ISS segundo a redação anterior.

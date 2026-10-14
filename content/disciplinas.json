@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 80,
-    "totalQuestoes": 669,
-    "tempoEstimadoMin": 439,
+    "totalAulas": 83,
+    "totalQuestoes": 709,
+    "tempoEstimadoMin": 457,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -80,7 +80,10 @@
       "REVISÃO CUMULATIVA, RECUPERAÇÃO ATIVA E SIMULADO INTERCALADO",
       "CONTABILIDADE APLICADA À FISCALIZAÇÃO: patrimônio, balanço, DRE, regime de competência, partidas dobradas, indicadores e cruzamentos fiscais.",
       "AGENTE FISCAL — PREFEITURA DE QUEIMADOS/RJ",
-      "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ"
+      "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
+      "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+      "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+      "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL."
     ],
     "aulas": [
       {
@@ -562,6 +565,24 @@
         "numero": 101,
         "titulo": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
         "slug": "revisao-cumulativa-mista-agente-fiscal-queimados-rj"
+      },
+      {
+        "id": "direito-tributario-aula-102",
+        "numero": 102,
+        "titulo": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+        "slug": "auditoria-fiscal-planejamento-evidencias-auditoria-documental-contabil-eletronic"
+      },
+      {
+        "id": "direito-tributario-aula-103",
+        "numero": 103,
+        "titulo": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+        "slug": "simples-nacional-lc-123-2006-iss-das-pgdas-d-segregacao-de-receitas-retencao-fis"
+      },
+      {
+        "id": "direito-tributario-aula-104",
+        "numero": 104,
+        "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+        "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta"
       }
     ]
   },

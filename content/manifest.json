@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 119,
+  "contentVersion": 121,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-14T01:15:51.637Z",
-  "contentHashGlobal": "cbd3f8b81e23f259",
-  "totalAulas": 93,
-  "totalQuestoes": 695,
+  "ultimaSincronizacao": "2026-10-14T15:14:12.148Z",
+  "contentHashGlobal": "e9a894431ce87b47",
+  "totalAulas": 96,
+  "totalQuestoes": 735,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -964,8 +964,44 @@
       "disciplina": "Direito Tributário",
       "assunto": "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
       "arquivo": "aulas/direito-tributario-aula-101.json",
-      "hash": "95f2d4ebb85330a7",
+      "hash": "7d26bf4b54f22128",
       "totalQuestoes": 20,
+      "ultimaAtualizacao": "2026-10-14"
+    },
+    {
+      "id": "direito-tributario-aula-102",
+      "numero": 102,
+      "titulo": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+      "slug": "auditoria-fiscal-planejamento-evidencias-auditoria-documental-contabil-eletronic",
+      "disciplina": "Direito Tributário",
+      "assunto": "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
+      "arquivo": "aulas/direito-tributario-aula-102.json",
+      "hash": "b7e76e4af52be41a",
+      "totalQuestoes": 20,
+      "ultimaAtualizacao": "2026-10-14"
+    },
+    {
+      "id": "direito-tributario-aula-103",
+      "numero": 103,
+      "titulo": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+      "slug": "simples-nacional-lc-123-2006-iss-das-pgdas-d-segregacao-de-receitas-retencao-fis",
+      "disciplina": "Direito Tributário",
+      "assunto": "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
+      "arquivo": "aulas/direito-tributario-aula-103.json",
+      "hash": "ab6deccf70ba39e6",
+      "totalQuestoes": 20,
+      "ultimaAtualizacao": "2026-10-14"
+    },
+    {
+      "id": "direito-tributario-aula-104",
+      "numero": 104,
+      "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+      "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+      "disciplina": "Direito Tributário",
+      "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+      "arquivo": "aulas/direito-tributario-aula-104.json",
+      "hash": "5779a379fd6a8536",
+      "totalQuestoes": 0,
       "ultimaAtualizacao": "2026-10-14"
     },
     {
