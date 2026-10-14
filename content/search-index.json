@@ -1,7 +1,7 @@
 {
-  "contentVersion": 123,
-  "geradoEm": "2026-10-14T15:17:50.913Z",
-  "total": 2412,
+  "contentVersion": 125,
+  "geradoEm": "2026-10-14T18:33:32.459Z",
+  "total": 2448,
   "documentos": [
     {
       "tipo": "aula",
@@ -24279,33 +24279,407 @@
       "tipo": "aula",
       "id": "direito-tributario-aula-104",
       "lessonId": "direito-tributario-aula-104",
-      "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
       "disciplina": "Direito Tributário",
-      "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
-      "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
-      "texto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL. SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL."
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
     },
     {
       "tipo": "trecho",
       "id": "direito-tributario-aula-104-b1",
       "lessonId": "direito-tributario-aula-104",
-      "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
       "disciplina": "Direito Tributário",
-      "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
-      "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
       "blocoTipo": "teoria",
-      "texto": "FONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca); LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; LC 116/2003; Resolução CGSN 140/2018; Receita Federal 11/08/2026 https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo ; provas IAN Jardim/MS 2026 e Três "
+      "texto": "CONHECIMENTOS ESPECÍFICOS: SPED, NF-e, NFS-e, EFD E CRUZAMENTO ELETRÔNICO DE DADOS\nContinuidade: Aula 103 — Simples Nacional. Duração orientativa: 50–60 minutos. Objetivo: avançar na primeira volta do edital, sem presumir domínio.\nBase programática: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx, seção “SPED E FISCALIZAÇÃO ELETRÔNICA”. A redação integral do edital oficial não foi recuperada nesta"
     },
     {
       "tipo": "trecho",
       "id": "direito-tributario-aula-104-b2",
       "lessonId": "direito-tributario-aula-104",
-      "titulo": "========== FIM AULA 103 ==========",
+      "titulo": "1. RECUPERAÇÃO ATIVA (NÃO CONSULTAR)",
       "disciplina": "Direito Tributário",
-      "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
-      "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA (NÃO CONSULTAR) a) A empresa optante pelo Simples Nacional perde automaticamente a sujeição à fiscalização municipal do ISS?\nb) O que é RBT12? É igual à receita do mês?\nc) A alíquota global efetiva do DAS equivale sempre à alíquota isolada do ISS?\nd) Em auditoria, uma divergência entre NFS-e e PGDAS-D comprova fraude?\ne) Qual é a diferença entre evidência adequada e suficiente"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b3",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "2. O QUE É SPED?",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
       "blocoTipo": "teoria",
-      "texto": "========== FIM AULA 103 ========== ERRATA AULA 103: LC 227/2026, art. 182, I, b: a nova redação do art. 33 da LC 123 produz efeitos só em 01/01/2027. Para 2026, observar a competência municipal de fiscalização de serviços sujeitos ao ISS segundo a redação anterior."
+      "texto": "2. O QUE É SPED? SPED significa Sistema Público de Escrituração Digital. O Decreto federal nº 6.022/2007 o instituiu (art. 1º). O art. 2º, na redação vigente, o descreve como instrumento que unifica recepção, validação, armazenamento e autenticação de livros e documentos da escrituração contábil e fiscal, em fluxo informatizado. Inclui pessoas jurídicas imunes ou isentas nos termos da norma. A dig"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b4",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "3. DISTINÇÕES QUE CAEM EM PROVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "3. DISTINÇÕES QUE CAEM EM PROVA NF-e (Nota Fiscal Eletrônica, em geral modelo 55): documento fiscal eletrônico ligado principalmente à circulação de mercadorias e a operações submetidas ao ICMS/IPI, conforme a hipótese. Seu documento auxiliar é o DANFE. O documento fiscal juridicamente relevante é o arquivo eletrônico autorizado, não a impressão isolada.\nDANFE (Documento Auxiliar da Nota Fiscal El"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b5",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "memorize",
+      "texto": "NF-e → mercadorias (em regra); NFS-e → serviços; DANFE → auxiliar; EFD → escrituração; SPED → ecossistema; PGDAS-D → Simples."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b6",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "4. NFS-e PADRÃO NACIONAL: ATENÇÃO À DATA\nO Portal Nacional da NFS-e informa que a NFS-e nacional formaliza prestação de serviços, pode integrar dados de municípios e permite emissão por portal ou integração autorizada via API. Segundo notícia oficial de 28/04/2026, a Resolução CGSN nº 189/2026 tornou obrigatório o Emissor Nacional para ME e EPP optantes pelo Simples Nacional a partir de 01/09/2026"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b7",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "5. COMO O AGENTE FISCAL UTILIZA DADOS ELETRÔNICOS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "5. COMO O AGENTE FISCAL UTILIZA DADOS ELETRÔNICOS ETAPA 1 — Definir objeto, competência e período. Ex.: verificar divergências de receita de serviços sujeita a ISS, no exercício delimitado.\nETAPA 2 — Identificar fontes lícitas: NFS-e e eventos, cadastro municipal, declarações do contribuinte, PGDAS-D quando acessível legalmente, documentos contábeis pertinentes e registros eletrônicos disponíveis "
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b8",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Pegadinha 1: comparar 180 mil diretamente com 142 mil e ignorar cancelamentos produz diferença artificial de R$ 38 mil.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha 1: comparar 180 mil diretamente com 142 mil e ignorar cancelamentos produz diferença artificial de R$ 38 mil. Pegadinha 2: multiplicar R$ 18 mil por uma alíquota aleatória para declarar imposto devido, sem apurar o regime e a parcela de ISS."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b9",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Pegadinha 3: interpretar 11,25% como alíquota do ISS; é apenas percentual da divergência.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha 3: interpretar 11,25% como alíquota do ISS; é apenas percentual da divergência. 7. CASO PRÁTICO RESOLVIDO — NF-e E EFD\nEmpresa de comércio apresenta NF-e de saída de R$ 600 mil no mês e escrituração EFD ICMS/IPI com R$ 560 mil em operações aparentemente correspondentes. A diferença bruta é R$ 40 mil. Antes de concluir omissão, examinar notas canceladas, devoluções, eventos, ajustes de es"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b10",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "8. ARMADILHAS CONCEITUAIS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "8. ARMADILHAS CONCEITUAIS A) “DANFE = NF-e”: falso. Auxiliar não é o documento eletrônico original.\nB) “SPED é um imposto”: falso. É sistema de escrituração.\nC) “EFD ICMS/IPI = EFD-Contribuições”: falso. Módulos diferentes.\nD) “Nota autorizada prova prestação efetiva”: não necessariamente. Autorização formal não substitui apuração do fato.\nE) “Nota emitida em Queimados sempre gera ISS devido a Que"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b11",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "9. REVISÃO ESPAÇADA E RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "revisao",
+      "texto": "9. REVISÃO ESPAÇADA E RECUPERAÇÃO ATIVA Sem consultar: (1) conceitue SPED; (2) diferencie NF-e, DANFE e NFS-e; (3) explique EFD ICMS/IPI versus EFD-Contribuições; (4) por que validação de arquivo não prova a veracidade da operação? (5) refaça o cálculo 180/20/142; (6) explique por que uma NFS-e emitida localmente não basta para definir o ISS; (7) cite três cuidados com sigilo e competência.\nReapli"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b12",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "10. SIMULADO AUTORAL — 20 QUESTÕES (SEM GABARITO ANTECIPADO)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "questao",
+      "texto": "10. SIMULADO AUTORAL — 20 QUESTÕES (SEM GABARITO ANTECIPADO) Tempo sugerido: 25 minutos. Quatro alternativas por questão, uma única melhor resposta. Não consultar a aula. Comandos CORRETA, INCORRETA e EXCETO devem ser lidos com atenção."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b13",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "11. CONTROLE E CADERNO DE ERROS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "11. CONTROLE E CADERNO DE ERROS Questões propostas: 20. Respostas individuais ainda não recebidas. Acertos, erros e domínio: NÃO AFERIDOS. Não revelar gabarito antes de o aluno responder. Após respostas, corrigir cada alternativa, registrar erro, causa provável, regra, pegadinha e revisão futura. Domínio exige acerto posterior em questões misturadas."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b14",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "12. PRÓXIMA CONTINUIDADE",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "12. PRÓXIMA CONTINUIDADE AULA 105 — Português OU Legislação Municipal (alternância), com foco em lacunas do edital; inserir recuperação ativa breve de SPED, Simples e auditoria. Depois, retomar blocos específicos não cobertos, como Lei 6.830/1980 e contabilidade aplicada."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b15",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "FONTES OFICIAIS",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "FONTES OFICIAIS Decreto 6.022/2007: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm\nPortal SPED: https://sped.rfb.gov.br/\nPortal NF-e: https://www.nfe.fazenda.gov.br/portal/sobreNFe.aspx?AspxAutoDetectCookieSupport=1&tipoConteudo=PEhYdxncZBE%3D\nGuia Prático EFD ICMS/IPI: https://sped.rfb.gov.br/arquivo/download/8112\nNFS-e nacional: https://www.gov.br/pt-br/servicos/emiti"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b16",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "========== FIM AULA 104 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "========== FIM AULA 104 =========="
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-001",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 1 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q01. O SPED é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-002",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 2 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q02 — INCORRETA. Sobre o Decreto 6.022/2007, assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-003",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 3 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q03. A função principal do DANFE é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-004",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 4 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q04. Assinale a associação CORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-005",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 5 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q05 — EXCETO. Constituem procedimentos prudentes em cruzamento de NFS-e, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-006",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 6 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q06 — CÁLCULO. NFS-e emitidas R$ 180 mil; cancelamentos válidos R$ 20 mil; declarado R$ 142 mil. Divergência inicial:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-007",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 7 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q07 — CÁLCULO. A divergência da questão anterior, como percentual das notas válidas, é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-008",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 8 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q08. A autorização de uma NF-e:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-009",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 9 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q09. A emissão de NFS-e em um município:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-010",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 10 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q10. A EFD-Contribuições relaciona-se principalmente:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-011",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 11 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q11 — INCORRETA. Sobre a fiscalização eletrônica, assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-012",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 12 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q12. No caso de uma nota fiscal cancelada validamente, a primeira providência em uma conciliação é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-013",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 13 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q13 — ASSERTIVAS. I. ECD e EFD ICMS/IPI são projetos distintos. II. O DANFE é documento auxiliar. III. O SPED dispensa sigilo fiscal. Está correto:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-014",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 14 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q14. No trabalho fiscal municipal, o acesso a dados compartilhados deve:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-015",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 15 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q15. Conforme divulgação oficial de 28/04/2026, a obrigação do Emissor Nacional da NFS-e para ME/EPP optantes pelo Simples Nacional teve início em:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-016",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 16 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q16 — EXCETO. Na conciliação de receitas de serviços, são fatores a investigar, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-017",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 17 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q17 — REVISÃO SIMPLES. RBT12, em regra, corresponde:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-018",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 18 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q18 — REVISÃO AUDITORIA. Evidência adequada refere-se sobretudo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-019",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 19 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q19 — REVISÃO DIREITO ADMINISTRATIVO. Fiscal usa competência para perseguir desafeto. O vício central é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-104-q-020",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "Questão 20 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Q20 — PORTUGUÊS. Em “Embora o arquivo tenha sido validado, o fiscal deve conferir a consistência material dos dados”, “embora” exprime:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-104-b2",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "1. RECUPERAÇÃO ATIVA (NÃO CONSULTAR)",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "a) A empresa optante pelo Simples Nacional perde automaticamente a sujeição à fiscalização municipal do ISS?\nb) O que é RBT12? É igual à receita do mês?\nc) A alíquota global efetiva do DAS equivale sempre à alíquota isolada do ISS?\nd) Em auditoria, uma divergência entre NFS-e e PGDAS-D comprova fraude?\ne) Qual é a diferença entre evidência adequada e suficiente?\nAs respostas serão verificadas na r"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-104-b11",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "9. REVISÃO ESPAÇADA E RECUPERAÇÃO ATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "texto": "Sem consultar: (1) conceitue SPED; (2) diferencie NF-e, DANFE e NFS-e; (3) explique EFD ICMS/IPI versus EFD-Contribuições; (4) por que validação de arquivo não prova a veracidade da operação? (5) refaça o cálculo 180/20/142; (6) explique por que uma NFS-e emitida localmente não basta para definir o ISS; (7) cite três cuidados com sigilo e competência.\nReaplicar perguntas em aproximadamente 24h, 72"
     },
     {
       "tipo": "aula",

@@ -1,11 +1,11 @@
 {
   "versao": 1,
-  "contentVersion": 123,
+  "contentVersion": 125,
   "documento": "Caderno Mestre — Agente Fiscal Queimados 2026",
-  "ultimaSincronizacao": "2026-10-14T15:17:50.913Z",
-  "contentHashGlobal": "e9a894431ce87b47",
+  "ultimaSincronizacao": "2026-10-14T18:33:32.459Z",
+  "contentHashGlobal": "38e8f43976a8dfa8",
   "totalAulas": 96,
-  "totalQuestoes": 735,
+  "totalQuestoes": 755,
   "totalDisciplinas": 4,
   "aulas": [
     {
@@ -995,13 +995,13 @@
     {
       "id": "direito-tributario-aula-104",
       "numero": 104,
-      "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
-      "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
       "disciplina": "Direito Tributário",
-      "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
       "arquivo": "aulas/direito-tributario-aula-104.json",
-      "hash": "5779a379fd6a8536",
-      "totalQuestoes": 0,
+      "hash": "8c548f265dcbd93f",
+      "totalQuestoes": 20,
       "ultimaAtualizacao": "2026-10-14"
     },
     {

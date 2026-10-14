@@ -1,31 +1,729 @@
 {
   "id": "direito-tributario-aula-104",
   "numero": 104,
-  "titulo": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
-  "slug": "sped-nf-e-nfs-e-efd-e-cruzamento-de-dados-fiscais-com-foco-nas-competencias-e-ta",
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+  "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
   "disciplina": "Direito Tributário",
-  "assunto": "SPED, NF-e, NFS-e, EFD e cruzamento de dados fiscais, com foco nas competências e tarefas de AGENTE FISCAL.",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
   "ordem": 104,
   "data": "2026-10-14",
-  "tempoEstimadoMin": 1,
+  "tempoEstimadoMin": 8,
   "resumo": "",
   "conteudo": [
     {
       "id": "direito-tributario-aula-104-b1",
       "tipo": "teoria",
       "titulo": "",
-      "texto": "FONTES: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx (biblioteca); LC 123/2006 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm ; LC 116/2003; Resolução CGSN 140/2018; Receita Federal 11/08/2026 https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/cgsn-atualiza-regras-do-simples-nacional-para-adequacao-a-reforma-tributaria-do-consumo ; provas IAN Jardim/MS 2026 e Três Rios/RJ 2024 (formato, não gabarito)."
+      "texto": "CONHECIMENTOS ESPECÍFICOS: SPED, NF-e, NFS-e, EFD E CRUZAMENTO ELETRÔNICO DE DADOS\nContinuidade: Aula 103 — Simples Nacional. Duração orientativa: 50–60 minutos. Objetivo: avançar na primeira volta do edital, sem presumir domínio.\nBase programática: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx, seção “SPED E FISCALIZAÇÃO ELETRÔNICA”. A redação integral do edital oficial não foi recuperada nesta execução; não extrapolar o núcleo do guia. Questões inéditas, de treino, inspiradas na estrutura de quatro alternativas da prova IAN Câmara de Jardim/MS 2026; não são questões oficiais nem têm gabarito fornecido pelo banco de 911 questões."
     },
     {
       "id": "direito-tributario-aula-104-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA (NÃO CONSULTAR)",
+      "texto": "a) A empresa optante pelo Simples Nacional perde automaticamente a sujeição à fiscalização municipal do ISS?\nb) O que é RBT12? É igual à receita do mês?\nc) A alíquota global efetiva do DAS equivale sempre à alíquota isolada do ISS?\nd) Em auditoria, uma divergência entre NFS-e e PGDAS-D comprova fraude?\ne) Qual é a diferença entre evidência adequada e suficiente?\nAs respostas serão verificadas na revisão; não presumir acerto."
+    },
+    {
+      "id": "direito-tributario-aula-104-b3",
       "tipo": "teoria",
-      "titulo": "========== FIM AULA 103 ==========",
-      "texto": "ERRATA AULA 103: LC 227/2026, art. 182, I, b: a nova redação do art. 33 da LC 123 produz efeitos só em 01/01/2027. Para 2026, observar a competência municipal de fiscalização de serviços sujeitos ao ISS segundo a redação anterior."
+      "titulo": "2. O QUE É SPED?",
+      "texto": "SPED significa Sistema Público de Escrituração Digital. O Decreto federal nº 6.022/2007 o instituiu (art. 1º). O art. 2º, na redação vigente, o descreve como instrumento que unifica recepção, validação, armazenamento e autenticação de livros e documentos da escrituração contábil e fiscal, em fluxo informatizado. Inclui pessoas jurídicas imunes ou isentas nos termos da norma. A digitalização NÃO extingue o dever de guardar livros e documentos pelo prazo legal (art. 2º, § 2º).\nO SPED é um ECOSSISTEMA de projetos, não um único arquivo, não é imposto, e não significa que todo agente municipal tenha acesso irrestrito a qualquer base. O art. 3º prevê usuários e regras de convênio, enquanto o art. 4º trata do acesso conforme competência e sigilo. Para Agente Fiscal, a importância é o cruzamento de dados quando houver acesso autorizado e pertinência com o tributo fiscalizado.\nEsquema: DOCUMENTO/ESCRITURAÇÃO DIGITAL → TRANSMISSÃO/RECEPÇÃO → VALIDAÇÕES TÉCNICAS → BASE DE DADOS → CONFRONTO COM DECLARAÇÕES → EXAME JURÍDICO E DOCUMENTAL.\nPegadinha: “arquivo validado” NÃO significa “operação real e tributação correta”; validação de leiaute e consistência não equivale a auditoria de mérito."
+    },
+    {
+      "id": "direito-tributario-aula-104-b4",
+      "tipo": "teoria",
+      "titulo": "3. DISTINÇÕES QUE CAEM EM PROVA",
+      "texto": "NF-e (Nota Fiscal Eletrônica, em geral modelo 55): documento fiscal eletrônico ligado principalmente à circulação de mercadorias e a operações submetidas ao ICMS/IPI, conforme a hipótese. Seu documento auxiliar é o DANFE. O documento fiscal juridicamente relevante é o arquivo eletrônico autorizado, não a impressão isolada.\nDANFE (Documento Auxiliar da Nota Fiscal Eletrônica): representação auxiliar, com chave de acesso para consulta; NÃO é a NF-e e não a substitui.\nNFS-e (Nota Fiscal de Serviços Eletrônica): documento eletrônico que formaliza prestação de serviços. É especialmente relevante para auditoria de ISS municipal. O fato de uma NFS-e ter sido emitida em certo município NÃO prova, por si só, que o ISS é devido a esse município; verificar LC 116/2003, natureza do serviço, local da incidência e responsabilidades.\nEFD: Escrituração Fiscal Digital. NÃO confundir módulos: EFD ICMS/IPI registra dados fiscais dessas espécies; EFD-Contribuições refere-se principalmente à escrituração de PIS/Pasep e Cofins, conforme as regras do projeto. ECD é Escrituração Contábil Digital (livros contábeis); ECF é Escrituração Contábil Fiscal. Projetos distintos, obrigações e leiautes distintos.\nPGDAS-D: sistema de apuração e declaração do Simples Nacional; NÃO é sinônimo de EFD, NFS-e ou NF-e.\nXML: formato estruturado empregado em documentos eletrônicos como a NF-e. Arquivo XML, assinatura e autorização devem ser conferidos no contexto técnico. PDF/impressão, imagem de tela e planilha copiada não substituem, por si, consulta ao registro original.\nChave de acesso: identificador que permite consulta do documento, não prova automaticamente que a prestação ocorreu como descrita.\nEVENTOS: cancelamento, substituição e outras ocorrências podem afetar a leitura de um conjunto de notas; considerar o status válido em cada período e as regras de cada documento."
+    },
+    {
+      "id": "direito-tributario-aula-104-b5",
+      "tipo": "memorize",
+      "titulo": "",
+      "texto": "NF-e → mercadorias (em regra); NFS-e → serviços; DANFE → auxiliar; EFD → escrituração; SPED → ecossistema; PGDAS-D → Simples."
+    },
+    {
+      "id": "direito-tributario-aula-104-b6",
+      "tipo": "teoria",
+      "titulo": "",
+      "texto": "4. NFS-e PADRÃO NACIONAL: ATENÇÃO À DATA\nO Portal Nacional da NFS-e informa que a NFS-e nacional formaliza prestação de serviços, pode integrar dados de municípios e permite emissão por portal ou integração autorizada via API. Segundo notícia oficial de 28/04/2026, a Resolução CGSN nº 189/2026 tornou obrigatório o Emissor Nacional para ME e EPP optantes pelo Simples Nacional a partir de 01/09/2026. Essa informação é temporal: não retroagir automaticamente a períodos anteriores nem presumir que a mudança, sozinha, define o município credor do ISS.\nO Ambiente de Dados Nacional (ADN) e APIs viabilizam intercâmbio e consulta nos limites das autorizações e regras do sistema. Integração nacional NÃO transforma o ISS em imposto federal.\nAtualização legislativa: o art. 62 da LC 214/2025 trata de deveres de integração dos municípios à NFS-e nacional; não confundir adesão/parametrização do ente com regra de incidência do ISS sobre cada serviço.\nFontes oficiais: https://www.gov.br/nfse/pt-br/noticias/nfs-e-e-simples-nacional-obrigatoriedade-de-emissao-atraves-do-emissor-nacional ; https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-eletronica ; https://www.gov.br/nfse/pt-br/municipios/produtos-disponiveis/api-de-integracao"
+    },
+    {
+      "id": "direito-tributario-aula-104-b7",
+      "tipo": "teoria",
+      "titulo": "5. COMO O AGENTE FISCAL UTILIZA DADOS ELETRÔNICOS",
+      "texto": "ETAPA 1 — Definir objeto, competência e período. Ex.: verificar divergências de receita de serviços sujeita a ISS, no exercício delimitado.\nETAPA 2 — Identificar fontes lícitas: NFS-e e eventos, cadastro municipal, declarações do contribuinte, PGDAS-D quando acessível legalmente, documentos contábeis pertinentes e registros eletrônicos disponíveis à Administração.\nETAPA 3 — Padronizar identificadores: CNPJ, competência, número da nota, código de serviço, valores, tomador, status da nota e município de incidência.\nETAPA 4 — Conciliar registros: eliminar duplicidade de importação, examinar cancelamentos válidos, substituições, notas fora da competência, retenções e operações não tributáveis pelo ISS municipal.\nETAPA 5 — Identificar divergências materiais: diferenciar diferença de sistema, erro formal, atraso de registro e possível omissão de receita.\nETAPA 6 — Produzir evidências rastreáveis: guardar origem, data de extração, critério de seleção, documentos, explicações do contribuinte e memória de cálculo.\nETAPA 7 — Concluir sem prejulgamento: indício não é prova automática de dolo; respeitar motivação, competência, contraditório quando aplicável e sigilo fiscal (CTN art. 198).\nA fiscalização eletrônica deve auxiliar a decisão, nunca dispensar fundamentação jurídica.\n6. CASO PRÁTICO RESOLVIDO — CONCILIAÇÃO DE NFS-e\nEmpresa hipotética de serviços, no mesmo período de competência:\nNFS-e emitidas: R$ 180.000,00.\nCancelamentos válidos confirmados: R$ 20.000,00.\nReceita de serviços declarada no PGDAS-D: R$ 142.000,00.\n1º cálculo: documentos válidos inicialmente considerados = 180.000 – 20.000 = R$ 160.000.\n2º cálculo: divergência inicial = 160.000 – 142.000 = R$ 18.000.\n3º cálculo: proporção da divergência sobre as notas válidas = 18.000 / 160.000 × 100 = 11,25%.\nO resultado é INDÍCIO para conciliação, NÃO prova automática de omissão tributável de R$ 18 mil. Verificar serviço, local do ISS, período, substituição, retenção, receitas declaradas sob outra segregação e demais documentos."
+    },
+    {
+      "id": "direito-tributario-aula-104-b8",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha 1: comparar 180 mil diretamente com 142 mil e ignorar cancelamentos produz diferença artificial de R$ 38 mil.",
+      "texto": "Pegadinha 2: multiplicar R$ 18 mil por uma alíquota aleatória para declarar imposto devido, sem apurar o regime e a parcela de ISS."
+    },
+    {
+      "id": "direito-tributario-aula-104-b9",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha 3: interpretar 11,25% como alíquota do ISS; é apenas percentual da divergência.",
+      "texto": "7. CASO PRÁTICO RESOLVIDO — NF-e E EFD\nEmpresa de comércio apresenta NF-e de saída de R$ 600 mil no mês e escrituração EFD ICMS/IPI com R$ 560 mil em operações aparentemente correspondentes. A diferença bruta é R$ 40 mil. Antes de concluir omissão, examinar notas canceladas, devoluções, eventos, ajustes de escrituração, CFOP, competências e operações específicas. O dado pode ser útil ao Fisco competente, mas não torna automaticamente todo o valor base de ISS municipal.\nAtribuições e acesso: o município pode usar informações compartilhadas legalmente para fins pertinentes à fiscalização, sem se apropriar da competência tributária estadual."
+    },
+    {
+      "id": "direito-tributario-aula-104-b10",
+      "tipo": "teoria",
+      "titulo": "8. ARMADILHAS CONCEITUAIS",
+      "texto": "A) “DANFE = NF-e”: falso. Auxiliar não é o documento eletrônico original.\nB) “SPED é um imposto”: falso. É sistema de escrituração.\nC) “EFD ICMS/IPI = EFD-Contribuições”: falso. Módulos diferentes.\nD) “Nota autorizada prova prestação efetiva”: não necessariamente. Autorização formal não substitui apuração do fato.\nE) “Nota emitida em Queimados sempre gera ISS devido a Queimados”: falso. Analisar LC 116/2003.\nF) “SPED elimina guarda documental”: falso, Decreto 6022/2007, art. 2º, § 2º.\nG) “Todos os fiscais acessam qualquer dado”: falso. Competência, convênio, necessidade e sigilo.\nH) “Diferença eletrônica equivale a fraude”: falso. É achado preliminar que demanda análise.\nI) “NFS-e nacional federalizou o ISS”: falso.\nJ) “RBT12 é receita do mês”: falso (revisão da Aula 103)."
+    },
+    {
+      "id": "direito-tributario-aula-104-b11",
+      "tipo": "revisao",
+      "titulo": "9. REVISÃO ESPAÇADA E RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: (1) conceitue SPED; (2) diferencie NF-e, DANFE e NFS-e; (3) explique EFD ICMS/IPI versus EFD-Contribuições; (4) por que validação de arquivo não prova a veracidade da operação? (5) refaça o cálculo 180/20/142; (6) explique por que uma NFS-e emitida localmente não basta para definir o ISS; (7) cite três cuidados com sigilo e competência.\nReaplicar perguntas em aproximadamente 24h, 72h e 7 dias, misturadas com ISS, Simples e auditoria."
+    },
+    {
+      "id": "direito-tributario-aula-104-b12",
+      "tipo": "questao",
+      "titulo": "10. SIMULADO AUTORAL — 20 QUESTÕES (SEM GABARITO ANTECIPADO)",
+      "texto": "Tempo sugerido: 25 minutos. Quatro alternativas por questão, uma única melhor resposta. Não consultar a aula. Comandos CORRETA, INCORRETA e EXCETO devem ser lidos com atenção.",
+      "questionIds": [
+        "direito-tributario-aula-104-q-001",
+        "direito-tributario-aula-104-q-002",
+        "direito-tributario-aula-104-q-003",
+        "direito-tributario-aula-104-q-004",
+        "direito-tributario-aula-104-q-005",
+        "direito-tributario-aula-104-q-006",
+        "direito-tributario-aula-104-q-007",
+        "direito-tributario-aula-104-q-008",
+        "direito-tributario-aula-104-q-009",
+        "direito-tributario-aula-104-q-010",
+        "direito-tributario-aula-104-q-011",
+        "direito-tributario-aula-104-q-012",
+        "direito-tributario-aula-104-q-013",
+        "direito-tributario-aula-104-q-014",
+        "direito-tributario-aula-104-q-015",
+        "direito-tributario-aula-104-q-016",
+        "direito-tributario-aula-104-q-017",
+        "direito-tributario-aula-104-q-018",
+        "direito-tributario-aula-104-q-019",
+        "direito-tributario-aula-104-q-020"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-104-b13",
+      "tipo": "teoria",
+      "titulo": "11. CONTROLE E CADERNO DE ERROS",
+      "texto": "Questões propostas: 20. Respostas individuais ainda não recebidas. Acertos, erros e domínio: NÃO AFERIDOS. Não revelar gabarito antes de o aluno responder. Após respostas, corrigir cada alternativa, registrar erro, causa provável, regra, pegadinha e revisão futura. Domínio exige acerto posterior em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-104-b14",
+      "tipo": "teoria",
+      "titulo": "12. PRÓXIMA CONTINUIDADE",
+      "texto": "AULA 105 — Português OU Legislação Municipal (alternância), com foco em lacunas do edital; inserir recuperação ativa breve de SPED, Simples e auditoria. Depois, retomar blocos específicos não cobertos, como Lei 6.830/1980 e contabilidade aplicada."
+    },
+    {
+      "id": "direito-tributario-aula-104-b15",
+      "tipo": "teoria",
+      "titulo": "FONTES OFICIAIS",
+      "texto": "Decreto 6.022/2007: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6022.htm\nPortal SPED: https://sped.rfb.gov.br/\nPortal NF-e: https://www.nfe.fazenda.gov.br/portal/sobreNFe.aspx?AspxAutoDetectCookieSupport=1&tipoConteudo=PEhYdxncZBE%3D\nGuia Prático EFD ICMS/IPI: https://sped.rfb.gov.br/arquivo/download/8112\nNFS-e nacional: https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-eletronica\nResolução CGSN 189/2026 (notícia oficial): https://www.gov.br/nfse/pt-br/noticias/nfs-e-e-simples-nacional-obrigatoriedade-de-emissao-atraves-do-emissor-nacional\nGuia verticalizado Agente Fiscal Queimados 2026 (biblioteca); IAN Jardim/MS 2026 (formato, sem reproduzir questões ou gabaritos)."
+    },
+    {
+      "id": "direito-tributario-aula-104-b16",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 104 ==========",
+      "texto": ""
     }
   ],
-  "questoes": [],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-104-q-001",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 1,
+      "question": "Q01. O SPED é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "um tributo municipal sobre serviços."
+        },
+        {
+          "id": "B",
+          "text": "um sistema de escrituração digital com recepção, validação, armazenamento e autenticação de documentos e livros."
+        },
+        {
+          "id": "C",
+          "text": "um programa exclusivamente de emissão de boletos bancários."
+        },
+        {
+          "id": "D",
+          "text": "uma licença municipal para funcionamento de empresas. Q02 — INCORRETA. Sobre o Decreto 6.022/2007, assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-002",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 2,
+      "question": "Q02 — INCORRETA. Sobre o Decreto 6.022/2007, assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "instituiu o SPED."
+        },
+        {
+          "id": "B",
+          "text": "abrange a escrituração contábil e fiscal."
+        },
+        {
+          "id": "C",
+          "text": "a utilização do SPED elimina toda obrigação legal de guarda documental."
+        },
+        {
+          "id": "D",
+          "text": "prevê usuários e condições de acesso às informações. Q03. A função principal do DANFE é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-003",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 3,
+      "question": "Q03. A função principal do DANFE é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "substituir definitivamente o arquivo da NF-e."
+        },
+        {
+          "id": "B",
+          "text": "criar a obrigação de ISS."
+        },
+        {
+          "id": "C",
+          "text": "servir como representação auxiliar e facilitar a consulta da NF-e."
+        },
+        {
+          "id": "D",
+          "text": "comprovar sozinho o efetivo pagamento do tributo. Q04. Assinale a associação CORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-004",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 4,
+      "question": "Q04. Assinale a associação CORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "EFD ICMS/IPI — escrituração fiscal dessas espécies, conforme regras do módulo."
+        },
+        {
+          "id": "B",
+          "text": "EFD-Contribuições — apenas imposto predial municipal."
+        },
+        {
+          "id": "C",
+          "text": "ECD — emissão de NFS-e."
+        },
+        {
+          "id": "D",
+          "text": "PGDAS-D — sinônimo de DANFE. Q05 — EXCETO. Constituem procedimentos prudentes em cruzamento de NFS-e, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-005",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 5,
+      "question": "Q05 — EXCETO. Constituem procedimentos prudentes em cruzamento de NFS-e, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "conferir status de cancelamento."
+        },
+        {
+          "id": "B",
+          "text": "comparar períodos de competência."
+        },
+        {
+          "id": "C",
+          "text": "verificar duplicidades de importação."
+        },
+        {
+          "id": "D",
+          "text": "considerar qualquer divergência prova definitiva de dolo. Q06 — CÁLCULO. NFS-e emitidas R$ 180 mil; cancelamentos válidos R$ 20 mil; declarado R$ 142 mil. Divergência inicial:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-006",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 6,
+      "question": "Q06 — CÁLCULO. NFS-e emitidas R$ 180 mil; cancelamentos válidos R$ 20 mil; declarado R$ 142 mil. Divergência inicial:",
+      "options": [
+        {
+          "id": "A",
+          "text": "R$ 38 mil."
+        },
+        {
+          "id": "B",
+          "text": "R$ 18 mil."
+        },
+        {
+          "id": "C",
+          "text": "R$ 20 mil."
+        },
+        {
+          "id": "D",
+          "text": "R$ 160 mil. Q07 — CÁLCULO. A divergência da questão anterior, como percentual das notas válidas, é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-007",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 7,
+      "question": "Q07 — CÁLCULO. A divergência da questão anterior, como percentual das notas válidas, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%."
+        },
+        {
+          "id": "B",
+          "text": "11,25%."
+        },
+        {
+          "id": "C",
+          "text": "12,50%."
+        },
+        {
+          "id": "D",
+          "text": "18%. Q08. A autorização de uma NF-e:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-008",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 8,
+      "question": "Q08. A autorização de uma NF-e:",
+      "options": [
+        {
+          "id": "A",
+          "text": "comprova automaticamente a realidade material de todas as informações."
+        },
+        {
+          "id": "B",
+          "text": "torna impossível qualquer auditoria posterior."
+        },
+        {
+          "id": "C",
+          "text": "integra o controle formal do documento, mas não dispensa exame material."
+        },
+        {
+          "id": "D",
+          "text": "converte operação mercantil em serviço tributado por ISS. Q09. A emissão de NFS-e em um município:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-009",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 9,
+      "question": "Q09. A emissão de NFS-e em um município:",
+      "options": [
+        {
+          "id": "A",
+          "text": "define sempre, isoladamente, o município credor do ISS."
+        },
+        {
+          "id": "B",
+          "text": "exige exame das regras legais de incidência e local do imposto."
+        },
+        {
+          "id": "C",
+          "text": "dispensa identificar o serviço prestado."
+        },
+        {
+          "id": "D",
+          "text": "torna o ISS um tributo federal. Q10. A EFD-Contribuições relaciona-se principalmente:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-010",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 10,
+      "question": "Q10. A EFD-Contribuições relaciona-se principalmente:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à escrituração de PIS/Pasep e Cofins conforme a regulamentação."
+        },
+        {
+          "id": "B",
+          "text": "exclusivamente ao cadastro imobiliário."
+        },
+        {
+          "id": "C",
+          "text": "apenas a alvarás municipais."
+        },
+        {
+          "id": "D",
+          "text": "a julgamentos criminais. Q11 — INCORRETA. Sobre a fiscalização eletrônica, assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-011",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 11,
+      "question": "Q11 — INCORRETA. Sobre a fiscalização eletrônica, assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "o cruzamento pode orientar seleção de auditorias."
+        },
+        {
+          "id": "B",
+          "text": "a origem das informações deve ser rastreável."
+        },
+        {
+          "id": "C",
+          "text": "um arquivo validado prova, por si só, que a operação é verdadeira."
+        },
+        {
+          "id": "D",
+          "text": "inconsistências podem decorrer de diferenças temporais. Q12. No caso de uma nota fiscal cancelada validamente, a primeira providência em uma conciliação é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-012",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 12,
+      "question": "Q12. No caso de uma nota fiscal cancelada validamente, a primeira providência em uma conciliação é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ignorar o evento e somar a nota como receita definitiva."
+        },
+        {
+          "id": "B",
+          "text": "considerar o evento e sua validade segundo as regras aplicáveis."
+        },
+        {
+          "id": "C",
+          "text": "lançar multa automática sem apuração."
+        },
+        {
+          "id": "D",
+          "text": "excluir toda receita do contribuinte. Q13 — ASSERTIVAS. I. ECD e EFD ICMS/IPI são projetos distintos. II. O DANFE é documento auxiliar. III. O SPED dispensa sigilo fiscal. Está correto:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-013",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 13,
+      "question": "Q13 — ASSERTIVAS. I. ECD e EFD ICMS/IPI são projetos distintos. II. O DANFE é documento auxiliar. III. O SPED dispensa sigilo fiscal. Está correto:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas I."
+        },
+        {
+          "id": "B",
+          "text": "apenas III."
+        },
+        {
+          "id": "C",
+          "text": "I e II."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III. Q14. No trabalho fiscal municipal, o acesso a dados compartilhados deve:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-014",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 14,
+      "question": "Q14. No trabalho fiscal municipal, o acesso a dados compartilhados deve:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ocorrer sem qualquer limite de finalidade."
+        },
+        {
+          "id": "B",
+          "text": "observar competência, autorizações, segurança e sigilo."
+        },
+        {
+          "id": "C",
+          "text": "permitir divulgação pública de dados individuais por conveniência."
+        },
+        {
+          "id": "D",
+          "text": "substituir a motivação de eventual autuação. Q15. Conforme divulgação oficial de 28/04/2026, a obrigação do Emissor Nacional da NFS-e para ME/EPP optantes pelo Simples Nacional teve início em:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-015",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 15,
+      "question": "Q15. Conforme divulgação oficial de 28/04/2026, a obrigação do Emissor Nacional da NFS-e para ME/EPP optantes pelo Simples Nacional teve início em:",
+      "options": [
+        {
+          "id": "A",
+          "text": "01/09/2026."
+        },
+        {
+          "id": "B",
+          "text": "01/01/2020."
+        },
+        {
+          "id": "C",
+          "text": "22/11/2026."
+        },
+        {
+          "id": "D",
+          "text": "01/01/2030. Q16 — EXCETO. Na conciliação de receitas de serviços, são fatores a investigar, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-016",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 16,
+      "question": "Q16 — EXCETO. Na conciliação de receitas de serviços, são fatores a investigar, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "substituição de notas."
+        },
+        {
+          "id": "B",
+          "text": "cancelamentos válidos."
+        },
+        {
+          "id": "C",
+          "text": "retenção do ISS e segregação de receitas."
+        },
+        {
+          "id": "D",
+          "text": "presunção de que toda diferença representa automaticamente crime. Q17 — REVISÃO SIMPLES. RBT12, em regra, corresponde:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-017",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 17,
+      "question": "Q17 — REVISÃO SIMPLES. RBT12, em regra, corresponde:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à receita bruta dos doze meses anteriores ao período de apuração."
+        },
+        {
+          "id": "B",
+          "text": "apenas à receita do mês atual."
+        },
+        {
+          "id": "C",
+          "text": "ao lucro líquido de doze anos."
+        },
+        {
+          "id": "D",
+          "text": "à soma das multas municipais. Q18 — REVISÃO AUDITORIA. Evidência adequada refere-se sobretudo:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-018",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 18,
+      "question": "Q18 — REVISÃO AUDITORIA. Evidência adequada refere-se sobretudo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "à relevância e confiabilidade."
+        },
+        {
+          "id": "B",
+          "text": "exclusivamente ao número de páginas."
+        },
+        {
+          "id": "C",
+          "text": "ao valor de uma multa presumida."
+        },
+        {
+          "id": "D",
+          "text": "à preferência pessoal do agente. Q19 — REVISÃO DIREITO ADMINISTRATIVO. Fiscal usa competência para perseguir desafeto. O vício central é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-019",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 19,
+      "question": "Q19 — REVISÃO DIREITO ADMINISTRATIVO. Fiscal usa competência para perseguir desafeto. O vício central é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "revogação por conveniência."
+        },
+        {
+          "id": "B",
+          "text": "desvio de finalidade."
+        },
+        {
+          "id": "C",
+          "text": "imunidade tributária."
+        },
+        {
+          "id": "D",
+          "text": "elisão fiscal. Q20 — PORTUGUÊS. Em “Embora o arquivo tenha sido validado, o fiscal deve conferir a consistência material dos dados”, “embora” exprime:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    },
+    {
+      "id": "direito-tributario-aula-104-q-020",
+      "lessonId": "direito-tributario-aula-104",
+      "numero": 20,
+      "question": "Q20 — PORTUGUÊS. Em “Embora o arquivo tenha sido validado, o fiscal deve conferir a consistência material dos dados”, “embora” exprime:",
+      "options": [
+        {
+          "id": "A",
+          "text": "causa."
+        },
+        {
+          "id": "B",
+          "text": "conclusão."
+        },
+        {
+          "id": "C",
+          "text": "concessão."
+        },
+        {
+          "id": "D",
+          "text": "finalidade."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+    }
+  ],
   "gabaritos": [],
-  "revisao": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-104-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA (NÃO CONSULTAR)",
+      "texto": "a) A empresa optante pelo Simples Nacional perde automaticamente a sujeição à fiscalização municipal do ISS?\nb) O que é RBT12? É igual à receita do mês?\nc) A alíquota global efetiva do DAS equivale sempre à alíquota isolada do ISS?\nd) Em auditoria, uma divergência entre NFS-e e PGDAS-D comprova fraude?\ne) Qual é a diferença entre evidência adequada e suficiente?\nAs respostas serão verificadas na revisão; não presumir acerto."
+    },
+    {
+      "id": "direito-tributario-aula-104-b11",
+      "titulo": "9. REVISÃO ESPAÇADA E RECUPERAÇÃO ATIVA",
+      "texto": "Sem consultar: (1) conceitue SPED; (2) diferencie NF-e, DANFE e NFS-e; (3) explique EFD ICMS/IPI versus EFD-Contribuições; (4) por que validação de arquivo não prova a veracidade da operação? (5) refaça o cálculo 180/20/142; (6) explique por que uma NFS-e emitida localmente não basta para definir o ISS; (7) cite três cuidados com sigilo e competência.\nReaplicar perguntas em aproximadamente 24h, 72h e 7 dias, misturadas com ISS, Simples e auditoria."
+    }
+  ],
   "mapasMentais": [],
   "leiSeca": [],
   "missao": null,
@@ -34,5 +732,5 @@
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
   "ultimaAtualizacao": "2026-10-14",
-  "contentHash": "5779a379fd6a8536"
+  "contentHash": "8c548f265dcbd93f"
 }
