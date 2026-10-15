@@ -6,7 +6,7 @@
   "disciplina": "Direito Tributário",
   "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
   "ordem": 104,
-  "data": "2026-10-14",
+  "data": "2026-10-15",
   "tempoEstimadoMin": 8,
   "resumo": "",
   "conteudo": [
@@ -126,6 +126,12 @@
       "id": "direito-tributario-aula-104-b16",
       "tipo": "teoria",
       "titulo": "========== FIM AULA 104 ==========",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-104-b17",
+      "tipo": "teoria",
+      "titulo": "========== INÍCIO AULA 105 ==========",
       "texto": ""
     }
   ],
@@ -731,6 +737,6 @@
   "tags": [],
   "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
   "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
-  "ultimaAtualizacao": "2026-10-14",
-  "contentHash": "8c548f265dcbd93f"
+  "ultimaAtualizacao": "2026-10-15",
+  "contentHash": "f2844e170bffded4"
 }

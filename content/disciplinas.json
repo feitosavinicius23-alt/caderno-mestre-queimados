@@ -3,9 +3,9 @@
     "id": "direito-tributario",
     "slug": "direito-tributario",
     "nome": "Direito Tributário",
-    "totalAulas": 83,
-    "totalQuestoes": 729,
-    "tempoEstimadoMin": 464,
+    "totalAulas": 84,
+    "totalQuestoes": 748,
+    "tempoEstimadoMin": 470,
     "assuntos": [
       "Direito Tributário",
       "Crédito Tributário e Lançamento",
@@ -83,7 +83,8 @@
       "REVISÃO CUMULATIVA MISTA — AGENTE FISCAL QUEIMADOS/RJ",
       "AUDITORIA FISCAL: PLANEJAMENTO, EVIDÊNCIAS, AUDITORIA DOCUMENTAL/CONTÁBIL/ELETRÔNICA E ISS.",
       "SIMPLES NACIONAL: LC 123/2006, ISS, DAS, PGDAS-D, SEGREGAÇÃO DE RECEITAS, RETENÇÃO, FISCALIZAÇÃO E EXCLUSÃO.",
-      "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h"
+      "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
     ],
     "aulas": [
       {
@@ -583,6 +584,12 @@
         "numero": 104,
         "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
         "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h"
+      },
+      {
+        "id": "direito-tributario-aula-105",
+        "numero": 105,
+        "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+        "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h"
       }
     ]
   },

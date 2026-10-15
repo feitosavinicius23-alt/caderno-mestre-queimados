@@ -1,7 +1,7 @@
 {
-  "contentVersion": 131,
-  "geradoEm": "2026-10-14T21:48:30.129Z",
-  "total": 2448,
+  "contentVersion": 133,
+  "geradoEm": "2026-10-15T00:30:15.046Z",
+  "total": 2488,
   "documentos": [
     {
       "tipo": "aula",
@@ -24462,6 +24462,17 @@
       "texto": "========== FIM AULA 104 =========="
     },
     {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-104-b17",
+      "lessonId": "direito-tributario-aula-104",
+      "titulo": "========== INÍCIO AULA 105 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
+      "blocoTipo": "teoria",
+      "texto": "========== INÍCIO AULA 105 =========="
+    },
+    {
       "tipo": "questao",
       "id": "direito-tributario-aula-104-q-001",
       "lessonId": "direito-tributario-aula-104",
@@ -24680,6 +24691,413 @@
       "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 15h",
       "slug": "agente-fiscal-de-queimados-rj-14-10-2026-15h",
       "texto": "Sem consultar: (1) conceitue SPED; (2) diferencie NF-e, DANFE e NFS-e; (3) explique EFD ICMS/IPI versus EFD-Contribuições; (4) por que validação de arquivo não prova a veracidade da operação? (5) refaça o cálculo 180/20/142; (6) explique por que uma NFS-e emitida localmente não basta para definir o ISS; (7) cite três cuidados com sigilo e competência.\nReaplicar perguntas em aproximadamente 24h, 72"
+    },
+    {
+      "tipo": "aula",
+      "id": "direito-tributario-aula-105",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b1",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "LÍNGUA PORTUGUESA: CRASE, REGÊNCIA, CONCORDÂNCIA E PONTUAÇÃO + REVISÃO CUMULATIVA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "LÍNGUA PORTUGUESA: CRASE, REGÊNCIA, CONCORDÂNCIA E PONTUAÇÃO + REVISÃO CUMULATIVA Duração sugerida: 45 a 55 minutos. Cargo exclusivo: AGENTE FISCAL. Banca: IAN.\nContinuidade: Aula 104 — SPED, NF-e, NFS-e e EFD. Esta é uma aula efetiva de Português, com questões cumulativas dos blocos específicos estudados nas Aulas 101 a 104. Conteúdos de Português confirmados no Guia de Conteúdo Agente Fiscal Que"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b2",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "revisao",
+      "texto": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA Responda mentalmente antes de ler:\nR1. SPED é imposto ou sistema de escrituração?\nR2. Uma divergência entre NFS-e e PGDAS-D comprova fraude automaticamente?\nR3. O que significa RBT12?\nR4. O DANFE substitui juridicamente o arquivo eletrônico da NF-e?\nR5. No art. 198 do CTN, qual é o dever de proteção de dados?\nNão considerar domínio por simples leitura: só o acer"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b3",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "2. CRASE — O RACIOCÍNIO QUE RESOLVE QUESTÕES",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "2. CRASE — O RACIOCÍNIO QUE RESOLVE QUESTÕES Crase é a fusão de dois sons /a/: em geral, preposição a exigida pelo termo anterior + artigo feminino a/as do termo seguinte. O acento grave marca essa fusão. Método prático: substitua a palavra feminina por equivalente masculino; se aparecer \"ao\", em situação paralela, normalmente haverá \"à\".\nExemplo: \"O agente encaminhou o processo à secretaria.\" Enc"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b4",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Pegadinha: \"à partir de\" está errado. A forma é \"a partir de\".",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: \"à partir de\" está errado. A forma é \"a partir de\"."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b5",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "3. REGÊNCIA VERBAL — QUEM EXIGE QUAL PREPOSIÇÃO?",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "3. REGÊNCIA VERBAL — QUEM EXIGE QUAL PREPOSIÇÃO? Regência é a relação entre verbo e complemento.\n\"Obedecer a\": o contribuinte deve obedecer às normas.\n\"Assistir a\", no sentido de presenciar: os servidores assistiram à sessão.\n\"Preferir X a Y\": prefere conciliação a autuação precipitada; evitar \"prefere mais X do que Y\" na norma-padrão exigida em concursos.\n\"Visar a\", no sentido de almejar: a medid"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b6",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Pegadinha: \"O fiscal assistiu a reunião\" (presenciou) pede \"à reunião\" na norma-padrão, pois a reunião admite artigo.",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: \"O fiscal assistiu a reunião\" (presenciou) pede \"à reunião\" na norma-padrão, pois a reunião admite artigo."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b7",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "4. CONCORDÂNCIA VERBAL E NOMINAL",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "4. CONCORDÂNCIA VERBAL E NOMINAL Regra geral: o verbo concorda com o núcleo do sujeito: \"As notas fiscais foram analisadas\".\n\"Haver\" com sentido de existir é impessoal e fica no singular: \"Havia divergências\". Já \"existir\" tem sujeito e varia: \"Existiam divergências\".\n\"Fazer\" indicando tempo decorrido é impessoal: \"Faz três meses que o sistema foi implantado\".\n\"Se\" apassivador com verbo transitivo"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b8",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Pegadinha: \"Houveram problemas\" é incorreto quando \"haver\" significa existir. Forma correta: \"Houve problemas\".",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "pegadinha",
+      "texto": "Pegadinha: \"Houveram problemas\" é incorreto quando \"haver\" significa existir. Forma correta: \"Houve problemas\"."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b9",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "5. PONTUAÇÃO E SENTIDO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "5. PONTUAÇÃO E SENTIDO Não se separa sujeito e predicado por vírgula: \"Os relatórios da fiscalização foram encaminhados\".\nA vírgula pode isolar adjunto adverbial deslocado: \"Após a análise dos documentos, o fiscal registrou o achado\".\nOrações explicativas vêm entre vírgulas e acrescentam informação: \"Os fiscais, que participaram do treinamento, receberam o manual\" — a informação caracteriza todo o"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b10",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Cuidado com extrapolação: \"pode indicar\" não significa \"comprova\"; \"alguns\" não significa \"todos\".",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "atencao",
+      "texto": "Cuidado com extrapolação: \"pode indicar\" não significa \"comprova\"; \"alguns\" não significa \"todos\"."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b11",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "6. APLICAÇÃO INTEGRADA — TEXTO COMENTADO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "6. APLICAÇÃO INTEGRADA — TEXTO COMENTADO Texto: \"Após a implantação do sistema, foram identificadas divergências em algumas declarações. Embora os dados tenham sido validados, a equipe decidiu conferir os documentos originais, pois a validação eletrônica não comprova, por si só, a ocorrência material de cada operação.\"\n\"Após a implantação do sistema\" é expressão adverbial deslocada, seguida de vír"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b12",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "7. QUADRO DE MEMORIZAÇÃO RÁPIDA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "7. QUADRO DE MEMORIZAÇÃO RÁPIDA Crase: a + a = à; nunca antes de verbo; atenção a \"às 15 horas\".\nRegência: obedecer a; assistir a (presenciar); preferir X a Y; visar a (almejar).\nConcordância: havia problemas / existiam problemas / faz dois meses.\nSe: analisam-se notas (passiva sintética); precisa-se de servidores (sujeito indeterminado).\nPontuação: não separar sujeito do verbo; restritiva sem vír"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b13",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "8. SIMULADO CUMULATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "questao",
+      "texto": "8. SIMULADO CUMULATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO Instrução: responda em sequência (1A, 2B, ...), sem consultar o texto. Não revelar alternativas corretas antes da resposta do aluno."
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b14",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Q15 — REVISÃO SPED. O DANFE:",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "questao",
+      "texto": "Q15 — REVISÃO SPED. O DANFE:"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b15",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "revisao",
+      "texto": "9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO Sem consultar: explique por que \"havia divergências\" está correto, quando \"se\" exige verbo plural, a diferença entre restritiva e explicativa, o teste de \"ao\" para crase, e por que uma divergência eletrônica não comprova fraude. Registre respostas do aluno antes de revelar gabaritos.\nCorreção futura: alternativa por alternativa; apontar erro, causa prováv"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b16",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "10. PRÓXIMA CONTINUIDADE",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "10. PRÓXIMA CONTINUIDADE AULA 106 — Conhecimentos Específicos: Processo Judicial Tributário e Lei 6.830/1980 (execução fiscal, CDA, citação, garantia, embargos, prescrição e distinção entre procedimento administrativo e judicial). Não permanecer em Português por aulas consecutivas; prosseguir primeira volta acelerada.\nReferência de escopo: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx, bibliotec"
+    },
+    {
+      "tipo": "trecho",
+      "id": "direito-tributario-aula-105-b17",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "========== FIM AULA 105 ==========",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "blocoTipo": "teoria",
+      "texto": "========== FIM AULA 105 =========="
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-001",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 1 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q01 — CRASE. Assinale a frase correta segundo a norma-padrão:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-002",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 2 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q02 — REGÊNCIA. Assinale a alternativa correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-003",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 3 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q03 — CONCORDÂNCIA — INCORRETA. Assinale a INCORRETA:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-004",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 4 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q04 — CRASE E HORAS. Assinale a forma correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-005",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 5 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q05 — PONTUAÇÃO. Assinale a alternativa em que NÃO há separação indevida entre sujeito e verbo:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-006",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 6 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q06 — CONCORDÂNCIA COM SE. Assinale a alternativa correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-007",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 7 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q07 — SENTIDO DA VÍRGULA. Na frase \"Os servidores que participaram do treinamento receberam o manual\", a oração \"que participaram do treinamento\":"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-008",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 8 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q08 — REGÊNCIA — EXCETO. Todas as construções respeitam a regência tradicional da norma-padrão, EXCETO:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-009",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 9 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q09 — CRASE. Assinale a alternativa em que o acento grave é exigido:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-010",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 10 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q10 — CONCORDÂNCIA NOMINAL. Assinale a correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-011",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 11 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q11 — INTERPRETAÇÃO. \"Algumas notas podem apresentar inconsistências.\" É compatível com o enunciado:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-012",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 12 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q12 — CONECTIVOS. Em \"Embora o arquivo tenha sido validado, a operação ainda exige exame\", \"embora\" indica:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-013",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 13 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "É correto afirmar:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-014",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 14 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q14 — REGÊNCIA E CRASE. Assinale a frase correta:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-015",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 1 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q16 — REVISÃO AUDITORIA. Uma divergência entre NFS-e e declaração:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-016",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 2 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q17 — REVISÃO SIMPLES. RBT12, em regra, é:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-017",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 3 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q18 — REVISÃO DIREITO ADMINISTRATIVO. Um agente competente utiliza a fiscalização para perseguir desafeto. Trata-se de:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-018",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 4 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Q19 — REVISÃO LRF. Em regra, o RREO é publicado com periodicidade:"
+    },
+    {
+      "tipo": "questao",
+      "id": "direito-tributario-aula-105-q-019",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "Questão 5 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Assinale:"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-105-b2",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Responda mentalmente antes de ler:\nR1. SPED é imposto ou sistema de escrituração?\nR2. Uma divergência entre NFS-e e PGDAS-D comprova fraude automaticamente?\nR3. O que significa RBT12?\nR4. O DANFE substitui juridicamente o arquivo eletrônico da NF-e?\nR5. No art. 198 do CTN, qual é o dever de proteção de dados?\nNão considerar domínio por simples leitura: só o acerto posterior em questões intercalada"
+    },
+    {
+      "tipo": "revisao",
+      "id": "direito-tributario-aula-105-b15",
+      "lessonId": "direito-tributario-aula-105",
+      "titulo": "9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO",
+      "disciplina": "Direito Tributário",
+      "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+      "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+      "texto": "Sem consultar: explique por que \"havia divergências\" está correto, quando \"se\" exige verbo plural, a diferença entre restritiva e explicativa, o teste de \"ao\" para crase, e por que uma divergência eletrônica não comprova fraude. Registre respostas do aluno antes de revelar gabaritos.\nCorreção futura: alternativa por alternativa; apontar erro, causa provável, regra correta, distrator/pegadinha e re"
     },
     {
       "tipo": "aula",

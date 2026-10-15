@@ -19208,3 +19208,247 @@ NFS-e nacional: https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-
 Resolução CGSN 189/2026 (notícia oficial): https://www.gov.br/nfse/pt-br/noticias/nfs-e-e-simples-nacional-obrigatoriedade-de-emissao-atraves-do-emissor-nacional
 Guia verticalizado Agente Fiscal Queimados 2026 (biblioteca); IAN Jardim/MS 2026 (formato, sem reproduzir questões ou gabaritos).
 ========== FIM AULA 104 ==========
+
+
+
+
+========== INÍCIO AULA 105 ==========
+AULA 105 — AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h
+LÍNGUA PORTUGUESA: CRASE, REGÊNCIA, CONCORDÂNCIA E PONTUAÇÃO + REVISÃO CUMULATIVA
+Duração sugerida: 45 a 55 minutos. Cargo exclusivo: AGENTE FISCAL. Banca: IAN.
+Continuidade: Aula 104 — SPED, NF-e, NFS-e e EFD. Esta é uma aula efetiva de Português, com questões cumulativas dos blocos específicos estudados nas Aulas 101 a 104. Conteúdos de Português confirmados no Guia de Conteúdo Agente Fiscal Queimados 2026: sintaxe, concordância, regência, crase, pontuação e interpretação. As questões são AUTORAIS, inspiradas em formatos usuais de múltipla escolha, CORRETA, INCORRETA, EXCETO e assertivas; não são transcrições de provas oficiais nem possuem gabarito publicado no arquivo de 911 questões.
+
+
+1. RECUPERAÇÃO ATIVA — SEM CONSULTA
+Responda mentalmente antes de ler:
+R1. SPED é imposto ou sistema de escrituração?
+R2. Uma divergência entre NFS-e e PGDAS-D comprova fraude automaticamente?
+R3. O que significa RBT12?
+R4. O DANFE substitui juridicamente o arquivo eletrônico da NF-e?
+R5. No art. 198 do CTN, qual é o dever de proteção de dados?
+Não considerar domínio por simples leitura: só o acerto posterior em questões intercaladas demonstra retenção.
+
+
+2. CRASE — O RACIOCÍNIO QUE RESOLVE QUESTÕES
+Crase é a fusão de dois sons /a/: em geral, preposição a exigida pelo termo anterior + artigo feminino a/as do termo seguinte. O acento grave marca essa fusão. Método prático: substitua a palavra feminina por equivalente masculino; se aparecer "ao", em situação paralela, normalmente haverá "à".
+Exemplo: "O agente encaminhou o processo à secretaria." Encaminhou o processo A quem? À secretaria. Troca: "ao departamento". Logo, à secretaria.
+Sem crase: "Começou a fiscalizar" (antes de verbo no infinitivo); "Entregou a um servidor" (artigo indefinido); "Dirigiu-se a Pedro" (nome masculino sem artigo); "Foi a pé" (expressão sem artigo feminino).
+Crase em horas determinadas: "A reunião ocorrerá às 15 horas." Em "das 14 às 16 horas", há paralelismo; "de 14 a 16 horas", sem artigos.
+Locuções femininas: "às vezes", "à medida que", "à noite", "à disposição". Cuidado: não é porque a palavra é feminina que sempre há crase; a regência e a presença do artigo decidem.
+Demonstrativos: "referiu-se àquela fiscalização" = a + aquela. Não confundir "aquela" sem exigência de preposição: "Aquela fiscalização foi concluída".
+Facultatividade: diante de possessivo feminino singular, em muitos contextos admite-se "a sua equipe" e "à sua equipe", conforme o emprego do artigo. Em prova, prefira casos sem ambiguidade.
+Pegadinha: "à partir de" está errado. A forma é "a partir de".
+
+
+3. REGÊNCIA VERBAL — QUEM EXIGE QUAL PREPOSIÇÃO?
+Regência é a relação entre verbo e complemento.
+"Obedecer a": o contribuinte deve obedecer às normas.
+"Assistir a", no sentido de presenciar: os servidores assistiram à sessão.
+"Preferir X a Y": prefere conciliação a autuação precipitada; evitar "prefere mais X do que Y" na norma-padrão exigida em concursos.
+"Visar a", no sentido de almejar: a medida visa à regularização.
+"Chegar a": a equipe chegou à repartição.
+"Informar algo a alguém": o fiscal informou o resultado ao contribuinte; também há construção "informar alguém de/sobre algo".
+"Implicar", no sentido de acarretar, é transitivo direto na regência tradicional de concursos: "A omissão implica consequências".
+A crase muitas vezes nasce da regência: "obedecer a" + "as regras" = "obedecer às regras".
+Pegadinha: "O fiscal assistiu a reunião" (presenciou) pede "à reunião" na norma-padrão, pois a reunião admite artigo.
+
+
+4. CONCORDÂNCIA VERBAL E NOMINAL
+Regra geral: o verbo concorda com o núcleo do sujeito: "As notas fiscais foram analisadas".
+"Haver" com sentido de existir é impessoal e fica no singular: "Havia divergências". Já "existir" tem sujeito e varia: "Existiam divergências".
+"Fazer" indicando tempo decorrido é impessoal: "Faz três meses que o sistema foi implantado".
+"Se" apassivador com verbo transitivo direto: "Analisaram-se as notas fiscais" (as notas foram analisadas). Com verbo transitivo indireto e índice de indeterminação: "Precisa-se de fiscais" (singular).
+Concordância nominal: "Seguem anexos os documentos" (anexos concorda com documentos). A expressão "em anexo" é invariável: "Seguem em anexo os documentos".
+Pegadinha: "Houveram problemas" é incorreto quando "haver" significa existir. Forma correta: "Houve problemas".
+
+
+5. PONTUAÇÃO E SENTIDO
+Não se separa sujeito e predicado por vírgula: "Os relatórios da fiscalização foram encaminhados".
+A vírgula pode isolar adjunto adverbial deslocado: "Após a análise dos documentos, o fiscal registrou o achado".
+Orações explicativas vêm entre vírgulas e acrescentam informação: "Os fiscais, que participaram do treinamento, receberam o manual" — a informação caracteriza todo o grupo mencionado.
+Orações restritivas não são isoladas: "Os fiscais que participaram do treinamento receberam o manual" — seleciona apenas os participantes.
+Antes de conjunção adversativa "mas", normalmente usa-se vírgula entre orações: "Houve divergência, mas a origem ainda não foi esclarecida".
+Cuidado com extrapolação: "pode indicar" não significa "comprova"; "alguns" não significa "todos".
+
+
+6. APLICAÇÃO INTEGRADA — TEXTO COMENTADO
+Texto: "Após a implantação do sistema, foram identificadas divergências em algumas declarações. Embora os dados tenham sido validados, a equipe decidiu conferir os documentos originais, pois a validação eletrônica não comprova, por si só, a ocorrência material de cada operação."
+"Após a implantação do sistema" é expressão adverbial deslocada, seguida de vírgula.
+"Foram identificadas divergências": concordância com sujeito paciente plural.
+"Embora": concessão.
+"Pois": explicação/causa no contexto.
+"Algumas": não autoriza generalizar para todas.
+"Por si só": afasta a conclusão automática.
+Conexão com Auditoria: dado inconsistente é indício a apurar, não prova automática de fraude.
+
+
+7. QUADRO DE MEMORIZAÇÃO RÁPIDA
+Crase: a + a = à; nunca antes de verbo; atenção a "às 15 horas".
+Regência: obedecer a; assistir a (presenciar); preferir X a Y; visar a (almejar).
+Concordância: havia problemas / existiam problemas / faz dois meses.
+Se: analisam-se notas (passiva sintética); precisa-se de servidores (sujeito indeterminado).
+Pontuação: não separar sujeito do verbo; restritiva sem vírgulas, explicativa com vírgulas.
+Interpretação: "pode" não é "necessariamente"; "alguns" não é "todos".
+SPED: sistema, não tributo. NFS-e: serviços. DANFE: auxiliar da NF-e.
+Simples: RBT12 é receita acumulada nos 12 meses anteriores ao período de apuração; ISS retido não elimina automaticamente os demais tributos.
+Auditoria: evidência adequada = relevância e confiabilidade; divergência ≠ fraude comprovada.
+
+
+8. SIMULADO CUMULATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO
+Instrução: responda em sequência (1A, 2B, ...), sem consultar o texto. Não revelar alternativas corretas antes da resposta do aluno.
+
+
+Q01 — CRASE. Assinale a frase correta segundo a norma-padrão:
+A) O agente começou à analisar os documentos.
+B) O processo foi encaminhado à secretaria competente.
+C) A fiscalização teve início à partir de segunda-feira.
+D) O relatório foi entregue à um servidor.
+
+
+Q02 — REGÊNCIA. Assinale a alternativa correta:
+A) O contribuinte deve obedecer as normas.
+B) A equipe assistiu a sessão pública.
+C) A medida visa à regularização das obrigações.
+D) O fiscal prefere mais orientar do que autuar.
+
+
+Q03 — CONCORDÂNCIA — INCORRETA. Assinale a INCORRETA:
+A) Havia divergências nas declarações.
+B) Existiam divergências nas declarações.
+C) Faz três meses que a auditoria começou.
+D) Houveram divergências nas declarações.
+
+
+Q04 — CRASE E HORAS. Assinale a forma correta:
+A) A reunião será realizada às 15 horas.
+B) A reunião será realizada à 15 horas.
+C) A reunião será realizada à partir das 15 horas.
+D) A reunião será realizada as 15 horas, sem acento.
+
+
+Q05 — PONTUAÇÃO. Assinale a alternativa em que NÃO há separação indevida entre sujeito e verbo:
+A) Os relatórios elaborados pela equipe, foram entregues.
+B) Os relatórios elaborados pela equipe foram entregues.
+C) Os relatórios, elaborados pela equipe foram, entregues.
+D) Os relatórios elaborados, pela equipe foram entregues.
+
+
+Q06 — CONCORDÂNCIA COM SE. Assinale a alternativa correta:
+A) Analisou-se as notas fiscais.
+B) Precisam-se de fiscais experientes.
+C) Analisaram-se as notas fiscais.
+D) Houveram-se registros inconsistentes.
+
+
+Q07 — SENTIDO DA VÍRGULA. Na frase "Os servidores que participaram do treinamento receberam o manual", a oração "que participaram do treinamento":
+A) é explicativa e inclui necessariamente todos os servidores.
+B) é restritiva e seleciona o grupo de servidores.
+C) é coordenada conclusiva.
+D) não possui função na delimitação do sentido.
+
+
+Q08 — REGÊNCIA — EXCETO. Todas as construções respeitam a regência tradicional da norma-padrão, EXCETO:
+A) O servidor obedeceu às determinações.
+B) A equipe chegou à repartição.
+C) O fiscal informou o resultado ao contribuinte.
+D) O agente preferiu mais a fiscalização do que a orientação.
+
+
+Q09 — CRASE. Assinale a alternativa em que o acento grave é exigido:
+A) O agente começou a verificar as notas.
+B) A medida foi comunicada a todos.
+C) O documento faz referência àquela operação.
+D) O fiscal foi a pé ao estabelecimento.
+
+
+Q10 — CONCORDÂNCIA NOMINAL. Assinale a correta:
+A) Segue anexos os relatórios.
+B) Seguem anexo os relatórios, com "anexo" adjetivo.
+C) Seguem anexos os relatórios.
+D) Segue anexas os relatórios.
+
+
+Q11 — INTERPRETAÇÃO. "Algumas notas podem apresentar inconsistências." É compatível com o enunciado:
+A) Todas as notas são necessariamente inconsistentes.
+B) Nenhuma nota é inconsistente.
+C) Existe possibilidade de inconsistências em parte das notas.
+D) A fraude já está comprovada.
+
+
+Q12 — CONECTIVOS. Em "Embora o arquivo tenha sido validado, a operação ainda exige exame", "embora" indica:
+A) conclusão.
+B) concessão.
+C) finalidade.
+D) causa exclusiva.
+
+
+Q13 — PONTUAÇÃO E SENTIDO. Compare:
+I. "Os fiscais que estavam de plantão atenderam à ocorrência."
+II. "Os fiscais, que estavam de plantão, atenderam à ocorrência."
+É correto afirmar:
+A) As duas frases necessariamente selecionam apenas parte dos fiscais.
+B) A primeira é restritiva; a segunda apresenta informação explicativa.
+C) A primeira é explicativa; a segunda é restritiva.
+D) A pontuação nunca altera o sentido.
+
+
+Q14 — REGÊNCIA E CRASE. Assinale a frase correta:
+A) O contribuinte obedeceu às exigências legais.
+B) O contribuinte obedeceu à todas as exigências.
+C) O contribuinte obedeceu à cumprir a exigência.
+D) O contribuinte obedeceu à um fiscal.
+
+
+Q15 — REVISÃO SPED. O DANFE:
+A) substitui integralmente o arquivo eletrônico da NF-e.
+B) é documento auxiliar da NF-e.
+C) é sinônimo de EFD-Contribuições.
+D) é o documento de arrecadação do Simples.
+
+
+Q16 — REVISÃO AUDITORIA. Uma divergência entre NFS-e e declaração:
+A) comprova automaticamente dolo.
+B) deve ser conciliada com cancelamentos, retificações e períodos.
+C) dispensa documentação do procedimento.
+D) elimina a necessidade de examinar a legislação.
+
+
+Q17 — REVISÃO SIMPLES. RBT12, em regra, é:
+A) receita bruta acumulada nos doze meses anteriores ao período de apuração.
+B) receita exclusivamente do mês corrente.
+C) lucro líquido de doze exercícios.
+D) imposto municipal recolhido nos últimos doze meses.
+
+
+Q18 — REVISÃO DIREITO ADMINISTRATIVO. Um agente competente utiliza a fiscalização para perseguir desafeto. Trata-se de:
+A) desvio de finalidade.
+B) simples revogação.
+C) prescrição.
+D) elisão fiscal.
+
+
+Q19 — REVISÃO LRF. Em regra, o RREO é publicado com periodicidade:
+A) quadrienal.
+B) mensal.
+C) bimestral.
+D) semestral.
+
+
+Q20 — ASSERTIVAS INTERCALADAS.
+I. "Havia documentos" respeita a concordância do verbo haver com sentido existencial.
+II. A emissão de NFS-e em um Município define sempre, isoladamente, o Município credor do ISS.
+III. Evidência adequada relaciona-se à relevância e à confiabilidade.
+Assinale:
+A) apenas I.
+B) apenas II.
+C) I e III.
+D) I, II e III.
+
+
+9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO
+Sem consultar: explique por que "havia divergências" está correto, quando "se" exige verbo plural, a diferença entre restritiva e explicativa, o teste de "ao" para crase, e por que uma divergência eletrônica não comprova fraude. Registre respostas do aluno antes de revelar gabaritos.
+Correção futura: alternativa por alternativa; apontar erro, causa provável, regra correta, distrator/pegadinha e revisão em 24h, 72h e 7 dias. Não inventar desempenho: 20 questões propostas, 0 respostas recebidas nesta execução; acertos, erros e percentual NÃO AFERIDOS. Só declarar domínio após acerto posterior em questões misturadas.
+10. PRÓXIMA CONTINUIDADE
+AULA 106 — Conhecimentos Específicos: Processo Judicial Tributário e Lei 6.830/1980 (execução fiscal, CDA, citação, garantia, embargos, prescrição e distinção entre procedimento administrativo e judicial). Não permanecer em Português por aulas consecutivas; prosseguir primeira volta acelerada.
+Referência de escopo: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx, biblioteca do usuário; edital de abertura 01/2026 publicado no portal oficial da IAN em 08/09/2026, cargo AGENTE FISCAL. Questões desta aula: autoria própria; sem alegação de gabarito extraído do arquivo de 911 questões.
+========== FIM AULA 105 ==========

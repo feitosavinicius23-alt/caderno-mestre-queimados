@@ -1,0 +1,714 @@
+{
+  "id": "direito-tributario-aula-105",
+  "numero": 105,
+  "titulo": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+  "slug": "agente-fiscal-de-queimados-rj-14-10-2026-19h",
+  "disciplina": "Direito Tributário",
+  "assunto": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h",
+  "ordem": 105,
+  "data": "2026-10-15",
+  "tempoEstimadoMin": 6,
+  "resumo": "",
+  "conteudo": [
+    {
+      "id": "direito-tributario-aula-105-b1",
+      "tipo": "teoria",
+      "titulo": "LÍNGUA PORTUGUESA: CRASE, REGÊNCIA, CONCORDÂNCIA E PONTUAÇÃO + REVISÃO CUMULATIVA",
+      "texto": "Duração sugerida: 45 a 55 minutos. Cargo exclusivo: AGENTE FISCAL. Banca: IAN.\nContinuidade: Aula 104 — SPED, NF-e, NFS-e e EFD. Esta é uma aula efetiva de Português, com questões cumulativas dos blocos específicos estudados nas Aulas 101 a 104. Conteúdos de Português confirmados no Guia de Conteúdo Agente Fiscal Queimados 2026: sintaxe, concordância, regência, crase, pontuação e interpretação. As questões são AUTORAIS, inspiradas em formatos usuais de múltipla escolha, CORRETA, INCORRETA, EXCETO e assertivas; não são transcrições de provas oficiais nem possuem gabarito publicado no arquivo de 911 questões."
+    },
+    {
+      "id": "direito-tributario-aula-105-b2",
+      "tipo": "revisao",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "texto": "Responda mentalmente antes de ler:\nR1. SPED é imposto ou sistema de escrituração?\nR2. Uma divergência entre NFS-e e PGDAS-D comprova fraude automaticamente?\nR3. O que significa RBT12?\nR4. O DANFE substitui juridicamente o arquivo eletrônico da NF-e?\nR5. No art. 198 do CTN, qual é o dever de proteção de dados?\nNão considerar domínio por simples leitura: só o acerto posterior em questões intercaladas demonstra retenção."
+    },
+    {
+      "id": "direito-tributario-aula-105-b3",
+      "tipo": "teoria",
+      "titulo": "2. CRASE — O RACIOCÍNIO QUE RESOLVE QUESTÕES",
+      "texto": "Crase é a fusão de dois sons /a/: em geral, preposição a exigida pelo termo anterior + artigo feminino a/as do termo seguinte. O acento grave marca essa fusão. Método prático: substitua a palavra feminina por equivalente masculino; se aparecer \"ao\", em situação paralela, normalmente haverá \"à\".\nExemplo: \"O agente encaminhou o processo à secretaria.\" Encaminhou o processo A quem? À secretaria. Troca: \"ao departamento\". Logo, à secretaria.\nSem crase: \"Começou a fiscalizar\" (antes de verbo no infinitivo); \"Entregou a um servidor\" (artigo indefinido); \"Dirigiu-se a Pedro\" (nome masculino sem artigo); \"Foi a pé\" (expressão sem artigo feminino).\nCrase em horas determinadas: \"A reunião ocorrerá às 15 horas.\" Em \"das 14 às 16 horas\", há paralelismo; \"de 14 a 16 horas\", sem artigos.\nLocuções femininas: \"às vezes\", \"à medida que\", \"à noite\", \"à disposição\". Cuidado: não é porque a palavra é feminina que sempre há crase; a regência e a presença do artigo decidem.\nDemonstrativos: \"referiu-se àquela fiscalização\" = a + aquela. Não confundir \"aquela\" sem exigência de preposição: \"Aquela fiscalização foi concluída\".\nFacultatividade: diante de possessivo feminino singular, em muitos contextos admite-se \"a sua equipe\" e \"à sua equipe\", conforme o emprego do artigo. Em prova, prefira casos sem ambiguidade."
+    },
+    {
+      "id": "direito-tributario-aula-105-b4",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: \"à partir de\" está errado. A forma é \"a partir de\".",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-105-b5",
+      "tipo": "teoria",
+      "titulo": "3. REGÊNCIA VERBAL — QUEM EXIGE QUAL PREPOSIÇÃO?",
+      "texto": "Regência é a relação entre verbo e complemento.\n\"Obedecer a\": o contribuinte deve obedecer às normas.\n\"Assistir a\", no sentido de presenciar: os servidores assistiram à sessão.\n\"Preferir X a Y\": prefere conciliação a autuação precipitada; evitar \"prefere mais X do que Y\" na norma-padrão exigida em concursos.\n\"Visar a\", no sentido de almejar: a medida visa à regularização.\n\"Chegar a\": a equipe chegou à repartição.\n\"Informar algo a alguém\": o fiscal informou o resultado ao contribuinte; também há construção \"informar alguém de/sobre algo\".\n\"Implicar\", no sentido de acarretar, é transitivo direto na regência tradicional de concursos: \"A omissão implica consequências\".\nA crase muitas vezes nasce da regência: \"obedecer a\" + \"as regras\" = \"obedecer às regras\"."
+    },
+    {
+      "id": "direito-tributario-aula-105-b6",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: \"O fiscal assistiu a reunião\" (presenciou) pede \"à reunião\" na norma-padrão, pois a reunião admite artigo.",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-105-b7",
+      "tipo": "teoria",
+      "titulo": "4. CONCORDÂNCIA VERBAL E NOMINAL",
+      "texto": "Regra geral: o verbo concorda com o núcleo do sujeito: \"As notas fiscais foram analisadas\".\n\"Haver\" com sentido de existir é impessoal e fica no singular: \"Havia divergências\". Já \"existir\" tem sujeito e varia: \"Existiam divergências\".\n\"Fazer\" indicando tempo decorrido é impessoal: \"Faz três meses que o sistema foi implantado\".\n\"Se\" apassivador com verbo transitivo direto: \"Analisaram-se as notas fiscais\" (as notas foram analisadas). Com verbo transitivo indireto e índice de indeterminação: \"Precisa-se de fiscais\" (singular).\nConcordância nominal: \"Seguem anexos os documentos\" (anexos concorda com documentos). A expressão \"em anexo\" é invariável: \"Seguem em anexo os documentos\"."
+    },
+    {
+      "id": "direito-tributario-aula-105-b8",
+      "tipo": "pegadinha",
+      "titulo": "Pegadinha: \"Houveram problemas\" é incorreto quando \"haver\" significa existir. Forma correta: \"Houve problemas\".",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-105-b9",
+      "tipo": "teoria",
+      "titulo": "5. PONTUAÇÃO E SENTIDO",
+      "texto": "Não se separa sujeito e predicado por vírgula: \"Os relatórios da fiscalização foram encaminhados\".\nA vírgula pode isolar adjunto adverbial deslocado: \"Após a análise dos documentos, o fiscal registrou o achado\".\nOrações explicativas vêm entre vírgulas e acrescentam informação: \"Os fiscais, que participaram do treinamento, receberam o manual\" — a informação caracteriza todo o grupo mencionado.\nOrações restritivas não são isoladas: \"Os fiscais que participaram do treinamento receberam o manual\" — seleciona apenas os participantes.\nAntes de conjunção adversativa \"mas\", normalmente usa-se vírgula entre orações: \"Houve divergência, mas a origem ainda não foi esclarecida\"."
+    },
+    {
+      "id": "direito-tributario-aula-105-b10",
+      "tipo": "atencao",
+      "titulo": "Cuidado com extrapolação: \"pode indicar\" não significa \"comprova\"; \"alguns\" não significa \"todos\".",
+      "texto": ""
+    },
+    {
+      "id": "direito-tributario-aula-105-b11",
+      "tipo": "teoria",
+      "titulo": "6. APLICAÇÃO INTEGRADA — TEXTO COMENTADO",
+      "texto": "Texto: \"Após a implantação do sistema, foram identificadas divergências em algumas declarações. Embora os dados tenham sido validados, a equipe decidiu conferir os documentos originais, pois a validação eletrônica não comprova, por si só, a ocorrência material de cada operação.\"\n\"Após a implantação do sistema\" é expressão adverbial deslocada, seguida de vírgula.\n\"Foram identificadas divergências\": concordância com sujeito paciente plural.\n\"Embora\": concessão.\n\"Pois\": explicação/causa no contexto.\n\"Algumas\": não autoriza generalizar para todas.\n\"Por si só\": afasta a conclusão automática.\nConexão com Auditoria: dado inconsistente é indício a apurar, não prova automática de fraude."
+    },
+    {
+      "id": "direito-tributario-aula-105-b12",
+      "tipo": "teoria",
+      "titulo": "7. QUADRO DE MEMORIZAÇÃO RÁPIDA",
+      "texto": "Crase: a + a = à; nunca antes de verbo; atenção a \"às 15 horas\".\nRegência: obedecer a; assistir a (presenciar); preferir X a Y; visar a (almejar).\nConcordância: havia problemas / existiam problemas / faz dois meses.\nSe: analisam-se notas (passiva sintética); precisa-se de servidores (sujeito indeterminado).\nPontuação: não separar sujeito do verbo; restritiva sem vírgulas, explicativa com vírgulas.\nInterpretação: \"pode\" não é \"necessariamente\"; \"alguns\" não é \"todos\".\nSPED: sistema, não tributo. NFS-e: serviços. DANFE: auxiliar da NF-e.\nSimples: RBT12 é receita acumulada nos 12 meses anteriores ao período de apuração; ISS retido não elimina automaticamente os demais tributos.\nAuditoria: evidência adequada = relevância e confiabilidade; divergência ≠ fraude comprovada."
+    },
+    {
+      "id": "direito-tributario-aula-105-b13",
+      "tipo": "questao",
+      "titulo": "8. SIMULADO CUMULATIVO — 20 QUESTÕES AUTORAIS, SEM GABARITO",
+      "texto": "Instrução: responda em sequência (1A, 2B, ...), sem consultar o texto. Não revelar alternativas corretas antes da resposta do aluno.",
+      "questionIds": [
+        "direito-tributario-aula-105-q-001",
+        "direito-tributario-aula-105-q-002",
+        "direito-tributario-aula-105-q-003",
+        "direito-tributario-aula-105-q-004",
+        "direito-tributario-aula-105-q-005",
+        "direito-tributario-aula-105-q-006",
+        "direito-tributario-aula-105-q-007",
+        "direito-tributario-aula-105-q-008",
+        "direito-tributario-aula-105-q-009",
+        "direito-tributario-aula-105-q-010",
+        "direito-tributario-aula-105-q-011",
+        "direito-tributario-aula-105-q-012",
+        "direito-tributario-aula-105-q-013",
+        "direito-tributario-aula-105-q-014"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-105-b14",
+      "tipo": "questao",
+      "titulo": "Q15 — REVISÃO SPED. O DANFE:",
+      "texto": "",
+      "questionIds": [
+        "direito-tributario-aula-105-q-015",
+        "direito-tributario-aula-105-q-016",
+        "direito-tributario-aula-105-q-017",
+        "direito-tributario-aula-105-q-018",
+        "direito-tributario-aula-105-q-019"
+      ]
+    },
+    {
+      "id": "direito-tributario-aula-105-b15",
+      "tipo": "revisao",
+      "titulo": "9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO",
+      "texto": "Sem consultar: explique por que \"havia divergências\" está correto, quando \"se\" exige verbo plural, a diferença entre restritiva e explicativa, o teste de \"ao\" para crase, e por que uma divergência eletrônica não comprova fraude. Registre respostas do aluno antes de revelar gabaritos.\nCorreção futura: alternativa por alternativa; apontar erro, causa provável, regra correta, distrator/pegadinha e revisão em 24h, 72h e 7 dias. Não inventar desempenho: 20 questões propostas, 0 respostas recebidas nesta execução; acertos, erros e percentual NÃO AFERIDOS. Só declarar domínio após acerto posterior em questões misturadas."
+    },
+    {
+      "id": "direito-tributario-aula-105-b16",
+      "tipo": "teoria",
+      "titulo": "10. PRÓXIMA CONTINUIDADE",
+      "texto": "AULA 106 — Conhecimentos Específicos: Processo Judicial Tributário e Lei 6.830/1980 (execução fiscal, CDA, citação, garantia, embargos, prescrição e distinção entre procedimento administrativo e judicial). Não permanecer em Português por aulas consecutivas; prosseguir primeira volta acelerada.\nReferência de escopo: Guia_Conteudo_Agente_Fiscal_Queimados_2026.docx, biblioteca do usuário; edital de abertura 01/2026 publicado no portal oficial da IAN em 08/09/2026, cargo AGENTE FISCAL. Questões desta aula: autoria própria; sem alegação de gabarito extraído do arquivo de 911 questões."
+    },
+    {
+      "id": "direito-tributario-aula-105-b17",
+      "tipo": "teoria",
+      "titulo": "========== FIM AULA 105 ==========",
+      "texto": ""
+    }
+  ],
+  "questoes": [
+    {
+      "id": "direito-tributario-aula-105-q-001",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 1,
+      "question": "Q01 — CRASE. Assinale a frase correta segundo a norma-padrão:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O agente começou à analisar os documentos."
+        },
+        {
+          "id": "B",
+          "text": "O processo foi encaminhado à secretaria competente."
+        },
+        {
+          "id": "C",
+          "text": "A fiscalização teve início à partir de segunda-feira."
+        },
+        {
+          "id": "D",
+          "text": "O relatório foi entregue à um servidor. Q02 — REGÊNCIA. Assinale a alternativa correta:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-002",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 2,
+      "question": "Q02 — REGÊNCIA. Assinale a alternativa correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O contribuinte deve obedecer as normas."
+        },
+        {
+          "id": "B",
+          "text": "A equipe assistiu a sessão pública."
+        },
+        {
+          "id": "C",
+          "text": "A medida visa à regularização das obrigações."
+        },
+        {
+          "id": "D",
+          "text": "O fiscal prefere mais orientar do que autuar. Q03 — CONCORDÂNCIA — INCORRETA. Assinale a INCORRETA:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-003",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 3,
+      "question": "Q03 — CONCORDÂNCIA — INCORRETA. Assinale a INCORRETA:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Havia divergências nas declarações."
+        },
+        {
+          "id": "B",
+          "text": "Existiam divergências nas declarações."
+        },
+        {
+          "id": "C",
+          "text": "Faz três meses que a auditoria começou."
+        },
+        {
+          "id": "D",
+          "text": "Houveram divergências nas declarações. Q04 — CRASE E HORAS. Assinale a forma correta:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-004",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 4,
+      "question": "Q04 — CRASE E HORAS. Assinale a forma correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A reunião será realizada às 15 horas."
+        },
+        {
+          "id": "B",
+          "text": "A reunião será realizada à 15 horas."
+        },
+        {
+          "id": "C",
+          "text": "A reunião será realizada à partir das 15 horas."
+        },
+        {
+          "id": "D",
+          "text": "A reunião será realizada as 15 horas, sem acento. Q05 — PONTUAÇÃO. Assinale a alternativa em que NÃO há separação indevida entre sujeito e verbo:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-005",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 5,
+      "question": "Q05 — PONTUAÇÃO. Assinale a alternativa em que NÃO há separação indevida entre sujeito e verbo:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Os relatórios elaborados pela equipe, foram entregues."
+        },
+        {
+          "id": "B",
+          "text": "Os relatórios elaborados pela equipe foram entregues."
+        },
+        {
+          "id": "C",
+          "text": "Os relatórios, elaborados pela equipe foram, entregues."
+        },
+        {
+          "id": "D",
+          "text": "Os relatórios elaborados, pela equipe foram entregues. Q06 — CONCORDÂNCIA COM SE. Assinale a alternativa correta:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-006",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 6,
+      "question": "Q06 — CONCORDÂNCIA COM SE. Assinale a alternativa correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Analisou-se as notas fiscais."
+        },
+        {
+          "id": "B",
+          "text": "Precisam-se de fiscais experientes."
+        },
+        {
+          "id": "C",
+          "text": "Analisaram-se as notas fiscais."
+        },
+        {
+          "id": "D",
+          "text": "Houveram-se registros inconsistentes. Q07 — SENTIDO DA VÍRGULA. Na frase \"Os servidores que participaram do treinamento receberam o manual\", a oração \"que participaram do treinamento\":"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-007",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 7,
+      "question": "Q07 — SENTIDO DA VÍRGULA. Na frase \"Os servidores que participaram do treinamento receberam o manual\", a oração \"que participaram do treinamento\":",
+      "options": [
+        {
+          "id": "A",
+          "text": "é explicativa e inclui necessariamente todos os servidores."
+        },
+        {
+          "id": "B",
+          "text": "é restritiva e seleciona o grupo de servidores."
+        },
+        {
+          "id": "C",
+          "text": "é coordenada conclusiva."
+        },
+        {
+          "id": "D",
+          "text": "não possui função na delimitação do sentido. Q08 — REGÊNCIA — EXCETO. Todas as construções respeitam a regência tradicional da norma-padrão, EXCETO:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-008",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 8,
+      "question": "Q08 — REGÊNCIA — EXCETO. Todas as construções respeitam a regência tradicional da norma-padrão, EXCETO:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O servidor obedeceu às determinações."
+        },
+        {
+          "id": "B",
+          "text": "A equipe chegou à repartição."
+        },
+        {
+          "id": "C",
+          "text": "O fiscal informou o resultado ao contribuinte."
+        },
+        {
+          "id": "D",
+          "text": "O agente preferiu mais a fiscalização do que a orientação. Q09 — CRASE. Assinale a alternativa em que o acento grave é exigido:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-009",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 9,
+      "question": "Q09 — CRASE. Assinale a alternativa em que o acento grave é exigido:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O agente começou a verificar as notas."
+        },
+        {
+          "id": "B",
+          "text": "A medida foi comunicada a todos."
+        },
+        {
+          "id": "C",
+          "text": "O documento faz referência àquela operação."
+        },
+        {
+          "id": "D",
+          "text": "O fiscal foi a pé ao estabelecimento. Q10 — CONCORDÂNCIA NOMINAL. Assinale a correta:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-010",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 10,
+      "question": "Q10 — CONCORDÂNCIA NOMINAL. Assinale a correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Segue anexos os relatórios."
+        },
+        {
+          "id": "B",
+          "text": "Seguem anexo os relatórios, com \"anexo\" adjetivo."
+        },
+        {
+          "id": "C",
+          "text": "Seguem anexos os relatórios."
+        },
+        {
+          "id": "D",
+          "text": "Segue anexas os relatórios. Q11 — INTERPRETAÇÃO. \"Algumas notas podem apresentar inconsistências.\" É compatível com o enunciado:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-011",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 11,
+      "question": "Q11 — INTERPRETAÇÃO. \"Algumas notas podem apresentar inconsistências.\" É compatível com o enunciado:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Todas as notas são necessariamente inconsistentes."
+        },
+        {
+          "id": "B",
+          "text": "Nenhuma nota é inconsistente."
+        },
+        {
+          "id": "C",
+          "text": "Existe possibilidade de inconsistências em parte das notas."
+        },
+        {
+          "id": "D",
+          "text": "A fraude já está comprovada. Q12 — CONECTIVOS. Em \"Embora o arquivo tenha sido validado, a operação ainda exige exame\", \"embora\" indica:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-012",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 12,
+      "question": "Q12 — CONECTIVOS. Em \"Embora o arquivo tenha sido validado, a operação ainda exige exame\", \"embora\" indica:",
+      "options": [
+        {
+          "id": "A",
+          "text": "conclusão."
+        },
+        {
+          "id": "B",
+          "text": "concessão."
+        },
+        {
+          "id": "C",
+          "text": "finalidade."
+        },
+        {
+          "id": "D",
+          "text": "causa exclusiva. Q13 — PONTUAÇÃO E SENTIDO. Compare: I. \"Os fiscais que estavam de plantão atenderam à ocorrência.\" II. \"Os fiscais, que estavam de plantão, atenderam à ocorrência.\" É correto afirmar:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-013",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 13,
+      "question": "É correto afirmar:",
+      "options": [
+        {
+          "id": "A",
+          "text": "As duas frases necessariamente selecionam apenas parte dos fiscais."
+        },
+        {
+          "id": "B",
+          "text": "A primeira é restritiva; a segunda apresenta informação explicativa."
+        },
+        {
+          "id": "C",
+          "text": "A primeira é explicativa; a segunda é restritiva."
+        },
+        {
+          "id": "D",
+          "text": "A pontuação nunca altera o sentido. Q14 — REGÊNCIA E CRASE. Assinale a frase correta:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-014",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 14,
+      "question": "Q14 — REGÊNCIA E CRASE. Assinale a frase correta:",
+      "options": [
+        {
+          "id": "A",
+          "text": "O contribuinte obedeceu às exigências legais."
+        },
+        {
+          "id": "B",
+          "text": "O contribuinte obedeceu à todas as exigências."
+        },
+        {
+          "id": "C",
+          "text": "O contribuinte obedeceu à cumprir a exigência."
+        },
+        {
+          "id": "D",
+          "text": "O contribuinte obedeceu à um fiscal."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-015",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 1,
+      "question": "Q16 — REVISÃO AUDITORIA. Uma divergência entre NFS-e e declaração:",
+      "options": [
+        {
+          "id": "A",
+          "text": "comprova automaticamente dolo."
+        },
+        {
+          "id": "B",
+          "text": "deve ser conciliada com cancelamentos, retificações e períodos."
+        },
+        {
+          "id": "C",
+          "text": "dispensa documentação do procedimento."
+        },
+        {
+          "id": "D",
+          "text": "elimina a necessidade de examinar a legislação. Q17 — REVISÃO SIMPLES. RBT12, em regra, é:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-016",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 2,
+      "question": "Q17 — REVISÃO SIMPLES. RBT12, em regra, é:",
+      "options": [
+        {
+          "id": "A",
+          "text": "receita bruta acumulada nos doze meses anteriores ao período de apuração."
+        },
+        {
+          "id": "B",
+          "text": "receita exclusivamente do mês corrente."
+        },
+        {
+          "id": "C",
+          "text": "lucro líquido de doze exercícios."
+        },
+        {
+          "id": "D",
+          "text": "imposto municipal recolhido nos últimos doze meses. Q18 — REVISÃO DIREITO ADMINISTRATIVO. Um agente competente utiliza a fiscalização para perseguir desafeto. Trata-se de:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-017",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 3,
+      "question": "Q18 — REVISÃO DIREITO ADMINISTRATIVO. Um agente competente utiliza a fiscalização para perseguir desafeto. Trata-se de:",
+      "options": [
+        {
+          "id": "A",
+          "text": "desvio de finalidade."
+        },
+        {
+          "id": "B",
+          "text": "simples revogação."
+        },
+        {
+          "id": "C",
+          "text": "prescrição."
+        },
+        {
+          "id": "D",
+          "text": "elisão fiscal. Q19 — REVISÃO LRF. Em regra, o RREO é publicado com periodicidade:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-018",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 4,
+      "question": "Q19 — REVISÃO LRF. Em regra, o RREO é publicado com periodicidade:",
+      "options": [
+        {
+          "id": "A",
+          "text": "quadrienal."
+        },
+        {
+          "id": "B",
+          "text": "mensal."
+        },
+        {
+          "id": "C",
+          "text": "bimestral."
+        },
+        {
+          "id": "D",
+          "text": "semestral. Q20 — ASSERTIVAS INTERCALADAS. I. \"Havia documentos\" respeita a concordância do verbo haver com sentido existencial. II. A emissão de NFS-e em um Município define sempre, isoladamente, o Município credor do ISS. III. Evidência adequada relaciona-se à relevância e à confiabilidade. Assinale:"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    },
+    {
+      "id": "direito-tributario-aula-105-q-019",
+      "lessonId": "direito-tributario-aula-105",
+      "numero": 5,
+      "question": "Assinale:",
+      "options": [
+        {
+          "id": "A",
+          "text": "apenas I."
+        },
+        {
+          "id": "B",
+          "text": "apenas II."
+        },
+        {
+          "id": "C",
+          "text": "I e III."
+        },
+        {
+          "id": "D",
+          "text": "I, II e III."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "gabaritoOculto": true,
+      "subject": "Direito Tributário",
+      "topic": "AGENTE FISCAL DE QUEIMADOS/RJ — 14/10/2026, 19h"
+    }
+  ],
+  "gabaritos": [],
+  "revisao": [
+    {
+      "id": "direito-tributario-aula-105-b2",
+      "titulo": "1. RECUPERAÇÃO ATIVA — SEM CONSULTA",
+      "texto": "Responda mentalmente antes de ler:\nR1. SPED é imposto ou sistema de escrituração?\nR2. Uma divergência entre NFS-e e PGDAS-D comprova fraude automaticamente?\nR3. O que significa RBT12?\nR4. O DANFE substitui juridicamente o arquivo eletrônico da NF-e?\nR5. No art. 198 do CTN, qual é o dever de proteção de dados?\nNão considerar domínio por simples leitura: só o acerto posterior em questões intercaladas demonstra retenção."
+    },
+    {
+      "id": "direito-tributario-aula-105-b15",
+      "titulo": "9. RECUPERAÇÃO FINAL E CRITÉRIO DE DOMÍNIO",
+      "texto": "Sem consultar: explique por que \"havia divergências\" está correto, quando \"se\" exige verbo plural, a diferença entre restritiva e explicativa, o teste de \"ao\" para crase, e por que uma divergência eletrônica não comprova fraude. Registre respostas do aluno antes de revelar gabaritos.\nCorreção futura: alternativa por alternativa; apontar erro, causa provável, regra correta, distrator/pegadinha e revisão em 24h, 72h e 7 dias. Não inventar desempenho: 20 questões propostas, 0 respostas recebidas nesta execução; acertos, erros e percentual NÃO AFERIDOS. Só declarar domínio após acerto posterior em questões misturadas."
+    }
+  ],
+  "mapasMentais": [],
+  "leiSeca": [],
+  "missao": null,
+  "anotacoes": [],
+  "tags": [],
+  "fonte": "Caderno Mestre — Agente Fiscal Queimados 2026",
+  "fonteUrl": "https://docs.google.com/document/d/17hPAJuQovOshYQGlzFF9-dzUl8kcbqvSD82L-KJPDRY/edit",
+  "ultimaAtualizacao": "2026-10-15",
+  "contentHash": "25451fa5b0acaba0"
+}
